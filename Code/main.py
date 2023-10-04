@@ -5,7 +5,7 @@ teams = [
     "UCL Winner", "UEL Winner", "High Coef Team 1", "High Coef Team 2", "ENG1", "ENG2", "ENG3", "ENG4",
     "ESP1", "ESP2", "ESP3", "ESP4", "GER1", "GER2", "GER3", "GER4", "ITA1", "ITA2", "ITA3", "ITA4",
     "FRA1", "FRA2", "FRA3", "NED1", "NED2", "POR1", "BEL1", "SCO1", "AUT1", "CP1", "CP2", "CP3", "CP4", "CP5",
-    "LP1", "LP2"
+    "LP3", "LP2"
 ]
 
 # Mock UEFA coefficients (for simplicity, assigned in order)
