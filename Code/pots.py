@@ -1,6 +1,6 @@
 import csv
 
-file_path = 'group_teams.csv'
+file_path = 'Teams/group_teams.csv'
 teams = []
 
 with open(file_path, mode='r', encoding='utf-8') as file:
@@ -22,7 +22,7 @@ for i, team in enumerate(other_teams):
 
 
 # writing teams to new csv
-output_file_path = 'seeded_teams.csv'
+output_file_path = 'Teams/seeded_teams.csv'
 
 with open(output_file_path, mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)

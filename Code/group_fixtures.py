@@ -4,7 +4,7 @@ import random
 teams = []
 
 # take the already seeded teams
-with open('seeded_teams.csv', mode='r', newline='', encoding='utf-8') as file:
+with open('Teams/seeded_teams.csv', mode='r', newline='') as file:
     reader = csv.DictReader(file)
     for row in reader:
         teams.append(row)
