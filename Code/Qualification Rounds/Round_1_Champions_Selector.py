@@ -1,8 +1,8 @@
 import csv
 import random
 
-# Read teams from potential_teams_round_1.csv
-with open('../Teams/Qualification Rounds/potential_teams_round_1.csv', mode='r', encoding='utf-8') as file:
+# Read teams from champions_path_round_1_potential_teams.csv
+with open('../Teams/Qualification Rounds/champions_path_round_1_potential_teams.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     teams = [row for row in reader]
 
