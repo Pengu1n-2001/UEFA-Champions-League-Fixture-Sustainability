@@ -1,6 +1,6 @@
 import csv
 
-file_path = '../Teams/League Stage/league_stage_teams.csv'
+file_path = '../../Teams/League Stage/league_stage_teams.csv'
 teams = []
 
 with open(file_path, mode='r', encoding='utf-8') as file:
@@ -22,7 +22,7 @@ for i, team in enumerate(other_teams):
 
 
 # writing teams to new csv
-output_file_path = '../Teams/League Stage/league_stage_teams_seeded_into_pots.csv'
+output_file_path = '../../Teams/League Stage/league_stage_teams_seeded_into_pots.csv'
 
 with open(output_file_path, mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)

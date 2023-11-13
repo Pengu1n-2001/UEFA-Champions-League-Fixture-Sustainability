@@ -1,0 +1,35 @@
+team_name,association,uefa_coefficient,city,status
+Paris Saint-Germain,FRA,101.0,Paris,UEFA Champions League Winner
+Rangers,SCO,52.0,Glasgow,UEFA Europa League Winner
+Tottenham Hotspur,ENG,54.0,London,
+Liverpool,ENG,100.0,Liverpool,
+Arsenal,ENG,58.0,London,
+Aston Villa,ENG,18.635,Birmingham,
+Villarreal,ESP,68.0,Villarreal,
+Real Sociedad,ESP,42.0,San Sebastián,
+Atlético de Madrid,ESP,73.0,Madrid,
+Real Madrid,ESP,112.0,Madrid,
+Eintracht Frankfurt,GER,57.0,Frankfurt,
+Bayer 04 Leverkusen,GER,67.0,Leverkusen,
+Bayern,GER,126.0,Munich,
+RB Leipzig,GER,87.0,Leipzig,
+Fiorentina,ITA,24.0,Florence,
+Juventus,ITA,80.0,Turin,
+Napoli,ITA,71.0,Naples,
+Inter,ITA,90.0,Milan,
+Lille,FRA,35.0,Lille,
+Marseille,FRA,34.0,Marseille,
+AZ Alkmaar,NED,48.0,Alkmaar,
+Ajax,NED,64.0,Amsterdam,
+Braga,POR,48.0,Braga,
+Antwerp,BEL,21.0,Antwerp,
+Celtic,SCO,30.0,Glasgow,
+LASK,AUT,34.0,Linz,
+Manchester United,ENG,91.0,Manchester,
+Barcelona,ESP,78.0,Barcelona,
+Crvena zvezda,SRB,40.0,Belgrade,
+Bodø/Glimt,NOR,24.5,Bodø
+Young Boys,SUI,32.5,Bern
+Flora Tallinn,EST,11.0,Tallinn
+HJK,FIN,10.0,Helsinki
+Qarabağ,AZE,26.0,Aghdam
