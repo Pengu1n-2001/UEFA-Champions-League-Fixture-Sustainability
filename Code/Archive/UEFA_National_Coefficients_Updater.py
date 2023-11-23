@@ -1,6 +1,5 @@
 import requests
 import pandas as pd
-import json
 url = 'https://comp.uefa.com/v2/coefficients?coefficientType=MEN_ASSOCIATION&coefficientRange=OVERALL&seasonYear=2024&page=1&pagesize=500&language=EN'
 response = requests.get(url)
 data = response.json()

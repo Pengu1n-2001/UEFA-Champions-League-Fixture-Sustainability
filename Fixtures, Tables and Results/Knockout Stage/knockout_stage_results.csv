@@ -1,0 +1,24 @@
+match,home_team,home_team_coefficient,home_team_city,home_team_association,away_team,away_team_coefficient,away_team_city,away_team_association,result
+KO-PO 1,RB Leipzig,87.0,Leipzig,GER,Young Boys,32.5,Bern,SUI,RB Leipzig
+KO-PO 2,Chelsea,96.0,London,ENG,Roma,86.0,Rome,ITA,Roma
+KO-PO 3,Juventus,80.0,Turin,ITA,Club Brugge,48.0,Bruges,BEL,Juventus
+KO-PO 4,Arsenal,58.0,London,ENG,Union Berlin,21.0,Berlin,GER,Arsenal
+KO-PO 5,Feyenoord,57.0,Rotterdam,NED,Borussia Dortmund,75.0,Dortmund,GER,Borussia Dortmund
+KO-PO 6,Celtic,30.0,Glasgow,SCO,Bayer 04 Leverkusen,67.0,Leverkusen,GER,Bayer 04 Leverkusen
+KO-PO 7,Salzburg,49.0,Salzburg,AUT,Ajax,64.0,Amsterdam,NED,Ajax
+KO-PO 8,Rangers,52.0,Glasgow,SCO,Manchester United,91.0,Manchester,ENG,Manchester United
+R16-M1,Shakhtar Donetsk,59.0,Hamburg,UKR,RB Leipzig,87.0,Leipzig,GER,Shakhtar Donetsk
+R16-M2,Real Betis,31.0,Seville,ESP,Roma,86.0,Rome,ITA,Roma
+R16-M3,Barcelona,78.0,Barcelona,ESP,Juventus,80.0,Turin,ITA,Juventus
+R16-M4,Napoli,71.0,Naples,ITA,Arsenal,58.0,London,ENG,Napoli
+R16-M5,Real Madrid,112.0,Madrid,ESP,Borussia Dortmund,75.0,Dortmund,GER,Real Madrid
+R16-M6,Manchester City,130.0,Manchester,ENG,Bayer 04 Leverkusen,67.0,Leverkusen,GER,Manchester City
+R16-M7,Atlético de Madrid,73.0,Madrid,ESP,Ajax,64.0,Amsterdam,NED,Ajax
+R16-M8,Liverpool,100.0,Liverpool,ENG,Manchester United,91.0,Manchester,ENG,Manchester United
+QF-1,Shakhtar Donetsk,59.0,Hamburg,UKR,Roma,86.0,Rome,ITA,Shakhtar Donetsk
+QF-2,Juventus,80.0,Turin,ITA,Napoli,71.0,Naples,ITA,Juventus
+QF-3,Real Madrid,112.0,Madrid,ESP,Manchester City,130.0,Manchester,ENG,Manchester City
+QF-4,Ajax,64.0,Amsterdam,NED,Manchester United,91.0,Manchester,ENG,Ajax
+SF-1,Shakhtar Donetsk,59.0,Hamburg,UKR,Juventus,80.0,Turin,ITA,Juventus
+SF-2,Manchester City,130.0,Manchester,ENG,Ajax,64.0,Amsterdam,NED,Manchester City
+Final,Juventus,80.0,Turin,ITA,Manchester City,130.0,Manchester,ENG,Juventus

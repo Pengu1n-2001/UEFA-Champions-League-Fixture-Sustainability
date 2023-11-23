@@ -1,0 +1,37 @@
+rank,team_name,association,uefa_coefficient,city,points,wins,draws,losses
+1,Liverpool,ENG,100.0,Liverpool,22,7,1,0
+2,Shakhtar Donetsk,UKR,59.0,Hamburg,20,6,2,0
+3,Real Madrid,ESP,112.0,Madrid,19,6,1,1
+4,Napoli,ITA,71.0,Naples,19,6,1,1
+5,Manchester City,ENG,130.0,Manchester,18,6,0,2
+6,Barcelona,ESP,78.0,Barcelona,17,5,2,1
+7,Real Betis,ESP,31.0,Seville,17,5,2,1
+8,Atlético de Madrid,ESP,73.0,Madrid,16,5,1,2
+9,Salzburg,AUT,49.0,Salzburg,15,5,0,3
+10,Chelsea,ENG,96.0,London,14,4,2,2
+11,Celtic,SCO,30.0,Glasgow,14,4,2,2
+12,Juventus,ITA,80.0,Turin,13,4,1,3
+13,Arsenal,ENG,58.0,London,13,4,1,3
+14,Feyenoord,NED,57.0,Rotterdam,13,4,1,3
+15,RB Leipzig,GER,87.0,Leipzig,12,3,3,2
+16,Rangers,SCO,52.0,Glasgow,12,4,0,4
+17,Manchester United,ENG,91.0,Manchester,11,3,2,3
+18,Young Boys,SUI,32.5,Bern,11,2,5,1
+19,Union Berlin,GER,21.0,Berlin,11,3,2,3
+20,Borussia Dortmund,GER,75.0,Dortmund,10,3,1,4
+21,Bayer 04 Leverkusen,GER,67.0,Leverkusen,10,3,1,4
+22,Club Brugge,BEL,48.0,Bruges,10,3,1,4
+23,Roma,ITA,86.0,Rome,9,3,0,5
+24,Ajax,NED,64.0,Amsterdam,9,2,3,3
+25,Sevilla,ESP,84.0,Seville,8,2,2,4
+26,West Ham,ENG,54.0,London,8,2,2,4
+27,Maccabi Haifa,ISR,14.0,Haifa,8,2,2,4
+28,Real Sociedad,ESP,42.0,San Sebastián,7,2,1,5
+29,Rennes,FRA,37.0,Rennes,7,1,4,3
+30,AC Milan,ITA,49.0,Milan,6,1,3,4
+31,PSV,NED,43.0,Eindhoven,6,1,3,4
+32,Nice,FRA,17.0,Nice,6,2,0,6
+33,Ferencváros,HUN,30.0,Budapest,5,1,2,5
+34,Lyon,FRA,44.0,Lyon,4,1,1,6
+35,FC Porto,POR,66.0,Porto,2,0,2,6
+36,Beşiktaş,TUR,10.0,Istanbul,1,0,1,7

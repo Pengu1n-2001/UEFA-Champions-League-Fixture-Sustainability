@@ -21,8 +21,8 @@ Bayer 04 Leverkusen,GER,67.0,Leverkusen
 FC Porto,POR,66.0,Porto
 Ajax,NED,64.0,Amsterdam
 Shakhtar Donetsk,UKR,59.0,Hamburg
-Arsenal,ENG,58.0,London
 Atalanta,ITA,58.0,Bergamo
+Arsenal,ENG,58.0,London
 Eintracht Frankfurt,GER,57.0,Frankfurt
 Feyenoord,NED,57.0,Rotterdam
 West Ham,ENG,54.0,London
@@ -43,9 +43,9 @@ Copenhagen,DEN,41.5,Copenhagen
 Crvena zvezda,SRB,40.0,Belgrade
 Rennes,FRA,37.0,Rennes
 Lille,FRA,35.0,Lille
-LASK,AUT,34.0,Linz
 Marseille,FRA,34.0,Marseille
 Olympiacos,GRE,34.0,Piraeus
+LASK,AUT,34.0,Linz
 Young Boys,SUI,32.5,Bern
 Real Betis,ESP,31.0,Seville
 Galatasaray,TUR,30.5,Istanbul
@@ -67,8 +67,8 @@ Mönchengladbach,GER,21.0,Mönchengladbach
 Union Berlin,GER,21.0,Berlin
 Antwerp,BEL,21.0,Antwerp
 Lech Poznań,POL,20.5,Poznań
-SC Freiburg,GER,19.0,Freiburg
 Ludogorets,BUL,19.0,Razgrad
+SC Freiburg,GER,19.0,Freiburg
 Newcastle,ENG,18.635,Newcastle upon Tyne
 Aston Villa,ENG,18.635,Birmingham
 Brighton,ENG,18.635,Brighton
@@ -102,22 +102,22 @@ Linfield,NIR,10.0,Belfast
 HJK,FIN,10.0,Helsinki
 Neftçi,AZE,10.0,Baku
 AEK Athens,GRE,10.0,Athens
-BATE Borisov,BLR,9.5,Borisov
-Pyunik,ARM,9.5,Yerevan
 Maribor,SVN,9.5,Maribor
 Shamrock Rovers,IRL,9.5,Dublin
+Pyunik,ARM,9.5,Yerevan
+BATE Borisov,BLR,9.5,Borisov
 Lincoln Red Imps,GIB,9.0,Gibraltar
 F91 Diddeleng,LUX,8.5,Dudelange
 Zrinjski,BIH,8.5,Mostar
 The New Saints,WAL,8.5,Oswestry
-Shkëndija,MKD,8.0,Tetovo
-Lugano,SUI,8.0,Lugano
-RFS,LAT,8.0,Riga
 Dinamo Tbilisi,GEO,8.0,Tbilisi
-FK Budućnost Podgorica,MNE,8.0,Podgorica
-AEK Larnaca,CYP,8.0,Larnaca
-Ararat-Armenia,ARM,8.0,Yerevan
 Dunajská Streda,SVK,8.0,Dunajská Streda
+FK Budućnost Podgorica,MNE,8.0,Podgorica
+Ararat-Armenia,ARM,8.0,Yerevan
+RFS,LAT,8.0,Riga
+Shkëndija,MKD,8.0,Tetovo
+AEK Larnaca,CYP,8.0,Larnaca
+Lugano,SUI,8.0,Lugano
 Shkupi,MKD,7.5,Skopje
 Ballkani,KOS,7.5,Prishtina
 Aberdeen,SCO,7.5,Aberdeen
@@ -128,8 +128,8 @@ CSKA Moskva,RUS,7.0,Moscow
 Gżira,MLT,7.0,Gżira
 Hearts,SCO,6.53,Edinburgh
 Drita,KOS,6.5,Gjilan
-Partizani,ALB,6.5,Tirana
 Olimpija Ljubljana,SVN,6.5,Ljubljana
+Partizani,ALB,6.5,Tirana
 Servette,SUI,6.155,Geneva
 Luzern,SUI,6.155,Luzern
 Inter Club d'Escaldes,AND,6.0,Andorra la Vella
@@ -138,44 +138,44 @@ Levadia,EST,6.0,Tallinn
 Bohemians Praha 1905,CZE,5.66,Prague
 Nordsjælland,DEN,5.64,Farum
 AGF,DEN,5.64,Aarhus
-Čukarički,SRB,5.555,Belgrade
 TSC Bačka Topola,SRB,5.555,Bačka Topola
+Čukarički,SRB,5.555,Belgrade
 FC Santa Coloma,AND,5.5,Santa Coloma
-Europa,GIB,5.5,Gibraltar
 Connah's Quay,WAL,5.5,Connah's Quay
 Tirana,ALB,5.5,Tirana
 Dinamo Batumi,GEO,5.5,Batumi
 Tre Penne,SMR,5.5,San Marino
 Spartak Trnava,SVK,5.5,Trnava
 Borac,BIH,5.5,Banja Luka
+Europa,GIB,5.5,Gibraltar
 Panathinaikos,GRE,5.225,Athens
 Milsami,MDA,5.0,Orhei
-Celje,SVN,4.5,Celje
-Hamrun Spartans FC,MLT,4.5,Ħamrun
-La Fiorita,SMR,4.5,Montegiardino
 Progrès,LUX,4.5,Niederkorn
-Dinamo Minsk,BLR,4.5,Minsk
 Larne,NIR,4.5,Larne
+Dinamo Minsk,BLR,4.5,Minsk
+La Fiorita,SMR,4.5,Montegiardino
+Hamrun Spartans FC,MLT,4.5,Ħamrun
+Celje,SVN,4.5,Celje
 Aris Limassol,CYP,4.37,Limassol
 BK Häcken,SWE,4.3,Gothenburg
 IF Elfsborg,SWE,4.3,Borås
 Farul Constanța,ROM,4.275,Constanța
 Kecskemét,HUN,4.125,Kecskemét
 Debrecen,HUN,4.125,Debrecen
-Dila,GEO,4.0,Gori
-St Patrick's,IRL,4.0,Dublin
-Derry,IRL,4.0,Derry
 Víkingur Reykjavík,ISL,4.0,Reykjavík
-Ordabasy,KAZ,4.0,Shymkent
 Panevezys,LTU,4.0,Panevėžys
+Ordabasy,KAZ,4.0,Shymkent
+Dila,GEO,4.0,Gori
+Derry,IRL,4.0,Derry
+St Patrick's,IRL,4.0,Dublin
 CSKA 1948,BUL,3.675,Sofia
 Sabah,AZE,3.575,Baku
 Urartu,ARM,3.5,Yerevan
 Struga,MKD,3.5,Struga
-Swift Hesper,LUX,3.0,Hesperange
-Glentoran,NIR,3.0,Belfast
 Torpedo Zhodino,BLR,3.0,Zhodino
 Gjilani,KOS,3.0,Gjilan
+Glentoran,NIR,3.0,Belfast
+Swift Hesper,LUX,3.0,Hesperange
 Atlètic Club d'Escaldes,AND,2.5,Andorra la Vella
 Željezničar,BIH,2.5,Sarajevo
 Birkirkara,MLT,2.5,Birkirkara

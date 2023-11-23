@@ -63,8 +63,4 @@ for matchup in matchups:
 # Write the winners to the output file
 write_teams(output_file_path, winners, mode='a')
 
-# Output matchup results
-for matchup in matchups:
-    team1_name = matchup[0]['team_name']
-    team2_name = matchup[1]['team_name']
-    print(f"{team1_name} v {team2_name}")
+

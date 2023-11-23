@@ -1,35 +1,37 @@
 team_name,association,uefa_coefficient,city,status
-Paris Saint-Germain,FRA,101.0,Paris,UEFA Champions League Winner
-Rangers,SCO,52.0,Glasgow,UEFA Europa League Winner
-Tottenham Hotspur,ENG,54.0,London,
-Liverpool,ENG,100.0,Liverpool,
+Real Madrid,ESP,112.0,Madrid,UEFA Champions League Winner
+Manchester United,ENG,91.0,Manchester,UEFA Europa League Winner
 Arsenal,ENG,58.0,London,
-Aston Villa,ENG,18.635,Birmingham,
-Villarreal,ESP,68.0,Villarreal,
+West Ham,ENG,54.0,London,
+Chelsea,ENG,96.0,London,
+Manchester City,ENG,130.0,Manchester,
+Sevilla,ESP,84.0,Seville,
 Real Sociedad,ESP,42.0,San Sebastián,
-Atlético de Madrid,ESP,73.0,Madrid,
-Real Madrid,ESP,112.0,Madrid,
-Eintracht Frankfurt,GER,57.0,Frankfurt,
-Bayer 04 Leverkusen,GER,67.0,Leverkusen,
-Bayern,GER,126.0,Munich,
-RB Leipzig,GER,87.0,Leipzig,
-Fiorentina,ITA,24.0,Florence,
-Juventus,ITA,80.0,Turin,
-Napoli,ITA,71.0,Naples,
-Inter,ITA,90.0,Milan,
-Lille,FRA,35.0,Lille,
-Marseille,FRA,34.0,Marseille,
-AZ Alkmaar,NED,48.0,Alkmaar,
-Ajax,NED,64.0,Amsterdam,
-Braga,POR,48.0,Braga,
-Antwerp,BEL,21.0,Antwerp,
-Celtic,SCO,30.0,Glasgow,
-LASK,AUT,34.0,Linz,
-Manchester United,ENG,91.0,Manchester,
 Barcelona,ESP,78.0,Barcelona,
-Crvena zvezda,SRB,40.0,Belgrade,
-Bodø/Glimt,NOR,24.5,Bodø
+Atlético de Madrid,ESP,73.0,Madrid,
+Bayer 04 Leverkusen,GER,67.0,Leverkusen,
+Borussia Dortmund,GER,75.0,Dortmund,
+Union Berlin,GER,21.0,Berlin,
+RB Leipzig,GER,87.0,Leipzig,
+Napoli,ITA,71.0,Naples,
+AC Milan,ITA,49.0,Milan,
+Juventus,ITA,80.0,Turin,
+Roma,ITA,86.0,Rome,
+Lyon,FRA,44.0,Lyon,
+Rennes,FRA,37.0,Rennes,
+Nice,FRA,17.0,Nice,
+PSV,NED,43.0,Eindhoven,
+Ajax,NED,64.0,Amsterdam,
+FC Porto,POR,66.0,Porto,
+Club Brugge,BEL,48.0,Bruges,
+Rangers,SCO,52.0,Glasgow,
+Salzburg,AUT,49.0,Salzburg,
+Liverpool,ENG,100.0,Liverpool,
+Real Betis,ESP,31.0,Seville,
 Young Boys,SUI,32.5,Bern
-Flora Tallinn,EST,11.0,Tallinn
-HJK,FIN,10.0,Helsinki
-Qarabağ,AZE,26.0,Aghdam
+Ferencváros,HUN,30.0,Budapest
+Maccabi Haifa,ISR,14.0,Haifa
+Beşiktaş,TUR,10.0,Istanbul
+Shakhtar Donetsk,UKR,59.0,Hamburg
+Feyenoord,NED,57.0,Rotterdam
+Celtic,SCO,30.0,Glasgow
