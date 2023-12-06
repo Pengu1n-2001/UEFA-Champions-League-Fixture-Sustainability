@@ -1,5 +1,7 @@
 import csv
 import random
+
+# takes the list of potential teams and makes a csv file for each assocation with all teams
 with open('../../Teams/UEFA Coefficients/all_potential_teams.csv', 'r', encoding='utf-8') as f:
     all_teams = list(csv.reader(f))
 teams_by_association = {}
@@ -8,6 +10,8 @@ for team in all_teams[1:]:
     if association_code not in teams_by_association:
         teams_by_association[association_code] = []
     teams_by_association[association_code].append(team)
+
+# ranks teams randomly (weighted by coefficient) to create a pseudo league for each association
 def rank_teams(teams):
     ranked_teams = []
 
@@ -27,7 +31,7 @@ def rank_teams(teams):
     return ranked_teams
 
 
-# Rank teams for each association and write to separate CSV files
+# runs the code for each association and puts them back in the csv file
 for association_code, teams in teams_by_association.items():
     ranked_teams = rank_teams(teams)
     file_name = f'../../Teams/Domestic Leagues/{association_code}_league_results.csv'

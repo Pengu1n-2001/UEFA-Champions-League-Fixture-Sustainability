@@ -1,37 +1,37 @@
 team_name,association,uefa_coefficient,city,status
-Real Madrid,ESP,112.0,Madrid,UEFA Champions League Winner
-Manchester United,ENG,91.0,Manchester,UEFA Europa League Winner
-Arsenal,ENG,58.0,London,
-West Ham,ENG,54.0,London,
-Chelsea,ENG,96.0,London,
-Manchester City,ENG,130.0,Manchester,
-Sevilla,ESP,84.0,Seville,
+Manchester City,ENG,130.0,Manchester,UEFA Champions League Winner
+Sevilla,ESP,84.0,Seville,UEFA Europa League Winner
+Newcastle,ENG,18.635,Newcastle upon Tyne,
+Aston Villa,ENG,18.635,Birmingham,
+Manchester United,ENG,91.0,Manchester,
 Real Sociedad,ESP,42.0,San Sebastián,
-Barcelona,ESP,78.0,Barcelona,
-Atlético de Madrid,ESP,73.0,Madrid,
-Bayer 04 Leverkusen,GER,67.0,Leverkusen,
-Borussia Dortmund,GER,75.0,Dortmund,
-Union Berlin,GER,21.0,Berlin,
-RB Leipzig,GER,87.0,Leipzig,
-Napoli,ITA,71.0,Naples,
-AC Milan,ITA,49.0,Milan,
-Juventus,ITA,80.0,Turin,
-Roma,ITA,86.0,Rome,
-Lyon,FRA,44.0,Lyon,
-Rennes,FRA,37.0,Rennes,
-Nice,FRA,17.0,Nice,
-PSV,NED,43.0,Eindhoven,
-Ajax,NED,64.0,Amsterdam,
-FC Porto,POR,66.0,Porto,
-Club Brugge,BEL,48.0,Bruges,
-Rangers,SCO,52.0,Glasgow,
-Salzburg,AUT,49.0,Salzburg,
-Liverpool,ENG,100.0,Liverpool,
 Real Betis,ESP,31.0,Seville,
+Real Madrid,ESP,112.0,Madrid,
+Atlético de Madrid,ESP,73.0,Madrid,
+Eintracht Frankfurt,GER,57.0,Frankfurt,
+Borussia Dortmund,GER,75.0,Dortmund,
+Bayer 04 Leverkusen,GER,67.0,Leverkusen,
+RB Leipzig,GER,87.0,Leipzig,
+Atalanta,ITA,58.0,Bergamo,
+Fiorentina,ITA,24.0,Florence,
+Juventus,ITA,80.0,Turin,
+Lazio,ITA,43.0,Rome,
+Rennes,FRA,37.0,Rennes,
+Lyon,FRA,44.0,Lyon,
+Paris Saint-Germain,FRA,101.0,Paris,
+AZ Alkmaar,NED,48.0,Alkmaar,
+PSV,NED,43.0,Eindhoven,
+Braga,POR,48.0,Braga,
+Antwerp,BEL,21.0,Antwerp,
+Celtic,SCO,30.0,Glasgow,
+Salzburg,AUT,49.0,Salzburg,
+West Ham,ENG,54.0,London,
+Villarreal,ESP,68.0,Villarreal,
+Crvena zvezda,SRB,40.0,Belgrade,
+Slavia Praha,CZE,42.0,Prague
+Raków Częstochowa,POL,6.0,Częstochowa
+Rijeka,CRO,12.0,Rijeka
 Young Boys,SUI,32.5,Bern
-Ferencváros,HUN,30.0,Budapest
-Maccabi Haifa,ISR,14.0,Haifa
-Beşiktaş,TUR,10.0,Istanbul
-Shakhtar Donetsk,UKR,59.0,Hamburg
-Feyenoord,NED,57.0,Rotterdam
-Celtic,SCO,30.0,Glasgow
+Copenhagen,DEN,41.5,Copenhagen
+Monaco,FRA,24.0,Monaco
+Ajax,NED,64.0,Amsterdam

@@ -1,5 +1,10 @@
 import requests
 import pandas as pd
+
+#This code is used to update UEFA National association Co-efficents.
+#However this does not need to happen during the running of one season.
+#This exists to allow use in following seasons of the UEFA Champions League.
+
 url = 'https://comp.uefa.com/v2/coefficients?coefficientType=MEN_ASSOCIATION&coefficientRange=OVERALL&seasonYear=2024&page=1&pagesize=500&language=EN'
 response = requests.get(url)
 data = response.json()

@@ -2,6 +2,7 @@ import pandas as pd
 import csv
 from ortools.sat.python import cp_model
 
+# makes sure teams additional info is included
 df = pd.read_csv('../../Teams/League Stage/league_stage_teams_seeded_into_pots.csv')
 teams = df['team_name'].tolist()
 pots = df['pot'].tolist()
@@ -14,25 +15,25 @@ team_additional_info = {team: {'coefficient': coeff, 'city': city, 'association'
 
 num_teams = len(teams)
 
-# Number of teams and associations
+# number of teams and associations
 num_teams = len(teams)
 team_indices = {teams[i]: i for i in range(num_teams)}
 
-# Count teams per association
+# count teams per association
 teams_per_association = {assoc: associations.count(assoc) for assoc in set(associations)}
 
-# Function to build the model
+# function to build the constraint model
 def build_model(allow_intra_association):
     model = cp_model.CpModel()
 
-    # Creating match variables
+    # creating match variables
     match_vars = {}
     for i in range(num_teams):
         for j in range(num_teams):
             if i != j:
                 match_vars[i, j] = model.NewBoolVar(f'match_{i}_{j}')
 
-    # Constraints for home and away games and matchups based on pots
+    # constraints for home and away games and matchups based on pots
     for team in range(num_teams):
         model.Add(sum(match_vars[team, opp] for opp in range(num_teams) if opp != team) == 4)  # Home games
         model.Add(sum(match_vars[opp, team] for opp in range(num_teams) if opp != team) == 4)  # Away games
@@ -40,11 +41,11 @@ def build_model(allow_intra_association):
     for pot in set(pots):
         pot_teams = [i for i in range(num_teams) if pots[i] == pot]
         for team in range(num_teams):
-            # Ensure exactly two games (one home, one away) against teams in this pot
+            # ensures that there is exactly two games (one home, one away) against teams in this pot
             model.Add(sum(match_vars[team, opp] for opp in pot_teams if opp != team) == 1)
             model.Add(sum(match_vars[opp, team] for opp in pot_teams if opp != team) == 1)
 
-    # Constraint for intra-association matches
+    # constraint for same association  matches
     if allow_intra_association:
         for assoc in teams_per_association:
             if teams_per_association[assoc] >= 4:
@@ -64,17 +65,17 @@ def build_model(allow_intra_association):
 
     return model, match_vars
 
-# First attempt without intra-association matches
+# first attempt without same association matches
 model, match_vars = build_model(allow_intra_association=False)
 solver = cp_model.CpSolver()
 status = solver.Solve(model)
 
-# Second attempt with conditional intra-association matches, if necessary
+# second attempt with conditional same association matches, if necessary
 if status not in [cp_model.OPTIMAL, cp_model.FEASIBLE]:
     model, match_vars = build_model(allow_intra_association=True)
     status = solver.Solve(model)
 
-# Generating the fixture list and debugging info
+# generating the fixture list
 if status in [cp_model.OPTIMAL, cp_model.FEASIBLE]:
     fixtures = []
     match_number = 1

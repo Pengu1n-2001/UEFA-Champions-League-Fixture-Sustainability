@@ -1,19 +1,20 @@
 import csv
 import random
 
-# Load the UCL and UEL previous finalists
+
+# loads previous UCL/UEL finalists
 with open('../../Teams/UEFA Coefficients/UCL_previous_finalists', 'r', encoding='utf-8') as f:
     ucl_finalists = list(csv.reader(f))
 
 with open('../../Teams/UEFA Coefficients/UEL_previous_finalists', 'r', encoding='utf-8') as f:
     uel_finalists = list(csv.reader(f))
 
-# Load all potential teams
+# loads the list of all teams so that other team data can be obtained
 with open('../../Teams/UEFA Coefficients/all_potential_teams.csv', 'r', encoding='utf-8') as f:
     all_teams = list(csv.reader(f))
 
 
-# Function to choose a winner based on weighting
+# chooses a UCL/UEL winner from last 10 UCL/UEL finals (winners get 2 points and runners-up get 1 point)
 def choose_winner(finalists):
     total_weight = 0
     weights = {}
@@ -31,15 +32,15 @@ def choose_winner(finalists):
             return team
 
 
-# Choose UCL winner
+# choose UCL winner
 ucl_winner = choose_winner(ucl_finalists)
 
-# Choose UEL winner, ensure it's not the same as UCL winner
+# choose UEL winner, ensuring it's not the same as the UCL winner
 uel_winner = choose_winner(uel_finalists)
 while ucl_winner == uel_winner:
     uel_winner = choose_winner(uel_finalists)
 
-# Write the winners to the new CSV file
+# write winners to the League Stage as they auto qualify
 with open('../../Teams/League Stage/league_stage_teams.csv', 'w', newline='', encoding='utf-8') as f:
     writer = csv.writer(f)
     writer.writerow(["team_name", "association", "uefa_coefficient", "city", "status"])

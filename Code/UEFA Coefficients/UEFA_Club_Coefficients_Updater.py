@@ -3,18 +3,14 @@ import json
 import pandas as pd
 
 url = 'https://comp.uefa.com/v2/coefficients?coefficientType=MEN_CLUB&coefficientRange=OVERALL&seasonYear=2024&page=1&pagesize=500&language=EN'
-
-# User-Agent header
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
-}
+headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
 
 try:
     response = requests.get(url, headers=headers)
     response.raise_for_status()
 except requests.RequestException as e:
     print(f'Could not Update UEFA Co-efficients as an error occurred: {e}')
-    exit()  # Exit the script if an error occurs
+    exit()
 
 data = response.json()
 
@@ -39,3 +35,5 @@ for index, row in df.iterrows():
         df.at[index, 'uefa_coefficient'] = coefficient
 
 df.to_csv('../../Teams/UEFA Coefficients/all_potential_teams.csv', index=False)
+
+

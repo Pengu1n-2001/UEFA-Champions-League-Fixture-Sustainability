@@ -2,9 +2,6 @@ import csv
 import random
 
 def read_teams(file_path):
-    """
-    Reads team data from a CSV file and returns a list of teams.
-    """
     teams = []
     with open(file_path, mode='r', newline='', encoding='utf-8') as file:
         reader = csv.DictReader(file)
@@ -13,9 +10,6 @@ def read_teams(file_path):
     return teams
 
 def choose_random_teams(pairs, teams):
-    """
-    Randomly selects one team from each pair and returns both the chosen and non-chosen teams.
-    """
     chosen = []
     non_chosen = []
     for pair in pairs:
@@ -27,9 +21,6 @@ def choose_random_teams(pairs, teams):
     return chosen, non_chosen
 
 def determine_winner(matchup):
-    """
-    Determines the winner of a matchup based on uefa_coefficient.
-    """
     total_coefficient = sum(float(team['uefa_coefficient']) for team in matchup)
     random_num = random.uniform(0.001, total_coefficient)
     current_sum = 0
@@ -39,9 +30,6 @@ def determine_winner(matchup):
             return team
 
 def create_match(home_team, away_team, match_label):
-    """
-    Creates a match dictionary with the given teams and match label.
-    """
     winner = determine_winner([home_team, away_team])
     return {
         'match': match_label,
@@ -57,18 +45,12 @@ def create_match(home_team, away_team, match_label):
     }
 
 def find_team_by_name(team_name, teams):
-    """
-    Finds a team dictionary by its name from the list of teams.
-    """
     for team in teams:
         if team['team_name'] == team_name:
             return team
     return None
 
 def write_results(file_path, results):
-    """
-    Writes the match results to a CSV file.
-    """
     with open(file_path, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.DictWriter(file, fieldnames=[
             'match', 'home_team', 'home_team_coefficient', 'home_team_city', 'home_team_association',

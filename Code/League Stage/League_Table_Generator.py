@@ -1,19 +1,19 @@
 import pandas as pd
 
-# Load the match results from the CSV file
+# loads the league stage match results from the csv
 df = pd.read_csv('../../Fixtures, Tables and Results/League Stage/league_stage_results.csv')
 
-# Initialize a dictionary to hold team data
+# creates a dictionary to hold the data of the teams
 teams = {}
 
-# Process each match in the DataFrame
+# processes each team
 for index, row in df.iterrows():
     # Extract team names and result
     home_team = row['home_team']
     away_team = row['away_team']
     result = row['result']
 
-    # Initialize team data if not already done
+    # creates an entry in the table for each team
     for team_key in ['home_team', 'away_team']:
         team_name = row[team_key]
         if team_name not in teams:
@@ -28,7 +28,7 @@ for index, row in df.iterrows():
                 'losses': 0
             }
 
-    # Update points and win/draw/loss count based on match result
+    # updates win/draw/loss counters and points based on the results
     if result == 'H':
         teams[home_team]['points'] += 3
         teams[home_team]['wins'] += 1
@@ -43,18 +43,18 @@ for index, row in df.iterrows():
         teams[home_team]['draws'] += 1
         teams[away_team]['draws'] += 1
 
-# Convert the teams dictionary to a DataFrame
+# converts the table into a dataframe
 league_table = pd.DataFrame(teams.values())
 
-# Sort the teams first by points, then by UEFA coefficient (as a tiebreaker)
+# sort the teams first by points, then by UEFA coefficient (as a tiebreaker)
 league_table.sort_values(by=['points', 'uefa_coefficient'], ascending=[False, False], inplace=True)
 
-# Reset index to get the rank
+# resets the index of the table so that teams have their correct rank
 league_table.reset_index(drop=True, inplace=True)
 league_table.index += 1
 league_table['rank'] = league_table.index
 
-# Select and reorder columns for the final CSV
+# re-orders the teams to create an ordered league table, and outputs this to the csv
 final_columns = ['rank', 'team_name', 'association', 'uefa_coefficient', 'city', 'points', 'wins', 'draws', 'losses']
 league_table = league_table[final_columns]
 league_table.to_csv('../../Fixtures, Tables and Results/League Stage/league_stage_table.csv', index=False)

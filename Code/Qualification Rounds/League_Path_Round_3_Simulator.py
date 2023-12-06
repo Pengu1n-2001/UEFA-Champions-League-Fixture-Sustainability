@@ -2,14 +2,14 @@ import csv
 import random
 import os
 
-# Function to read teams from a CSV file
+# reads the teams from the csv into a dictionary
 def read_teams(file_path):
     with open(file_path, mode='r', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         return [row for row in reader]
 
-# Function to write teams to a CSV file
-def write_teams(file_path, teams, mode='a'):  # Default mode is 'a' to append
+# writes the teams into the selected csv file
+def write_teams(file_path, teams, mode='a'):
     with open(file_path, mode=mode, newline='', encoding='utf-8') as file:
         fieldnames = ["team_name", "association", "uefa_coefficient", "city"]
         writer = csv.DictWriter(file, fieldnames=fieldnames)
@@ -18,25 +18,24 @@ def write_teams(file_path, teams, mode='a'):  # Default mode is 'a' to append
         for team in teams:
             writer.writerow(team)
 
-# Path to the CSV files
+# different file paths
 input_file_path = '../../Teams/Qualification Rounds/League Path Round 3/league_path_round_3_teams.csv'
 output_file_path = '../../Teams/Qualification Rounds/League Path Play-off Round/league_path_play_off_round_teams.csv'
 
-# Read the teams from the input file
+# read the teams from the input file
 teams = read_teams(input_file_path)
 
-# Check if there is an odd number of teams and handle bye
+# checks if there are an odd number of teams and handles a bye if needed
 if len(teams) % 2 == 1:
     teams_by_coefficient = sorted(teams, key=lambda x: float(x['uefa_coefficient']), reverse=True)
-    bye_team = teams_by_coefficient.pop(0)  # Remove the top team for a bye
-    # Write the bye team directly to the output file
+    bye_team = teams_by_coefficient.pop(0)
     write_teams(output_file_path, [bye_team])
 
-# Shuffle teams and create matchups
+# puts the teams in a random order to generate randomised matchups
 random.shuffle(teams)
 matchups = [(teams[i], teams[i + 1]) for i in range(0, len(teams), 2)]
 
-# Calculate winners
+# finds the winners based on a weighted random selection based on UEFA Co-efficients
 winners = []
 for matchup in matchups:
     total_coefficient = sum(float(team['uefa_coefficient']) for team in matchup)
@@ -48,6 +47,6 @@ for matchup in matchups:
             winners.append(team)
             break
 
-# Write the winners to the output file
+# writes the winners to the output csv
 write_teams(output_file_path, winners)
 
