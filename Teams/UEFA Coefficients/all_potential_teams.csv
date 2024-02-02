@@ -1,116 +1,113 @@
 team_name,association,uefa_coefficient,city
-Manchester City,ENG,130.0,Manchester
-Bayern,GER,126.0,Munich
-Real Madrid,ESP,112.0,Madrid
-Paris Saint-Germain,FRA,101.0,Paris
-Liverpool,ENG,100.0,Liverpool
+Manchester City,ENG,141.0,Manchester
+Bayern,GER,136.0,Munich
+Real Madrid,ESP,123.0,Madrid
+Paris Saint-Germain,FRA,108.0,Paris
+Liverpool,ENG,107.0,Liverpool
 Chelsea,ENG,96.0,London
-Manchester United,ENG,91.0,Manchester
-Inter,ITA,90.0,Milan
-RB Leipzig,GER,87.0,Leipzig
-Roma,ITA,86.0,Rome
+Manchester United,ENG,92.0,Manchester
+Inter,ITA,99.0,Milan
+RB Leipzig,GER,96.0,Leipzig
+Roma,ITA,91.0,Rome
 Sevilla,ESP,84.0,Seville
 Juventus,ITA,80.0,Turin
-Barcelona,ESP,78.0,Barcelona
-Borussia Dortmund,GER,75.0,Dortmund
-Atlético de Madrid,ESP,73.0,Madrid
-Napoli,ITA,71.0,Naples
-Benfica,POR,69.0,Lisbon
-Villarreal,ESP,68.0,Villarreal
-Bayer 04 Leverkusen,GER,67.0,Leverkusen
-FC Porto,POR,66.0,Porto
-Ajax,NED,64.0,Amsterdam
-Shakhtar Donetsk,UKR,59.0,Hamburg
-Atalanta,ITA,58.0,Bergamo
-Arsenal,ENG,58.0,London
-Eintracht Frankfurt,GER,57.0,Frankfurt
+Barcelona,ESP,85.0,Barcelona
+Borussia Dortmund,GER,85.0,Dortmund
+Atlético de Madrid,ESP,84.0,Madrid
+Napoli,ITA,79.0,Naples
+Benfica,POR,72.0,Lisbon
+Villarreal,ESP,80.0,Villarreal
+Bayer 04 Leverkusen,GER,78.0,Leverkusen
+FC Porto,POR,75.0,Porto
+Ajax,NED,66.0,Amsterdam
+Shakhtar Donetsk,UKR,63.0,Hamburg
+Atalanta,ITA,68.0,Bergamo
+Arsenal,ENG,68.0,London
+Eintracht Frankfurt,GER,60.0,Frankfurt
 Feyenoord,NED,57.0,Rotterdam
-West Ham,ENG,54.0,London
+West Ham,ENG,65.0,London
 Tottenham Hotspur,ENG,54.0,London
-Rangers,SCO,52.0,Glasgow
-Salzburg,AUT,49.0,Salzburg
-AC Milan,ITA,49.0,Milan
-Braga,POR,48.0,Braga
-Club Brugge,BEL,48.0,Bruges
-AZ Alkmaar,NED,48.0,Alkmaar
-Sporting CP,POR,45.5,Lisbon
+Rangers,SCO,62.0,Glasgow
+Salzburg,AUT,50.0,Salzburg
+AC Milan,ITA,53.0,Milan
+Braga,POR,49.0,Braga
+Club Brugge,BEL,56.0,Bruges
+AZ Alkmaar,NED,50.0,Alkmaar
+Sporting CP,POR,52.5,Lisbon
 Lyon,FRA,44.0,Lyon
-Lazio,ITA,43.0,Rome
-PSV,NED,43.0,Eindhoven
-Slavia Praha,CZE,42.0,Prague
-Real Sociedad,ESP,42.0,San Sebastián
-Copenhagen,DEN,41.5,Copenhagen
+Lazio,ITA,52.0,Rome
+PSV,NED,53.0,Eindhoven
+Slavia Praha,CZE,53.0,Prague
+Real Sociedad,ESP,51.0,San Sebastián
+Copenhagen,DEN,51.5,Copenhagen
 Crvena zvezda,SRB,40.0,Belgrade
-Rennes,FRA,37.0,Rennes
-Lille,FRA,35.0,Lille
-Marseille,FRA,34.0,Marseille
-Olympiacos,GRE,34.0,Piraeus
-LASK,AUT,34.0,Linz
-Young Boys,SUI,32.5,Bern
-Real Betis,ESP,31.0,Seville
-Galatasaray,TUR,30.5,Istanbul
-Celtic,SCO,30.0,Glasgow
-Ferencváros,HUN,30.0,Budapest
-Fenerbahçe,TUR,28.0,Istanbul
+Rennes,FRA,43.0,Rennes
+Lille,FRA,42.0,Lille
+Marseille,FRA,40.0,Marseille
+Olympiacos,GRE,36.0,Piraeus
+LASK,AUT,37.0,Linz
+Young Boys,SUI,34.5,Bern
+Real Betis,ESP,33.0,Seville
+Galatasaray,TUR,31.5,Istanbul
+Celtic,SCO,32.0,Glasgow
+Ferencváros,HUN,35.0,Budapest
+Fenerbahçe,TUR,32.0,Istanbul
 CFR Cluj,ROM,26.5,Cluj-Napoca
 Dynamo Kyiv,UKR,26.5,Bucharest
-Slovan Bratislava,SVK,26.5,Bratislava
-Qarabağ,AZE,26.0,Aghdam
+Slovan Bratislava,SVK,30.5,Bratislava
+Qarabağ,AZE,31.0,Aghdam
 Partizan,SRB,25.5,Belgrade
-Bodø/Glimt,NOR,24.5,Bodø
-Fiorentina,ITA,24.0,Florence
+Bodø/Glimt,NOR,29.5,Bodø
+Fiorentina,ITA,31.0,Florence
 Monaco,FRA,24.0,Monaco
 VfL Wolfsburg,GER,22.5,Wolfsburg
-Union SG,BEL,22.0,Brussels
+Union SG,BEL,8.813,Brussels
 Zenit,RUS,22.0,Saint Petersburg
 Mönchengladbach,GER,21.0,Mönchengladbach
-Union Berlin,GER,21.0,Berlin
-Antwerp,BEL,21.0,Antwerp
+Union Berlin,GER,23.0,Berlin
+Antwerp,BEL,23.0,Antwerp
 Lech Poznań,POL,20.5,Poznań
-Ludogorets,BUL,19.0,Razgrad
-SC Freiburg,GER,19.0,Freiburg
-Newcastle,ENG,18.635,Newcastle upon Tyne
-Aston Villa,ENG,18.635,Birmingham
-Brighton,ENG,18.635,Brighton
+Ludogorets,BUL,26.0,Razgrad
+SC Freiburg,GER,25.0,Freiburg
+Newcastle,ENG,20.11,Newcastle upon Tyne
+Aston Villa,ENG,20.11,Birmingham
+Brighton,ENG,20.11,Brighton
 Malmö FF,SWE,18.5,Malmö
-Sheriff,MDA,18.0,Tiraspol
+Sheriff,MDA,20.0,Tiraspol
 H. Beer Sheva,ISR,17.0,Beer Sheva
-Viktoria Plzeň,CZE,17.0,Plzeň
+Viktoria Plzeň,CZE,25.0,Plzeň
 Nice,FRA,17.0,Nice
-Zorya Luhansk,UKR,16.5,Lublin
-Osasuna,ESP,15.922,Pamplona
-Sparta Praha,CZE,15.5,Prague
-Torino,ITA,15.171,Turin
+Zorya Luhansk,UKR,18.5,Lublin
+Osasuna,ESP,17.222,Pamplona
+Sparta Praha,CZE,21.5,Prague
+Torino,ITA,16.656,Turin
 APOEL,CYP,14.5,Nicosia
 Spartak Moskva,RUS,14.5,Moscow
 Rapid Wien,AUT,14.0,Vienna
-Maccabi Haifa,ISR,14.0,Haifa
-Maccabi Haifa,ISR,14.0,Haifa
-Legia Warszawa,POL,13.0,Warsaw
-Genk,BEL,13.0,Genk
+Maccabi Haifa,ISR,17.0,Haifa
+Maccabi Haifa,ISR,17.0,Haifa
+Legia Warszawa,POL,18.0,Warsaw
+Genk,BEL,16.0,Genk
 CSKA-Sofia,BUL,12.5,Sofia
 Rijeka,CRO,12.0,Rijeka
-Twente,NED,11.42,Enschede
-Lens,FRA,11.266,Lens
+Twente,NED,11.98,Enschede
+Lens,FRA,12.432,Lens
 Flora Tallinn,EST,11.0,Tallinn
-Riga,LAT,11.0,Riga
 Dnipro-1,UKR,10.5,Košice
 FCSB,ROM,10.5,Bucharest
-Beşiktaş,TUR,10.0,Istanbul
+Beşiktaş,TUR,12.0,Istanbul
 KÍ Klaksvík,FRO,10.0,Klaksvík
 Linfield,NIR,10.0,Belfast
-HJK,FIN,10.0,Helsinki
+HJK,FIN,11.5,Helsinki
 Neftçi,AZE,10.0,Baku
 AEK Athens,GRE,10.0,Athens
 Maribor,SVN,9.5,Maribor
 Shamrock Rovers,IRL,9.5,Dublin
 Pyunik,ARM,9.5,Yerevan
-BATE Borisov,BLR,9.5,Borisov
 Lincoln Red Imps,GIB,9.0,Gibraltar
 F91 Diddeleng,LUX,8.5,Dudelange
-Zrinjski,BIH,8.5,Mostar
+Zrinjski,BIH,9.5,Mostar
 The New Saints,WAL,8.5,Oswestry
-Dinamo Tbilisi,GEO,8.0,Tbilisi
 Dunajská Streda,SVK,8.0,Dunajská Streda
 FK Budućnost Podgorica,MNE,8.0,Podgorica
 Ararat-Armenia,ARM,8.0,Yerevan
@@ -119,36 +116,35 @@ Shkëndija,MKD,8.0,Tetovo
 AEK Larnaca,CYP,8.0,Larnaca
 Lugano,SUI,8.0,Lugano
 Shkupi,MKD,7.5,Skopje
-Ballkani,KOS,7.5,Prishtina
-Aberdeen,SCO,7.5,Aberdeen
+Ballkani,KOS,8.5,Prishtina
+Aberdeen,SCO,11.5,Aberdeen
 Sutjeska,MNE,7.5,Nikšić
-Adana Demirspor,TUR,7.07,Adana
+Adana Demirspor,TUR,7.42,Adana
 Petrocub,MDA,7.0,Hîncești
 CSKA Moskva,RUS,7.0,Moscow
 Gżira,MLT,7.0,Gżira
-Hearts,SCO,6.53,Edinburgh
+Hearts,SCO,7.17,Edinburgh
 Drita,KOS,6.5,Gjilan
-Olimpija Ljubljana,SVN,6.5,Ljubljana
+Olimpija Ljubljana,SVN,10.5,Ljubljana
 Partizani,ALB,6.5,Tirana
-Servette,SUI,6.155,Geneva
-Luzern,SUI,6.155,Luzern
+Servette,SUI,7.0,Geneva
+Luzern,SUI,6.355,Luzern
 Inter Club d'Escaldes,AND,6.0,Andorra la Vella
-Raków Częstochowa,POL,6.0,Częstochowa
-Levadia,EST,6.0,Tallinn
-Bohemians Praha 1905,CZE,5.66,Prague
-Nordsjælland,DEN,5.64,Farum
-AGF,DEN,5.64,Aarhus
+Raków Częstochowa,POL,8.0,Częstochowa
+Bohemians Praha 1905,CZE,6.91,Prague
+Nordsjælland,DEN,7.0,Farum
+AGF,DEN,6.29,Aarhus
 TSC Bačka Topola,SRB,5.555,Bačka Topola
-Čukarički,SRB,5.555,Belgrade
+Čukarički,SRB,8.0,Belgrade
 FC Santa Coloma,AND,5.5,Santa Coloma
 Connah's Quay,WAL,5.5,Connah's Quay
 Tirana,ALB,5.5,Tirana
 Dinamo Batumi,GEO,5.5,Batumi
 Tre Penne,SMR,5.5,San Marino
-Spartak Trnava,SVK,5.5,Trnava
+Spartak Trnava,SVK,8.0,Trnava
 Borac,BIH,5.5,Banja Luka
 Europa,GIB,5.5,Gibraltar
-Panathinaikos,GRE,5.225,Athens
+Panathinaikos,GRE,5.585,Athens
 Milsami,MDA,5.0,Orhei
 Progrès,LUX,4.5,Niederkorn
 Larne,NIR,4.5,Larne
@@ -156,23 +152,19 @@ Dinamo Minsk,BLR,4.5,Minsk
 La Fiorita,SMR,4.5,Montegiardino
 Hamrun Spartans FC,MLT,4.5,Ħamrun
 Celje,SVN,4.5,Celje
-Aris Limassol,CYP,4.37,Limassol
-BK Häcken,SWE,4.3,Gothenburg
+Aris Limassol,CYP,4.5,Limassol
+BK Häcken,SWE,6.0,Gothenburg
 IF Elfsborg,SWE,4.3,Borås
 Farul Constanța,ROM,4.275,Constanța
-Kecskemét,HUN,4.125,Kecskemét
-Debrecen,HUN,4.125,Debrecen
+Kecskemét,HUN,4.375,Kecskemét
+Debrecen,HUN,4.375,Debrecen
 Víkingur Reykjavík,ISL,4.0,Reykjavík
 Panevezys,LTU,4.0,Panevėžys
 Ordabasy,KAZ,4.0,Shymkent
-Dila,GEO,4.0,Gori
-Derry,IRL,4.0,Derry
-St Patrick's,IRL,4.0,Dublin
-CSKA 1948,BUL,3.675,Sofia
-Sabah,AZE,3.575,Baku
+CSKA 1948,BUL,4.025,Sofia
+Sabah,AZE,3.825,Baku
 Urartu,ARM,3.5,Yerevan
 Struga,MKD,3.5,Struga
-Torpedo Zhodino,BLR,3.0,Zhodino
 Gjilani,KOS,3.0,Gjilan
 Glentoran,NIR,3.0,Belfast
 Swift Hesper,LUX,3.0,Hesperange

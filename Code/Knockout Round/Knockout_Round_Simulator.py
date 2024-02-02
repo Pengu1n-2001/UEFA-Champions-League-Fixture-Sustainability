@@ -50,6 +50,7 @@ def find_team_by_name(team_name, teams):
             return team
     return None
 
+# writes the results to the csv with all associated data of the teams
 def write_results(file_path, results):
     with open(file_path, mode='w', newline='', encoding='utf-8') as file:
         writer = csv.DictWriter(file, fieldnames=[
@@ -64,14 +65,14 @@ def tournament():
     input_file = '../../Fixtures, Tables and Results/League Stage/league_stage_table.csv'
     output_file = '../../Fixtures, Tables and Results/Knockout Stage/knockout_stage_results.csv'
 
-    # Read teams from CSV
+    # read the teams from the csv
     teams = read_teams(input_file)
 
     # Tournament stages and pairing information
     ko_po_pairs = [(15, 16), (17, 18), (9, 10), (23, 24), (11, 12), (21, 22), (13, 14), (19, 20)]
     r16_seeds = [(1, 2), (7, 8), (5, 6), (3, 4)]
 
-    # KO-PO Stage
+    # knockout playoff round simulation
     chosen_teams, non_chosen_teams = choose_random_teams(ko_po_pairs, teams)
     ko_po_matchups = [
         (chosen_teams[0], non_chosen_teams[1]),
@@ -85,7 +86,7 @@ def tournament():
     ]
     ko_po_results = [create_match(*matchup, f'KO-PO {i+1}') for i, matchup in enumerate(ko_po_matchups)]
 
-    # R16 Stage
+    # round of 16 simulation
     chosen_r16, non_chosen_r16 = choose_random_teams(r16_seeds, teams)
     r16_matchups = [
         (chosen_r16[0], find_team_by_name(ko_po_results[0]['result'], teams)),
@@ -99,7 +100,7 @@ def tournament():
     ]
     r16_results = [create_match(*matchup, f'R16-M{i + 1}') for i, matchup in enumerate(r16_matchups)]
 
-    # QF Stage
+    # quarter finals simulation
     qf_matchups = [
         (find_team_by_name(r16_results[0]['result'], teams), find_team_by_name(r16_results[1]['result'], teams)),
         (find_team_by_name(r16_results[2]['result'], teams), find_team_by_name(r16_results[3]['result'], teams)),
@@ -108,22 +109,22 @@ def tournament():
     ]
     qf_results = [create_match(*matchup, f'QF-{i+1}') for i, matchup in enumerate(qf_matchups)]
 
-    # SF Stage
+    # semi-finals simulation
     sf_matchups = [
         (find_team_by_name(qf_results[0]['result'], teams), find_team_by_name(qf_results[1]['result'], teams)),
         (find_team_by_name(qf_results[2]['result'], teams), find_team_by_name(qf_results[3]['result'], teams))
     ]
     sf_results = [create_match(*matchup, f'SF-{i+1}') for i, matchup in enumerate(sf_matchups)]
 
-    # Final Stage
+    # final simulation
     final_matchup = (find_team_by_name(sf_results[0]['result'], teams), find_team_by_name(sf_results[1]['result'], teams))
     final_result = [create_match(*final_matchup, 'Final')]
 
-    # Combine all results
+    # combines the results of the different round of the tournement
     all_results = ko_po_results + r16_results + qf_results + sf_results + final_result
 
-    # Write results to CSV
+    # writes the results to a csv
     write_results(output_file, all_results)
 
-# Run the tournament
+# runs the knockout round
 tournament()

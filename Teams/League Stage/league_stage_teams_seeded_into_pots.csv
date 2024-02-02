@@ -1,37 +1,37 @@
 team_name,association,uefa_coefficient,city,pot
-Manchester City,ENG,130.0,Manchester,1
-Real Madrid,ESP,112.0,Madrid,1
-Paris Saint-Germain,FRA,101.0,Paris,1
-Manchester United,ENG,91.0,Manchester,1
-RB Leipzig,GER,87.0,Leipzig,1
+Manchester City,ENG,141.0,Manchester,1
+Real Madrid,ESP,123.0,Madrid,1
+Liverpool,ENG,107.0,Liverpool,1
+Chelsea,ENG,96.0,London,1
+RB Leipzig,GER,96.0,Leipzig,1
+Manchester United,ENG,92.0,Manchester,1
+Barcelona,ESP,85.0,Barcelona,1
 Sevilla,ESP,84.0,Seville,1
-Juventus,ITA,80.0,Turin,1
-Borussia Dortmund,GER,75.0,Dortmund,1
-Atlético de Madrid,ESP,73.0,Madrid,1
-Villarreal,ESP,68.0,Villarreal,2
-Bayer 04 Leverkusen,GER,67.0,Leverkusen,2
-Ajax,NED,64.0,Amsterdam,2
-Atalanta,ITA,58.0,Bergamo,2
-Eintracht Frankfurt,GER,57.0,Frankfurt,2
-West Ham,ENG,54.0,London,2
-Salzburg,AUT,49.0,Salzburg,2
-AZ Alkmaar,NED,48.0,Alkmaar,2
-Braga,POR,48.0,Braga,2
+Atlético de Madrid,ESP,84.0,Madrid,1
+Juventus,ITA,80.0,Turin,2
+Napoli,ITA,79.0,Naples,2
+Bayer 04 Leverkusen,GER,78.0,Leverkusen,2
+FC Porto,POR,75.0,Porto,2
+Atalanta,ITA,68.0,Bergamo,2
+Arsenal,ENG,68.0,London,2
+Eintracht Frankfurt,GER,60.0,Frankfurt,2
+Feyenoord,NED,57.0,Rotterdam,2
+Club Brugge,BEL,56.0,Bruges,2
+PSV,NED,53.0,Eindhoven,3
+Sporting CP,POR,52.5,Lisbon,3
+Copenhagen,DEN,51.5,Copenhagen,3
+AZ Alkmaar,NED,50.0,Alkmaar,3
+Salzburg,AUT,50.0,Salzburg,3
 Lyon,FRA,44.0,Lyon,3
-PSV,NED,43.0,Eindhoven,3
-Lazio,ITA,43.0,Rome,3
-Real Sociedad,ESP,42.0,San Sebastián,3
-Slavia Praha,CZE,42.0,Prague,3
-Copenhagen,DEN,41.5,Copenhagen,3
+Rennes,FRA,43.0,Rennes,3
 Crvena zvezda,SRB,40.0,Belgrade,3
-Rennes,FRA,37.0,Rennes,3
-Young Boys,SUI,32.5,Bern,3
-Real Betis,ESP,31.0,Seville,4
-Celtic,SCO,30.0,Glasgow,4
-Fiorentina,ITA,24.0,Florence,4
-Monaco,FRA,24.0,Monaco,4
-Antwerp,BEL,21.0,Antwerp,4
-Newcastle,ENG,18.635,Newcastle upon Tyne,4
-Aston Villa,ENG,18.635,Birmingham,4
-Rijeka,CRO,12.0,Rijeka,4
-Raków Częstochowa,POL,6.0,Częstochowa,4
+Ferencváros,HUN,35.0,Budapest,3
+Real Betis,ESP,33.0,Seville,4
+Celtic,SCO,32.0,Glasgow,4
+Fiorentina,ITA,31.0,Florence,4
+Bodø/Glimt,NOR,29.5,Bodø,4
+VfL Wolfsburg,GER,22.5,Wolfsburg,4
+Osasuna,ESP,17.222,Pamplona,4
+H. Beer Sheva,ISR,17.0,Beer Sheva,4
+Nice,FRA,17.0,Nice,4
+Luzern,SUI,6.355,Luzern,4
