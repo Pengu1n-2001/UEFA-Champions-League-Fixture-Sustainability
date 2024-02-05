@@ -1,7 +1,7 @@
 import pandas as pd
 
 # loads the league stage match results from the csv
-df = pd.read_csv('../../Fixtures, Tables, Stats and Results/League Stage/league_stage_results.csv')
+df = pd.read_csv('../../Fixtures, Tables and Results/League Stage/league_stage_results.csv')
 
 # creates a dictionary to hold the data of the teams
 teams = {}
@@ -57,6 +57,6 @@ league_table['rank'] = league_table.index
 # re-orders the teams to create an ordered league table, and outputs this to the csv
 final_columns = ['rank', 'team_name', 'association', 'uefa_coefficient', 'city', 'points', 'wins', 'draws', 'losses']
 league_table = league_table[final_columns]
-league_table.to_csv('../../Fixtures, Tables, Stats and Results/League Stage/league_stage_table.csv', index=False)
+league_table.to_csv('../../Fixtures, Tables and Results/League Stage/league_stage_table.csv', index=False)
 
 

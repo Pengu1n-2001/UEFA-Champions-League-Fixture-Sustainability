@@ -1,10 +1,10 @@
 rank,team_name,association,uefa_coefficient,city
-1,RB Leipzig,GER,87.0,Leipzig
-2,Bayer 04 Leverkusen,GER,67.0,Leverkusen
-3,Borussia Dortmund,GER,75.0,Dortmund
-4,Eintracht Frankfurt,GER,57.0,Frankfurt
-5,Bayern,GER,126.0,Munich
-6,VfL Wolfsburg,GER,22.5,Wolfsburg
+1,Bayer 04 Leverkusen,GER,78.0,Leverkusen
+2,RB Leipzig,GER,96.0,Leipzig
+3,VfL Wolfsburg,GER,22.5,Wolfsburg
+4,Eintracht Frankfurt,GER,60.0,Frankfurt
+5,Borussia Dortmund,GER,85.0,Dortmund
+6,Bayern,GER,136.0,Munich
 7,Mönchengladbach,GER,21.0,Mönchengladbach
-8,SC Freiburg,GER,19.0,Freiburg
-9,Union Berlin,GER,21.0,Berlin
+8,SC Freiburg,GER,25.0,Freiburg
+9,Union Berlin,GER,23.0,Berlin

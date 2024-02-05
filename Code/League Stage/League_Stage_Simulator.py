@@ -9,7 +9,7 @@ def calculate_tie_probability(home_coeff, away_coeff, base_tie_probability=0.42)
     return adjusted_probability
 
 # read the fixtures from the CSV
-df = pd.read_csv('../../Fixtures, Tables, Stats and Results/League Stage/league_stage_fixtures.csv')
+df = pd.read_csv('../../Fixtures, Tables and Results/League Stage/league_stage_fixtures.csv')
 
 # creates a list to store the fixtures with results
 updated_fixtures = []
@@ -42,4 +42,4 @@ for index, row in df.iterrows():
 # writes the updated fixtures to a csv file
 headers = list(df.columns) + ['result']
 new_df = pd.DataFrame(updated_fixtures, columns=headers)
-new_df.to_csv('../../Fixtures, Tables, Stats and Results/League Stage/league_stage_results.csv', index=False)
+new_df.to_csv('../../Fixtures, Tables and Results/League Stage/league_stage_results.csv', index=False)

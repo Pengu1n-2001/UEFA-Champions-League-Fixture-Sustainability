@@ -91,7 +91,7 @@ if status in [cp_model.OPTIMAL, cp_model.FEASIBLE]:
                     away_team, team_additional_info[away_team]['coefficient'], team_additional_info[away_team]['city'],
                     team_additional_info[away_team]['association']])
                 match_number += 1
-    with open('../../Fixtures, Tables, Stats and Results/League Stage/league_stage_fixtures.csv', 'w', newline='', encoding='UTF-8') as f:
+    with open('../../Fixtures, Tables and Results/League Stage/league_stage_fixtures.csv', 'w', newline='', encoding='UTF-8') as f:
         writer = csv.writer(f)
         writer.writerow(['match', 'home_team', 'home_team_coefficient', 'home_team_city', 'home_team_association',
                          'away_team', 'away_team_coefficient', 'away_team_city', 'away_team_association'])

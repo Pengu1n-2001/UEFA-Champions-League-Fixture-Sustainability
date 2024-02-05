@@ -1,37 +1,37 @@
 team_name,association,uefa_coefficient,city,status
-Manchester City,ENG,130.0,Manchester,UEFA Champions League Winner
+Manchester City,ENG,141.0,Manchester,UEFA Champions League Winner
 Sevilla,ESP,84.0,Seville,UEFA Europa League Winner
-Newcastle,ENG,18.635,Newcastle upon Tyne,
-Aston Villa,ENG,18.635,Birmingham,
-Manchester United,ENG,91.0,Manchester,
-Real Sociedad,ESP,42.0,San Sebastián,
-Real Betis,ESP,31.0,Seville,
-Real Madrid,ESP,112.0,Madrid,
-Atlético de Madrid,ESP,73.0,Madrid,
-Eintracht Frankfurt,GER,57.0,Frankfurt,
-Borussia Dortmund,GER,75.0,Dortmund,
-Bayer 04 Leverkusen,GER,67.0,Leverkusen,
-RB Leipzig,GER,87.0,Leipzig,
-Atalanta,ITA,58.0,Bergamo,
-Fiorentina,ITA,24.0,Florence,
+Arsenal,ENG,68.0,London,
+Chelsea,ENG,96.0,London,
+Manchester United,ENG,92.0,Manchester,
+Barcelona,ESP,85.0,Barcelona,
+Osasuna,ESP,17.222,Pamplona,
+Real Madrid,ESP,123.0,Madrid,
+Atlético de Madrid,ESP,84.0,Madrid,
+Eintracht Frankfurt,GER,60.0,Frankfurt,
+VfL Wolfsburg,GER,22.5,Wolfsburg,
+RB Leipzig,GER,96.0,Leipzig,
+Bayer 04 Leverkusen,GER,78.0,Leverkusen,
+Fiorentina,ITA,31.0,Florence,
 Juventus,ITA,80.0,Turin,
-Lazio,ITA,43.0,Rome,
-Rennes,FRA,37.0,Rennes,
+Napoli,ITA,79.0,Naples,
+Atalanta,ITA,68.0,Bergamo,
+Nice,FRA,17.0,Nice,
+Rennes,FRA,43.0,Rennes,
 Lyon,FRA,44.0,Lyon,
-Paris Saint-Germain,FRA,101.0,Paris,
-AZ Alkmaar,NED,48.0,Alkmaar,
-PSV,NED,43.0,Eindhoven,
-Braga,POR,48.0,Braga,
-Antwerp,BEL,21.0,Antwerp,
-Celtic,SCO,30.0,Glasgow,
-Salzburg,AUT,49.0,Salzburg,
-West Ham,ENG,54.0,London,
-Villarreal,ESP,68.0,Villarreal,
+AZ Alkmaar,NED,50.0,Alkmaar,
+Feyenoord,NED,57.0,Rotterdam,
+Sporting CP,POR,52.5,Lisbon,
+Club Brugge,BEL,56.0,Bruges,
+Celtic,SCO,32.0,Glasgow,
+Salzburg,AUT,50.0,Salzburg,
+Liverpool,ENG,107.0,Liverpool,
+Real Betis,ESP,33.0,Seville,
 Crvena zvezda,SRB,40.0,Belgrade,
-Slavia Praha,CZE,42.0,Prague
-Raków Częstochowa,POL,6.0,Częstochowa
-Rijeka,CRO,12.0,Rijeka
-Young Boys,SUI,32.5,Bern
-Copenhagen,DEN,41.5,Copenhagen
-Monaco,FRA,24.0,Monaco
-Ajax,NED,64.0,Amsterdam
+Luzern,SUI,6.355,Luzern
+Bodø/Glimt,NOR,29.5,Bodø
+Copenhagen,DEN,51.5,Copenhagen
+Ferencváros,HUN,35.0,Budapest
+H. Beer Sheva,ISR,17.0,Beer Sheva
+PSV,NED,53.0,Eindhoven
+FC Porto,POR,75.0,Porto

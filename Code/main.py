@@ -9,7 +9,7 @@ def run_python_script(script_path):
     working_directory = os.path.dirname(absolute_script_path)
     subprocess.run([python_executable, absolute_script_path], cwd=working_directory)
 
-run_python_script('./UEFA Coefficients/UEFA_Club_Coefficients_Updater.py')
+#run_python_script('./UEFA Coefficients/UEFA_Club_Coefficients_Updater.py') # LOCKED TO COEFFICENTS AFTER UCL GROUP STAGE CONCLUSION 2023
 run_python_script('./Pre-Tournement Sorting/CSV Contents Clear.py')
 run_python_script('./Pre-Tournement Sorting/League Rankings Simulator.py')
 run_python_script('./Pre-Tournement Sorting/Titleholders_Selector.py')
@@ -29,3 +29,5 @@ run_python_script('League Stage/League_Stage_Fixture_Generator.py')
 run_python_script('./League Stage/League_Stage_Simulator.py')
 run_python_script('./League Stage/League_Table_Generator.py')
 run_python_script('./Knockout Round/Knockout_Round_Simulator.py')
+run_python_script('Distance Calculation/league_stage_and_poko_fixtures_concatenater.py')
+run_python_script('./Distance Calculation/fixture_distance_calculator.py')

@@ -61,8 +61,8 @@ def write_results(file_path, results):
 
 def tournament():
     # File paths
-    input_file = '../../Fixtures, Tables, Stats and Results/League Stage/league_stage_table.csv'
-    output_file = '../../Fixtures, Tables, Stats and Results/Knockout Stage/knockout_stage_results.csv'
+    input_file = '../../Fixtures, Tables and Results/League Stage/league_stage_table.csv'
+    output_file = '../../Fixtures, Tables and Results/Knockout Stage/knockout_stage_results.csv'
 
     # Read teams from CSV
     teams = read_teams(input_file)
