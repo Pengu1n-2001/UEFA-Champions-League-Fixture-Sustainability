@@ -1,0 +1,24 @@
+match,home_team,home_team_coefficient,home_team_city,home_team_association,away_team,away_team_coefficient,away_team_city,away_team_association,result
+KO-PO 1,Salzburg,49.0,Salzburg,AUT,West Ham,54.0,London,ENG,Salzburg
+KO-PO 2,AZ Alkmaar,48.0,Alkmaar,NED,Young Boys,32.5,Bern,SUI,AZ Alkmaar
+KO-PO 3,Bayer 04 Leverkusen,67.0,Leverkusen,GER,Villarreal,68.0,Villarreal,ESP,Bayer 04 Leverkusen
+KO-PO 4,Lyon,44.0,Lyon,FRA,Lazio,43.0,Rome,ITA,Lazio
+KO-PO 5,Manchester United,91.0,Manchester,ENG,Raków Częstochowa,6.0,Częstochowa,POL,Manchester United
+KO-PO 6,Braga,48.0,Braga,POR,Slavia Praha,42.0,Prague,CZE,Slavia Praha
+KO-PO 7,Real Sociedad,42.0,San Sebastián,ESP,Atalanta,58.0,Bergamo,ITA,Real Sociedad
+KO-PO 8,Eintracht Frankfurt,57.0,Frankfurt,GER,Fiorentina,24.0,Florence,ITA,Eintracht Frankfurt
+R16-M1,Manchester City,130.0,Manchester,ENG,Salzburg,49.0,Salzburg,AUT,Salzburg
+R16-M2,Real Madrid,112.0,Madrid,ESP,AZ Alkmaar,48.0,Alkmaar,NED,AZ Alkmaar
+R16-M3,Atlético de Madrid,73.0,Madrid,ESP,Bayer 04 Leverkusen,67.0,Leverkusen,GER,Atlético de Madrid
+R16-M4,Juventus,80.0,Turin,ITA,Lazio,43.0,Rome,ITA,Lazio
+R16-M5,RB Leipzig,87.0,Leipzig,GER,Manchester United,91.0,Manchester,ENG,Manchester United
+R16-M6,Ajax,64.0,Amsterdam,NED,Slavia Praha,42.0,Prague,CZE,Slavia Praha
+R16-M7,Borussia Dortmund,75.0,Dortmund,GER,Real Sociedad,42.0,San Sebastián,ESP,Borussia Dortmund
+R16-M8,Paris Saint-Germain,101.0,Paris,FRA,Eintracht Frankfurt,57.0,Frankfurt,GER,Paris Saint-Germain
+QF-1,Salzburg,49.0,Salzburg,AUT,AZ Alkmaar,48.0,Alkmaar,NED,Salzburg
+QF-2,Atlético de Madrid,73.0,Madrid,ESP,Lazio,43.0,Rome,ITA,Atlético de Madrid
+QF-3,Manchester United,91.0,Manchester,ENG,Slavia Praha,42.0,Prague,CZE,Slavia Praha
+QF-4,Borussia Dortmund,75.0,Dortmund,GER,Paris Saint-Germain,101.0,Paris,FRA,Paris Saint-Germain
+SF-1,Salzburg,49.0,Salzburg,AUT,Atlético de Madrid,73.0,Madrid,ESP,Atlético de Madrid
+SF-2,Slavia Praha,42.0,Prague,CZE,Paris Saint-Germain,101.0,Paris,FRA,Paris Saint-Germain
+Final,Atlético de Madrid,73.0,Madrid,ESP,Paris Saint-Germain,101.0,Paris,FRA,Paris Saint-Germain

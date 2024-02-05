@@ -1,37 +1,37 @@
 team_name,association,uefa_coefficient,city,status
-Real Madrid,ESP,123.0,Madrid,UEFA Champions League Winner
+Manchester City,ENG,130.0,Manchester,UEFA Champions League Winner
 Sevilla,ESP,84.0,Seville,UEFA Europa League Winner
-West Ham,ENG,65.0,London,
-Arsenal,ENG,68.0,London,
-Tottenham Hotspur,ENG,54.0,London,
-Manchester United,ENG,92.0,Manchester,
-Villarreal,ESP,80.0,Villarreal,
-Barcelona,ESP,85.0,Barcelona,
-Atlético de Madrid,ESP,84.0,Madrid,
-Eintracht Frankfurt,GER,60.0,Frankfurt,
-Mönchengladbach,GER,21.0,Mönchengladbach,
-RB Leipzig,GER,96.0,Leipzig,
-Bayer 04 Leverkusen,GER,78.0,Leverkusen,
+Newcastle,ENG,18.635,Newcastle upon Tyne,
+Aston Villa,ENG,18.635,Birmingham,
+Manchester United,ENG,91.0,Manchester,
+Real Sociedad,ESP,42.0,San Sebastián,
+Real Betis,ESP,31.0,Seville,
+Real Madrid,ESP,112.0,Madrid,
+Atlético de Madrid,ESP,73.0,Madrid,
+Eintracht Frankfurt,GER,57.0,Frankfurt,
+Borussia Dortmund,GER,75.0,Dortmund,
+Bayer 04 Leverkusen,GER,67.0,Leverkusen,
+RB Leipzig,GER,87.0,Leipzig,
+Atalanta,ITA,58.0,Bergamo,
+Fiorentina,ITA,24.0,Florence,
 Juventus,ITA,80.0,Turin,
-Roma,ITA,91.0,Rome,
-AC Milan,ITA,53.0,Milan,
-Inter,ITA,99.0,Milan,
-Monaco,FRA,24.0,Monaco,
+Lazio,ITA,43.0,Rome,
+Rennes,FRA,37.0,Rennes,
 Lyon,FRA,44.0,Lyon,
-Nice,FRA,17.0,Nice,
-Feyenoord,NED,57.0,Rotterdam,
-PSV,NED,53.0,Eindhoven,
-Braga,POR,49.0,Braga,
-Club Brugge,BEL,56.0,Bruges,
-Celtic,SCO,32.0,Glasgow,
-Salzburg,AUT,50.0,Salzburg,
-Liverpool,ENG,107.0,Liverpool,
+Paris Saint-Germain,FRA,101.0,Paris,
+AZ Alkmaar,NED,48.0,Alkmaar,
+PSV,NED,43.0,Eindhoven,
+Braga,POR,48.0,Braga,
+Antwerp,BEL,21.0,Antwerp,
+Celtic,SCO,30.0,Glasgow,
+Salzburg,AUT,49.0,Salzburg,
+West Ham,ENG,54.0,London,
+Villarreal,ESP,68.0,Villarreal,
 Crvena zvezda,SRB,40.0,Belgrade,
-Paris Saint-Germain,FRA,108.0,Paris,
-Čukarički,SRB,8.0,Belgrade
-Lugano,SUI,8.0,Lugano
-Dynamo Kyiv,UKR,26.5,Bucharest
-Galatasaray,TUR,31.5,Istanbul
-Ferencváros,HUN,35.0,Budapest
-FC Porto,POR,75.0,Porto
-AZ Alkmaar,NED,50.0,Alkmaar
+Slavia Praha,CZE,42.0,Prague
+Raków Częstochowa,POL,6.0,Częstochowa
+Rijeka,CRO,12.0,Rijeka
+Young Boys,SUI,32.5,Bern
+Copenhagen,DEN,41.5,Copenhagen
+Monaco,FRA,24.0,Monaco
+Ajax,NED,64.0,Amsterdam
