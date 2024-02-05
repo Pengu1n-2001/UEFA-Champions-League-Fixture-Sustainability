@@ -1,6 +1,6 @@
 rank,team_name,association,uefa_coefficient,city
-1,Feyenoord,NED,57.0,Rotterdam
-2,AZ Alkmaar,NED,50.0,Alkmaar
-3,PSV,NED,53.0,Eindhoven
-4,Ajax,NED,66.0,Amsterdam
-5,Twente,NED,11.98,Enschede
+1,Twente,NED,11.42,Enschede
+2,PSV,NED,43.0,Eindhoven
+3,Ajax,NED,64.0,Amsterdam
+4,AZ Alkmaar,NED,48.0,Alkmaar
+5,Feyenoord,NED,57.0,Rotterdam

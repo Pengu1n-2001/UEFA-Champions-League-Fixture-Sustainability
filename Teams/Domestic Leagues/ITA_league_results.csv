@@ -1,10 +1,10 @@
 rank,team_name,association,uefa_coefficient,city
-1,Atalanta,ITA,68.0,Bergamo
-2,Napoli,ITA,79.0,Naples
-3,Juventus,ITA,80.0,Turin
-4,Fiorentina,ITA,31.0,Florence
-5,AC Milan,ITA,53.0,Milan
-6,Lazio,ITA,52.0,Rome
-7,Roma,ITA,91.0,Rome
-8,Inter,ITA,99.0,Milan
-9,Torino,ITA,16.656,Turin
+1,Juventus,ITA,80.0,Turin
+2,Fiorentina,ITA,24.0,Florence
+3,AC Milan,ITA,49.0,Milan
+4,Atalanta,ITA,58.0,Bergamo
+5,Roma,ITA,86.0,Rome
+6,Inter,ITA,90.0,Milan
+7,Napoli,ITA,71.0,Naples
+8,Lazio,ITA,43.0,Rome
+9,Torino,ITA,15.171,Turin
