@@ -1,0 +1,37 @@
+rank,team_name,association,uefa_coefficient,city,points,wins,draws,losses
+1,Arsenal,ENG,68.0,London,19,6,1,1
+2,Crvena zvezda,SRB,40.0,Belgrade,19,6,1,1
+3,Paris Saint-Germain,FRA,108.0,Paris,16,5,1,2
+4,Juventus,ITA,80.0,Turin,16,5,1,2
+5,Villarreal,ESP,80.0,Villarreal,16,5,1,2
+6,Real Madrid,ESP,123.0,Madrid,15,5,0,3
+7,Sevilla,ESP,84.0,Seville,15,5,0,3
+8,West Ham,ENG,65.0,London,15,4,3,1
+9,Tottenham Hotspur,ENG,54.0,London,15,5,0,3
+10,AC Milan,ITA,53.0,Milan,15,4,3,1
+11,Liverpool,ENG,107.0,Liverpool,14,4,2,2
+12,Club Brugge,BEL,56.0,Bruges,14,4,2,2
+13,Braga,POR,49.0,Braga,13,3,4,1
+14,RB Leipzig,GER,96.0,Leipzig,12,3,3,2
+15,Roma,ITA,91.0,Rome,12,3,3,2
+16,Lyon,FRA,44.0,Lyon,12,3,3,2
+17,Manchester United,ENG,92.0,Manchester,11,3,2,3
+18,Barcelona,ESP,85.0,Barcelona,11,3,2,3
+19,Eintracht Frankfurt,GER,60.0,Frankfurt,11,3,2,3
+20,Salzburg,AUT,50.0,Salzburg,11,3,2,3
+21,Galatasaray,TUR,31.5,Istanbul,11,3,2,3
+22,Inter,ITA,99.0,Milan,10,3,1,4
+23,Dynamo Kyiv,UKR,26.5,Bucharest,10,3,1,4
+24,Monaco,FRA,24.0,Monaco,10,3,1,4
+25,Mönchengladbach,GER,21.0,Mönchengladbach,10,3,1,4
+26,Feyenoord,NED,57.0,Rotterdam,9,2,3,3
+27,Atlético de Madrid,ESP,84.0,Madrid,8,2,2,4
+28,AZ Alkmaar,NED,50.0,Alkmaar,8,2,2,4
+29,Bayer 04 Leverkusen,GER,78.0,Leverkusen,7,2,1,5
+30,Ferencváros,HUN,35.0,Budapest,7,2,1,5
+31,FC Porto,POR,75.0,Porto,6,1,3,4
+32,PSV,NED,53.0,Eindhoven,6,1,3,4
+33,Čukarički,SRB,8.0,Belgrade,5,1,2,5
+34,Celtic,SCO,32.0,Glasgow,4,1,1,6
+35,Nice,FRA,17.0,Nice,3,0,3,5
+36,Lugano,SUI,8.0,Lugano,3,0,3,5

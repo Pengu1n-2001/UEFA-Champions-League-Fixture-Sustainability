@@ -1,9 +1,9 @@
 rank,team_name,association,uefa_coefficient,city
-1,Lyon,FRA,44.0,Lyon
-2,Rennes,FRA,43.0,Rennes
-3,Nice,FRA,17.0,Nice
-4,Marseille,FRA,40.0,Marseille
+1,Nice,FRA,17.0,Nice
+2,Lyon,FRA,44.0,Lyon
+3,Monaco,FRA,24.0,Monaco
+4,Paris Saint-Germain,FRA,108.0,Paris
 5,Lille,FRA,42.0,Lille
-6,Paris Saint-Germain,FRA,108.0,Paris
+6,Rennes,FRA,43.0,Rennes
 7,Lens,FRA,12.432,Lens
-8,Monaco,FRA,24.0,Monaco
+8,Marseille,FRA,40.0,Marseille

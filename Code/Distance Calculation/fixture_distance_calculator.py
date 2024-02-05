@@ -14,7 +14,8 @@ def haversine(lat1, lon1, lat2, lon2):
     return distance
 
 # Read fixture data
-with open('../../Fixtures, Tables and Results/Fixtures for Distance Calculation/league_stage_and_poko_fixtures.csv', 'r', encoding='utf-8') as fixture_csv:
+with open(
+        '../../Fixtures, Tables, Stats and Results/Stats/Fixtures for Distance Calculation/league_stage_and_poko_fixtures.csv', 'r', encoding='utf-8') as fixture_csv:
     fixtures = list(csv.reader(fixture_csv))
 
 # Read city data, skipping the header row
@@ -41,5 +42,6 @@ for fixture in fixtures:
     new_data.append([fixture[0], home_city, fixture[2], away_city, fixture[4], distance])
 
 # Write new data to CSV
-with open('../../Fixtures, Tables and Results/Fixtures for Distance Calculation/league_stage_and_poko_fixtures_distances.csv', 'w', newline='', encoding='utf-8') as output_csv:
+with open(
+        '../../Fixtures, Tables, Stats and Results/Stats/Fixtures for Distance Calculation/league_stage_and_poko_fixtures_distances.csv', 'w', newline='', encoding='utf-8') as output_csv:
     csv.writer(output_csv).writerows(new_data)
