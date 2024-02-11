@@ -1,18 +1,18 @@
 import csv
 def create_fixtures_csv(league_stage_file, knockout_stage_file, output_file):
-    with open(league_stage_file, 'r') as league_csv:
+    with open(league_stage_file, 'r',encoding='utf-8') as league_csv:
         league_fixtures = list(csv.reader(league_csv))
 
     league_fixtures_data = [[row[1], row[3], row[5], row[7], ''] for row in league_fixtures[1:]]
 
-    with open(knockout_stage_file, 'r') as knockout_csv:
+    with open(knockout_stage_file, 'r',encoding='utf-8') as knockout_csv:
         knockout_fixtures = list(csv.reader(knockout_csv))
 
     knockout_fixtures_data = [[row[1], row[3], row[5], row[7], '1'] for row in knockout_fixtures[1:9]]
 
     all_fixtures_data = league_fixtures_data + knockout_fixtures_data
 
-    with open(output_file, 'w', newline='') as output_csv:
+    with open(output_file, 'w', newline='',encoding='utf-8') as output_csv:
         csv.writer(output_csv).writerow(['home_team', 'home_team_city', 'away_team', 'away_team_city', 'double_legged_status'])
         csv.writer(output_csv).writerows(all_fixtures_data)
 

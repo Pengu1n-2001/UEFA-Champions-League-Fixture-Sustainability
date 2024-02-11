@@ -1,0 +1,101 @@
+run,average_distance_travelled_per_team,average_distance_travelled_per_game,total_distance_travelled,longest_distance_travelled_by_a_team,fixture_with_longest_distance
+1,5168,1180,186032,Sevilla - 7862,Crvena zvezda (belgrade) v Benfica (lisbon) - 2530.0
+2,5378,1218,193626,Bodø/Glimt - 10162,Dynamo Kyiv (bucharest) v Sporting CP (lisbon) - 2975.0
+3,4395,1002,158204,FC Porto - 7627,Aberdeen (aberdeen) v Real Betis (seville) - 2216.0
+4,5539,1256,199388,Bodø/Glimt - 11132,Bodø/Glimt (bodø) v Benfica (lisbon) - 3495.0
+5,5068,1140,182449,Crvena zvezda - 10586,Monaco (monaco) v Bodø/Glimt (bodø) - 2651.0
+6,5448,1242,196137,APOEL - 10840,Tottenham Hotspur (london) v APOEL (nicosia) - 3218.0
+7,5849,1330,210570,Pyunik - 13152,Sporting CP (lisbon) v Pyunik (yerevan) - 4538.0
+8,4942,1127,177910,AEK Athens - 8961,Real Madrid (madrid) v Beşiktaş (istanbul) - 2739.0
+9,4668,1061,168047,Real Betis - 7012,Aberdeen (aberdeen) v Real Betis (seville) - 2216.0
+10,5666,1288,203984,HJK - 9764,Real Betis (seville) v HJK (helsinki) - 3339.0
+11,5431,1218,195510,Qarabağ - 12802,Qarabağ (baku) v Atlético de Madrid (madrid) - 4466.0
+12,5269,1204,189694,FC Porto - 9020,Bodø/Glimt (bodø) v Atlético de Madrid (madrid) - 3186.0
+13,5137,1158,184943,Benfica - 8300,Benfica (lisbon) v Ludogorets (razgrad) - 3011.0
+14,5074,1157,182653,Qarabağ - 14673,Sevilla (seville) v Qarabağ (baku) - 4767.0
+15,5698,1298,205123,Adana Demirspor - 11654,Sevilla (seville) v Adana Demirspor (adana) - 3629.0
+16,4991,1120,179675,Sporting CP - 10146,Crvena zvezda (belgrade) v Sporting CP (lisbon) - 2530.0
+17,5232,1188,188351,Galatasaray - 9655,Galatasaray (istanbul) v Benfica (lisbon) - 3237.0
+18,5315,1194,191329,Real Betis - 9781,Dynamo Kyiv (bucharest) v Sevilla (seville) - 2788.0
+19,5057,1137,182038,Napoli - 8388,Barcelona (barcelona) v Flora Tallinn (tallinn) - 2541.0
+20,5538,1246,199382,Galatasaray - 10689,Bodø/Glimt (bodø) v Sporting CP (lisbon) - 3495.0
+21,5729,1293,206250,Maccabi Haifa - 11568,Maccabi Haifa (haifa) v Sevilla (seville) - 3733.0
+22,4671,1066,168160,HJK - 8001,Galatasaray (istanbul) v Aston Villa (birmingham) - 2630.0
+23,5325,1217,191707,Bodø/Glimt - 10433,Olympiacos (piraeus) v Benfica (lisbon) - 2849.0
+24,5098,1162,183534,APOEL - 12185,Benfica (lisbon) v APOEL (nicosia) - 3765.0
+25,4837,1098,174143,Sevilla - 10139,Sevilla (seville) v KÍ Klaksvík (klaksvík) - 2762.0
+26,6134,1410,220842,Ordabasy - 20276,Atlético de Madrid (madrid) v Ordabasy (shymkent) - 5921.0
+27,5011,1128,180379,APOEL - 11176,APOEL (nicosia) v Rangers (glasgow) - 3652.0
+28,5765,1292,207536,Qarabağ - 19175,FC Porto (porto) v Qarabağ (baku) - 4831.0
+29,5954,1340,214358,Qarabağ - 17834,Qarabağ (baku) v Benfica (lisbon) - 4968.0
+30,5375,1202,193501,Olympiacos - 10758,Sheriff (tiraspol) v Benfica (lisbon) - 3264.0
+31,4978,1148,179198,Real Betis - 8439,Sevilla (seville) v Ludogorets (razgrad) - 2814.0
+32,6059,1358,218131,Qarabağ - 15521,Rennes (rennes) v Qarabağ (baku) - 4116.0
+33,5755,1300,207180,H. Beer Sheva - 13651,Manchester United (manchester) v H. Beer Sheva (beer sheva) - 3848.0
+34,5293,1203,190563,Beşiktaş - 10273,Rangers (glasgow) v Beşiktaş (istanbul) - 2912.0
+35,5263,1180,189478,Real Betis - 10007,Olympiacos (piraeus) v Sevilla (seville) - 2602.0
+36,5306,1179,191017,Maccabi Haifa - 15811,Manchester United (manchester) v Maccabi Haifa (haifa) - 3728.0
+37,4992,1116,179701,Sevilla - 9902,Benfica (lisbon) v Slavia Praha (prague) - 2244.0
+38,4810,1094,173164,FC Porto - 7754,Sevilla (seville) v Riga (riga) - 3101.0
+39,5018,1131,180657,Bodø/Glimt - 12046,Benfica (lisbon) v Fenerbahçe (istanbul) - 3237.0
+40,5372,1228,193397,APOEL - 10797,APOEL (nicosia) v Sevilla (seville) - 3511.0
+41,5504,1256,198160,Real Betis - 8799,Benfica (lisbon) v Riga (riga) - 3151.0
+42,5064,1152,182317,Real Betis - 10279,Bodø/Glimt (bodø) v Real Madrid (madrid) - 3186.0
+43,5988,1354,215586,Maccabi Haifa - 13163,Maccabi Haifa (haifa) v Rangers (glasgow) - 3952.0
+44,5580,1255,200892,Maccabi Haifa - 12026,Maccabi Haifa (haifa) v Braga (braga) - 3925.0
+45,5054,1135,181946,Galatasaray - 9412,Galatasaray (istanbul) v Rennes (rennes) - 2535.0
+46,5192,1175,186902,Sevilla - 9353,Rangers (glasgow) v Olympiacos (piraeus) - 2872.0
+47,4766,1086,171582,Real Betis - 7664,Barcelona (barcelona) v Riga (riga) - 2333.0
+48,4884,1094,175819,Benfica - 7418,Rangers (glasgow) v Olympiacos (piraeus) - 2872.0
+49,5185,1190,186649,Lincoln Red Imps - 7976,Zorya Luhansk (lublin) v Benfica (lisbon) - 2825.0
+50,4973,1130,179039,Galatasaray - 9230,Galatasaray (istanbul) v Linfield (belfast) - 2969.0
+51,5190,1170,186829,H. Beer Sheva - 15707,Benfica (lisbon) v H. Beer Sheva (beer sheva) - 4047.0
+52,5034,1136,181222,Benfica - 9480,Fenerbahçe (istanbul) v Rangers (glasgow) - 2912.0
+53,5888,1315,211958,Bodø/Glimt - 12107,Bodø/Glimt (bodø) v Sevilla (seville) - 3562.0
+54,5175,1163,186316,Olympiacos - 10419,Manchester City (manchester) v Olympiacos (piraeus) - 2624.0
+55,5081,1151,182924,Fenerbahçe - 10404,Fenerbahçe (istanbul) v Sevilla (seville) - 3019.0
+56,5493,1238,197737,KÍ Klaksvík - 8899,APOEL (nicosia) v Real Betis (seville) - 3511.0
+57,4931,1117,177500,Bodø/Glimt - 9999,Olympiacos (piraeus) v Bodø/Glimt (bodø) - 3309.0
+58,5037,1147,181319,Dinamo Tbilisi - 12354,Tottenham Hotspur (london) v Dinamo Tbilisi (tbilisi) - 3537.0
+59,4812,1085,173232,Benfica - 8406,Partizan (belgrade) v Benfica (lisbon) - 2530.0
+60,5014,1138,180504,Beşiktaş - 9781,Benfica (lisbon) v Beşiktaş (istanbul) - 3237.0
+61,4934,1121,177636,APOEL - 12275,Sevilla (seville) v APOEL (nicosia) - 3511.0
+62,4809,1091,173132,FC Porto - 7929,Malmö FF (malmö) v Sevilla (seville) - 2479.0
+63,5542,1256,199505,Galatasaray - 11442,Bodø/Glimt (bodø) v Benfica (lisbon) - 3495.0
+64,5247,1179,188883,Bodø/Glimt - 11136,Atlético de Madrid (madrid) v Bodø/Glimt (bodø) - 3186.0
+65,4983,1125,179383,Bodø/Glimt - 9364,Bodø/Glimt (bodø) v Real Betis (seville) - 3562.0
+66,5416,1208,194992,Bodø/Glimt - 12069,Bodø/Glimt (bodø) v FC Porto (porto) - 3224.0
+67,5340,1204,192247,Bodø/Glimt - 11449,Sevilla (seville) v Bodø/Glimt (bodø) - 3562.0
+68,6313,1437,227256,Qarabağ - 13188,Manchester City (manchester) v Qarabağ (baku) - 4112.0
+69,4859,1093,174912,Galatasaray - 8801,Benfica (lisbon) v Galatasaray (istanbul) - 3237.0
+70,5011,1139,180392,Benfica - 8326,Real Betis (seville) v CFR Cluj (cluj-napoca) - 2636.0
+71,4622,1039,166397,Celtic - 8540,Sevilla (seville) v Union Berlin (berlin) - 2257.0
+72,5032,1123,181146,Sevilla - 8863,Zorya Luhansk (lublin) v Sevilla (seville) - 2718.0
+73,5308,1205,191090,Fenerbahçe - 11131,HJK (helsinki) v Sevilla (seville) - 3339.0
+74,5047,1127,181702,Olympiacos - 10752,Sevilla (seville) v Galatasaray (istanbul) - 3019.0
+75,5514,1233,198503,Olympiacos - 11912,FC Porto (porto) v Fenerbahçe (istanbul) - 3126.0
+76,5783,1309,208198,Galatasaray - 10815,FC Porto (porto) v Galatasaray (istanbul) - 3126.0
+77,5800,1324,208783,Qarabağ - 14937,Qarabağ (baku) v Benfica (lisbon) - 4968.0
+78,5017,1141,180601,Fenerbahçe - 10512,Braga (braga) v HJK (helsinki) - 3069.0
+79,5783,1296,208188,Qarabağ - 16993,Real Madrid (madrid) v Qarabağ (baku) - 4466.0
+80,5435,1223,195644,Fenerbahçe - 10944,Rangers (glasgow) v Fenerbahçe (istanbul) - 2912.0
+81,5259,1180,189321,Sevilla - 10919,Bodø/Glimt (bodø) v Sevilla (seville) - 3562.0
+82,5121,1158,184367,Panathinaikos - 8770,Beşiktaş (istanbul) v Celtic (glasgow) - 2912.0
+83,5611,1268,201982,Maccabi Haifa - 13091,Benfica (lisbon) v Maccabi Haifa (haifa) - 3997.0
+84,5376,1211,193538,Flora Tallinn - 10744,Braga (braga) v Flora Tallinn (tallinn) - 3023.0
+85,5387,1217,193939,Bodø/Glimt - 9187,Bodø/Glimt (bodø) v Real Madrid (madrid) - 3186.0
+86,4905,1103,176582,Fenerbahçe - 9595,Fenerbahçe (istanbul) v Sporting CP (lisbon) - 3237.0
+87,5141,1155,185064,Galatasaray - 10650,Galatasaray (istanbul) v Real Madrid (madrid) - 2739.0
+88,5820,1321,209532,Qarabağ - 13713,Qarabağ (baku) v Benfica (lisbon) - 4968.0
+89,5435,1210,195662,Galatasaray - 9654,Benfica (lisbon) v Dynamo Kyiv (bucharest) - 2975.0
+90,5276,1178,189946,Bodø/Glimt - 11632,Fenerbahçe (istanbul) v Bodø/Glimt (bodø) - 3054.0
+91,5398,1212,194342,Bodø/Glimt - 12109,FC Porto (porto) v Bodø/Glimt (bodø) - 3224.0
+92,5572,1276,200604,H. Beer Sheva - 12775,Rangers (glasgow) v H. Beer Sheva (beer sheva) - 4078.0
+93,4675,1044,168287,Crvena zvezda - 8384,Napoli (naples) v KÍ Klaksvík (klaksvík) - 2753.0
+94,5218,1185,187850,Sporting CP - 9724,Sevilla (seville) v CFR Cluj (cluj-napoca) - 2636.0
+95,5074,1162,182671,Víkingur Reykjavík - 9145,Víkingur Reykjavík (reykjavík) v Real Madrid (madrid) - 2886.0
+96,5150,1169,185386,Sevilla - 10313,Real Betis (seville) v Bodø/Glimt (bodø) - 3562.0
+97,5838,1301,210164,APOEL - 13931,Liverpool (liverpool) v APOEL (nicosia) - 3475.0
+98,4930,1113,177497,Sevilla - 8769,Galatasaray (istanbul) v Sevilla (seville) - 3019.0
+99,5709,1280,205541,Maccabi Haifa - 12568,Sevilla (seville) v Maccabi Haifa (haifa) - 3733.0
+100,5181,1176,186526,Sevilla - 9757,Galatasaray (istanbul) v Sevilla (seville) - 3019.0

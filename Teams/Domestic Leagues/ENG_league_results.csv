@@ -1,11 +1,11 @@
 rank,team_name,association,uefa_coefficient,city
-1,West Ham,ENG,54.0,London
-2,Manchester City,ENG,130.0,Manchester
-3,Arsenal,ENG,58.0,London
-4,Liverpool,ENG,100.0,Liverpool
-5,Manchester United,ENG,91.0,Manchester
-6,Tottenham Hotspur,ENG,54.0,London
-7,Chelsea,ENG,96.0,London
-8,Newcastle,ENG,18.635,Newcastle upon Tyne
+1,Tottenham Hotspur,ENG,54.0,London
+2,Chelsea,ENG,96.0,London
+3,Manchester United,ENG,91.0,Manchester
+4,West Ham,ENG,54.0,London
+5,Manchester City,ENG,130.0,Manchester
+6,Liverpool,ENG,100.0,Liverpool
+7,Newcastle,ENG,18.635,Newcastle upon Tyne
+8,Aston Villa,ENG,18.635,Birmingham
 9,Brighton,ENG,18.635,Brighton
-10,Aston Villa,ENG,18.635,Birmingham
+10,Arsenal,ENG,58.0,London

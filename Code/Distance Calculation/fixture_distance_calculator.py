@@ -1,45 +1,41 @@
 import csv
-from math import radians, sin, cos, sqrt, atan2
 
-def haversine(lat1, lon1, lat2, lon2):
-    R = 6371  # Radius of the Earth in kilometers
+def populate_fixture_distances(fixtures_file, distance_matrix_file, output_file):
+    # Read fixture data
+    with open(fixtures_file, 'r', encoding='utf-8') as fixture_csv:
+        fixtures = list(csv.reader(fixture_csv))
 
-    dlat = radians(lat2 - lat1)
-    dlon = radians(lon2 - lon1)
+    # Read distance matrix
+    with open(distance_matrix_file, 'r', encoding='utf-8') as matrix_csv:
+        distance_matrix_data = list(csv.reader(matrix_csv))
 
-    a = sin(dlat / 2) ** 2 + cos(radians(lat1)) * cos(radians(lat2)) * sin(dlon / 2) ** 2
-    c = 2 * atan2(sqrt(a), sqrt(1 - a))
+    # Extract cities and coordinates
+    cities = distance_matrix_data[0][1:]
+    coordinates = {row[0].lower(): row[1:] for row in distance_matrix_data[1:]}
 
-    distance = R * c
-    return distance
+    # Create new data with distances for each fixture using the matrix
+    new_data = [['home_team', 'home_team_city', 'away_team', 'away_team_city', 'double_legged_status', 'distance']]
 
-# Read fixture data
-with open('../../Fixtures, Tables and Results/Fixtures for Distance Calculation/league_stage_and_poko_fixtures.csv', 'r', encoding='utf-8') as fixture_csv:
-    fixtures = list(csv.reader(fixture_csv))
+    for fixture in fixtures[1:]:  # Assuming the header is present
+        home_team = fixture[1].lower()
+        away_team = fixture[3].lower()
 
-# Read city data, skipping the header row
-with open('../../Teams/UEFA Coefficients/city_location_data.csv', 'r', encoding='utf-8') as city_csv:
-    city_reader = csv.DictReader(city_csv)
-    cities = {row['city']: {'lat': float(row['latitude']), 'lon': float(row['longitude'])} for row in city_reader}
+        # Find distances using the matrix
+        if home_team in coordinates and away_team in coordinates:
+            distances = coordinates[home_team]
+            distance = float(distances[cities.index(away_team)])
+            new_data.append([fixture[0], home_team, fixture[2], away_team, fixture[4], distance])
+        else:
+            print(f"Warning: City coordinates not found for fixture {fixture}")
 
-# Calculate distances and create new data
-new_data = [['home_team', 'home_team_city', 'away_team', 'away_team_city', 'double_legged_status', 'distance']]
+    # Write new data to CSV
+    with open(output_file, 'w', newline='', encoding='utf-8') as output_csv:
+        csv.writer(output_csv).writerows(new_data)
 
-for fixture in fixtures:
-    home_city = fixture[1]
-    away_city = fixture[3]
+# Replace with your file paths
+fixtures_file_path = '../../Fixtures, Tables and Results/Fixtures for Distance Calculation/league_stage_and_poko_fixtures.csv'
+distance_matrix_file_path = '../../Teams/UEFA Coefficients/distance_matrix.csv'
+output_file_path = '../../Fixtures, Tables and Results/Fixtures for Distance Calculation/league_stage_and_poko_fixtures_distances.csv'
 
-    try:
-        home_coordinates = cities[home_city]
-        away_coordinates = cities[away_city]
-    except KeyError:
-        print(f"KeyError: City not found - home_team_city: {home_city}, away_team_city: {away_city}")
-        continue
-
-    distance = haversine(home_coordinates['lat'], home_coordinates['lon'], away_coordinates['lat'], away_coordinates['lon'])
-
-    new_data.append([fixture[0], home_city, fixture[2], away_city, fixture[4], distance])
-
-# Write new data to CSV
-with open('../../Fixtures, Tables and Results/Fixtures for Distance Calculation/league_stage_and_poko_fixtures_distances.csv', 'w', newline='', encoding='utf-8') as output_csv:
-    csv.writer(output_csv).writerows(new_data)
+# Use the function with your file paths
+populate_fixture_distances(fixtures_file_path, distance_matrix_file_path, output_file_path)

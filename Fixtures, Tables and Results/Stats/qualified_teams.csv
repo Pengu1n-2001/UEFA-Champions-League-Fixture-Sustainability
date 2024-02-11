@@ -1,372 +1,5328 @@
 run,team_name,uefa_coefficient,qualified
 1,Fenerbahçe,28.0,0
 1,Young Boys,32.5,1
-1,Shakhtar Donetsk,59.0,1
+1,Dynamo Kyiv,26.5,1
 1,Slavia Praha,42.0,1
-1,Shamrock Rovers,9.5,0
-1,H. Beer Sheva,17.0,0
-1,Bodø/Glimt,24.5,0
 1,Copenhagen,41.5,1
-1,CFR Cluj,26.5,1
-1,Inter Club d'Escaldes,6.0,0
-1,Galatasaray,30.5,1
-1,Aberdeen,7.5,0
-1,Sporting CP,45.5,1
-1,Monaco,24.0,0
-1,Ajax,64.0,0
-1,Union SG,22.0,0
-1,Rapid Wien,14.0,0
-1,Viktoria Plzeň,17.0,0
-1,Raków Częstochowa,6.0,0
-1,F91 Diddeleng,8.5,0
-1,Sabah,3.575,0
-1,KÍ Klaksvík,10.0,0
-1,Rijeka,12.0,0
-1,Tirana,5.5,0
-1,Partizan,25.5,0
-1,Servette,6.155,0
-1,Zorya Luhansk,16.5,0
-1,Panathinaikos,5.225,0
-1,Aris Limassol,4.37,0
-1,Malmö FF,18.5,0
-1,Kecskemét,4.125,0
-1,La Fiorita,4.5,0
-1,Panevezys,4.0,0
-1,Gżira,7.0,0
-1,Lincoln Red Imps,9.0,0
-1,Torpedo Zhodino,3.0,0
-1,Maribor,9.5,0
-1,Ballkani,7.5,0
-1,HJK,10.0,0
-1,CSKA 1948,3.675,0
-1,Slovan Bratislava,26.5,0
-1,Ordabasy,4.0,0
+1,Malmö FF,18.5,1
+1,Bodø/Glimt,24.5,0
+1,APOEL,14.5,0
+1,Legia Warszawa,13.0,0
 1,Sheriff,18.0,0
+1,Benfica,69.0,1
+1,Rapid Wien,14.0,1
+1,Feyenoord,57.0,0
+1,Lens,11.266,0
+1,Union SG,22.0,0
+1,Luzern,6.155,0
+1,Čukarički,5.555,0
+1,Shakhtar Donetsk,59.0,0
+1,Ludogorets,19.0,0
 1,Riga,11.0,0
-1,Pyunik,9.5,0
+1,Derry,4.0,0
+1,Larne,4.5,0
+1,Shkupi,7.5,0
+1,Ferencváros,30.0,0
+1,Beşiktaş,10.0,0
+1,Viktoria Plzeň,17.0,0
+1,Rijeka,12.0,0
+1,Olympiacos,34.0,0
+1,H. Beer Sheva,17.0,0
+1,CFR Cluj,26.5,0
+1,Panevezys,4.0,0
+1,Slovan Bratislava,26.5,0
+1,Partizani,6.5,0
+1,Dinamo Minsk,4.5,0
+1,Qarabağ,26.0,0
+1,HJK,10.0,0
 1,Zrinjski,8.5,0
-1,Linfield,10.0,0
-1,Dila,4.0,0
-1,Flora Tallinn,11.0,0
+1,Lincoln Red Imps,9.0,0
+1,Ordabasy,4.0,0
+1,Olimpija Ljubljana,6.5,0
+1,Ballkani,7.5,0
+1,Ararat-Armenia,8.0,0
+1,F91 Diddeleng,8.5,0
+1,KÍ Klaksvík,10.0,0
+1,Hamrun Spartans FC,4.5,0
+1,Dinamo Batumi,5.5,0
+1,Levadia,6.0,0
 1,Víkingur Reykjavík,4.0,0
 1,The New Saints,8.5,0
-1,Struga,3.5,0
-1,FK Budućnost Podgorica,8.0,0
-2,Adana Demirspor,7.07,0
-2,Lugano,8.0,1
-2,Shakhtar Donetsk,59.0,1
-2,Slavia Praha,42.0,0
-2,Malmö FF,18.5,1
-2,Pyunik,9.5,0
-2,Lech Poznań,20.5,1
-2,Slovan Bratislava,26.5,1
-2,Maccabi Haifa,14.0,0
-2,Debrecen,4.125,0
-2,Club Brugge,48.0,1
-2,FC Porto,66.0,0
-2,AZ Alkmaar,48.0,0
-2,Galatasaray,30.5,1
-2,Marseille,34.0,0
-2,Celtic,30.0,0
-2,Young Boys,32.5,0
-2,Partizan,25.5,0
-2,Shkëndija,8.0,0
-2,Rijeka,12.0,0
-2,AGF,5.64,0
-2,FK Budućnost Podgorica,8.0,0
-2,Bodø/Glimt,24.5,0
-2,APOEL,14.5,0
-2,Salzburg,49.0,0
+1,Inter Club d'Escaldes,6.0,0
+1,Sutjeska,7.5,0
+1,Tre Penne,5.5,0
+2,Crvena zvezda,40.0,1
+2,Fenerbahçe,28.0,0
+2,Young Boys,32.5,1
 2,Dnipro-1,10.5,0
-2,Sparta Praha,15.5,0
-2,Olympiacos,34.0,0
-2,CFR Cluj,26.5,0
-2,Larne,4.5,0
-2,Dinamo Minsk,4.5,0
-2,Petrocub,7.0,0
-2,Riga,11.0,0
-2,Ludogorets,19.0,0
-2,Borac,5.5,0
-2,Neftçi,10.0,0
-2,FC Santa Coloma,5.5,0
-2,Levadia,6.0,0
-2,Maribor,9.5,0
-2,Ordabasy,4.0,0
-2,Drita,6.5,0
-2,Derry,4.0,0
-2,HJK,10.0,0
-2,Panevezys,4.0,0
-2,Progrès,4.5,0
-2,KÍ Klaksvík,10.0,0
-2,Hamrun Spartans FC,4.5,0
-2,Dinamo Tbilisi,8.0,0
+2,Malmö FF,18.5,1
+2,Copenhagen,41.5,0
+2,Sheriff,18.0,1
+2,Bodø/Glimt,24.5,1
+2,Legia Warszawa,13.0,0
+2,AEK Larnaca,8.0,0
+2,Dynamo Kyiv,26.5,1
+2,Benfica,69.0,0
+2,AZ Alkmaar,48.0,1
+2,Rapid Wien,14.0,0
+2,Nice,17.0,0
+2,Club Brugge,48.0,0
+2,Celtic,30.0,0
+2,Viktoria Plzeň,17.0,0
 2,Víkingur Reykjavík,4.0,0
+2,Ludogorets,19.0,0
+2,KÍ Klaksvík,10.0,0
+2,Slavia Praha,42.0,0
+2,Flora Tallinn,11.0,0
+2,Connah's Quay,5.5,0
+2,Čukarički,5.555,0
+2,Galatasaray,30.5,0
+2,Luzern,6.155,0
+2,Rijeka,12.0,0
+2,Panathinaikos,5.225,0
+2,Maccabi Haifa,14.0,0
+2,HJK,10.0,0
 2,Tirana,5.5,0
-2,The New Saints,8.5,0
-2,Europa,5.5,0
+2,Pyunik,9.5,0
+2,CFR Cluj,26.5,0
+2,Ferencváros,30.0,0
+2,Progrès,4.5,0
+2,Lincoln Red Imps,9.0,0
+2,Dinamo Batumi,5.5,0
+2,Zrinjski,8.5,0
+2,Slovan Bratislava,26.5,0
+2,Qarabağ,26.0,0
+2,Ordabasy,4.0,0
+2,Celje,4.5,0
+2,Gjilani,3.0,0
+2,RFS,8.0,0
+2,St Patrick's,4.0,0
+2,Panevezys,4.0,0
+2,BATE Borisov,9.5,0
+2,Linfield,10.0,0
+2,Birkirkara,2.5,0
+2,Shkëndija,8.0,0
+2,Atlètic Club d'Escaldes,2.5,0
+2,Sutjeska,7.5,0
 2,La Fiorita,4.5,0
 3,Crvena zvezda,40.0,0
-3,Fenerbahçe,28.0,1
+3,Fenerbahçe,28.0,0
 3,Young Boys,32.5,1
-3,Shakhtar Donetsk,59.0,1
-3,Bodø/Glimt,24.5,1
-3,Sparta Praha,15.5,0
-3,Gżira,7.0,0
-3,Olympiacos,34.0,1
-3,Copenhagen,41.5,0
-3,Ferencváros,30.0,0
-3,AZ Alkmaar,48.0,0
-3,TSC Bačka Topola,5.555,1
-3,Union SG,22.0,1
-3,Sporting CP,45.5,0
-3,Nice,17.0,0
-3,Rangers,52.0,0
-3,LASK,34.0,0
-3,Adana Demirspor,7.07,0
-3,Partizani,6.5,0
-3,Qarabağ,26.0,0
-3,Riga,11.0,0
-3,HJK,10.0,0
-3,KÍ Klaksvík,10.0,0
-3,Malmö FF,18.5,0
-3,Lugano,8.0,0
 3,Dynamo Kyiv,26.5,0
-3,Bohemians Praha 1905,5.66,0
-3,Rijeka,12.0,0
-3,Maccabi Haifa,14.0,0
-3,Aris Limassol,4.37,0
-3,Lech Poznań,20.5,0
-3,Ordabasy,4.0,0
-3,FC Santa Coloma,5.5,0
-3,Shkupi,7.5,0
-3,Maribor,9.5,0
-3,FK Budućnost Podgorica,8.0,0
-3,Ballkani,7.5,0
-3,F91 Diddeleng,8.5,0
-3,Slovan Bratislava,26.5,0
-3,FCSB,10.5,0
-3,CSKA-Sofia,12.5,0
-3,Sheriff,18.0,0
-3,St Patrick's,4.0,0
-3,Panevezys,4.0,0
-3,Pyunik,9.5,0
-3,BATE Borisov,9.5,0
-3,Zrinjski,8.5,0
-3,Larne,4.5,0
-3,Dinamo Tbilisi,8.0,0
-3,Levadia,6.0,0
+3,HJK,10.0,0
+3,AEK Athens,10.0,0
+3,Progrès,4.5,1
+3,Lech Poznań,20.5,1
+3,Slavia Praha,42.0,1
+3,Slovan Bratislava,26.5,1
+3,Shakhtar Donetsk,59.0,1
+3,Benfica,69.0,0
+3,Nice,17.0,0
+3,Rangers,52.0,1
+3,PSV,43.0,0
+3,Antwerp,21.0,0
+3,Viktoria Plzeň,17.0,0
+3,Salzburg,49.0,0
 3,Víkingur Reykjavík,4.0,0
+3,Ferencváros,30.0,0
+3,BK Häcken,4.3,0
+3,AEK Larnaca,8.0,0
+3,Rijeka,12.0,0
+3,Zrinjski,8.5,0
+3,Partizan,25.5,0
+3,Galatasaray,30.5,0
+3,Servette,6.155,0
+3,Bodø/Glimt,24.5,0
+3,Nordsjælland,5.64,0
+3,Maccabi Haifa,14.0,0
 3,The New Saints,8.5,0
-3,Lincoln Red Imps,9.0,0
-3,Tre Penne,5.5,0
-4,Beşiktaş,10.0,0
-4,Luzern,6.155,0
-4,Zorya Luhansk,16.5,1
-4,Viktoria Plzeň,17.0,1
-4,Sheriff,18.0,0
-4,CFR Cluj,26.5,0
-4,Bodø/Glimt,24.5,1
-4,BATE Borisov,9.5,1
-4,Riga,11.0,0
-4,Lech Poznań,20.5,1
-4,AZ Alkmaar,48.0,1
-4,Shakhtar Donetsk,59.0,1
-4,Monaco,24.0,0
-4,Club Brugge,48.0,0
-4,FC Porto,66.0,0
-4,Celtic,30.0,0
+3,Olimpija Ljubljana,6.5,0
+3,Shkupi,7.5,0
+3,Petrocub,7.0,0
+3,Ordabasy,4.0,0
+3,Hamrun Spartans FC,4.5,0
+3,Larne,4.5,0
+3,Dinamo Batumi,5.5,0
+3,FCSB,10.5,0
+3,CSKA 1948,3.675,0
+3,Qarabağ,26.0,0
+3,Ballkani,7.5,0
+3,Riga,11.0,0
+3,Shamrock Rovers,9.5,0
+3,Panevezys,4.0,0
+3,Urartu,3.5,0
+3,Dinamo Minsk,4.5,0
+3,KÍ Klaksvík,10.0,0
+3,Levadia,6.0,0
+3,Tirana,5.5,0
+3,Europa,5.5,0
+3,FC Santa Coloma,5.5,0
+3,FK Budućnost Podgorica,8.0,0
+3,La Fiorita,4.5,0
+4,Partizan,25.5,1
 4,Galatasaray,30.5,0
+4,Young Boys,32.5,1
+4,Dynamo Kyiv,26.5,0
+4,BATE Borisov,9.5,1
+4,Flora Tallinn,11.0,0
+4,Malmö FF,18.5,0
+4,Bodø/Glimt,24.5,1
+4,Lech Poznań,20.5,0
+4,Ferencváros,30.0,1
+4,Shakhtar Donetsk,59.0,0
+4,Feyenoord,57.0,1
+4,Celtic,30.0,1
+4,Lille,35.0,0
+4,FC Porto,66.0,0
+4,Club Brugge,48.0,0
 4,LASK,34.0,0
-4,Copenhagen,41.5,0
-4,Linfield,10.0,0
+4,Sparta Praha,15.5,0
+4,Drita,6.5,0
+4,Tre Penne,5.5,0
 4,Rijeka,12.0,0
-4,Aris Limassol,4.37,0
-4,Partizani,6.5,0
-4,Maccabi Haifa,14.0,0
-4,Partizan,25.5,0
-4,Young Boys,32.5,0
-4,Bohemians Praha 1905,5.66,0
-4,AEK Athens,10.0,0
-4,IF Elfsborg,4.3,0
-4,Kecskemét,4.125,0
-4,Shamrock Rovers,9.5,0
-4,La Fiorita,4.5,0
-4,Shkëndija,8.0,0
-4,Panevezys,4.0,0
-4,Celje,4.5,0
-4,Atlètic Club d'Escaldes,2.5,0
-4,Levadia,6.0,0
+4,Dunajská Streda,8.0,0
+4,Maribor,9.5,0
+4,Dinamo Batumi,5.5,0
+4,Fenerbahçe,28.0,0
+4,Servette,6.155,0
+4,Viktoria Plzeň,17.0,0
+4,Copenhagen,41.5,0
+4,Olympiacos,34.0,0
+4,H. Beer Sheva,17.0,0
+4,APOEL,14.5,0
 4,KÍ Klaksvík,10.0,0
-4,Ballkani,7.5,0
-4,CSKA 1948,3.675,0
-4,Slovan Bratislava,26.5,0
-4,Qarabağ,26.0,0
-4,Ordabasy,4.0,0
-4,HJK,10.0,0
-4,Pyunik,9.5,0
-4,Borac,5.5,0
-4,Progrès,4.5,0
-4,Gżira,7.0,0
-4,Dinamo Tbilisi,8.0,0
-4,Víkingur Reykjavík,4.0,0
 4,The New Saints,8.5,0
-4,Magpies,2.0,0
-4,FK Budućnost Podgorica,8.0,0
-5,Čukarički,5.555,1
+4,Sheriff,18.0,0
+4,Ordabasy,4.0,0
+4,Ludogorets,19.0,0
+4,Hamrun Spartans FC,4.5,0
+4,Víkingur Reykjavík,4.0,0
+4,FCSB,10.5,0
+4,Neftçi,10.0,0
+4,Riga,11.0,0
+4,Shamrock Rovers,9.5,0
+4,HJK,10.0,0
+4,Panevezys,4.0,0
+4,Ararat-Armenia,8.0,0
+4,Zrinjski,8.5,0
+4,Swift Hesper,3.0,0
+4,Linfield,10.0,0
+4,Tirana,5.5,0
+4,Lincoln Red Imps,9.0,0
+4,Shkupi,7.5,0
+4,Atlètic Club d'Escaldes,2.5,0
+4,Sutjeska,7.5,0
+5,Partizan,25.5,0
 5,Fenerbahçe,28.0,0
-5,Young Boys,32.5,1
-5,Dynamo Kyiv,26.5,1
-5,BATE Borisov,9.5,0
-5,Olympiacos,34.0,0
-5,H. Beer Sheva,17.0,0
-5,Rijeka,12.0,1
-5,Kecskemét,4.125,0
+5,Servette,6.155,0
+5,Zorya Luhansk,16.5,0
+5,Bodø/Glimt,24.5,1
+5,Copenhagen,41.5,1
+5,Slovan Bratislava,26.5,1
 5,KÍ Klaksvík,10.0,1
-5,Galatasaray,30.5,0
+5,Riga,11.0,1
+5,Pyunik,9.5,0
 5,AZ Alkmaar,48.0,0
 5,LASK,34.0,1
-5,Shakhtar Donetsk,59.0,1
-5,Monaco,24.0,0
-5,Braga,48.0,0
-5,Club Brugge,48.0,0
-5,Celtic,30.0,0
-5,Ararat-Armenia,8.0,0
-5,Drita,6.5,0
-5,Nordsjælland,5.64,0
-5,CFR Cluj,26.5,0
-5,Dinamo Tbilisi,8.0,0
-5,Slovan Bratislava,26.5,0
-5,Servette,6.155,0
 5,Slavia Praha,42.0,0
+5,Antwerp,21.0,1
+5,Twente,11.42,0
+5,Benfica,69.0,0
+5,Celtic,30.0,0
+5,Dynamo Kyiv,26.5,0
+5,CSKA-Sofia,12.5,0
 5,Viktoria Plzeň,17.0,0
-5,Bodø/Glimt,24.5,0
+5,Ferencváros,30.0,0
+5,Maccabi Haifa,14.0,0
+5,AEK Athens,10.0,0
 5,AEK Larnaca,8.0,0
-5,BK Häcken,4.3,0
+5,Galatasaray,30.5,0
+5,Luzern,6.155,0
+5,Rijeka,12.0,0
+5,Malmö FF,18.5,0
 5,Raków Częstochowa,6.0,0
-5,CSKA 1948,3.675,0
-5,Connah's Quay,5.5,0
-5,Shkëndija,8.0,0
-5,FK Budućnost Podgorica,8.0,0
-5,Sabah,3.575,0
-5,Shamrock Rovers,9.5,0
-5,Ordabasy,4.0,0
-5,Maribor,9.5,0
-5,Petrocub,7.0,0
-5,Riga,11.0,0
 5,HJK,10.0,0
+5,Sheriff,18.0,0
+5,Celje,4.5,0
+5,Birkirkara,2.5,0
+5,Ordabasy,4.0,0
+5,Dinamo Tbilisi,8.0,0
+5,Shkupi,7.5,0
+5,Lincoln Red Imps,9.0,0
+5,The New Saints,8.5,0
+5,Farul Constanța,4.275,0
+5,Sabah,3.575,0
+5,Gjilani,3.0,0
+5,Shamrock Rovers,9.5,0
 5,Panevezys,4.0,0
-5,Zrinjski,8.5,0
-5,Swift Hesper,3.0,0
+5,BATE Borisov,9.5,0
+5,Željezničar,2.5,0
+5,Progrès,4.5,0
 5,Linfield,10.0,0
-5,Hamrun Spartans FC,4.5,0
 5,Flora Tallinn,11.0,0
 5,Víkingur Reykjavík,4.0,0
-5,Partizani,6.5,0
-5,Magpies,2.0,0
-5,FC Santa Coloma,5.5,0
-5,SS Cosmos,1.0,0
-6,Galatasaray,30.5,0
-6,Luzern,6.155,0
-6,Dynamo Kyiv,26.5,1
-6,Bohemians Praha 1905,5.66,1
-6,Bodø/Glimt,24.5,1
-6,Copenhagen,41.5,1
-6,Malmö FF,18.5,0
-6,Olympiacos,34.0,0
-6,Ferencváros,30.0,0
-6,Flora Tallinn,11.0,1
-6,Braga,48.0,0
-6,Salzburg,49.0,0
-6,Slavia Praha,42.0,1
-6,Club Brugge,48.0,1
-6,Marseille,34.0,0
-6,Ajax,64.0,0
-6,Celtic,30.0,0
-6,Young Boys,32.5,0
-6,Slovan Bratislava,26.5,0
-6,Legia Warszawa,13.0,0
-6,Dinamo Minsk,4.5,0
-6,Gjilani,3.0,0
-6,Partizani,6.5,0
-6,Rijeka,12.0,0
-6,Partizan,25.5,0
-6,Fenerbahçe,28.0,0
-6,Shakhtar Donetsk,59.0,0
-6,H. Beer Sheva,17.0,0
-6,Aris Limassol,4.37,0
-6,CFR Cluj,26.5,0
-6,Larne,4.5,0
-6,Riga,11.0,0
-6,Sutjeska,7.5,0
-6,Derry,4.0,0
-6,KÍ Klaksvík,10.0,0
-6,Pyunik,9.5,0
-6,Panevezys,4.0,0
-6,Neftçi,10.0,0
-6,Sheriff,18.0,0
-6,Ludogorets,19.0,0
-6,Ordabasy,4.0,0
-6,Olimpija Ljubljana,6.5,0
-6,HJK,10.0,0
-6,Željezničar,2.5,0
-6,F91 Diddeleng,8.5,0
-6,Gżira,7.0,0
-6,Dinamo Tbilisi,8.0,0
+5,Tirana,5.5,0
+5,Inter Club d'Escaldes,6.0,0
+5,FK Budućnost Podgorica,8.0,0
+5,Tre Penne,5.5,0
+6,TSC Bačka Topola,5.555,0
+6,Fenerbahçe,28.0,1
+6,Young Boys,32.5,1
+6,Zorya Luhansk,16.5,0
+6,Bodø/Glimt,24.5,0
 6,Víkingur Reykjavík,4.0,0
+6,Sparta Praha,15.5,0
+6,APOEL,14.5,1
+6,Copenhagen,41.5,1
+6,Rijeka,12.0,1
+6,Lyon,44.0,0
+6,Twente,11.42,0
+6,Braga,48.0,1
+6,Club Brugge,48.0,1
+6,Rangers,52.0,0
+6,Partizan,25.5,0
+6,Lugano,8.0,0
+6,Slavia Praha,42.0,0
+6,Panathinaikos,5.225,0
+6,KÍ Klaksvík,10.0,0
+6,HJK,10.0,0
+6,Zrinjski,8.5,0
+6,Malmö FF,18.5,0
+6,CFR Cluj,26.5,0
+6,LASK,34.0,0
+6,Beşiktaş,10.0,0
+6,Shakhtar Donetsk,59.0,0
+6,Maccabi Haifa,14.0,0
+6,Legia Warszawa,13.0,0
+6,Ferencváros,30.0,0
+6,Dinamo Batumi,5.5,0
+6,Urartu,3.5,0
+6,Tirana,5.5,0
+6,RFS,8.0,0
+6,Levadia,6.0,0
+6,F91 Diddeleng,8.5,0
+6,Linfield,10.0,0
+6,Qarabağ,26.0,0
+6,Milsami,5.0,0
+6,CSKA-Sofia,12.5,0
+6,Slovan Bratislava,26.5,0
+6,Ordabasy,4.0,0
+6,Maribor,9.5,0
+6,Ballkani,7.5,0
+6,St Patrick's,4.0,0
+6,Panevezys,4.0,0
+6,BATE Borisov,9.5,0
+6,Hamrun Spartans FC,4.5,0
 6,The New Saints,8.5,0
-6,Magpies,2.0,0
-6,Shkupi,7.5,0
-6,Inter Club d'Escaldes,6.0,0
-6,Tre Penne,5.5,0
-7,Beşiktaş,10.0,1
-7,Young Boys,32.5,1
-7,Shakhtar Donetsk,59.0,0
-7,Slavia Praha,42.0,1
-7,Lech Poznań,20.5,0
-7,Ferencváros,30.0,1
-7,Maribor,9.5,0
-7,Riga,11.0,0
-7,Flora Tallinn,11.0,1
-7,Europa,5.5,0
-7,LASK,34.0,0
-7,Club Brugge,48.0,1
-7,Ajax,64.0,1
-7,Nice,17.0,0
-7,Braga,48.0,0
-7,Dynamo Kyiv,26.5,0
-7,Viktoria Plzeň,17.0,0
-7,Galatasaray,30.5,0
-7,AEK Larnaca,8.0,0
-7,Slovan Bratislava,26.5,0
-7,Pyunik,9.5,0
-7,F91 Diddeleng,8.5,0
-7,Sheriff,18.0,0
-7,Copenhagen,41.5,0
-7,Partizan,25.5,0
-7,Lugano,8.0,0
-7,Bodø/Glimt,24.5,0
+6,Europa,5.5,0
+6,Struga,3.5,0
+6,Atlètic Club d'Escaldes,2.5,0
+6,FK Budućnost Podgorica,8.0,0
+6,La Fiorita,4.5,0
+7,Fenerbahçe,28.0,1
+7,Young Boys,32.5,0
+7,Zorya Luhansk,16.5,0
+7,Sparta Praha,15.5,1
 7,Rijeka,12.0,0
 7,Olympiacos,34.0,0
-7,H. Beer Sheva,17.0,0
+7,Maccabi Haifa,14.0,1
+7,Copenhagen,41.5,1
+7,Dinamo Tbilisi,8.0,0
+7,Pyunik,9.5,1
+7,LASK,34.0,1
+7,Dnipro-1,10.5,0
+7,Antwerp,21.0,1
+7,AZ Alkmaar,48.0,0
+7,Lyon,44.0,0
+7,Benfica,69.0,0
+7,Aberdeen,7.5,0
+7,Bohemians Praha 1905,5.66,0
+7,Petrocub,7.0,0
 7,Malmö FF,18.5,0
-7,CFR Cluj,26.5,0
-7,Tirana,5.5,0
-7,Qarabağ,26.0,0
-7,Tre Penne,5.5,0
-7,HJK,10.0,0
-7,Shkëndija,8.0,0
-7,Ballkani,7.5,0
-7,CSKA 1948,3.675,0
-7,Ordabasy,4.0,0
-7,Shamrock Rovers,9.5,0
-7,Panevezys,4.0,0
-7,BATE Borisov,9.5,0
-7,Željezničar,2.5,0
-7,KÍ Klaksvík,10.0,0
-7,Linfield,10.0,0
+7,APOEL,14.5,0
+7,Riga,11.0,0
 7,Hamrun Spartans FC,4.5,0
-7,Dila,4.0,0
-7,Víkingur Reykjavík,4.0,0
-7,Penybont,1.158,0
+7,Zrinjski,8.5,0
+7,Čukarički,5.555,0
+7,Galatasaray,30.5,0
+7,Servette,6.155,0
+7,Bodø/Glimt,24.5,0
+7,Lech Poznań,20.5,0
+7,Ferencváros,30.0,0
+7,CFR Cluj,26.5,0
+7,Ludogorets,19.0,0
+7,Dunajská Streda,8.0,0
 7,FC Santa Coloma,5.5,0
+7,BATE Borisov,9.5,0
+7,KÍ Klaksvík,10.0,0
+7,Víkingur Reykjavík,4.0,0
+7,Shamrock Rovers,9.5,0
+7,Shkëndija,8.0,0
+7,Qarabağ,26.0,0
+7,Ordabasy,4.0,0
+7,Olimpija Ljubljana,6.5,0
+7,Drita,6.5,0
+7,HJK,10.0,0
+7,Panevezys,4.0,0
+7,Progrès,4.5,0
+7,Linfield,10.0,0
+7,Levadia,6.0,0
+7,Partizani,6.5,0
+7,Penybont,1.158,0
+7,Europa,5.5,0
 7,Sutjeska,7.5,0
+7,Tre Penne,5.5,0
+8,TSC Bačka Topola,5.555,0
+8,Beşiktaş,10.0,1
+8,Luzern,6.155,0
+8,Dynamo Kyiv,26.5,0
+8,Malmö FF,18.5,1
+8,KÍ Klaksvík,10.0,0
+8,Rijeka,12.0,1
+8,AEK Athens,10.0,1
+8,Bodø/Glimt,24.5,0
+8,Ferencváros,30.0,1
+8,Fenerbahçe,28.0,0
+8,Salzburg,49.0,0
+8,Nice,17.0,1
+8,Club Brugge,48.0,1
+8,Feyenoord,57.0,0
+8,Sporting CP,45.5,0
+8,Hearts,6.53,0
+8,Viktoria Plzeň,17.0,0
+8,RFS,8.0,0
+8,Lech Poznań,20.5,0
+8,Dinamo Minsk,4.5,0
+8,HJK,10.0,0
+8,Maccabi Haifa,14.0,0
+8,Larne,4.5,0
+8,Partizan,25.5,0
+8,Young Boys,32.5,0
+8,Shakhtar Donetsk,59.0,0
+8,Slavia Praha,42.0,0
+8,AGF,5.64,0
+8,AEK Larnaca,8.0,0
+8,Urartu,3.5,0
+8,CFR Cluj,26.5,0
+8,Maribor,9.5,0
+8,Shkupi,7.5,0
+8,Egnatia,1.475,0
+8,Flora Tallinn,11.0,0
+8,La Fiorita,4.5,0
+8,Neftçi,10.0,0
+8,Sheriff,18.0,0
+8,CSKA 1948,3.675,0
+8,Slovan Bratislava,26.5,0
+8,Ordabasy,4.0,0
+8,Drita,6.5,0
+8,St Patrick's,4.0,0
+8,Panevezys,4.0,0
+8,Zrinjski,8.5,0
+8,Progrès,4.5,0
+8,Gżira,7.0,0
+8,Dinamo Tbilisi,8.0,0
+8,Víkingur Reykjavík,4.0,0
+8,Connah's Quay,5.5,0
+8,Magpies,2.0,0
+8,Atlètic Club d'Escaldes,2.5,0
+8,Sutjeska,7.5,0
+9,Crvena zvezda,40.0,1
+9,Beşiktaş,10.0,0
+9,Young Boys,32.5,1
+9,Dynamo Kyiv,26.5,0
+9,APOEL,14.5,0
+9,Copenhagen,41.5,1
+9,F91 Diddeleng,8.5,1
+9,Lech Poznań,20.5,0
+9,Sheriff,18.0,0
+9,Slavia Praha,42.0,1
+9,Partizan,25.5,0
+9,Galatasaray,30.5,0
+9,Salzburg,49.0,1
+9,Celtic,30.0,1
+9,Lille,35.0,0
+9,AZ Alkmaar,48.0,0
+9,Benfica,69.0,0
+9,Union SG,22.0,0
+9,Neftçi,10.0,0
+9,KÍ Klaksvík,10.0,0
+9,Pyunik,9.5,0
+9,AEK Athens,10.0,0
+9,Riga,11.0,0
+9,Flora Tallinn,11.0,0
+9,Lugano,8.0,0
+9,Shakhtar Donetsk,59.0,0
+9,Sparta Praha,15.5,0
+9,Bodø/Glimt,24.5,0
+9,Rijeka,12.0,0
+9,Maccabi Haifa,14.0,0
+9,Malmö FF,18.5,0
+9,The New Saints,8.5,0
+9,Drita,6.5,0
+9,Slovan Bratislava,26.5,0
+9,Linfield,10.0,0
+9,Inter Club d'Escaldes,6.0,0
+9,Zrinjski,8.5,0
+9,Ferencváros,30.0,0
+9,Víkingur Reykjavík,4.0,0
+9,CFR Cluj,26.5,0
+9,CSKA 1948,3.675,0
+9,Ordabasy,4.0,0
+9,Maribor,9.5,0
+9,Shamrock Rovers,9.5,0
+9,HJK,10.0,0
+9,Panevezys,4.0,0
+9,Torpedo Zhodino,3.0,0
+9,Gżira,7.0,0
+9,Dila,4.0,0
+9,Tirana,5.5,0
+9,Lincoln Red Imps,9.0,0
+9,Struga,3.5,0
+9,Sutjeska,7.5,0
+9,La Fiorita,4.5,0
+10,Partizan,25.5,1
+10,Galatasaray,30.5,1
+10,Servette,6.155,0
+10,Shakhtar Donetsk,59.0,1
+10,Olympiacos,34.0,1
+10,Inter Club d'Escaldes,6.0,0
+10,Lech Poznań,20.5,0
+10,HJK,10.0,1
+10,Bodø/Glimt,24.5,0
+10,Maccabi Haifa,14.0,0
+10,Young Boys,32.5,0
+10,Braga,48.0,1
+10,Rangers,52.0,0
+10,PSV,43.0,1
+10,Twente,11.42,0
+10,Union SG,22.0,0
+10,Crvena zvezda,40.0,0
+10,Rapid Wien,14.0,0
+10,Pyunik,9.5,0
+10,Nordsjælland,5.64,0
+10,Europa,5.5,0
+10,Malmö FF,18.5,0
+10,Tirana,5.5,0
+10,Levadia,6.0,0
+10,Beşiktaş,10.0,0
+10,Dynamo Kyiv,26.5,0
+10,Viktoria Plzeň,17.0,0
+10,Slavia Praha,42.0,0
+10,Rijeka,12.0,0
+10,AEK Larnaca,8.0,0
+10,Kecskemét,4.125,0
+10,Shamrock Rovers,9.5,0
+10,Celje,4.5,0
+10,RFS,8.0,0
+10,Qarabağ,26.0,0
+10,Ludogorets,19.0,0
+10,F91 Diddeleng,8.5,0
+10,Tre Penne,5.5,0
+10,Zrinjski,8.5,0
+10,FCSB,10.5,0
+10,Dunajská Streda,8.0,0
+10,Ordabasy,4.0,0
+10,Petrocub,7.0,0
+10,Drita,6.5,0
+10,Panevezys,4.0,0
+10,BATE Borisov,9.5,0
+10,KÍ Klaksvík,10.0,0
+10,Larne,4.5,0
+10,Hamrun Spartans FC,4.5,0
+10,Dinamo Tbilisi,8.0,0
+10,Víkingur Reykjavík,4.0,0
+10,Connah's Quay,5.5,0
+10,Shkëndija,8.0,0
+10,Sutjeska,7.5,0
+11,Galatasaray,30.5,1
+11,Lugano,8.0,0
+11,Shakhtar Donetsk,59.0,1
+11,Viktoria Plzeň,17.0,0
+11,Rijeka,12.0,0
+11,APOEL,14.5,0
+11,Qarabağ,26.0,1
+11,Lech Poznań,20.5,1
+11,Ferencváros,30.0,0
+11,Slovan Bratislava,26.5,1
+11,Young Boys,32.5,0
+11,Partizan,25.5,1
+11,Sporting CP,45.5,0
+11,Feyenoord,57.0,1
+11,Ajax,64.0,0
+11,Union SG,22.0,0
+11,Celtic,30.0,0
+11,Slavia Praha,42.0,0
+11,The New Saints,8.5,0
+11,Copenhagen,41.5,0
+11,Olympiacos,34.0,0
+11,Bodø/Glimt,24.5,0
+11,Drita,6.5,0
+11,Zrinjski,8.5,0
+11,Rapid Wien,14.0,0
+11,Fenerbahçe,28.0,0
+11,Dynamo Kyiv,26.5,0
+11,H. Beer Sheva,17.0,0
+11,Malmö FF,18.5,0
+11,CFR Cluj,26.5,0
+11,Panevezys,4.0,0
+11,Torpedo Zhodino,3.0,0
+11,Inter Club d'Escaldes,6.0,0
+11,Shamrock Rovers,9.5,0
+11,Pyunik,9.5,0
+11,Maribor,9.5,0
+11,Glentoran,3.0,0
+11,Ludogorets,19.0,0
+11,Shkupi,7.5,0
+11,Ordabasy,4.0,0
+11,Milsami,5.0,0
+11,RFS,8.0,0
+11,HJK,10.0,0
+11,F91 Diddeleng,8.5,0
+11,KÍ Klaksvík,10.0,0
+11,Hamrun Spartans FC,4.5,0
+11,Dinamo Tbilisi,8.0,0
+11,Levadia,6.0,0
+11,Víkingur Reykjavík,4.0,0
+11,Egnatia,1.475,0
+11,Magpies,2.0,0
+11,FK Budućnost Podgorica,8.0,0
+11,Tre Penne,5.5,0
+12,Fenerbahçe,28.0,0
+12,Servette,6.155,0
+12,Dynamo Kyiv,26.5,1
+12,Slavia Praha,42.0,0
+12,BATE Borisov,9.5,1
+12,Copenhagen,41.5,1
+12,Gżira,7.0,0
+12,Bodø/Glimt,24.5,1
+12,Rijeka,12.0,0
+12,Lech Poznań,20.5,1
+12,Rangers,52.0,0
+12,Shakhtar Donetsk,59.0,1
+12,Lille,35.0,1
+12,Benfica,69.0,0
+12,AZ Alkmaar,48.0,0
+12,Antwerp,21.0,0
+12,Salzburg,49.0,0
+12,Viktoria Plzeň,17.0,0
+12,Shamrock Rovers,9.5,0
+12,Qarabağ,26.0,0
+12,Sheriff,18.0,0
+12,Olimpija Ljubljana,6.5,0
+12,AEK Larnaca,8.0,0
+12,The New Saints,8.5,0
+12,Partizan,25.5,0
+12,Galatasaray,30.5,0
+12,Young Boys,32.5,0
+12,Olympiacos,34.0,0
+12,H. Beer Sheva,17.0,0
+12,BK Häcken,4.3,0
+12,Ferencváros,30.0,0
+12,FCSB,10.5,0
+12,KÍ Klaksvík,10.0,0
+12,Atlètic Club d'Escaldes,2.5,0
+12,Dinamo Batumi,5.5,0
+12,Shkupi,7.5,0
+12,Drita,6.5,0
+12,Tirana,5.5,0
+12,Panevezys,4.0,0
+12,Ludogorets,19.0,0
+12,Spartak Trnava,5.5,0
+12,Ordabasy,4.0,0
+12,Riga,11.0,0
+12,HJK,10.0,0
+12,Ararat-Armenia,8.0,0
+12,Željezničar,2.5,0
+12,F91 Diddeleng,8.5,0
+12,Linfield,10.0,0
+12,Flora Tallinn,11.0,0
+12,Víkingur Reykjavík,4.0,0
+12,Magpies,2.0,0
+12,FK Arsenal Tivat,1.141,0
+12,SS Cosmos,1.0,0
+13,Fenerbahçe,28.0,0
+13,Young Boys,32.5,1
+13,Dynamo Kyiv,26.5,0
+13,Slavia Praha,42.0,1
+13,Sheriff,18.0,0
+13,Ludogorets,19.0,1
+13,Bodø/Glimt,24.5,0
+13,KÍ Klaksvík,10.0,1
+13,CFR Cluj,26.5,1
+13,Legia Warszawa,13.0,0
+13,AZ Alkmaar,48.0,0
+13,Benfica,69.0,1
+13,Marseille,34.0,1
+13,Antwerp,21.0,0
+13,Celtic,30.0,0
+13,Partizan,25.5,0
+13,LASK,34.0,0
+13,Viktoria Plzeň,17.0,0
+13,Riga,11.0,0
+13,Partizani,6.5,0
+13,Olympiacos,34.0,0
+13,F91 Diddeleng,8.5,0
+13,Maccabi Haifa,14.0,0
+13,Copenhagen,41.5,0
+13,Adana Demirspor,7.07,0
+13,Lugano,8.0,0
+13,Dnipro-1,10.5,0
+13,Rijeka,12.0,0
+13,APOEL,14.5,0
+13,Malmö FF,18.5,0
+13,Ferencváros,30.0,0
+13,La Fiorita,4.5,0
+13,Panevezys,4.0,0
+13,Slovan Bratislava,26.5,0
+13,BATE Borisov,9.5,0
+13,Neftçi,10.0,0
+13,Levadia,6.0,0
+13,Borac,5.5,0
+13,HJK,10.0,0
+13,Ordabasy,4.0,0
+13,Maribor,9.5,0
+13,Ballkani,7.5,0
+13,Shamrock Rovers,9.5,0
+13,Urartu,3.5,0
+13,Glentoran,3.0,0
+13,Birkirkara,2.5,0
+13,Dila,4.0,0
+13,Víkingur Reykjavík,4.0,0
+13,Penybont,1.158,0
+13,Lincoln Red Imps,9.0,0
+13,Struga,3.5,0
+13,FC Santa Coloma,5.5,0
+13,Sutjeska,7.5,0
+14,Partizan,25.5,0
+14,Galatasaray,30.5,0
+14,Young Boys,32.5,1
+14,Shakhtar Donetsk,59.0,1
+14,Ferencváros,30.0,0
+14,Lech Poznań,20.5,1
+14,Qarabağ,26.0,1
+14,Shkupi,7.5,0
+14,Copenhagen,41.5,1
+14,Víkingur Reykjavík,4.0,0
+14,AZ Alkmaar,48.0,0
+14,Paris Saint-Germain,101.0,0
+14,Union SG,22.0,1
+14,Braga,48.0,1
+14,Celtic,30.0,0
+14,Rapid Wien,14.0,0
+14,Dynamo Kyiv,26.5,0
+14,Fenerbahçe,28.0,0
+14,KÍ Klaksvík,10.0,0
+14,Bohemians Praha 1905,5.66,0
+14,Panevezys,4.0,0
+14,FCSB,10.5,0
+14,Olympiacos,34.0,0
+14,Dinamo Tbilisi,8.0,0
+14,Servette,6.155,0
+14,Viktoria Plzeň,17.0,0
+14,Bodø/Glimt,24.5,0
+14,Rijeka,12.0,0
+14,H. Beer Sheva,17.0,0
+14,APOEL,14.5,0
+14,BK Häcken,4.3,0
+14,Lincoln Red Imps,9.0,0
+14,FK Budućnost Podgorica,8.0,0
+14,Connah's Quay,5.5,0
+14,BATE Borisov,9.5,0
+14,FC Santa Coloma,5.5,0
+14,Partizani,6.5,0
+14,Dunajská Streda,8.0,0
+14,Ludogorets,19.0,0
+14,Ordabasy,4.0,0
+14,Maribor,9.5,0
+14,Petrocub,7.0,0
+14,Gjilani,3.0,0
+14,RFS,8.0,0
+14,St Patrick's,4.0,0
+14,HJK,10.0,0
+14,Urartu,3.5,0
+14,Borac,5.5,0
+14,F91 Diddeleng,8.5,0
+14,Linfield,10.0,0
+14,Gżira,7.0,0
+14,Levadia,6.0,0
+14,SS Cosmos,1.0,0
+15,TSC Bačka Topola,5.555,0
+15,Adana Demirspor,7.07,1
+15,Young Boys,32.5,0
+15,Dnipro-1,10.5,0
+15,Copenhagen,41.5,0
+15,Bodø/Glimt,24.5,1
+15,Slavia Praha,42.0,1
+15,Slovan Bratislava,26.5,1
+15,Olympiacos,34.0,0
+15,Shkupi,7.5,1
+15,Rangers,52.0,0
+15,FC Porto,66.0,1
+15,Galatasaray,30.5,0
+15,PSV,43.0,1
+15,Rennes,37.0,0
+15,Genk,13.0,0
+15,Viktoria Plzeň,17.0,0
+15,Dynamo Kyiv,26.5,0
+15,Flora Tallinn,11.0,0
+15,IF Elfsborg,4.3,0
+15,Lech Poznań,20.5,0
+15,Qarabağ,26.0,0
+15,Sutjeska,7.5,0
+15,Linfield,10.0,0
+15,Rapid Wien,14.0,0
+15,Partizan,25.5,0
+15,Servette,6.155,0
+15,Rijeka,12.0,0
+15,Maccabi Haifa,14.0,0
+15,APOEL,14.5,0
+15,FC Santa Coloma,5.5,0
+15,SS Cosmos,1.0,0
+15,Panevezys,4.0,0
+15,Dinamo Tbilisi,8.0,0
+15,Ordabasy,4.0,0
+15,HJK,10.0,0
+15,Olimpija Ljubljana,6.5,0
+15,Drita,6.5,0
+15,CFR Cluj,26.5,0
+15,Ferencváros,30.0,0
+15,CSKA 1948,3.675,0
+15,Sheriff,18.0,0
+15,RFS,8.0,0
+15,Shamrock Rovers,9.5,0
+15,Pyunik,9.5,0
+15,BATE Borisov,9.5,0
+15,Zrinjski,8.5,0
+15,Progrès,4.5,0
+15,KÍ Klaksvík,10.0,0
+15,Birkirkara,2.5,0
+15,Víkingur Reykjavík,4.0,0
+15,Partizani,6.5,0
+15,The New Saints,8.5,0
+15,Lincoln Red Imps,9.0,0
+16,Partizan,25.5,1
+16,Galatasaray,30.5,0
+16,Luzern,6.155,0
+16,Shakhtar Donetsk,59.0,0
+16,Copenhagen,41.5,1
+16,Ferencváros,30.0,1
+16,Olympiacos,34.0,0
+16,Malmö FF,18.5,1
+16,The New Saints,8.5,0
+16,Slovan Bratislava,26.5,1
+16,Rangers,52.0,0
+16,FC Porto,66.0,1
+16,Twente,11.42,1
+16,Club Brugge,48.0,0
+16,PSV,43.0,0
+16,Fenerbahçe,28.0,0
+16,LASK,34.0,0
+16,Zorya Luhansk,16.5,0
+16,Ballkani,7.5,0
+16,Pyunik,9.5,0
+16,Linfield,10.0,0
+16,Bodø/Glimt,24.5,0
+16,Maccabi Haifa,14.0,0
+16,Ordabasy,4.0,0
+16,Young Boys,32.5,0
+16,Viktoria Plzeň,17.0,0
+16,Slavia Praha,42.0,0
+16,Rijeka,12.0,0
+16,APOEL,14.5,0
+16,Legia Warszawa,13.0,0
+16,FC Santa Coloma,5.5,0
+16,Panevezys,4.0,0
+16,Petrocub,7.0,0
+16,CSKA-Sofia,12.5,0
+16,Dinamo Batumi,5.5,0
+16,La Fiorita,4.5,0
+16,KÍ Klaksvík,10.0,0
+16,Derry,4.0,0
+16,Farul Constanța,4.275,0
+16,Neftçi,10.0,0
+16,Maribor,9.5,0
+16,RFS,8.0,0
+16,HJK,10.0,0
+16,Torpedo Zhodino,3.0,0
+16,Željezničar,2.5,0
+16,F91 Diddeleng,8.5,0
+16,Gżira,7.0,0
+16,Levadia,6.0,0
+16,Víkingur Reykjavík,4.0,0
+16,Tirana,5.5,0
+16,Lincoln Red Imps,9.0,0
+16,Shkëndija,8.0,0
+16,FK Budućnost Podgorica,8.0,0
+17,Galatasaray,30.5,1
+17,Lugano,8.0,1
+17,Dynamo Kyiv,26.5,0
+17,Viktoria Plzeň,17.0,0
+17,BATE Borisov,9.5,0
+17,Sabah,3.575,0
+17,Ferencváros,30.0,1
+17,Olympiacos,34.0,0
+17,Maribor,9.5,1
+17,Legia Warszawa,13.0,1
+17,Young Boys,32.5,0
+17,Shakhtar Donetsk,59.0,1
+17,FC Porto,66.0,1
+17,Rangers,52.0,0
+17,PSV,43.0,0
+17,Ajax,64.0,0
+17,Union SG,22.0,0
+17,Fenerbahçe,28.0,0
+17,Atlètic Club d'Escaldes,2.5,0
+17,Riga,11.0,0
+17,Ballkani,7.5,0
+17,Copenhagen,41.5,0
+17,Malmö FF,18.5,0
+17,Bodø/Glimt,24.5,0
+17,LASK,34.0,0
+17,TSC Bačka Topola,5.555,0
+17,Slavia Praha,42.0,0
+17,Rijeka,12.0,0
+17,Maccabi Haifa,14.0,0
+17,AEK Larnaca,8.0,0
+17,FCSB,10.5,0
+17,Connah's Quay,5.5,0
+17,Borac,5.5,0
+17,HJK,10.0,0
+17,Dinamo Tbilisi,8.0,0
+17,La Fiorita,4.5,0
+17,Partizani,6.5,0
+17,Glentoran,3.0,0
+17,Dunajská Streda,8.0,0
+17,Ludogorets,19.0,0
+17,Ordabasy,4.0,0
+17,Sheriff,18.0,0
+17,Derry,4.0,0
+17,Panevezys,4.0,0
+17,Urartu,3.5,0
+17,F91 Diddeleng,8.5,0
+17,KÍ Klaksvík,10.0,0
+17,Hamrun Spartans FC,4.5,0
+17,Flora Tallinn,11.0,0
+17,Víkingur Reykjavík,4.0,0
+17,Europa,5.5,0
+17,Struga,3.5,0
+17,FK Budućnost Podgorica,8.0,0
+18,Galatasaray,30.5,0
+18,Young Boys,32.5,1
+18,Dynamo Kyiv,26.5,1
+18,Sparta Praha,15.5,1
+18,Copenhagen,41.5,0
+18,Shamrock Rovers,9.5,0
+18,F91 Diddeleng,8.5,1
+18,AEK Larnaca,8.0,0
+18,AEK Athens,10.0,1
+18,Rijeka,12.0,0
+18,Monaco,24.0,0
+18,Celtic,30.0,0
+18,Ajax,64.0,1
+18,Zorya Luhansk,16.5,1
+18,Braga,48.0,0
+18,Antwerp,21.0,0
+18,LASK,34.0,0
+18,Lugano,8.0,0
+18,Qarabağ,26.0,0
+18,Slovan Bratislava,26.5,0
+18,Lech Poznań,20.5,0
+18,Maccabi Haifa,14.0,0
+18,Bodø/Glimt,24.5,0
+18,Malmö FF,18.5,0
+18,Čukarički,5.555,0
+18,Beşiktaş,10.0,0
+18,Viktoria Plzeň,17.0,0
+18,Kecskemét,4.125,0
+18,CFR Cluj,26.5,0
+18,Partizani,6.5,0
+18,Shkupi,7.5,0
+18,RFS,8.0,0
+18,Ludogorets,19.0,0
+18,Víkingur Reykjavík,4.0,0
+18,Panevezys,4.0,0
+18,Sheriff,18.0,0
+18,Sutjeska,7.5,0
+18,La Fiorita,4.5,0
+18,BATE Borisov,9.5,0
+18,Ordabasy,4.0,0
+18,Maribor,9.5,0
+18,Drita,6.5,0
+18,HJK,10.0,0
+18,Ararat-Armenia,8.0,0
+18,Željezničar,2.5,0
+18,KÍ Klaksvík,10.0,0
+18,Linfield,10.0,0
+18,Gżira,7.0,0
+18,Dinamo Batumi,5.5,0
+18,Flora Tallinn,11.0,0
+18,The New Saints,8.5,0
+18,Europa,5.5,0
+18,Atlètic Club d'Escaldes,2.5,0
+19,Partizan,25.5,1
+19,Galatasaray,30.5,0
+19,Young Boys,32.5,1
+19,Shakhtar Donetsk,59.0,1
+19,Flora Tallinn,11.0,1
+19,Pyunik,9.5,0
+19,Rijeka,12.0,0
+19,Copenhagen,41.5,0
+19,Maccabi Haifa,14.0,0
+19,Ferencváros,30.0,1
+19,Slavia Praha,42.0,1
+19,Feyenoord,57.0,0
+19,Aberdeen,7.5,0
+19,FC Porto,66.0,1
+19,Nice,17.0,0
+19,Union SG,22.0,0
+19,TSC Bačka Topola,5.555,0
+19,Luzern,6.155,0
+19,Gżira,7.0,0
+19,Europa,5.5,0
+19,FK Budućnost Podgorica,8.0,0
+19,Maribor,9.5,0
+19,Viktoria Plzeň,17.0,0
+19,CFR Cluj,26.5,0
+19,LASK,34.0,0
+19,Adana Demirspor,7.07,0
+19,Zorya Luhansk,16.5,0
+19,Bodø/Glimt,24.5,0
+19,Olympiacos,34.0,0
+19,AEK Larnaca,8.0,0
+19,BK Häcken,4.3,0
+19,Raków Częstochowa,6.0,0
+19,HJK,10.0,0
+19,Shkupi,7.5,0
+19,KÍ Klaksvík,10.0,0
+19,F91 Diddeleng,8.5,0
+19,Partizani,6.5,0
+19,Slovan Bratislava,26.5,0
+19,Riga,11.0,0
+19,CSKA 1948,3.675,0
+19,Qarabağ,26.0,0
+19,Ordabasy,4.0,0
+19,Sheriff,18.0,0
+19,Ballkani,7.5,0
+19,Shamrock Rovers,9.5,0
+19,Panevezys,4.0,0
+19,Dinamo Minsk,4.5,0
+19,Zrinjski,8.5,0
+19,Glentoran,3.0,0
+19,Dila,4.0,0
+19,Víkingur Reykjavík,4.0,0
+19,Connah's Quay,5.5,0
+19,FC Santa Coloma,5.5,0
+19,Tre Penne,5.5,0
+20,Galatasaray,30.5,1
+20,Luzern,6.155,0
+20,Shakhtar Donetsk,59.0,1
+20,Slavia Praha,42.0,0
+20,Olympiacos,34.0,1
+20,Ferencváros,30.0,0
+20,Ludogorets,19.0,1
+20,Aris Limassol,4.37,0
+20,The New Saints,8.5,0
+20,Bodø/Glimt,24.5,1
+20,Benfica,69.0,0
+20,Viktoria Plzeň,17.0,0
+20,Young Boys,32.5,1
+20,Ajax,64.0,1
+20,Marseille,34.0,0
+20,Union SG,22.0,0
+20,Celtic,30.0,0
+20,Dynamo Kyiv,26.5,0
+20,CFR Cluj,26.5,0
+20,Lincoln Red Imps,9.0,0
+20,Riga,11.0,0
+20,Rijeka,12.0,0
+20,HJK,10.0,0
+20,KÍ Klaksvík,10.0,0
+20,Salzburg,49.0,0
+20,Partizan,25.5,0
+20,Adana Demirspor,7.07,0
+20,Copenhagen,41.5,0
+20,H. Beer Sheva,17.0,0
+20,Malmö FF,18.5,0
+20,Raków Częstochowa,6.0,0
+20,Tre Penne,5.5,0
+20,Inter Club d'Escaldes,6.0,0
+20,Ararat-Armenia,8.0,0
+20,Milsami,5.0,0
+20,Shamrock Rovers,9.5,0
+20,Flora Tallinn,11.0,0
+20,Panevezys,4.0,0
+20,Gżira,7.0,0
+20,Spartak Trnava,5.5,0
+20,Neftçi,10.0,0
+20,Ordabasy,4.0,0
+20,Celje,4.5,0
+20,Ballkani,7.5,0
+20,Dinamo Minsk,4.5,0
+20,Borac,5.5,0
+20,F91 Diddeleng,8.5,0
+20,Linfield,10.0,0
+20,Dinamo Tbilisi,8.0,0
+20,Víkingur Reykjavík,4.0,0
+20,Partizani,6.5,0
+20,Shkupi,7.5,0
+20,Sutjeska,7.5,0
+21,Galatasaray,30.5,0
+21,Lugano,8.0,0
+21,Shakhtar Donetsk,59.0,1
+21,Slavia Praha,42.0,0
+21,Petrocub,7.0,1
+21,FCSB,10.5,1
+21,BK Häcken,4.3,0
+21,Maccabi Haifa,14.0,1
+21,Olympiacos,34.0,1
+21,Bodø/Glimt,24.5,0
+21,Braga,48.0,1
+21,AZ Alkmaar,48.0,0
+21,Partizan,25.5,0
+21,Dynamo Kyiv,26.5,1
+21,Twente,11.42,0
+21,Antwerp,21.0,0
+21,Celtic,30.0,0
+21,LASK,34.0,0
+21,KÍ Klaksvík,10.0,0
+21,Hamrun Spartans FC,4.5,0
+21,BATE Borisov,9.5,0
+21,APOEL,14.5,0
+21,Inter Club d'Escaldes,6.0,0
+21,Flora Tallinn,11.0,0
+21,Adana Demirspor,7.07,0
+21,Luzern,6.155,0
+21,Bohemians Praha 1905,5.66,0
+21,Copenhagen,41.5,0
+21,Rijeka,12.0,0
+21,Lech Poznań,20.5,0
+21,Ferencváros,30.0,0
+21,Panevezys,4.0,0
+21,Drita,6.5,0
+21,Lincoln Red Imps,9.0,0
+21,Olimpija Ljubljana,6.5,0
+21,Slovan Bratislava,26.5,0
+21,La Fiorita,4.5,0
+21,Riga,11.0,0
+21,Partizani,6.5,0
+21,CSKA-Sofia,12.5,0
+21,Neftçi,10.0,0
+21,Ordabasy,4.0,0
+21,St Patrick's,4.0,0
+21,HJK,10.0,0
+21,Pyunik,9.5,0
+21,Zrinjski,8.5,0
+21,Swift Hesper,3.0,0
+21,Larne,4.5,0
+21,Dinamo Batumi,5.5,0
+21,Víkingur Reykjavík,4.0,0
+21,Penybont,1.158,0
+21,Shkëndija,8.0,0
+21,FK Arsenal Tivat,1.141,0
+22,Partizan,25.5,0
+22,Galatasaray,30.5,1
+22,Young Boys,32.5,0
+22,Shakhtar Donetsk,59.0,1
+22,HJK,10.0,1
+22,Olympiacos,34.0,0
+22,Maccabi Haifa,14.0,0
+22,Ferencváros,30.0,1
+22,Legia Warszawa,13.0,1
+22,FK Budućnost Podgorica,8.0,0
+22,Ajax,64.0,1
+22,LASK,34.0,0
+22,Antwerp,21.0,1
+22,Dynamo Kyiv,26.5,0
+22,Feyenoord,57.0,0
+22,Braga,48.0,0
+22,Rangers,52.0,0
+22,Viktoria Plzeň,17.0,0
+22,Qarabağ,26.0,0
+22,BATE Borisov,9.5,0
+22,Ordabasy,4.0,0
+22,AGF,5.64,0
+22,Ararat-Armenia,8.0,0
+22,Rijeka,12.0,0
+22,TSC Bačka Topola,5.555,0
+22,Beşiktaş,10.0,0
+22,Servette,6.155,0
+22,Slavia Praha,42.0,0
+22,Bodø/Glimt,24.5,0
+22,AEK Larnaca,8.0,0
+22,Malmö FF,18.5,0
+22,Connah's Quay,5.5,0
+22,Linfield,10.0,0
+22,Spartak Trnava,5.5,0
+22,Milsami,5.0,0
+22,Hamrun Spartans FC,4.5,0
+22,Dila,4.0,0
+22,Progrès,4.5,0
+22,Shkëndija,8.0,0
+22,CFR Cluj,26.5,0
+22,CSKA 1948,3.675,0
+22,Olimpija Ljubljana,6.5,0
+22,Gjilani,3.0,0
+22,Riga,11.0,0
+22,Derry,4.0,0
+22,Panevezys,4.0,0
+22,Zrinjski,8.5,0
+22,KÍ Klaksvík,10.0,0
+22,Flora Tallinn,11.0,0
+22,Víkingur Reykjavík,4.0,0
+22,Tirana,5.5,0
+22,Europa,5.5,0
+22,Inter Club d'Escaldes,6.0,0
+22,Tre Penne,5.5,0
+23,Partizan,25.5,0
+23,Galatasaray,30.5,0
+23,Young Boys,32.5,1
+23,Dynamo Kyiv,26.5,1
+23,Lincoln Red Imps,9.0,1
+23,Bodø/Glimt,24.5,1
+23,Panevezys,4.0,0
+23,Olympiacos,34.0,1
+23,Sabah,3.575,0
+23,CFR Cluj,26.5,0
+23,Marseille,34.0,1
+23,Benfica,69.0,1
+23,Celtic,30.0,0
+23,Antwerp,21.0,0
+23,Ajax,64.0,0
+23,Viktoria Plzeň,17.0,0
+23,Fenerbahçe,28.0,0
+23,Salzburg,49.0,0
+23,Rijeka,12.0,0
+23,Copenhagen,41.5,0
+23,Flora Tallinn,11.0,0
+23,Ararat-Armenia,8.0,0
+23,Kecskemét,4.125,0
+23,H. Beer Sheva,17.0,0
+23,Čukarički,5.555,0
+23,Lugano,8.0,0
+23,Zorya Luhansk,16.5,0
+23,Slavia Praha,42.0,0
+23,AEK Larnaca,8.0,0
+23,Malmö FF,18.5,0
+23,Raków Częstochowa,6.0,0
+23,RFS,8.0,0
+23,The New Saints,8.5,0
+23,Dunajská Streda,8.0,0
+23,FC Santa Coloma,5.5,0
+23,HJK,10.0,0
+23,Progrès,4.5,0
+23,Shkupi,7.5,0
+23,Dinamo Minsk,4.5,0
+23,Ludogorets,19.0,0
+23,Ordabasy,4.0,0
+23,Maribor,9.5,0
+23,Sheriff,18.0,0
+23,Drita,6.5,0
+23,Shamrock Rovers,9.5,0
+23,Zrinjski,8.5,0
+23,KÍ Klaksvík,10.0,0
+23,Larne,4.5,0
+23,Hamrun Spartans FC,4.5,0
+23,Dila,4.0,0
+23,Víkingur Reykjavík,4.0,0
+23,Tirana,5.5,0
+23,Sutjeska,7.5,0
+23,La Fiorita,4.5,0
+24,Partizan,25.5,1
+24,Beşiktaş,10.0,0
+24,Servette,6.155,1
+24,Dnipro-1,10.5,0
+24,APOEL,14.5,1
+24,Qarabağ,26.0,0
+24,Ferencváros,30.0,0
+24,Slovan Bratislava,26.5,1
+24,Rijeka,12.0,1
+24,KÍ Klaksvík,10.0,0
+24,Lyon,44.0,0
+24,Union SG,22.0,0
+24,Galatasaray,30.5,1
+24,LASK,34.0,1
+24,FC Porto,66.0,0
+24,Braga,48.0,0
+24,Hearts,6.53,0
+24,Dynamo Kyiv,26.5,0
+24,AEK Athens,10.0,0
+24,Maccabi Haifa,14.0,0
+24,Lech Poznań,20.5,0
+24,Bodø/Glimt,24.5,0
+24,Copenhagen,41.5,0
+24,Slavia Praha,42.0,0
+24,Young Boys,32.5,0
+24,Viktoria Plzeň,17.0,0
+24,IF Elfsborg,4.3,0
+24,Víkingur Reykjavík,4.0,0
+24,Shamrock Rovers,9.5,0
+24,Farul Constanța,4.275,0
+24,Flora Tallinn,11.0,0
+24,Tirana,5.5,0
+24,The New Saints,8.5,0
+24,Ludogorets,19.0,0
+24,Sheriff,18.0,0
+24,Riga,11.0,0
+24,Dila,4.0,0
+24,HJK,10.0,0
+24,Ordabasy,4.0,0
+24,Celje,4.5,0
+24,Drita,6.5,0
+24,Panevezys,4.0,0
+24,Urartu,3.5,0
+24,Dinamo Minsk,4.5,0
+24,Zrinjski,8.5,0
+24,Swift Hesper,3.0,0
+24,Larne,4.5,0
+24,Gżira,7.0,0
+24,Lincoln Red Imps,9.0,0
+24,Struga,3.5,0
+24,Inter Club d'Escaldes,6.0,0
+24,FK Budućnost Podgorica,8.0,0
+24,SS Cosmos,1.0,0
+25,Galatasaray,30.5,0
+25,Young Boys,32.5,1
+25,Shakhtar Donetsk,59.0,0
+25,Slavia Praha,42.0,1
+25,Copenhagen,41.5,1
+25,Shkëndija,8.0,0
+25,KÍ Klaksvík,10.0,1
+25,HJK,10.0,0
+25,Ferencváros,30.0,0
+25,Rijeka,12.0,1
+25,LASK,34.0,1
+25,Aberdeen,7.5,0
+25,Feyenoord,57.0,1
+25,Benfica,69.0,0
+25,Lille,35.0,0
+25,Union SG,22.0,0
+25,Beşiktaş,10.0,0
+25,Dynamo Kyiv,26.5,0
+25,Maccabi Haifa,14.0,0
+25,Linfield,10.0,0
+25,Pyunik,9.5,0
+25,Riga,11.0,0
+25,AEK Larnaca,8.0,0
+25,Ludogorets,19.0,0
+25,Partizan,25.5,0
+25,Lugano,8.0,0
+25,Viktoria Plzeň,17.0,0
+25,Bodø/Glimt,24.5,0
+25,AEK Athens,10.0,0
+25,IF Elfsborg,4.3,0
+25,Lech Poznań,20.5,0
+25,CFR Cluj,26.5,0
+25,Drita,6.5,0
+25,Panevezys,4.0,0
+25,Inter Club d'Escaldes,6.0,0
+25,La Fiorita,4.5,0
+25,Víkingur Reykjavík,4.0,0
+25,The New Saints,8.5,0
+25,BATE Borisov,9.5,0
+25,Slovan Bratislava,26.5,0
+25,Qarabağ,26.0,0
+25,Ordabasy,4.0,0
+25,Celje,4.5,0
+25,Petrocub,7.0,0
+25,Shamrock Rovers,9.5,0
+25,Zrinjski,8.5,0
+25,Progrès,4.5,0
+25,Hamrun Spartans FC,4.5,0
+25,Dinamo Batumi,5.5,0
+25,Flora Tallinn,11.0,0
+25,Partizani,6.5,0
+25,Europa,5.5,0
+25,FK Budućnost Podgorica,8.0,0
+26,Partizan,25.5,1
+26,Beşiktaş,10.0,1
+26,Young Boys,32.5,0
+26,Shakhtar Donetsk,59.0,1
+26,Olympiacos,34.0,0
+26,Lincoln Red Imps,9.0,1
+26,H. Beer Sheva,17.0,0
+26,Ordabasy,4.0,1
+26,Sparta Praha,15.5,0
+26,Dila,4.0,0
+26,FC Porto,66.0,0
+26,Galatasaray,30.5,1
+26,Feyenoord,57.0,0
+26,Paris Saint-Germain,101.0,1
+26,Genk,13.0,0
+26,Aberdeen,7.5,0
+26,Lugano,8.0,0
+26,Linfield,10.0,0
+26,Qarabağ,26.0,0
+26,F91 Diddeleng,8.5,0
+26,Ludogorets,19.0,0
+26,Bodø/Glimt,24.5,0
+26,AEK Larnaca,8.0,0
+26,Salzburg,49.0,0
+26,Zorya Luhansk,16.5,0
+26,Viktoria Plzeň,17.0,0
+26,Copenhagen,41.5,0
+26,Rijeka,12.0,0
+26,Malmö FF,18.5,0
+26,Raków Częstochowa,6.0,0
+26,Penybont,1.158,0
+26,BATE Borisov,9.5,0
+26,Maribor,9.5,0
+26,La Fiorita,4.5,0
+26,HJK,10.0,0
+26,Birkirkara,2.5,0
+26,Petrocub,7.0,0
+26,Ferencváros,30.0,0
+26,FCSB,10.5,0
+26,Slovan Bratislava,26.5,0
+26,Gjilani,3.0,0
+26,Riga,11.0,0
+26,Shamrock Rovers,9.5,0
+26,Panevezys,4.0,0
+26,Urartu,3.5,0
+26,Borac,5.5,0
+26,KÍ Klaksvík,10.0,0
+26,Levadia,6.0,0
+26,Víkingur Reykjavík,4.0,0
+26,Egnatia,1.475,0
+26,Shkupi,7.5,0
+26,Atlètic Club d'Escaldes,2.5,0
+26,FK Arsenal Tivat,1.141,0
+27,Crvena zvezda,40.0,0
+27,Galatasaray,30.5,0
+27,Young Boys,32.5,1
+27,Zorya Luhansk,16.5,1
+27,Ordabasy,4.0,0
+27,Malmö FF,18.5,1
+27,Sutjeska,7.5,0
+27,RFS,8.0,0
+27,Copenhagen,41.5,1
+27,APOEL,14.5,1
+27,Aberdeen,7.5,0
+27,Slavia Praha,42.0,1
+27,AZ Alkmaar,48.0,0
+27,Club Brugge,48.0,1
+27,Paris Saint-Germain,101.0,0
+27,Benfica,69.0,0
+27,Shakhtar Donetsk,59.0,0
+27,Partizan,25.5,0
+27,CFR Cluj,26.5,0
+27,Pyunik,9.5,0
+27,Milsami,5.0,0
+27,Rijeka,12.0,0
+27,Ferencváros,30.0,0
+27,Ludogorets,19.0,0
+27,Rapid Wien,14.0,0
+27,Fenerbahçe,28.0,0
+27,Luzern,6.155,0
+27,Viktoria Plzeň,17.0,0
+27,Bodø/Glimt,24.5,0
+27,Olympiacos,34.0,0
+27,Maccabi Haifa,14.0,0
+27,Lech Poznań,20.5,0
+27,KÍ Klaksvík,10.0,0
+27,Panevezys,4.0,0
+27,Zrinjski,8.5,0
+27,Lincoln Red Imps,9.0,0
+27,Neftçi,10.0,0
+27,The New Saints,8.5,0
+27,Dinamo Tbilisi,8.0,0
+27,Slovan Bratislava,26.5,0
+27,Olimpija Ljubljana,6.5,0
+27,Drita,6.5,0
+27,Derry,4.0,0
+27,HJK,10.0,0
+27,Torpedo Zhodino,3.0,0
+27,F91 Diddeleng,8.5,0
+27,Linfield,10.0,0
+27,Gżira,7.0,0
+27,Levadia,6.0,0
+27,Víkingur Reykjavík,4.0,0
+27,Tirana,5.5,0
+27,Struga,3.5,0
+27,Inter Club d'Escaldes,6.0,0
+27,Tre Penne,5.5,0
+28,Galatasaray,30.5,1
+28,Young Boys,32.5,1
+28,Zorya Luhansk,16.5,0
+28,Sparta Praha,15.5,0
+28,Copenhagen,41.5,1
+28,Slovan Bratislava,26.5,1
+28,Sheriff,18.0,0
+28,Raków Częstochowa,6.0,0
+28,Qarabağ,26.0,1
+28,Rijeka,12.0,0
+28,Feyenoord,57.0,0
+28,Benfica,69.0,1
+28,Slavia Praha,42.0,0
+28,Salzburg,49.0,1
+28,Ajax,64.0,0
+28,Club Brugge,48.0,0
+28,Rangers,52.0,0
+28,Fenerbahçe,28.0,0
+28,Ordabasy,4.0,0
+28,Ferencváros,30.0,0
+28,KÍ Klaksvík,10.0,0
+28,Linfield,10.0,0
+28,Olimpija Ljubljana,6.5,0
+28,CFR Cluj,26.5,0
+28,Čukarički,5.555,0
+28,Lugano,8.0,0
+28,Shakhtar Donetsk,59.0,0
+28,Bodø/Glimt,24.5,0
+28,Olympiacos,34.0,0
+28,H. Beer Sheva,17.0,0
+28,APOEL,14.5,0
+28,Malmö FF,18.5,0
+28,RFS,8.0,0
+28,FK Budućnost Podgorica,8.0,0
+28,Magpies,2.0,0
+28,Urartu,3.5,0
+28,Panevezys,4.0,0
+28,Zrinjski,8.5,0
+28,Dinamo Tbilisi,8.0,0
+28,Ludogorets,19.0,0
+28,Drita,6.5,0
+28,Shamrock Rovers,9.5,0
+28,HJK,10.0,0
+28,BATE Borisov,9.5,0
+28,F91 Diddeleng,8.5,0
+28,Hamrun Spartans FC,4.5,0
+28,Levadia,6.0,0
+28,Víkingur Reykjavík,4.0,0
+28,Partizani,6.5,0
+28,The New Saints,8.5,0
+28,Shkupi,7.5,0
+28,FC Santa Coloma,5.5,0
+28,Tre Penne,5.5,0
+29,Čukarički,5.555,0
+29,Galatasaray,30.5,0
+29,Young Boys,32.5,1
+29,Dynamo Kyiv,26.5,0
+29,Dunajská Streda,8.0,1
+29,Qarabağ,26.0,1
+29,Sheriff,18.0,1
+29,Bodø/Glimt,24.5,1
+29,Riga,11.0,0
+29,Ararat-Armenia,8.0,0
+29,Fenerbahçe,28.0,0
+29,AZ Alkmaar,48.0,0
+29,Sporting CP,45.5,1
+29,Genk,13.0,1
+29,Monaco,24.0,0
+29,Rangers,52.0,0
+29,Sparta Praha,15.5,0
+29,Shakhtar Donetsk,59.0,0
+29,CFR Cluj,26.5,0
+29,Dinamo Tbilisi,8.0,0
+29,H. Beer Sheva,17.0,0
+29,Viktoria Plzeň,17.0,0
+29,Rijeka,12.0,0
+29,Nordsjælland,5.64,0
+29,Rapid Wien,14.0,0
+29,Luzern,6.155,0
+29,Olympiacos,34.0,0
+29,APOEL,14.5,0
+29,Malmö FF,18.5,0
+29,Legia Warszawa,13.0,0
+29,Shkëndija,8.0,0
+29,FC Santa Coloma,5.5,0
+29,Drita,6.5,0
+29,HJK,10.0,0
+29,The New Saints,8.5,0
+29,F91 Diddeleng,8.5,0
+29,Ordabasy,4.0,0
+29,BATE Borisov,9.5,0
+29,Ferencváros,30.0,0
+29,Ludogorets,19.0,0
+29,Maribor,9.5,0
+29,Shamrock Rovers,9.5,0
+29,Panevezys,4.0,0
+29,Zrinjski,8.5,0
+29,KÍ Klaksvík,10.0,0
+29,Linfield,10.0,0
+29,Gżira,7.0,0
+29,Flora Tallinn,11.0,0
+29,Víkingur Reykjavík,4.0,0
+29,Partizani,6.5,0
+29,Lincoln Red Imps,9.0,0
+29,FK Budućnost Podgorica,8.0,0
+29,La Fiorita,4.5,0
+30,Partizan,25.5,0
+30,Fenerbahçe,28.0,0
+30,Luzern,6.155,1
+30,Shakhtar Donetsk,59.0,1
+30,Sheriff,18.0,1
+30,Rijeka,12.0,0
+30,Olympiacos,34.0,1
+30,CFR Cluj,26.5,0
+30,FC Santa Coloma,5.5,0
+30,Malmö FF,18.5,1
+30,AZ Alkmaar,48.0,0
+30,Galatasaray,30.5,0
+30,Braga,48.0,1
+30,Salzburg,49.0,1
+30,Feyenoord,57.0,0
+30,Antwerp,21.0,0
+30,Aberdeen,7.5,0
+30,Slavia Praha,42.0,0
+30,Sutjeska,7.5,0
+30,Shkupi,7.5,0
+30,Aris Limassol,4.37,0
+30,Bodø/Glimt,24.5,0
+30,Lech Poznań,20.5,0
+30,Young Boys,32.5,0
+30,Dynamo Kyiv,26.5,0
+30,Viktoria Plzeň,17.0,0
+30,Copenhagen,41.5,0
+30,Maccabi Haifa,14.0,0
+30,Ferencváros,30.0,0
+30,Hamrun Spartans FC,4.5,0
+30,The New Saints,8.5,0
+30,Ordabasy,4.0,0
+30,KÍ Klaksvík,10.0,0
+30,BATE Borisov,9.5,0
+30,Željezničar,2.5,0
+30,Maribor,9.5,0
+30,Dunajská Streda,8.0,0
+30,Linfield,10.0,0
+30,CSKA 1948,3.675,0
+30,Neftçi,10.0,0
+30,Drita,6.5,0
+30,Riga,11.0,0
+30,Shamrock Rovers,9.5,0
+30,HJK,10.0,0
+30,Panevezys,4.0,0
+30,Urartu,3.5,0
+30,F91 Diddeleng,8.5,0
+30,Dinamo Tbilisi,8.0,0
+30,Levadia,6.0,0
+30,Víkingur Reykjavík,4.0,0
+30,Partizani,6.5,0
+30,Europa,5.5,0
+30,Tre Penne,5.5,0
+31,Partizan,25.5,0
+31,Adana Demirspor,7.07,0
+31,Young Boys,32.5,0
+31,Dnipro-1,10.5,1
+31,Ludogorets,19.0,1
+31,Dunajská Streda,8.0,0
+31,Rijeka,12.0,1
+31,Copenhagen,41.5,1
+31,Olympiacos,34.0,0
+31,Slavia Praha,42.0,1
+31,Ajax,64.0,1
+31,Monaco,24.0,0
+31,Club Brugge,48.0,1
+31,FC Porto,66.0,0
+31,Celtic,30.0,0
+31,Viktoria Plzeň,17.0,0
+31,Rapid Wien,14.0,0
+31,Galatasaray,30.5,0
+31,Malmö FF,18.5,0
+31,APOEL,14.5,0
+31,Maccabi Haifa,14.0,0
+31,Dinamo Batumi,5.5,0
+31,Sutjeska,7.5,0
+31,RFS,8.0,0
+31,Lugano,8.0,0
+31,Shakhtar Donetsk,59.0,0
+31,Bodø/Glimt,24.5,0
+31,Lech Poznań,20.5,0
+31,Ararat-Armenia,8.0,0
+31,CFR Cluj,26.5,0
+31,Flora Tallinn,11.0,0
+31,Connah's Quay,5.5,0
+31,Dinamo Minsk,4.5,0
+31,KÍ Klaksvík,10.0,0
+31,Qarabağ,26.0,0
+31,St Patrick's,4.0,0
+31,Tre Penne,5.5,0
+31,Debrecen,4.125,0
+31,Ordabasy,4.0,0
+31,Maribor,9.5,0
+31,Petrocub,7.0,0
+31,Ballkani,7.5,0
+31,HJK,10.0,0
+31,Panevezys,4.0,0
+31,Borac,5.5,0
+31,Progrès,4.5,0
+31,Linfield,10.0,0
+31,Gżira,7.0,0
+31,Víkingur Reykjavík,4.0,0
+31,Partizani,6.5,0
+31,Magpies,2.0,0
+31,Shkëndija,8.0,0
+31,Atlètic Club d'Escaldes,2.5,0
+32,Crvena zvezda,40.0,0
+32,Fenerbahçe,28.0,1
+32,Luzern,6.155,0
+32,Zorya Luhansk,16.5,0
+32,Partizani,6.5,0
+32,Copenhagen,41.5,1
+32,Qarabağ,26.0,1
+32,CFR Cluj,26.5,0
+32,Slavia Praha,42.0,1
+32,Olympiacos,34.0,1
+32,Ajax,64.0,1
+32,Celtic,30.0,0
+32,Galatasaray,30.5,1
+32,Genk,13.0,0
+32,PSV,43.0,0
+32,Braga,48.0,0
+32,Shakhtar Donetsk,59.0,0
+32,TSC Bačka Topola,5.555,0
+32,Bodø/Glimt,24.5,0
+32,Maccabi Haifa,14.0,0
+32,Malmö FF,18.5,0
+32,Lech Poznań,20.5,0
+32,SS Cosmos,1.0,0
+32,Rijeka,12.0,0
+32,Rapid Wien,14.0,0
+32,Lugano,8.0,0
+32,Viktoria Plzeň,17.0,0
+32,AEK Larnaca,8.0,0
+32,Borac,5.5,0
+32,St Patrick's,4.0,0
+32,Ludogorets,19.0,0
+32,Larne,4.5,0
+32,Slovan Bratislava,26.5,0
+32,FK Budućnost Podgorica,8.0,0
+32,KÍ Klaksvík,10.0,0
+32,HJK,10.0,0
+32,Olimpija Ljubljana,6.5,0
+32,Flora Tallinn,11.0,0
+32,F91 Diddeleng,8.5,0
+32,Ferencváros,30.0,0
+32,Ordabasy,4.0,0
+32,Petrocub,7.0,0
+32,Drita,6.5,0
+32,RFS,8.0,0
+32,Panevezys,4.0,0
+32,Pyunik,9.5,0
+32,Torpedo Zhodino,3.0,0
+32,Hamrun Spartans FC,4.5,0
+32,Dila,4.0,0
+32,Víkingur Reykjavík,4.0,0
+32,Connah's Quay,5.5,0
+32,Europa,5.5,0
+32,Shkëndija,8.0,0
+32,Inter Club d'Escaldes,6.0,0
+33,Galatasaray,30.5,1
+33,Lugano,8.0,0
+33,Shakhtar Donetsk,59.0,1
+33,Sparta Praha,15.5,0
+33,Olympiacos,34.0,1
+33,Ballkani,7.5,1
+33,H. Beer Sheva,17.0,1
+33,Riga,11.0,0
+33,Nordsjælland,5.64,0
+33,Ferencváros,30.0,0
+33,Ajax,64.0,1
+33,Slavia Praha,42.0,0
+33,Fenerbahçe,28.0,1
+33,Celtic,30.0,0
+33,Marseille,34.0,0
+33,Braga,48.0,0
+33,Club Brugge,48.0,0
+33,Salzburg,49.0,0
+33,La Fiorita,4.5,0
+33,Borac,5.5,0
+33,Flora Tallinn,11.0,0
+33,F91 Diddeleng,8.5,0
+33,Slovan Bratislava,26.5,0
+33,Aris Limassol,4.37,0
+33,Čukarički,5.555,0
+33,Luzern,6.155,0
+33,Dnipro-1,10.5,0
+33,Bodø/Glimt,24.5,0
+33,Rijeka,12.0,0
+33,Malmö FF,18.5,0
+33,Lech Poznań,20.5,0
+33,Farul Constanța,4.275,0
+33,HJK,10.0,0
+33,Panevezys,4.0,0
+33,Ararat-Armenia,8.0,0
+33,Sutjeska,7.5,0
+33,Milsami,5.0,0
+33,Víkingur Reykjavík,4.0,0
+33,Tirana,5.5,0
+33,Ludogorets,19.0,0
+33,Neftçi,10.0,0
+33,Ordabasy,4.0,0
+33,Maribor,9.5,0
+33,St Patrick's,4.0,0
+33,BATE Borisov,9.5,0
+33,KÍ Klaksvík,10.0,0
+33,Glentoran,3.0,0
+33,Birkirkara,2.5,0
+33,Dinamo Tbilisi,8.0,0
+33,The New Saints,8.5,0
+33,Lincoln Red Imps,9.0,0
+33,Struga,3.5,0
+33,FC Santa Coloma,5.5,0
+34,Crvena zvezda,40.0,1
+34,Beşiktaş,10.0,1
+34,Servette,6.155,1
+34,Zorya Luhansk,16.5,0
+34,Maccabi Haifa,14.0,0
+34,KÍ Klaksvík,10.0,1
+34,Panevezys,4.0,0
+34,CFR Cluj,26.5,0
+34,Bodø/Glimt,24.5,0
+34,Olympiacos,34.0,1
+34,AZ Alkmaar,48.0,1
+34,Braga,48.0,0
+34,Sparta Praha,15.5,0
+34,Shakhtar Donetsk,59.0,1
+34,PSV,43.0,0
+34,Antwerp,21.0,0
+34,Aberdeen,7.5,0
+34,TSC Bačka Topola,5.555,0
+34,The New Saints,8.5,0
+34,HJK,10.0,0
+34,Viktoria Plzeň,17.0,0
+34,Rijeka,12.0,0
+34,Shkëndija,8.0,0
+34,Malmö FF,18.5,0
+34,Rapid Wien,14.0,0
+34,Galatasaray,30.5,0
+34,Luzern,6.155,0
+34,AGF,5.64,0
+34,APOEL,14.5,0
+34,Legia Warszawa,13.0,0
+34,Riga,11.0,0
+34,Magpies,2.0,0
+34,Derry,4.0,0
+34,Pyunik,9.5,0
+34,Qarabağ,26.0,0
+34,Hamrun Spartans FC,4.5,0
+34,Ferencváros,30.0,0
+34,Petrocub,7.0,0
+34,FK Budućnost Podgorica,8.0,0
+34,CSKA-Sofia,12.5,0
+34,Slovan Bratislava,26.5,0
+34,Ordabasy,4.0,0
+34,Olimpija Ljubljana,6.5,0
+34,Drita,6.5,0
+34,Torpedo Zhodino,3.0,0
+34,Željezničar,2.5,0
+34,Progrès,4.5,0
+34,Larne,4.5,0
+34,Dinamo Batumi,5.5,0
+34,Levadia,6.0,0
+34,Víkingur Reykjavík,4.0,0
+34,Partizani,6.5,0
+34,Atlètic Club d'Escaldes,2.5,0
+34,La Fiorita,4.5,0
+35,Adana Demirspor,7.07,0
+35,Young Boys,32.5,1
+35,Shakhtar Donetsk,59.0,0
+35,Viktoria Plzeň,17.0,1
+35,Olympiacos,34.0,1
+35,Maccabi Haifa,14.0,0
+35,CFR Cluj,26.5,0
+35,AEK Larnaca,8.0,0
+35,Lincoln Red Imps,9.0,1
+35,Copenhagen,41.5,1
+35,PSV,43.0,0
+35,Salzburg,49.0,1
+35,Lille,35.0,1
+35,Slavia Praha,42.0,0
+35,Sporting CP,45.5,0
+35,Antwerp,21.0,0
+35,Celtic,30.0,0
+35,Dynamo Kyiv,26.5,0
+35,Qarabağ,26.0,0
+35,Panevezys,4.0,0
+35,Ferencváros,30.0,0
+35,HJK,10.0,0
+35,Ludogorets,19.0,0
+35,Olimpija Ljubljana,6.5,0
+35,Čukarički,5.555,0
+35,Fenerbahçe,28.0,0
+35,Servette,6.155,0
+35,Bodø/Glimt,24.5,0
+35,Rijeka,12.0,0
+35,Malmö FF,18.5,0
+35,Raków Częstochowa,6.0,0
+35,Borac,5.5,0
+35,Ordabasy,4.0,0
+35,Slovan Bratislava,26.5,0
+35,St Patrick's,4.0,0
+35,Pyunik,9.5,0
+35,Víkingur Reykjavík,4.0,0
+35,Dinamo Batumi,5.5,0
+35,Gżira,7.0,0
+35,Petrocub,7.0,0
+35,Ballkani,7.5,0
+35,Riga,11.0,0
+35,BATE Borisov,9.5,0
+35,F91 Diddeleng,8.5,0
+35,KÍ Klaksvík,10.0,0
+35,Linfield,10.0,0
+35,Flora Tallinn,11.0,0
+35,Tirana,5.5,0
+35,Penybont,1.158,0
+35,Shkëndija,8.0,0
+35,Atlètic Club d'Escaldes,2.5,0
+35,FK Budućnost Podgorica,8.0,0
+35,Tre Penne,5.5,0
+36,Beşiktaş,10.0,0
+36,Luzern,6.155,1
+36,Dnipro-1,10.5,0
+36,Bohemians Praha 1905,5.66,0
+36,Panevezys,4.0,0
+36,Maccabi Haifa,14.0,1
+36,CFR Cluj,26.5,1
+36,Qarabağ,26.0,0
+36,Malmö FF,18.5,1
+36,Olympiacos,34.0,1
+36,Slavia Praha,42.0,1
+36,FC Porto,66.0,1
+36,Feyenoord,57.0,0
+36,Celtic,30.0,0
+36,PSV,43.0,0
+36,Union SG,22.0,0
+36,TSC Bačka Topola,5.555,0
+36,Shakhtar Donetsk,59.0,0
+36,Bodø/Glimt,24.5,0
+36,Maribor,9.5,0
+36,Ordabasy,4.0,0
+36,Ballkani,7.5,0
+36,KÍ Klaksvík,10.0,0
+36,Shkëndija,8.0,0
+36,LASK,34.0,0
+36,Fenerbahçe,28.0,0
+36,Young Boys,32.5,0
+36,Copenhagen,41.5,0
+36,Rijeka,12.0,0
+36,AEK Larnaca,8.0,0
+36,Legia Warszawa,13.0,0
+36,Kecskemét,4.125,0
+36,Ararat-Armenia,8.0,0
+36,Linfield,10.0,0
+36,FK Budućnost Podgorica,8.0,0
+36,Ludogorets,19.0,0
+36,Dila,4.0,0
+36,St Patrick's,4.0,0
+36,Progrès,4.5,0
+36,Slovan Bratislava,26.5,0
+36,Milsami,5.0,0
+36,RFS,8.0,0
+36,HJK,10.0,0
+36,BATE Borisov,9.5,0
+36,Borac,5.5,0
+36,Birkirkara,2.5,0
+36,Flora Tallinn,11.0,0
+36,Víkingur Reykjavík,4.0,0
+36,Tirana,5.5,0
+36,Connah's Quay,5.5,0
+36,Lincoln Red Imps,9.0,0
+36,FC Santa Coloma,5.5,0
+36,La Fiorita,4.5,0
+37,Adana Demirspor,7.07,0
+37,Lugano,8.0,1
+37,Shakhtar Donetsk,59.0,1
+37,Slavia Praha,42.0,1
+37,Qarabağ,26.0,0
+37,HJK,10.0,0
+37,Linfield,10.0,1
+37,KÍ Klaksvík,10.0,0
+37,Sheriff,18.0,0
+37,Copenhagen,41.5,1
+37,Hearts,6.53,0
+37,Benfica,69.0,1
+37,Paris Saint-Germain,101.0,1
+37,Zorya Luhansk,16.5,0
+37,AZ Alkmaar,48.0,0
+37,Union SG,22.0,0
+37,Bohemians Praha 1905,5.66,0
+37,Rapid Wien,14.0,0
+37,Malmö FF,18.5,0
+37,Flora Tallinn,11.0,0
+37,Riga,11.0,0
+37,Maccabi Haifa,14.0,0
+37,AEK Athens,10.0,0
+37,Rijeka,12.0,0
+37,Čukarički,5.555,0
+37,Fenerbahçe,28.0,0
+37,Young Boys,32.5,0
+37,Bodø/Glimt,24.5,0
+37,Aris Limassol,4.37,0
+37,Raków Częstochowa,6.0,0
+37,Kecskemét,4.125,0
+37,CFR Cluj,26.5,0
+37,Dinamo Batumi,5.5,0
+37,Panevezys,4.0,0
+37,Ordabasy,4.0,0
+37,F91 Diddeleng,8.5,0
+37,Zrinjski,8.5,0
+37,Tre Penne,5.5,0
+37,Atlètic Club d'Escaldes,2.5,0
+37,CSKA-Sofia,12.5,0
+37,Dunajská Streda,8.0,0
+37,Celje,4.5,0
+37,Drita,6.5,0
+37,St Patrick's,4.0,0
+37,Urartu,3.5,0
+37,Dinamo Minsk,4.5,0
+37,Hamrun Spartans FC,4.5,0
+37,Víkingur Reykjavík,4.0,0
+37,Tirana,5.5,0
+37,The New Saints,8.5,0
+37,Magpies,2.0,0
+37,Shkëndija,8.0,0
+37,Sutjeska,7.5,0
+38,Partizan,25.5,1
+38,Fenerbahçe,28.0,0
+38,Young Boys,32.5,1
+38,Shakhtar Donetsk,59.0,1
+38,Ordabasy,4.0,0
+38,Slovan Bratislava,26.5,0
+38,Riga,11.0,1
+38,Sheriff,18.0,0
+38,Malmö FF,18.5,1
+38,H. Beer Sheva,17.0,0
+38,Galatasaray,30.5,0
+38,Union SG,22.0,1
+38,Ajax,64.0,0
+38,FC Porto,66.0,1
+38,Nice,17.0,0
+38,Aberdeen,7.5,0
+38,Salzburg,49.0,0
+38,Crvena zvezda,40.0,0
+38,HJK,10.0,0
+38,Bohemians Praha 1905,5.66,0
+38,Bodø/Glimt,24.5,0
+38,Partizani,6.5,0
+38,Rijeka,12.0,0
+38,Shkëndija,8.0,0
+38,Servette,6.155,0
+38,Dynamo Kyiv,26.5,0
+38,Viktoria Plzeň,17.0,0
+38,Copenhagen,41.5,0
+38,Olympiacos,34.0,0
+38,APOEL,14.5,0
+38,Lech Poznań,20.5,0
+38,Europa,5.5,0
+38,Debrecen,4.125,0
+38,FC Santa Coloma,5.5,0
+38,Drita,6.5,0
+38,The New Saints,8.5,0
+38,Maribor,9.5,0
+38,Farul Constanța,4.275,0
+38,BATE Borisov,9.5,0
+38,Ludogorets,19.0,0
+38,Neftçi,10.0,0
+38,St Patrick's,4.0,0
+38,Panevezys,4.0,0
+38,Pyunik,9.5,0
+38,Željezničar,2.5,0
+38,Swift Hesper,3.0,0
+38,KÍ Klaksvík,10.0,0
+38,Larne,4.5,0
+38,Gżira,7.0,0
+38,Dinamo Tbilisi,8.0,0
+38,Flora Tallinn,11.0,0
+38,Víkingur Reykjavík,4.0,0
+38,FK Budućnost Podgorica,8.0,0
+38,La Fiorita,4.5,0
+39,Fenerbahçe,28.0,1
+39,Luzern,6.155,1
+39,Shakhtar Donetsk,59.0,1
+39,Viktoria Plzeň,17.0,0
+39,Lech Poznań,20.5,1
+39,Petrocub,7.0,0
+39,Bodø/Glimt,24.5,1
+39,Olympiacos,34.0,0
+39,Sutjeska,7.5,0
+39,Zrinjski,8.5,0
+39,Partizan,25.5,1
+39,FC Porto,66.0,0
+39,PSV,43.0,0
+39,Union SG,22.0,1
+39,Lille,35.0,0
+39,Celtic,30.0,0
+39,Rapid Wien,14.0,0
+39,Galatasaray,30.5,0
+39,Maccabi Haifa,14.0,0
+39,AEK Larnaca,8.0,0
+39,Neftçi,10.0,0
+39,Dila,4.0,0
+39,KÍ Klaksvík,10.0,0
+39,Rijeka,12.0,0
+39,Young Boys,32.5,0
+39,Dynamo Kyiv,26.5,0
+39,Slavia Praha,42.0,0
+39,AGF,5.64,0
+39,IF Elfsborg,4.3,0
+39,Ferencváros,30.0,0
+39,FCSB,10.5,0
+39,RFS,8.0,0
+39,Víkingur Reykjavík,4.0,0
+39,Tirana,5.5,0
+39,Swift Hesper,3.0,0
+39,Shkupi,7.5,0
+39,Derry,4.0,0
+39,FC Santa Coloma,5.5,0
+39,CSKA-Sofia,12.5,0
+39,Spartak Trnava,5.5,0
+39,Ordabasy,4.0,0
+39,Olimpija Ljubljana,6.5,0
+39,Drita,6.5,0
+39,HJK,10.0,0
+39,Panevezys,4.0,0
+39,Pyunik,9.5,0
+39,Torpedo Zhodino,3.0,0
+39,Larne,4.5,0
+39,Birkirkara,2.5,0
+39,Flora Tallinn,11.0,0
+39,Penybont,1.158,0
+39,Lincoln Red Imps,9.0,0
+39,SS Cosmos,1.0,0
+40,Partizan,25.5,1
+40,Galatasaray,30.5,1
+40,Young Boys,32.5,0
+40,Shakhtar Donetsk,59.0,1
+40,Slovan Bratislava,26.5,1
+40,F91 Diddeleng,8.5,0
+40,Olympiacos,34.0,0
+40,BATE Borisov,9.5,0
+40,APOEL,14.5,1
+40,Levadia,6.0,0
+40,Dynamo Kyiv,26.5,0
+40,FC Porto,66.0,1
+40,PSV,43.0,0
+40,Sparta Praha,15.5,1
+40,Rennes,37.0,0
+40,Club Brugge,48.0,0
+40,Rangers,52.0,0
+40,Fenerbahçe,28.0,0
+40,Maribor,9.5,0
+40,Riga,11.0,0
+40,Bodø/Glimt,24.5,0
+40,Tirana,5.5,0
+40,HJK,10.0,0
+40,Ballkani,7.5,0
+40,LASK,34.0,0
+40,Servette,6.155,0
+40,Viktoria Plzeň,17.0,0
+40,Copenhagen,41.5,0
+40,Rijeka,12.0,0
+40,H. Beer Sheva,17.0,0
+40,Malmö FF,18.5,0
+40,Lech Poznań,20.5,0
+40,Víkingur Reykjavík,4.0,0
+40,Atlètic Club d'Escaldes,2.5,0
+40,FCSB,10.5,0
+40,Zrinjski,8.5,0
+40,Qarabağ,26.0,0
+40,Shkupi,7.5,0
+40,Ferencváros,30.0,0
+40,Ludogorets,19.0,0
+40,Ordabasy,4.0,0
+40,Sheriff,18.0,0
+40,Shamrock Rovers,9.5,0
+40,Panevezys,4.0,0
+40,Pyunik,9.5,0
+40,KÍ Klaksvík,10.0,0
+40,Glentoran,3.0,0
+40,Birkirkara,2.5,0
+40,Dinamo Tbilisi,8.0,0
+40,Connah's Quay,5.5,0
+40,Europa,5.5,0
+40,FK Budućnost Podgorica,8.0,0
+40,La Fiorita,4.5,0
+41,Galatasaray,30.5,1
+41,Luzern,6.155,0
+41,Shakhtar Donetsk,59.0,1
+41,Sparta Praha,15.5,0
+41,BATE Borisov,9.5,0
+41,Sheriff,18.0,1
+41,Copenhagen,41.5,0
+41,APOEL,14.5,0
+41,CFR Cluj,26.5,1
+41,Riga,11.0,1
+41,Ajax,64.0,0
+41,Braga,48.0,1
+41,PSV,43.0,1
+41,Genk,13.0,0
+41,Aberdeen,7.5,0
+41,Fenerbahçe,28.0,0
+41,LASK,34.0,0
+41,Slavia Praha,42.0,0
+41,Malmö FF,18.5,0
+41,FC Santa Coloma,5.5,0
+41,Ludogorets,19.0,0
+41,Pyunik,9.5,0
+41,Bodø/Glimt,24.5,0
+41,Rijeka,12.0,0
+41,TSC Bačka Topola,5.555,0
+41,Young Boys,32.5,0
+41,Zorya Luhansk,16.5,0
+41,AEK Athens,10.0,0
+41,Maccabi Haifa,14.0,0
+41,Raków Częstochowa,6.0,0
+41,Debrecen,4.125,0
+41,Partizani,6.5,0
+41,Slovan Bratislava,26.5,0
+41,HJK,10.0,0
+41,Europa,5.5,0
+41,Neftçi,10.0,0
+41,Flora Tallinn,11.0,0
+41,FK Budućnost Podgorica,8.0,0
+41,Maribor,9.5,0
+41,Ordabasy,4.0,0
+41,Drita,6.5,0
+41,St Patrick's,4.0,0
+41,Panevezys,4.0,0
+41,Željezničar,2.5,0
+41,Swift Hesper,3.0,0
+41,KÍ Klaksvík,10.0,0
+41,Glentoran,3.0,0
+41,Gżira,7.0,0
+41,Dinamo Tbilisi,8.0,0
+41,Víkingur Reykjavík,4.0,0
+41,Connah's Quay,5.5,0
+41,Shkupi,7.5,0
+41,Tre Penne,5.5,0
+42,Čukarički,5.555,0
+42,Beşiktaş,10.0,0
+42,Young Boys,32.5,1
+42,Shakhtar Donetsk,59.0,1
+42,Rijeka,12.0,0
+42,Bodø/Glimt,24.5,1
+42,CFR Cluj,26.5,0
+42,Ludogorets,19.0,1
+42,Copenhagen,41.5,1
+42,Ordabasy,4.0,0
+42,Zorya Luhansk,16.5,0
+42,Marseille,34.0,0
+42,Feyenoord,57.0,1
+42,Galatasaray,30.5,1
+42,FC Porto,66.0,0
+42,Club Brugge,48.0,0
+42,Celtic,30.0,0
+42,Crvena zvezda,40.0,0
+42,Sheriff,18.0,0
+42,Shkupi,7.5,0
+42,Legia Warszawa,13.0,0
+42,Derry,4.0,0
+42,Dinamo Tbilisi,8.0,0
+42,Olympiacos,34.0,0
+42,Rapid Wien,14.0,0
+42,Lugano,8.0,0
+42,Slavia Praha,42.0,0
+42,Sparta Praha,15.5,0
+42,H. Beer Sheva,17.0,0
+42,AEK Larnaca,8.0,0
+42,Malmö FF,18.5,0
+42,La Fiorita,4.5,0
+42,Hamrun Spartans FC,4.5,0
+42,Slovan Bratislava,26.5,0
+42,HJK,10.0,0
+42,RFS,8.0,0
+42,Flora Tallinn,11.0,0
+42,Ferencváros,30.0,0
+42,Atlètic Club d'Escaldes,2.5,0
+42,Neftçi,10.0,0
+42,Olimpija Ljubljana,6.5,0
+42,Gjilani,3.0,0
+42,Panevezys,4.0,0
+42,Urartu,3.5,0
+42,BATE Borisov,9.5,0
+42,Zrinjski,8.5,0
+42,Swift Hesper,3.0,0
+42,KÍ Klaksvík,10.0,0
+42,Larne,4.5,0
+42,Víkingur Reykjavík,4.0,0
+42,Egnatia,1.475,0
+42,The New Saints,8.5,0
+42,Lincoln Red Imps,9.0,0
+42,FK Budućnost Podgorica,8.0,0
+43,Galatasaray,30.5,1
+43,Lugano,8.0,0
+43,Shakhtar Donetsk,59.0,0
+43,Slavia Praha,42.0,1
+43,Maccabi Haifa,14.0,1
+43,CFR Cluj,26.5,0
+43,Slovan Bratislava,26.5,0
+43,KÍ Klaksvík,10.0,1
+43,Panevezys,4.0,0
+43,Olympiacos,34.0,1
+43,Feyenoord,57.0,0
+43,Sporting CP,45.5,1
+43,Lyon,44.0,0
+43,Partizan,25.5,1
+43,Antwerp,21.0,0
+43,Celtic,30.0,0
+43,Dnipro-1,10.5,0
+43,Fenerbahçe,28.0,0
+43,Gżira,7.0,0
+43,HJK,10.0,0
+43,Sutjeska,7.5,0
+43,Derry,4.0,0
+43,Malmö FF,18.5,0
+43,Riga,11.0,0
+43,Rapid Wien,14.0,0
+43,Young Boys,32.5,0
+43,Sparta Praha,15.5,0
+43,Bodø/Glimt,24.5,0
+43,Copenhagen,41.5,0
+43,Rijeka,12.0,0
+43,Aris Limassol,4.37,0
+43,Lech Poznań,20.5,0
+43,Debrecen,4.125,0
+43,Connah's Quay,5.5,0
+43,Pyunik,9.5,0
+43,Petrocub,7.0,0
+43,Shkëndija,8.0,0
+43,Levadia,6.0,0
+43,Víkingur Reykjavík,4.0,0
+43,CSKA 1948,3.675,0
+43,Qarabağ,26.0,0
+43,Ordabasy,4.0,0
+43,Maribor,9.5,0
+43,Gjilani,3.0,0
+43,Torpedo Zhodino,3.0,0
+43,Borac,5.5,0
+43,Swift Hesper,3.0,0
+43,Linfield,10.0,0
+43,Dinamo Tbilisi,8.0,0
+43,Tirana,5.5,0
+43,Lincoln Red Imps,9.0,0
+43,FC Santa Coloma,5.5,0
+43,Tre Penne,5.5,0
+44,Partizan,25.5,1
+44,Fenerbahçe,28.0,0
+44,Young Boys,32.5,1
+44,Shakhtar Donetsk,59.0,0
+44,CFR Cluj,26.5,1
+44,Rijeka,12.0,0
+44,Copenhagen,41.5,0
+44,Bodø/Glimt,24.5,1
+44,Maccabi Haifa,14.0,1
+44,Malmö FF,18.5,0
+44,Slavia Praha,42.0,0
+44,Galatasaray,30.5,0
+44,Club Brugge,48.0,1
+44,Monaco,24.0,1
+44,AZ Alkmaar,48.0,0
+44,Sporting CP,45.5,0
+44,Hearts,6.53,0
+44,Dynamo Kyiv,26.5,0
+44,Dinamo Tbilisi,8.0,0
+44,Lech Poznań,20.5,0
+44,Olympiacos,34.0,0
+44,Dunajská Streda,8.0,0
+44,Ferencváros,30.0,0
+44,The New Saints,8.5,0
+44,Salzburg,49.0,0
+44,Servette,6.155,0
+44,Sparta Praha,15.5,0
+44,APOEL,14.5,0
+44,F91 Diddeleng,8.5,0
+44,Olimpija Ljubljana,6.5,0
+44,Flora Tallinn,11.0,0
+44,Ordabasy,4.0,0
+44,Gjilani,3.0,0
+44,FC Santa Coloma,5.5,0
+44,Shkupi,7.5,0
+44,Sheriff,18.0,0
+44,Víkingur Reykjavík,4.0,0
+44,KÍ Klaksvík,10.0,0
+44,CSKA 1948,3.675,0
+44,Qarabağ,26.0,0
+44,RFS,8.0,0
+44,St Patrick's,4.0,0
+44,HJK,10.0,0
+44,Panevezys,4.0,0
+44,Ararat-Armenia,8.0,0
+44,Torpedo Zhodino,3.0,0
+44,Borac,5.5,0
+44,Larne,4.5,0
+44,Birkirkara,2.5,0
+44,Tirana,5.5,0
+44,Magpies,2.0,0
+44,Sutjeska,7.5,0
+44,Tre Penne,5.5,0
+45,Galatasaray,30.5,1
+45,Young Boys,32.5,1
+45,Dynamo Kyiv,26.5,1
+45,Viktoria Plzeň,17.0,1
+45,CFR Cluj,26.5,0
+45,Copenhagen,41.5,1
+45,The New Saints,8.5,0
+45,Bodø/Glimt,24.5,0
+45,Maccabi Haifa,14.0,0
+45,Dinamo Batumi,5.5,0
+45,Club Brugge,48.0,0
+45,Rangers,52.0,1
+45,Shakhtar Donetsk,59.0,1
+45,Braga,48.0,0
+45,Twente,11.42,0
+45,Feyenoord,57.0,0
+45,Partizan,25.5,0
+45,Lugano,8.0,0
+45,Borac,5.5,0
+45,Tirana,5.5,0
+45,Ferencváros,30.0,0
+45,Flora Tallinn,11.0,0
+45,Olympiacos,34.0,0
+45,Rijeka,12.0,0
+45,LASK,34.0,0
+45,Fenerbahçe,28.0,0
+45,Sparta Praha,15.5,0
+45,APOEL,14.5,0
+45,IF Elfsborg,4.3,0
+45,Raków Częstochowa,6.0,0
+45,KÍ Klaksvík,10.0,0
+45,Panevezys,4.0,0
+45,FC Santa Coloma,5.5,0
+45,CSKA-Sofia,12.5,0
+45,Riga,11.0,0
+45,Larne,4.5,0
+45,Slovan Bratislava,26.5,0
+45,Hamrun Spartans FC,4.5,0
+45,Struga,3.5,0
+45,Sabah,3.575,0
+45,Ordabasy,4.0,0
+45,Olimpija Ljubljana,6.5,0
+45,Milsami,5.0,0
+45,Gjilani,3.0,0
+45,St Patrick's,4.0,0
+45,HJK,10.0,0
+45,Pyunik,9.5,0
+45,Torpedo Zhodino,3.0,0
+45,Swift Hesper,3.0,0
+45,Víkingur Reykjavík,4.0,0
+45,Europa,5.5,0
+45,Sutjeska,7.5,0
+45,SS Cosmos,1.0,0
+46,Partizan,25.5,0
+46,Beşiktaş,10.0,1
+46,Young Boys,32.5,1
+46,Dynamo Kyiv,26.5,1
+46,KÍ Klaksvík,10.0,0
+46,Viktoria Plzeň,17.0,1
+46,Copenhagen,41.5,0
+46,Olympiacos,34.0,1
+46,Bodø/Glimt,24.5,0
+46,Malmö FF,18.5,0
+46,Club Brugge,48.0,1
+46,AZ Alkmaar,48.0,0
+46,LASK,34.0,1
+46,Galatasaray,30.5,0
+46,Marseille,34.0,0
+46,Sporting CP,45.5,0
+46,Aberdeen,7.5,0
+46,CFR Cluj,26.5,0
+46,FK Budućnost Podgorica,8.0,0
+46,Urartu,3.5,0
+46,APOEL,14.5,0
+46,Ferencváros,30.0,0
+46,Rijeka,12.0,0
+46,Luzern,6.155,0
+46,Shakhtar Donetsk,59.0,0
+46,Sparta Praha,15.5,0
+46,Maccabi Haifa,14.0,0
+46,Raków Częstochowa,6.0,0
+46,Qarabağ,26.0,0
+46,Birkirkara,2.5,0
+46,RFS,8.0,0
+46,Derry,4.0,0
+46,Víkingur Reykjavík,4.0,0
+46,HJK,10.0,0
+46,Slovan Bratislava,26.5,0
+46,Milsami,5.0,0
+46,Panevezys,4.0,0
+46,Partizani,6.5,0
+46,Ludogorets,19.0,0
+46,Ordabasy,4.0,0
+46,Olimpija Ljubljana,6.5,0
+46,Gjilani,3.0,0
+46,BATE Borisov,9.5,0
+46,Zrinjski,8.5,0
+46,Progrès,4.5,0
+46,Linfield,10.0,0
+46,Dinamo Tbilisi,8.0,0
+46,Flora Tallinn,11.0,0
+46,The New Saints,8.5,0
+46,Europa,5.5,0
+46,Shkupi,7.5,0
+46,Inter Club d'Escaldes,6.0,0
+46,La Fiorita,4.5,0
+47,Partizan,25.5,0
+47,Fenerbahçe,28.0,0
+47,Young Boys,32.5,1
+47,Dynamo Kyiv,26.5,0
+47,Maccabi Haifa,14.0,0
+47,Copenhagen,41.5,1
+47,Riga,11.0,1
+47,Rijeka,12.0,1
+47,Levadia,6.0,0
+47,Ferencváros,30.0,1
+47,Braga,48.0,0
+47,Feyenoord,57.0,0
+47,PSV,43.0,1
+47,Salzburg,49.0,1
+47,Genk,13.0,0
+47,Hearts,6.53,0
+47,Galatasaray,30.5,0
+47,Slavia Praha,42.0,0
+47,Linfield,10.0,0
+47,Neftçi,10.0,0
+47,Malmö FF,18.5,0
+47,Slovan Bratislava,26.5,0
+47,AEK Athens,10.0,0
+47,Partizani,6.5,0
+47,Servette,6.155,0
+47,Shakhtar Donetsk,59.0,0
+47,Bohemians Praha 1905,5.66,0
+47,Bodø/Glimt,24.5,0
+47,APOEL,14.5,0
+47,Legia Warszawa,13.0,0
+47,Víkingur Reykjavík,4.0,0
+47,Sheriff,18.0,0
+47,Atlètic Club d'Escaldes,2.5,0
+47,KÍ Klaksvík,10.0,0
+47,Ararat-Armenia,8.0,0
+47,Gjilani,3.0,0
+47,Shkëndija,8.0,0
+47,HJK,10.0,0
+47,CFR Cluj,26.5,0
+47,CSKA-Sofia,12.5,0
+47,Ordabasy,4.0,0
+47,Celje,4.5,0
+47,St Patrick's,4.0,0
+47,Panevezys,4.0,0
+47,BATE Borisov,9.5,0
+47,Željezničar,2.5,0
+47,Progrès,4.5,0
+47,Gżira,7.0,0
+47,Dila,4.0,0
+47,The New Saints,8.5,0
+47,Europa,5.5,0
+47,FK Budućnost Podgorica,8.0,0
+47,La Fiorita,4.5,0
+48,Partizan,25.5,0
+48,Fenerbahçe,28.0,0
+48,Young Boys,32.5,1
+48,Shakhtar Donetsk,59.0,1
+48,CFR Cluj,26.5,0
+48,Ludogorets,19.0,0
+48,Ferencváros,30.0,0
+48,Slavia Praha,42.0,1
+48,Olympiacos,34.0,1
+48,Lech Poznań,20.5,1
+48,Celtic,30.0,0
+48,PSV,43.0,0
+48,Benfica,69.0,1
+48,Paris Saint-Germain,101.0,1
+48,Club Brugge,48.0,0
+48,Viktoria Plzeň,17.0,0
+48,Salzburg,49.0,0
+48,Adana Demirspor,7.07,0
+48,APOEL,14.5,0
+48,Dinamo Tbilisi,8.0,0
+48,Rijeka,12.0,0
+48,Qarabağ,26.0,0
+48,Bodø/Glimt,24.5,0
+48,Tre Penne,5.5,0
+48,Lugano,8.0,0
+48,Zorya Luhansk,16.5,0
+48,AGF,5.64,0
+48,Maccabi Haifa,14.0,0
+48,BK Häcken,4.3,0
+48,FK Budućnost Podgorica,8.0,0
+48,Europa,5.5,0
+48,Connah's Quay,5.5,0
+48,Shamrock Rovers,9.5,0
+48,Partizani,6.5,0
+48,Ordabasy,4.0,0
+48,Pyunik,9.5,0
+48,RFS,8.0,0
+48,Shkëndija,8.0,0
+48,Spartak Trnava,5.5,0
+48,Maribor,9.5,0
+48,Sheriff,18.0,0
+48,Ballkani,7.5,0
+48,HJK,10.0,0
+48,Panevezys,4.0,0
+48,Dinamo Minsk,4.5,0
+48,Zrinjski,8.5,0
+48,F91 Diddeleng,8.5,0
+48,KÍ Klaksvík,10.0,0
+48,Linfield,10.0,0
+48,Gżira,7.0,0
+48,Flora Tallinn,11.0,0
+48,Víkingur Reykjavík,4.0,0
+48,Inter Club d'Escaldes,6.0,0
+49,Beşiktaş,10.0,1
+49,Luzern,6.155,0
+49,Zorya Luhansk,16.5,1
+49,Bohemians Praha 1905,5.66,0
+49,Lincoln Red Imps,9.0,1
+49,CFR Cluj,26.5,0
+49,F91 Diddeleng,8.5,1
+49,Copenhagen,41.5,0
+49,Lech Poznań,20.5,0
+49,Maribor,9.5,1
+49,Rennes,37.0,1
+49,Antwerp,21.0,1
+49,LASK,34.0,0
+49,Braga,48.0,0
+49,AZ Alkmaar,48.0,0
+49,Hearts,6.53,0
+49,Partizan,25.5,0
+49,Galatasaray,30.5,0
+49,Hamrun Spartans FC,4.5,0
+49,H. Beer Sheva,17.0,0
+49,Shkupi,7.5,0
+49,Slovan Bratislava,26.5,0
+49,Malmö FF,18.5,0
+49,The New Saints,8.5,0
+49,Young Boys,32.5,0
+49,Shakhtar Donetsk,59.0,0
+49,Slavia Praha,42.0,0
+49,Bodø/Glimt,24.5,0
+49,Rijeka,12.0,0
+49,AEK Athens,10.0,0
+49,APOEL,14.5,0
+49,Ferencváros,30.0,0
+49,Pyunik,9.5,0
+49,Ordabasy,4.0,0
+49,FK Budućnost Podgorica,8.0,0
+49,KÍ Klaksvík,10.0,0
+49,Tre Penne,5.5,0
+49,Sheriff,18.0,0
+49,Riga,11.0,0
+49,Ludogorets,19.0,0
+49,Sabah,3.575,0
+49,Ballkani,7.5,0
+49,St Patrick's,4.0,0
+49,HJK,10.0,0
+49,Panevezys,4.0,0
+49,Dinamo Minsk,4.5,0
+49,Zrinjski,8.5,0
+49,Linfield,10.0,0
+49,Dinamo Tbilisi,8.0,0
+49,Levadia,6.0,0
+49,Víkingur Reykjavík,4.0,0
+49,Partizani,6.5,0
+49,Inter Club d'Escaldes,6.0,0
+50,Partizan,25.5,1
+50,Galatasaray,30.5,1
+50,Young Boys,32.5,1
+50,Shakhtar Donetsk,59.0,0
+50,Sheriff,18.0,0
+50,Kecskemét,4.125,0
+50,Sparta Praha,15.5,0
+50,Linfield,10.0,1
+50,Olympiacos,34.0,1
+50,Rijeka,12.0,0
+50,Lille,35.0,0
+50,Slavia Praha,42.0,1
+50,Club Brugge,48.0,1
+50,Benfica,69.0,0
+50,Feyenoord,57.0,0
+50,Aberdeen,7.5,0
+50,Rapid Wien,14.0,0
+50,Fenerbahçe,28.0,0
+50,Qarabağ,26.0,0
+50,Maccabi Haifa,14.0,0
+50,Raków Częstochowa,6.0,0
+50,Flora Tallinn,11.0,0
+50,Riga,11.0,0
+50,Tre Penne,5.5,0
+50,Luzern,6.155,0
+50,Dynamo Kyiv,26.5,0
+50,Bodø/Glimt,24.5,0
+50,Copenhagen,41.5,0
+50,APOEL,14.5,0
+50,BK Häcken,4.3,0
+50,HJK,10.0,0
+50,Struga,3.5,0
+50,Atlètic Club d'Escaldes,2.5,0
+50,Torpedo Zhodino,3.0,0
+50,Lincoln Red Imps,9.0,0
+50,FCSB,10.5,0
+50,Shamrock Rovers,9.5,0
+50,Zrinjski,8.5,0
+50,CSKA-Sofia,12.5,0
+50,Slovan Bratislava,26.5,0
+50,Ordabasy,4.0,0
+50,Maribor,9.5,0
+50,Gjilani,3.0,0
+50,Panevezys,4.0,0
+50,Pyunik,9.5,0
+50,F91 Diddeleng,8.5,0
+50,KÍ Klaksvík,10.0,0
+50,Birkirkara,2.5,0
+50,Dila,4.0,0
+50,Víkingur Reykjavík,4.0,0
+50,Egnatia,1.475,0
+50,Penybont,1.158,0
+50,Sutjeska,7.5,0
+51,Fenerbahçe,28.0,0
+51,Young Boys,32.5,1
+51,Shakhtar Donetsk,59.0,0
+51,Slavia Praha,42.0,1
+51,Malmö FF,18.5,1
+51,Ferencváros,30.0,0
+51,Larne,4.5,0
+51,H. Beer Sheva,17.0,1
+51,Lech Poznań,20.5,1
+51,Ballkani,7.5,0
+51,AZ Alkmaar,48.0,1
+51,FC Porto,66.0,0
+51,Rangers,52.0,0
+51,LASK,34.0,1
+51,Feyenoord,57.0,0
+51,Union SG,22.0,0
+51,Zorya Luhansk,16.5,0
+51,Partizan,25.5,0
+51,Borac,5.5,0
+51,Olympiacos,34.0,0
+51,CSKA-Sofia,12.5,0
+51,HJK,10.0,0
+51,AEK Larnaca,8.0,0
+51,CFR Cluj,26.5,0
+51,Galatasaray,30.5,0
+51,Servette,6.155,0
+51,Sparta Praha,15.5,0
+51,Bodø/Glimt,24.5,0
+51,AGF,5.64,0
+51,Rijeka,12.0,0
+51,FC Santa Coloma,5.5,0
+51,Shkupi,7.5,0
+51,Qarabağ,26.0,0
+51,Lincoln Red Imps,9.0,0
+51,BATE Borisov,9.5,0
+51,Tre Penne,5.5,0
+51,Birkirkara,2.5,0
+51,Flora Tallinn,11.0,0
+51,Slovan Bratislava,26.5,0
+51,Ordabasy,4.0,0
+51,Olimpija Ljubljana,6.5,0
+51,Petrocub,7.0,0
+51,Riga,11.0,0
+51,Shamrock Rovers,9.5,0
+51,Panevezys,4.0,0
+51,Pyunik,9.5,0
+51,F91 Diddeleng,8.5,0
+51,KÍ Klaksvík,10.0,0
+51,Dinamo Batumi,5.5,0
+51,Víkingur Reykjavík,4.0,0
+51,Partizani,6.5,0
+51,The New Saints,8.5,0
+51,FK Arsenal Tivat,1.141,0
+52,Fenerbahçe,28.0,1
+52,Luzern,6.155,0
+52,Shakhtar Donetsk,59.0,1
+52,Slavia Praha,42.0,1
+52,Dinamo Minsk,4.5,0
+52,Linfield,10.0,0
+52,Copenhagen,41.5,1
+52,KÍ Klaksvík,10.0,0
+52,Lech Poznań,20.5,1
+52,CFR Cluj,26.5,0
+52,Rangers,52.0,1
+52,Ajax,64.0,0
+52,Twente,11.42,0
+52,Benfica,69.0,1
+52,Antwerp,21.0,0
+52,Rapid Wien,14.0,0
+52,Sparta Praha,15.5,0
+52,Young Boys,32.5,0
+52,HJK,10.0,0
+52,Lincoln Red Imps,9.0,0
+52,Bodø/Glimt,24.5,0
+52,Kecskemét,4.125,0
+52,Ararat-Armenia,8.0,0
+52,Progrès,4.5,0
+52,Partizan,25.5,0
+52,Adana Demirspor,7.07,0
+52,Dynamo Kyiv,26.5,0
+52,Rijeka,12.0,0
+52,Olympiacos,34.0,0
+52,Maccabi Haifa,14.0,0
+52,APOEL,14.5,0
+52,Malmö FF,18.5,0
+52,Atlètic Club d'Escaldes,2.5,0
+52,Víkingur Reykjavík,4.0,0
+52,Flora Tallinn,11.0,0
+52,Borac,5.5,0
+52,Olimpija Ljubljana,6.5,0
+52,The New Saints,8.5,0
+52,Tirana,5.5,0
+52,CSKA-Sofia,12.5,0
+52,Slovan Bratislava,26.5,0
+52,Qarabağ,26.0,0
+52,Ordabasy,4.0,0
+52,Sheriff,18.0,0
+52,Ballkani,7.5,0
+52,Riga,11.0,0
+52,Shamrock Rovers,9.5,0
+52,Panevezys,4.0,0
+52,Gżira,7.0,0
+52,Dinamo Tbilisi,8.0,0
+52,Struga,3.5,0
+52,FK Budućnost Podgorica,8.0,0
+52,Tre Penne,5.5,0
+53,Partizan,25.5,0
+53,Galatasaray,30.5,1
+53,Lugano,8.0,0
+53,Shakhtar Donetsk,59.0,0
+53,Dunajská Streda,8.0,1
+53,Rijeka,12.0,1
+53,Levadia,6.0,0
+53,Copenhagen,41.5,0
+53,Bodø/Glimt,24.5,1
+53,Slavia Praha,42.0,1
+53,Rapid Wien,14.0,0
+53,Dynamo Kyiv,26.5,1
+53,Club Brugge,48.0,1
+53,Braga,48.0,0
+53,Nice,17.0,0
+53,PSV,43.0,0
+53,Rangers,52.0,0
+53,Young Boys,32.5,0
+53,Olympiacos,34.0,0
+53,Ballkani,7.5,0
+53,Partizani,6.5,0
+53,Malmö FF,18.5,0
+53,Petrocub,7.0,0
+53,Riga,11.0,0
+53,Adana Demirspor,7.07,0
+53,Bohemians Praha 1905,5.66,0
+53,H. Beer Sheva,17.0,0
+53,APOEL,14.5,0
+53,Lech Poznań,20.5,0
+53,HJK,10.0,0
+53,CSKA-Sofia,12.5,0
+53,Shkupi,7.5,0
+53,Neftçi,10.0,0
+53,Ferencváros,30.0,0
+53,Víkingur Reykjavík,4.0,0
+53,KÍ Klaksvík,10.0,0
+53,Maribor,9.5,0
+53,Panevezys,4.0,0
+53,Farul Constanța,4.275,0
+53,Ordabasy,4.0,0
+53,Shamrock Rovers,9.5,0
+53,Urartu,3.5,0
+53,BATE Borisov,9.5,0
+53,Borac,5.5,0
+53,Progrès,4.5,0
+53,Larne,4.5,0
+53,Birkirkara,2.5,0
+53,Dinamo Tbilisi,8.0,0
+53,Connah's Quay,5.5,0
+53,Lincoln Red Imps,9.0,0
+53,FC Santa Coloma,5.5,0
+53,Sutjeska,7.5,0
+53,Tre Penne,5.5,0
+54,Crvena zvezda,40.0,1
+54,Adana Demirspor,7.07,0
+54,Young Boys,32.5,0
+54,Shakhtar Donetsk,59.0,1
+54,Zrinjski,8.5,0
+54,Olympiacos,34.0,1
+54,Rijeka,12.0,0
+54,Slovan Bratislava,26.5,1
+54,APOEL,14.5,0
+54,The New Saints,8.5,1
+54,LASK,34.0,1
+54,Sporting CP,45.5,1
+54,Lyon,44.0,0
+54,Viktoria Plzeň,17.0,0
+54,Braga,48.0,0
+54,Club Brugge,48.0,0
+54,Hearts,6.53,0
+54,Servette,6.155,0
+54,CFR Cluj,26.5,0
+54,Petrocub,7.0,0
+54,Legia Warszawa,13.0,0
+54,Shamrock Rovers,9.5,0
+54,Dinamo Tbilisi,8.0,0
+54,BK Häcken,4.3,0
+54,Partizan,25.5,0
+54,Beşiktaş,10.0,0
+54,Dynamo Kyiv,26.5,0
+54,Sparta Praha,15.5,0
+54,Bodø/Glimt,24.5,0
+54,Copenhagen,41.5,0
+54,Maccabi Haifa,14.0,0
+54,KÍ Klaksvík,10.0,0
+54,Víkingur Reykjavík,4.0,0
+54,La Fiorita,4.5,0
+54,F91 Diddeleng,8.5,0
+54,HJK,10.0,0
+54,Lincoln Red Imps,9.0,0
+54,Sutjeska,7.5,0
+54,Gżira,7.0,0
+54,Ferencváros,30.0,0
+54,Ludogorets,19.0,0
+54,Qarabağ,26.0,0
+54,Ordabasy,4.0,0
+54,Celje,4.5,0
+54,Drita,6.5,0
+54,RFS,8.0,0
+54,Panevezys,4.0,0
+54,Pyunik,9.5,0
+54,Dinamo Minsk,4.5,0
+54,Linfield,10.0,0
+54,Flora Tallinn,11.0,0
+54,Egnatia,1.475,0
+54,Shkëndija,8.0,0
+54,Inter Club d'Escaldes,6.0,0
+55,Partizan,25.5,0
+55,Fenerbahçe,28.0,1
+55,Young Boys,32.5,1
+55,Shakhtar Donetsk,59.0,1
+55,Lech Poznań,20.5,1
+55,Malmö FF,18.5,0
+55,Ararat-Armenia,8.0,0
+55,Copenhagen,41.5,1
+55,Ferencváros,30.0,0
+55,Viktoria Plzeň,17.0,0
+55,AZ Alkmaar,48.0,1
+55,LASK,34.0,0
+55,Braga,48.0,1
+55,Ajax,64.0,0
+55,Union SG,22.0,0
+55,Hearts,6.53,0
+55,Crvena zvezda,40.0,0
+55,Beşiktaş,10.0,0
+55,H. Beer Sheva,17.0,0
+55,Víkingur Reykjavík,4.0,0
+55,Lincoln Red Imps,9.0,0
+55,Gjilani,3.0,0
+55,BATE Borisov,9.5,0
+55,Panathinaikos,5.225,0
+55,Servette,6.155,0
+55,Dnipro-1,10.5,0
+55,Slavia Praha,42.0,0
+55,Bodø/Glimt,24.5,0
+55,Rijeka,12.0,0
+55,Aris Limassol,4.37,0
+55,CFR Cluj,26.5,0
+55,Dinamo Batumi,5.5,0
+55,La Fiorita,4.5,0
+55,Panevezys,4.0,0
+55,Shkëndija,8.0,0
+55,Connah's Quay,5.5,0
+55,Atlètic Club d'Escaldes,2.5,0
+55,Ludogorets,19.0,0
+55,Riga,11.0,0
+55,Slovan Bratislava,26.5,0
+55,Neftçi,10.0,0
+55,Ordabasy,4.0,0
+55,Maribor,9.5,0
+55,Milsami,5.0,0
+55,Shamrock Rovers,9.5,0
+55,HJK,10.0,0
+55,Borac,5.5,0
+55,Swift Hesper,3.0,0
+55,KÍ Klaksvík,10.0,0
+55,Larne,4.5,0
+55,Birkirkara,2.5,0
+55,Flora Tallinn,11.0,0
+55,Partizani,6.5,0
+55,FK Budućnost Podgorica,8.0,0
+56,Galatasaray,30.5,1
+56,Luzern,6.155,0
+56,Shakhtar Donetsk,59.0,0
+56,Slavia Praha,42.0,1
+56,Olympiacos,34.0,0
+56,Maccabi Haifa,14.0,0
+56,APOEL,14.5,1
+56,FCSB,10.5,0
+56,KÍ Klaksvík,10.0,1
+56,Copenhagen,41.5,1
+56,Sporting CP,45.5,1
+56,Dynamo Kyiv,26.5,0
+56,Lens,11.266,0
+56,Young Boys,32.5,1
+56,Twente,11.42,0
+56,Antwerp,21.0,0
+56,Celtic,30.0,0
+56,Viktoria Plzeň,17.0,0
+56,Ferencváros,30.0,0
+56,The New Saints,8.5,0
+56,Sheriff,18.0,0
+56,Lech Poznań,20.5,0
+56,Flora Tallinn,11.0,0
+56,Rijeka,12.0,0
+56,LASK,34.0,0
+56,TSC Bačka Topola,5.555,0
+56,Beşiktaş,10.0,0
+56,Bodø/Glimt,24.5,0
+56,Malmö FF,18.5,0
+56,Ludogorets,19.0,0
+56,Panevezys,4.0,0
+56,Qarabağ,26.0,0
+56,Drita,6.5,0
+56,Víkingur Reykjavík,4.0,0
+56,Inter Club d'Escaldes,6.0,0
+56,Riga,11.0,0
+56,Dinamo Batumi,5.5,0
+56,Shkupi,7.5,0
+56,HJK,10.0,0
+56,Dunajská Streda,8.0,0
+56,Ordabasy,4.0,0
+56,Maribor,9.5,0
+56,St Patrick's,4.0,0
+56,Pyunik,9.5,0
+56,BATE Borisov,9.5,0
+56,Zrinjski,8.5,0
+56,Swift Hesper,3.0,0
+56,Glentoran,3.0,0
+56,Gżira,7.0,0
+56,Partizani,6.5,0
+56,Lincoln Red Imps,9.0,0
+56,FK Budućnost Podgorica,8.0,0
+56,La Fiorita,4.5,0
+57,Čukarički,5.555,1
+57,Adana Demirspor,7.07,0
+57,Young Boys,32.5,1
+57,Shakhtar Donetsk,59.0,1
+57,Qarabağ,26.0,0
+57,Ferencváros,30.0,0
+57,Slavia Praha,42.0,0
+57,Legia Warszawa,13.0,0
+57,Bodø/Glimt,24.5,1
+57,Olympiacos,34.0,1
+57,Salzburg,49.0,1
+57,Dynamo Kyiv,26.5,0
+57,FC Porto,66.0,0
+57,Marseille,34.0,1
+57,Twente,11.42,0
+57,Antwerp,21.0,0
+57,Celtic,30.0,0
+57,Galatasaray,30.5,0
+57,Borac,5.5,0
+57,Copenhagen,41.5,0
+57,BATE Borisov,9.5,0
+57,Víkingur Reykjavík,4.0,0
+57,Shamrock Rovers,9.5,0
+57,Maribor,9.5,0
+57,TSC Bačka Topola,5.555,0
+57,Servette,6.155,0
+57,Viktoria Plzeň,17.0,0
+57,Rijeka,12.0,0
+57,H. Beer Sheva,17.0,0
+57,APOEL,14.5,0
+57,Malmö FF,18.5,0
+57,Slovan Bratislava,26.5,0
+57,KÍ Klaksvík,10.0,0
+57,Linfield,10.0,0
+57,Dinamo Tbilisi,8.0,0
+57,HJK,10.0,0
+57,CFR Cluj,26.5,0
+57,Riga,11.0,0
+57,Shkëndija,8.0,0
+57,CSKA-Sofia,12.5,0
+57,Ordabasy,4.0,0
+57,Milsami,5.0,0
+57,Ballkani,7.5,0
+57,Panevezys,4.0,0
+57,Pyunik,9.5,0
+57,F91 Diddeleng,8.5,0
+57,Hamrun Spartans FC,4.5,0
+57,Flora Tallinn,11.0,0
+57,Tirana,5.5,0
+57,Connah's Quay,5.5,0
+57,Europa,5.5,0
+57,FC Santa Coloma,5.5,0
+57,FK Arsenal Tivat,1.141,0
+57,La Fiorita,4.5,0
+58,Partizan,25.5,0
+58,Galatasaray,30.5,0
+58,Young Boys,32.5,1
+58,Shakhtar Donetsk,59.0,1
+58,Riga,11.0,1
+58,Copenhagen,41.5,0
+58,AEK Larnaca,8.0,0
+58,Dinamo Tbilisi,8.0,1
+58,Legia Warszawa,13.0,1
+58,Maccabi Haifa,14.0,0
+58,Viktoria Plzeň,17.0,1
+58,Feyenoord,57.0,0
+58,Salzburg,49.0,1
+58,Hearts,6.53,0
+58,Twente,11.42,0
+58,Benfica,69.0,0
+58,Antwerp,21.0,0
+58,Zorya Luhansk,16.5,0
+58,Torpedo Zhodino,3.0,0
+58,Malmö FF,18.5,0
+58,Víkingur Reykjavík,4.0,0
+58,Gżira,7.0,0
+58,CSKA-Sofia,12.5,0
+58,Glentoran,3.0,0
+58,Čukarički,5.555,0
+58,Beşiktaş,10.0,0
+58,Luzern,6.155,0
+58,Sparta Praha,15.5,0
+58,Bodø/Glimt,24.5,0
+58,Rijeka,12.0,0
+58,Olympiacos,34.0,0
+58,Connah's Quay,5.5,0
+58,Ordabasy,4.0,0
+58,Olimpija Ljubljana,6.5,0
+58,HJK,10.0,0
+58,Inter Club d'Escaldes,6.0,0
+58,Qarabağ,26.0,0
+58,Drita,6.5,0
+58,Flora Tallinn,11.0,0
+58,Ferencváros,30.0,0
+58,FCSB,10.5,0
+58,Dunajská Streda,8.0,0
+58,Milsami,5.0,0
+58,Derry,4.0,0
+58,Panevezys,4.0,0
+58,Pyunik,9.5,0
+58,Borac,5.5,0
+58,Swift Hesper,3.0,0
+58,KÍ Klaksvík,10.0,0
+58,Tirana,5.5,0
+58,Lincoln Red Imps,9.0,0
+58,Shkëndija,8.0,0
+58,FK Arsenal Tivat,1.141,0
+58,La Fiorita,4.5,0
+59,Partizan,25.5,1
+59,Galatasaray,30.5,0
+59,Young Boys,32.5,1
+59,Shakhtar Donetsk,59.0,1
+59,Olympiacos,34.0,0
+59,HJK,10.0,0
+59,FK Budućnost Podgorica,8.0,0
+59,F91 Diddeleng,8.5,1
+59,Maccabi Haifa,14.0,0
+59,Ferencváros,30.0,1
+59,Genk,13.0,1
+59,FC Porto,66.0,1
+59,Celtic,30.0,0
+59,PSV,43.0,0
+59,Rennes,37.0,0
+59,Zorya Luhansk,16.5,0
+59,Adana Demirspor,7.07,0
+59,Viktoria Plzeň,17.0,0
+59,Slavia Praha,42.0,0
+59,CSKA-Sofia,12.5,0
+59,Rijeka,12.0,0
+59,Dinamo Batumi,5.5,0
+59,Ordabasy,4.0,0
+59,The New Saints,8.5,0
+59,LASK,34.0,0
+59,Servette,6.155,0
+59,Bodø/Glimt,24.5,0
+59,Copenhagen,41.5,0
+59,APOEL,14.5,0
+59,Malmö FF,18.5,0
+59,Legia Warszawa,13.0,0
+59,Maribor,9.5,0
+59,Víkingur Reykjavík,4.0,0
+59,Pyunik,9.5,0
+59,Panevezys,4.0,0
+59,Atlètic Club d'Escaldes,2.5,0
+59,Struga,3.5,0
+59,Gżira,7.0,0
+59,FCSB,10.5,0
+59,Dunajská Streda,8.0,0
+59,Qarabağ,26.0,0
+59,Petrocub,7.0,0
+59,Gjilani,3.0,0
+59,RFS,8.0,0
+59,St Patrick's,4.0,0
+59,Torpedo Zhodino,3.0,0
+59,Zrinjski,8.5,0
+59,KÍ Klaksvík,10.0,0
+59,Linfield,10.0,0
+59,Flora Tallinn,11.0,0
+59,Partizani,6.5,0
+59,Europa,5.5,0
+59,La Fiorita,4.5,0
+60,Partizan,25.5,0
+60,Beşiktaş,10.0,1
+60,Lugano,8.0,0
+60,Shakhtar Donetsk,59.0,1
+60,FK Budućnost Podgorica,8.0,0
+60,Sparta Praha,15.5,0
+60,Rijeka,12.0,1
+60,Olympiacos,34.0,1
+60,Flora Tallinn,11.0,0
+60,Sheriff,18.0,1
+60,Club Brugge,48.0,0
+60,Slavia Praha,42.0,1
+60,Marseille,34.0,1
+60,FC Porto,66.0,0
+60,Feyenoord,57.0,0
+60,Celtic,30.0,0
+60,Rapid Wien,14.0,0
+60,Galatasaray,30.5,0
+60,Lech Poznań,20.5,0
+60,Tirana,5.5,0
+60,HJK,10.0,0
+60,Maccabi Haifa,14.0,0
+60,Malmö FF,18.5,0
+60,Qarabağ,26.0,0
+60,Young Boys,32.5,0
+60,Zorya Luhansk,16.5,0
+60,Bodø/Glimt,24.5,0
+60,AGF,5.64,0
+60,APOEL,14.5,0
+60,Ferencváros,30.0,0
+60,SS Cosmos,1.0,0
+60,Víkingur Reykjavík,4.0,0
+60,FCSB,10.5,0
+60,RFS,8.0,0
+60,Drita,6.5,0
+60,BATE Borisov,9.5,0
+60,Panevezys,4.0,0
+60,Shkupi,7.5,0
+60,CSKA 1948,3.675,0
+60,Slovan Bratislava,26.5,0
+60,Ordabasy,4.0,0
+60,Olimpija Ljubljana,6.5,0
+60,Derry,4.0,0
+60,Pyunik,9.5,0
+60,Borac,5.5,0
+60,F91 Diddeleng,8.5,0
+60,KÍ Klaksvík,10.0,0
+60,Glentoran,3.0,0
+60,Gżira,7.0,0
+60,Dinamo Tbilisi,8.0,0
+60,The New Saints,8.5,0
+60,Magpies,2.0,0
+60,FC Santa Coloma,5.5,0
+61,Partizan,25.5,1
+61,Fenerbahçe,28.0,0
+61,Lugano,8.0,0
+61,Shakhtar Donetsk,59.0,1
+61,Sheriff,18.0,0
+61,Slavia Praha,42.0,1
+61,Olympiacos,34.0,0
+61,Riga,11.0,0
+61,APOEL,14.5,1
+61,CFR Cluj,26.5,1
+61,Young Boys,32.5,1
+61,Ajax,64.0,1
+61,Sporting CP,45.5,0
+61,LASK,34.0,0
+61,Feyenoord,57.0,0
+61,Union SG,22.0,0
+61,Aberdeen,7.5,0
+61,Viktoria Plzeň,17.0,0
+61,HJK,10.0,0
+61,Ferencváros,30.0,0
+61,Bodø/Glimt,24.5,0
+61,Malmö FF,18.5,0
+61,Connah's Quay,5.5,0
+61,KÍ Klaksvík,10.0,0
+61,Galatasaray,30.5,0
+61,Dynamo Kyiv,26.5,0
+61,AGF,5.64,0
+61,Rijeka,12.0,0
+61,H. Beer Sheva,17.0,0
+61,Raków Częstochowa,6.0,0
+61,FK Budućnost Podgorica,8.0,0
+61,F91 Diddeleng,8.5,0
+61,Ballkani,7.5,0
+61,FC Santa Coloma,5.5,0
+61,Zrinjski,8.5,0
+61,Lincoln Red Imps,9.0,0
+61,Larne,4.5,0
+61,Slovan Bratislava,26.5,0
+61,CSKA-Sofia,12.5,0
+61,Sabah,3.575,0
+61,Ordabasy,4.0,0
+61,Maribor,9.5,0
+61,Shamrock Rovers,9.5,0
+61,Panevezys,4.0,0
+61,Pyunik,9.5,0
+61,BATE Borisov,9.5,0
+61,Birkirkara,2.5,0
+61,Dila,4.0,0
+61,Levadia,6.0,0
+61,Víkingur Reykjavík,4.0,0
+61,Partizani,6.5,0
+61,Struga,3.5,0
+61,La Fiorita,4.5,0
+62,Partizan,25.5,1
+62,Fenerbahçe,28.0,1
+62,Young Boys,32.5,0
+62,Shakhtar Donetsk,59.0,1
+62,Qarabağ,26.0,0
+62,Lech Poznań,20.5,0
+62,Copenhagen,41.5,1
+62,Flora Tallinn,11.0,0
+62,H. Beer Sheva,17.0,0
+62,Malmö FF,18.5,1
+62,Salzburg,49.0,0
+62,Genk,13.0,1
+62,Zorya Luhansk,16.5,0
+62,Rangers,52.0,1
+62,Monaco,24.0,0
+62,AZ Alkmaar,48.0,0
+62,Braga,48.0,0
+62,Adana Demirspor,7.07,0
+62,Ferencváros,30.0,0
+62,Urartu,3.5,0
+62,Rijeka,12.0,0
+62,Lincoln Red Imps,9.0,0
+62,Hamrun Spartans FC,4.5,0
+62,Derry,4.0,0
+62,Servette,6.155,0
+62,Slavia Praha,42.0,0
+62,Bohemians Praha 1905,5.66,0
+62,Bodø/Glimt,24.5,0
+62,AEK Athens,10.0,0
+62,APOEL,14.5,0
+62,Riga,11.0,0
+62,HJK,10.0,0
+62,Panevezys,4.0,0
+62,Tirana,5.5,0
+62,KÍ Klaksvík,10.0,0
+62,Shkupi,7.5,0
+62,CSKA 1948,3.675,0
+62,Glentoran,3.0,0
+62,FCSB,10.5,0
+62,Slovan Bratislava,26.5,0
+62,Ordabasy,4.0,0
+62,Celje,4.5,0
+62,Petrocub,7.0,0
+62,Drita,6.5,0
+62,BATE Borisov,9.5,0
+62,Zrinjski,8.5,0
+62,Swift Hesper,3.0,0
+62,Dinamo Tbilisi,8.0,0
+62,Víkingur Reykjavík,4.0,0
+62,The New Saints,8.5,0
+62,FC Santa Coloma,5.5,0
+62,Sutjeska,7.5,0
+62,La Fiorita,4.5,0
+63,Partizan,25.5,0
+63,Galatasaray,30.5,1
+63,Young Boys,32.5,0
+63,Dynamo Kyiv,26.5,1
+63,Ferencváros,30.0,0
+63,Bodø/Glimt,24.5,1
+63,CFR Cluj,26.5,1
+63,Dunajská Streda,8.0,1
+63,FK Budućnost Podgorica,8.0,0
+63,Olympiacos,34.0,0
+63,Salzburg,49.0,1
+63,Viktoria Plzeň,17.0,0
+63,Benfica,69.0,1
+63,PSV,43.0,0
+63,Feyenoord,57.0,0
+63,Union SG,22.0,0
+63,Aberdeen,7.5,0
+63,Luzern,6.155,0
+63,Slavia Praha,42.0,0
+63,Tre Penne,5.5,0
+63,AGF,5.64,0
+63,Legia Warszawa,13.0,0
+63,Shamrock Rovers,9.5,0
+63,Qarabağ,26.0,0
+63,TSC Bačka Topola,5.555,0
+63,Fenerbahçe,28.0,0
+63,Dnipro-1,10.5,0
+63,Rijeka,12.0,0
+63,H. Beer Sheva,17.0,0
+63,Aris Limassol,4.37,0
+63,Malmö FF,18.5,0
+63,Hamrun Spartans FC,4.5,0
+63,RFS,8.0,0
+63,HJK,10.0,0
+63,Víkingur Reykjavík,4.0,0
+63,Panevezys,4.0,0
+63,KÍ Klaksvík,10.0,0
+63,Levadia,6.0,0
+63,Sheriff,18.0,0
+63,CSKA 1948,3.675,0
+63,Ordabasy,4.0,0
+63,Celje,4.5,0
+63,Drita,6.5,0
+63,Pyunik,9.5,0
+63,BATE Borisov,9.5,0
+63,Zrinjski,8.5,0
+63,F91 Diddeleng,8.5,0
+63,Larne,4.5,0
+63,Dinamo Tbilisi,8.0,0
+63,Tirana,5.5,0
+63,Connah's Quay,5.5,0
+63,Magpies,2.0,0
+63,Struga,3.5,0
+63,Atlètic Club d'Escaldes,2.5,0
+64,Partizan,25.5,1
+64,Galatasaray,30.5,0
+64,Young Boys,32.5,1
+64,Dynamo Kyiv,26.5,1
+64,Legia Warszawa,13.0,1
+64,Ludogorets,19.0,0
+64,BK Häcken,4.3,0
+64,Ferencváros,30.0,0
+64,Bodø/Glimt,24.5,1
+64,Olympiacos,34.0,0
+64,AZ Alkmaar,48.0,0
+64,Ajax,64.0,1
+64,Celtic,30.0,1
+64,Antwerp,21.0,0
+64,Sporting CP,45.5,0
+64,Beşiktaş,10.0,0
+64,Shakhtar Donetsk,59.0,0
+64,Salzburg,49.0,0
+64,Aris Limassol,4.37,0
+64,CFR Cluj,26.5,0
+64,Shkëndija,8.0,0
+64,Milsami,5.0,0
+64,FK Budućnost Podgorica,8.0,0
+64,KÍ Klaksvík,10.0,0
+64,Lugano,8.0,0
+64,Viktoria Plzeň,17.0,0
+64,Sparta Praha,15.5,0
+64,Copenhagen,41.5,0
+64,Rijeka,12.0,0
+64,Maccabi Haifa,14.0,0
+64,Atlètic Club d'Escaldes,2.5,0
+64,Dinamo Tbilisi,8.0,0
+64,Ararat-Armenia,8.0,0
+64,Dinamo Minsk,4.5,0
+64,St Patrick's,4.0,0
+64,HJK,10.0,0
+64,Panevezys,4.0,0
+64,F91 Diddeleng,8.5,0
+64,Slovan Bratislava,26.5,0
+64,Qarabağ,26.0,0
+64,Ordabasy,4.0,0
+64,Maribor,9.5,0
+64,Ballkani,7.5,0
+64,RFS,8.0,0
+64,Borac,5.5,0
+64,Glentoran,3.0,0
+64,Hamrun Spartans FC,4.5,0
+64,Flora Tallinn,11.0,0
+64,Víkingur Reykjavík,4.0,0
+64,Partizani,6.5,0
+64,Connah's Quay,5.5,0
+64,Lincoln Red Imps,9.0,0
+64,La Fiorita,4.5,0
+65,Beşiktaş,10.0,0
+65,Young Boys,32.5,1
+65,Shakhtar Donetsk,59.0,1
+65,Viktoria Plzeň,17.0,0
+65,Bodø/Glimt,24.5,1
+65,Malmö FF,18.5,0
+65,Copenhagen,41.5,0
+65,Olympiacos,34.0,1
+65,Pyunik,9.5,0
+65,Rijeka,12.0,1
+65,Slavia Praha,42.0,1
+65,Zorya Luhansk,16.5,0
+65,Twente,11.42,1
+65,Aberdeen,7.5,0
+65,Lille,35.0,0
+65,Sporting CP,45.5,0
+65,Antwerp,21.0,0
+65,Partizan,25.5,0
+65,Aris Limassol,4.37,0
+65,Dinamo Batumi,5.5,0
+65,Víkingur Reykjavík,4.0,0
+65,Maccabi Haifa,14.0,0
+65,FCSB,10.5,0
+65,Sheriff,18.0,0
+65,Salzburg,49.0,0
+65,Galatasaray,30.5,0
+65,Lugano,8.0,0
+65,Legia Warszawa,13.0,0
+65,Ferencváros,30.0,0
+65,Riga,11.0,0
+65,Tirana,5.5,0
+65,HJK,10.0,0
+65,Qarabağ,26.0,0
+65,Tre Penne,5.5,0
+65,Sutjeska,7.5,0
+65,Shamrock Rovers,9.5,0
+65,Lincoln Red Imps,9.0,0
+65,Ordabasy,4.0,0
+65,Zrinjski,8.5,0
+65,Ludogorets,19.0,0
+65,Dunajská Streda,8.0,0
+65,Olimpija Ljubljana,6.5,0
+65,Ballkani,7.5,0
+65,Panevezys,4.0,0
+65,Dinamo Minsk,4.5,0
+65,F91 Diddeleng,8.5,0
+65,KÍ Klaksvík,10.0,0
+65,Larne,4.5,0
+65,Hamrun Spartans FC,4.5,0
+65,Flora Tallinn,11.0,0
+65,Connah's Quay,5.5,0
+65,Shkupi,7.5,0
+65,Inter Club d'Escaldes,6.0,0
+66,Fenerbahçe,28.0,0
+66,Young Boys,32.5,1
+66,Zorya Luhansk,16.5,0
+66,Slavia Praha,42.0,1
+66,Slovan Bratislava,26.5,0
+66,Bodø/Glimt,24.5,1
+66,Rijeka,12.0,1
+66,Maccabi Haifa,14.0,0
+66,CFR Cluj,26.5,1
+66,CSKA-Sofia,12.5,0
+66,PSV,43.0,0
+66,Sporting CP,45.5,1
+66,Shakhtar Donetsk,59.0,0
+66,Rangers,52.0,1
+66,Feyenoord,57.0,0
+66,Union SG,22.0,0
+66,Partizan,25.5,0
+66,Galatasaray,30.5,0
+66,Drita,6.5,0
+66,APOEL,14.5,0
+66,Copenhagen,41.5,0
+66,Ferencváros,30.0,0
+66,Malmö FF,18.5,0
+66,Flora Tallinn,11.0,0
+66,Rapid Wien,14.0,0
+66,Luzern,6.155,0
+66,Sparta Praha,15.5,0
+66,AEK Athens,10.0,0
+66,Lech Poznań,20.5,0
+66,F91 Diddeleng,8.5,0
+66,Atlètic Club d'Escaldes,2.5,0
+66,Partizani,6.5,0
+66,Zrinjski,8.5,0
+66,Linfield,10.0,0
+66,Qarabağ,26.0,0
+66,RFS,8.0,0
+66,Shkëndija,8.0,0
+66,Shamrock Rovers,9.5,0
+66,Ordabasy,4.0,0
+66,Maribor,9.5,0
+66,Petrocub,7.0,0
+66,HJK,10.0,0
+66,Panevezys,4.0,0
+66,Ararat-Armenia,8.0,0
+66,Dinamo Minsk,4.5,0
+66,KÍ Klaksvík,10.0,0
+66,Birkirkara,2.5,0
+66,Dila,4.0,0
+66,Víkingur Reykjavík,4.0,0
+66,The New Saints,8.5,0
+66,Magpies,2.0,0
+66,FK Budućnost Podgorica,8.0,0
+66,La Fiorita,4.5,0
+67,Fenerbahçe,28.0,1
+67,Servette,6.155,1
+67,Dnipro-1,10.5,0
+67,Sparta Praha,15.5,0
+67,APOEL,14.5,0
+67,Malmö FF,18.5,0
+67,H. Beer Sheva,17.0,0
+67,Bodø/Glimt,24.5,1
+67,Rijeka,12.0,1
+67,Copenhagen,41.5,1
+67,Feyenoord,57.0,1
+67,FC Porto,66.0,1
+67,Shakhtar Donetsk,59.0,0
+67,Club Brugge,48.0,0
+67,AZ Alkmaar,48.0,0
+67,Aberdeen,7.5,0
+67,Slavia Praha,42.0,0
+67,Young Boys,32.5,0
+67,Derry,4.0,0
+67,Progrès,4.5,0
+67,Ferencváros,30.0,0
+67,Raków Częstochowa,6.0,0
+67,FCSB,10.5,0
+67,Sheriff,18.0,0
+67,Salzburg,49.0,0
+67,TSC Bačka Topola,5.555,0
+67,Galatasaray,30.5,0
+67,Panathinaikos,5.225,0
+67,Tirana,5.5,0
+67,Flora Tallinn,11.0,0
+67,Europa,5.5,0
+67,Drita,6.5,0
+67,Struga,3.5,0
+67,Pyunik,9.5,0
+67,Dinamo Tbilisi,8.0,0
+67,Riga,11.0,0
+67,Panevezys,4.0,0
+67,KÍ Klaksvík,10.0,0
+67,Slovan Bratislava,26.5,0
+67,Ludogorets,19.0,0
+67,Sabah,3.575,0
+67,Ordabasy,4.0,0
+67,Celje,4.5,0
+67,HJK,10.0,0
+67,Dinamo Minsk,4.5,0
+67,Borac,5.5,0
+67,Larne,4.5,0
+67,Birkirkara,2.5,0
+67,Víkingur Reykjavík,4.0,0
+67,The New Saints,8.5,0
+67,Inter Club d'Escaldes,6.0,0
+67,FK Budućnost Podgorica,8.0,0
+67,La Fiorita,4.5,0
+68,Partizan,25.5,0
+68,Fenerbahçe,28.0,1
+68,Luzern,6.155,0
+68,Shakhtar Donetsk,59.0,0
+68,Maccabi Haifa,14.0,0
+68,KÍ Klaksvík,10.0,0
+68,Bodø/Glimt,24.5,1
+68,Qarabağ,26.0,1
+68,FCSB,10.5,1
+68,Olympiacos,34.0,1
+68,Celtic,30.0,1
+68,Ajax,64.0,0
+68,Rennes,37.0,0
+68,Slavia Praha,42.0,1
+68,Benfica,69.0,0
+68,Antwerp,21.0,0
+68,Rapid Wien,14.0,0
+68,Beşiktaş,10.0,0
+68,Slovan Bratislava,26.5,0
+68,Shkupi,7.5,0
+68,Rijeka,12.0,0
+68,Panevezys,4.0,0
+68,Riga,11.0,0
+68,AEK Larnaca,8.0,0
+68,Servette,6.155,0
+68,Dynamo Kyiv,26.5,0
+68,Viktoria Plzeň,17.0,0
+68,Copenhagen,41.5,0
+68,Malmö FF,18.5,0
+68,Lech Poznań,20.5,0
+68,CSKA-Sofia,12.5,0
+68,Linfield,10.0,0
+68,Dinamo Tbilisi,8.0,0
+68,Flora Tallinn,11.0,0
+68,The New Saints,8.5,0
+68,Swift Hesper,3.0,0
+68,BATE Borisov,9.5,0
+68,Lincoln Red Imps,9.0,0
+68,Ferencváros,30.0,0
+68,Ordabasy,4.0,0
+68,Maribor,9.5,0
+68,Petrocub,7.0,0
+68,Gjilani,3.0,0
+68,Derry,4.0,0
+68,HJK,10.0,0
+68,Pyunik,9.5,0
+68,Zrinjski,8.5,0
+68,Hamrun Spartans FC,4.5,0
+68,Víkingur Reykjavík,4.0,0
+68,Partizani,6.5,0
+68,Inter Club d'Escaldes,6.0,0
+68,FK Budućnost Podgorica,8.0,0
+68,Tre Penne,5.5,0
+69,Partizan,25.5,0
+69,Galatasaray,30.5,1
+69,Young Boys,32.5,1
+69,Shakhtar Donetsk,59.0,1
+69,Maribor,9.5,0
+69,Lech Poznań,20.5,1
+69,Ferencváros,30.0,0
+69,Rijeka,12.0,0
+69,Pyunik,9.5,0
+69,Slavia Praha,42.0,1
+69,Braga,48.0,1
+69,LASK,34.0,0
+69,PSV,43.0,1
+69,Zorya Luhansk,16.5,0
+69,Feyenoord,57.0,0
+69,Club Brugge,48.0,0
+69,Celtic,30.0,0
+69,Lugano,8.0,0
+69,Tirana,5.5,0
+69,Víkingur Reykjavík,4.0,0
+69,Malmö FF,18.5,0
+69,Panathinaikos,5.225,0
+69,Bodø/Glimt,24.5,0
+69,AGF,5.64,0
+69,TSC Bačka Topola,5.555,0
+69,Fenerbahçe,28.0,0
+69,Bohemians Praha 1905,5.66,0
+69,H. Beer Sheva,17.0,0
+69,APOEL,14.5,0
+69,KÍ Klaksvík,10.0,0
+69,Drita,6.5,0
+69,CFR Cluj,26.5,0
+69,Qarabağ,26.0,0
+69,Dunajská Streda,8.0,0
+69,CSKA-Sofia,12.5,0
+69,Sheriff,18.0,0
+69,Sutjeska,7.5,0
+69,HJK,10.0,0
+69,Struga,3.5,0
+69,Ordabasy,4.0,0
+69,RFS,8.0,0
+69,Shamrock Rovers,9.5,0
+69,Panevezys,4.0,0
+69,BATE Borisov,9.5,0
+69,Borac,5.5,0
+69,F91 Diddeleng,8.5,0
+69,Glentoran,3.0,0
+69,Gżira,7.0,0
+69,Dinamo Tbilisi,8.0,0
+69,Flora Tallinn,11.0,0
+69,Connah's Quay,5.5,0
+69,Europa,5.5,0
+69,Inter Club d'Escaldes,6.0,0
+69,Tre Penne,5.5,0
+70,Partizan,25.5,0
+70,Beşiktaş,10.0,0
+70,Servette,6.155,1
+70,Shakhtar Donetsk,59.0,1
+70,CFR Cluj,26.5,1
+70,Sheriff,18.0,0
+70,Drita,6.5,1
+70,Rijeka,12.0,1
+70,Copenhagen,41.5,0
+70,Qarabağ,26.0,0
+70,Feyenoord,57.0,1
+70,Rangers,52.0,0
+70,Club Brugge,48.0,1
+70,Nice,17.0,0
+70,Braga,48.0,0
+70,Rapid Wien,14.0,0
+70,Slavia Praha,42.0,0
+70,Fenerbahçe,28.0,0
+70,Legia Warszawa,13.0,0
+70,Dinamo Tbilisi,8.0,0
+70,Zrinjski,8.5,0
+70,The New Saints,8.5,0
+70,Malmö FF,18.5,0
+70,APOEL,14.5,0
+70,Lugano,8.0,0
+70,Dynamo Kyiv,26.5,0
+70,Viktoria Plzeň,17.0,0
+70,Bodø/Glimt,24.5,0
+70,Olympiacos,34.0,0
+70,Maccabi Haifa,14.0,0
+70,Panevezys,4.0,0
+70,Spartak Trnava,5.5,0
+70,Tirana,5.5,0
+70,KÍ Klaksvík,10.0,0
+70,Linfield,10.0,0
+70,Víkingur Reykjavík,4.0,0
+70,Swift Hesper,3.0,0
+70,RFS,8.0,0
+70,Ferencváros,30.0,0
+70,CSKA-Sofia,12.5,0
+70,Ordabasy,4.0,0
+70,Maribor,9.5,0
+70,Shamrock Rovers,9.5,0
+70,HJK,10.0,0
+70,Pyunik,9.5,0
+70,BATE Borisov,9.5,0
+70,Gżira,7.0,0
+70,Levadia,6.0,0
+70,Lincoln Red Imps,9.0,0
+70,Shkëndija,8.0,0
+70,FC Santa Coloma,5.5,0
+70,FK Budućnost Podgorica,8.0,0
+70,SS Cosmos,1.0,0
+71,Čukarički,5.555,0
+71,Galatasaray,30.5,0
+71,Young Boys,32.5,1
+71,Dnipro-1,10.5,0
+71,Sutjeska,7.5,0
+71,HJK,10.0,1
+71,Viktoria Plzeň,17.0,1
+71,Sheriff,18.0,0
+71,Malmö FF,18.5,1
+71,Copenhagen,41.5,1
+71,Feyenoord,57.0,0
+71,FC Porto,66.0,1
+71,Rangers,52.0,0
+71,Slavia Praha,42.0,1
+71,PSV,43.0,0
+71,Club Brugge,48.0,0
+71,Shakhtar Donetsk,59.0,0
+71,Fenerbahçe,28.0,0
+71,Europa,5.5,0
+71,Dila,4.0,0
+71,Maribor,9.5,0
+71,Struga,3.5,0
+71,CSKA-Sofia,12.5,0
+71,APOEL,14.5,0
+71,Salzburg,49.0,0
+71,Partizan,25.5,0
+71,Servette,6.155,0
+71,Bodø/Glimt,24.5,0
+71,Rijeka,12.0,0
+71,Olympiacos,34.0,0
+71,Maccabi Haifa,14.0,0
+71,Raków Częstochowa,6.0,0
+71,KÍ Klaksvík,10.0,0
+71,Partizani,6.5,0
+71,Pyunik,9.5,0
+71,Connah's Quay,5.5,0
+71,Qarabağ,26.0,0
+71,CFR Cluj,26.5,0
+71,Slovan Bratislava,26.5,0
+71,Kecskemét,4.125,0
+71,Ordabasy,4.0,0
+71,Ballkani,7.5,0
+71,RFS,8.0,0
+71,Derry,4.0,0
+71,Panevezys,4.0,0
+71,Torpedo Zhodino,3.0,0
+71,Zrinjski,8.5,0
+71,F91 Diddeleng,8.5,0
+71,Linfield,10.0,0
+71,Gżira,7.0,0
+71,Flora Tallinn,11.0,0
+71,Víkingur Reykjavík,4.0,0
+71,FC Santa Coloma,5.5,0
+71,Tre Penne,5.5,0
+72,Fenerbahçe,28.0,0
+72,Lugano,8.0,0
+72,Shakhtar Donetsk,59.0,1
+72,Slavia Praha,42.0,1
+72,Rijeka,12.0,1
+72,Sutjeska,7.5,0
+72,CSKA-Sofia,12.5,1
+72,Olympiacos,34.0,0
+72,Malmö FF,18.5,1
+72,Ferencváros,30.0,0
+72,Zorya Luhansk,16.5,1
+72,FC Porto,66.0,1
+72,Viktoria Plzeň,17.0,0
+72,AZ Alkmaar,48.0,0
+72,Feyenoord,57.0,0
+72,Union SG,22.0,0
+72,Celtic,30.0,0
+72,Salzburg,49.0,0
+72,Bodø/Glimt,24.5,0
+72,HJK,10.0,0
+72,Lech Poznań,20.5,0
+72,CFR Cluj,26.5,0
+72,Shkupi,7.5,0
+72,Celje,4.5,0
+72,Partizan,25.5,0
+72,Beşiktaş,10.0,0
+72,Young Boys,32.5,0
+72,Nordsjælland,5.64,0
+72,Maccabi Haifa,14.0,0
+72,APOEL,14.5,0
+72,Ballkani,7.5,0
+72,Ararat-Armenia,8.0,0
+72,KÍ Klaksvík,10.0,0
+72,Linfield,10.0,0
+72,Progrès,4.5,0
+72,Petrocub,7.0,0
+72,Flora Tallinn,11.0,0
+72,Hamrun Spartans FC,4.5,0
+72,Víkingur Reykjavík,4.0,0
+72,Spartak Trnava,5.5,0
+72,Neftçi,10.0,0
+72,Ordabasy,4.0,0
+72,RFS,8.0,0
+72,Shamrock Rovers,9.5,0
+72,Panevezys,4.0,0
+72,Torpedo Zhodino,3.0,0
+72,Željezničar,2.5,0
+72,Dinamo Tbilisi,8.0,0
+72,Tirana,5.5,0
+72,The New Saints,8.5,0
+72,Europa,5.5,0
+72,FC Santa Coloma,5.5,0
+72,Tre Penne,5.5,0
+73,Crvena zvezda,40.0,0
+73,Fenerbahçe,28.0,1
+73,Servette,6.155,1
+73,Dnipro-1,10.5,0
+73,Milsami,5.0,0
+73,Ferencváros,30.0,0
+73,Drita,6.5,1
+73,Slavia Praha,42.0,1
+73,HJK,10.0,1
+73,Bodø/Glimt,24.5,0
+73,Rangers,52.0,1
+73,Union SG,22.0,0
+73,Sporting CP,45.5,1
+73,LASK,34.0,0
+73,Monaco,24.0,0
+73,Benfica,69.0,0
+73,Partizan,25.5,0
+73,Shakhtar Donetsk,59.0,0
+73,Lech Poznań,20.5,0
+73,Shkupi,7.5,0
+73,AEK Athens,10.0,0
+73,FK Budućnost Podgorica,8.0,0
+73,Malmö FF,18.5,0
+73,Rijeka,12.0,0
+73,Galatasaray,30.5,0
+73,Young Boys,32.5,0
+73,Sparta Praha,15.5,0
+73,Copenhagen,41.5,0
+73,Maccabi Haifa,14.0,0
+73,AEK Larnaca,8.0,0
+73,Ludogorets,19.0,0
+73,La Fiorita,4.5,0
+73,Ararat-Armenia,8.0,0
+73,Dinamo Minsk,4.5,0
+73,Qarabağ,26.0,0
+73,Linfield,10.0,0
+73,Celje,4.5,0
+73,Levadia,6.0,0
+73,Inter Club d'Escaldes,6.0,0
+73,FCSB,10.5,0
+73,Slovan Bratislava,26.5,0
+73,Ordabasy,4.0,0
+73,RFS,8.0,0
+73,Shamrock Rovers,9.5,0
+73,Panevezys,4.0,0
+73,Zrinjski,8.5,0
+73,F91 Diddeleng,8.5,0
+73,KÍ Klaksvík,10.0,0
+73,Gżira,7.0,0
+73,Dinamo Batumi,5.5,0
+73,Víkingur Reykjavík,4.0,0
+73,Tirana,5.5,0
+73,The New Saints,8.5,0
+73,Lincoln Red Imps,9.0,0
+74,Galatasaray,30.5,1
+74,Servette,6.155,0
+74,Shakhtar Donetsk,59.0,1
+74,Viktoria Plzeň,17.0,0
+74,Rijeka,12.0,1
+74,Bodø/Glimt,24.5,0
+74,Olympiacos,34.0,1
+74,Malmö FF,18.5,0
+74,Sheriff,18.0,0
+74,Progrès,4.5,1
+74,Young Boys,32.5,0
+74,Benfica,69.0,0
+74,Feyenoord,57.0,1
+74,PSV,43.0,1
+74,Union SG,22.0,0
+74,Celtic,30.0,0
+74,Slavia Praha,42.0,0
+74,Dynamo Kyiv,26.5,0
+74,Copenhagen,41.5,0
+74,Ballkani,7.5,0
+74,Maribor,9.5,0
+74,BATE Borisov,9.5,0
+74,Shkupi,7.5,0
+74,Linfield,10.0,0
+74,Rapid Wien,14.0,0
+74,TSC Bačka Topola,5.555,0
+74,Fenerbahçe,28.0,0
+74,H. Beer Sheva,17.0,0
+74,APOEL,14.5,0
+74,Lech Poznań,20.5,0
+74,Ferencváros,30.0,0
+74,CFR Cluj,26.5,0
+74,Slovan Bratislava,26.5,0
+74,Levadia,6.0,0
+74,HJK,10.0,0
+74,Connah's Quay,5.5,0
+74,Partizani,6.5,0
+74,Europa,5.5,0
+74,Inter Club d'Escaldes,6.0,0
+74,Ludogorets,19.0,0
+74,Sabah,3.575,0
+74,Ordabasy,4.0,0
+74,Riga,11.0,0
+74,Derry,4.0,0
+74,Panevezys,4.0,0
+74,Pyunik,9.5,0
+74,Zrinjski,8.5,0
+74,KÍ Klaksvík,10.0,0
+74,Gżira,7.0,0
+74,Dinamo Tbilisi,8.0,0
+74,Víkingur Reykjavík,4.0,0
+74,Sutjeska,7.5,0
+74,Tre Penne,5.5,0
+75,Partizan,25.5,1
+75,Fenerbahçe,28.0,1
+75,Lugano,8.0,0
+75,Dynamo Kyiv,26.5,1
+75,Olympiacos,34.0,1
+75,Tirana,5.5,0
+75,St Patrick's,4.0,0
+75,KÍ Klaksvík,10.0,0
+75,F91 Diddeleng,8.5,0
+75,Gżira,7.0,1
+75,Aberdeen,7.5,0
+75,AZ Alkmaar,48.0,1
+75,Club Brugge,48.0,0
+75,Young Boys,32.5,1
+75,Nice,17.0,0
+75,Braga,48.0,0
+75,Galatasaray,30.5,0
+75,Zorya Luhansk,16.5,0
+75,BATE Borisov,9.5,0
+75,Viktoria Plzeň,17.0,0
+75,IF Elfsborg,4.3,0
+75,Ferencváros,30.0,0
+75,Lech Poznań,20.5,0
+75,Inter Club d'Escaldes,6.0,0
+75,Salzburg,49.0,0
+75,Sparta Praha,15.5,0
+75,Bodø/Glimt,24.5,0
+75,Copenhagen,41.5,0
+75,Rijeka,12.0,0
+75,Maccabi Haifa,14.0,0
+75,AEK Larnaca,8.0,0
+75,Panevezys,4.0,0
+75,Drita,6.5,0
+75,Qarabağ,26.0,0
+75,Olimpija Ljubljana,6.5,0
+75,CSKA-Sofia,12.5,0
+75,Ararat-Armenia,8.0,0
+75,Levadia,6.0,0
+75,FCSB,10.5,0
+75,Spartak Trnava,5.5,0
+75,Ordabasy,4.0,0
+75,Sheriff,18.0,0
+75,RFS,8.0,0
+75,HJK,10.0,0
+75,Zrinjski,8.5,0
+75,Larne,4.5,0
+75,Dinamo Tbilisi,8.0,0
+75,Víkingur Reykjavík,4.0,0
+75,The New Saints,8.5,0
+75,Lincoln Red Imps,9.0,0
+75,Shkupi,7.5,0
+75,FK Budućnost Podgorica,8.0,0
+75,Tre Penne,5.5,0
+76,TSC Bačka Topola,5.555,0
+76,Galatasaray,30.5,1
+76,Young Boys,32.5,1
+76,Dnipro-1,10.5,1
+76,Ferencváros,30.0,0
+76,Flora Tallinn,11.0,0
+76,Lech Poznań,20.5,0
+76,Malmö FF,18.5,0
+76,Riga,11.0,1
+76,Tirana,5.5,1
+76,Fenerbahçe,28.0,1
+76,Braga,48.0,1
+76,Ajax,64.0,0
+76,Monaco,24.0,0
+76,Genk,13.0,0
+76,Celtic,30.0,0
+76,Zorya Luhansk,16.5,0
+76,Rijeka,12.0,0
+76,Slovan Bratislava,26.5,0
+76,Shkupi,7.5,0
+76,H. Beer Sheva,17.0,0
+76,Linfield,10.0,0
+76,Gżira,7.0,0
+76,Rapid Wien,14.0,0
+76,Lugano,8.0,0
+76,Viktoria Plzeň,17.0,0
+76,Slavia Praha,42.0,0
+76,Bodø/Glimt,24.5,0
+76,Nordsjælland,5.64,0
+76,AEK Athens,10.0,0
+76,APOEL,14.5,0
+76,Maribor,9.5,0
+76,Shamrock Rovers,9.5,0
+76,Qarabağ,26.0,0
+76,Pyunik,9.5,0
+76,KÍ Klaksvík,10.0,0
+76,Lincoln Red Imps,9.0,0
+76,HJK,10.0,0
+76,Farul Constanța,4.275,0
+76,Ludogorets,19.0,0
+76,Ordabasy,4.0,0
+76,Milsami,5.0,0
+76,Drita,6.5,0
+76,Panevezys,4.0,0
+76,Dinamo Minsk,4.5,0
+76,Zrinjski,8.5,0
+76,F91 Diddeleng,8.5,0
+76,Dinamo Batumi,5.5,0
+76,Víkingur Reykjavík,4.0,0
+76,Connah's Quay,5.5,0
+76,Inter Club d'Escaldes,6.0,0
+76,Sutjeska,7.5,0
+76,La Fiorita,4.5,0
+77,Partizan,25.5,0
+77,Galatasaray,30.5,1
+77,Young Boys,32.5,1
+77,Dnipro-1,10.5,0
+77,Slavia Praha,42.0,0
+77,Olympiacos,34.0,0
+77,Ferencváros,30.0,1
+77,Bodø/Glimt,24.5,0
+77,Qarabağ,26.0,1
+77,FCSB,10.5,1
+77,Lille,35.0,0
+77,Viktoria Plzeň,17.0,1
+77,Fenerbahçe,28.0,1
+77,Dynamo Kyiv,26.5,0
+77,Feyenoord,57.0,0
+77,Braga,48.0,0
+77,Antwerp,21.0,0
+77,Aberdeen,7.5,0
+77,APOEL,14.5,0
+77,Lech Poznań,20.5,0
+77,Ordabasy,4.0,0
+77,Rijeka,12.0,0
+77,Copenhagen,41.5,0
+77,Pyunik,9.5,0
+77,Rapid Wien,14.0,0
+77,Luzern,6.155,0
+77,H. Beer Sheva,17.0,0
+77,BK Häcken,4.3,0
+77,Ludogorets,19.0,0
+77,Sheriff,18.0,0
+77,Celje,4.5,0
+77,Flora Tallinn,11.0,0
+77,Riga,11.0,0
+77,Drita,6.5,0
+77,Tirana,5.5,0
+77,Shamrock Rovers,9.5,0
+77,Víkingur Reykjavík,4.0,0
+77,Linfield,10.0,0
+77,Slovan Bratislava,26.5,0
+77,HJK,10.0,0
+77,Panevezys,4.0,0
+77,BATE Borisov,9.5,0
+77,Borac,5.5,0
+77,F91 Diddeleng,8.5,0
+77,KÍ Klaksvík,10.0,0
+77,Gżira,7.0,0
+77,Dinamo Batumi,5.5,0
+77,Connah's Quay,5.5,0
+77,Europa,5.5,0
+77,Struga,3.5,0
+77,Inter Club d'Escaldes,6.0,0
+77,FK Budućnost Podgorica,8.0,0
+77,La Fiorita,4.5,0
+78,Čukarički,5.555,0
+78,Fenerbahçe,28.0,1
+78,Luzern,6.155,0
+78,Shakhtar Donetsk,59.0,1
+78,Olympiacos,34.0,0
+78,Ferencváros,30.0,1
+78,Maccabi Haifa,14.0,0
+78,Malmö FF,18.5,1
+78,HJK,10.0,1
+78,Riga,11.0,0
+78,AZ Alkmaar,48.0,1
+78,Lille,35.0,0
+78,Celtic,30.0,0
+78,Partizan,25.5,1
+78,FC Porto,66.0,0
+78,Antwerp,21.0,0
+78,Adana Demirspor,7.07,0
+78,Dynamo Kyiv,26.5,0
+78,KÍ Klaksvík,10.0,0
+78,APOEL,14.5,0
+78,Maribor,9.5,0
+78,Dila,4.0,0
+78,FK Budućnost Podgorica,8.0,0
+78,Flora Tallinn,11.0,0
+78,Rapid Wien,14.0,0
+78,Servette,6.155,0
+78,Viktoria Plzeň,17.0,0
+78,Slavia Praha,42.0,0
+78,Bodø/Glimt,24.5,0
+78,Copenhagen,41.5,0
+78,Rijeka,12.0,0
+78,Raków Częstochowa,6.0,0
+78,Neftçi,10.0,0
+78,Zrinjski,8.5,0
+78,Shkëndija,8.0,0
+78,Ballkani,7.5,0
+78,F91 Diddeleng,8.5,0
+78,SS Cosmos,1.0,0
+78,The New Saints,8.5,0
+78,Farul Constanța,4.275,0
+78,CSKA 1948,3.675,0
+78,Slovan Bratislava,26.5,0
+78,Ordabasy,4.0,0
+78,Milsami,5.0,0
+78,Derry,4.0,0
+78,Panevezys,4.0,0
+78,Ararat-Armenia,8.0,0
+78,Torpedo Zhodino,3.0,0
+78,Linfield,10.0,0
+78,Birkirkara,2.5,0
+78,Víkingur Reykjavík,4.0,0
+78,Tirana,5.5,0
+78,Europa,5.5,0
+78,Atlètic Club d'Escaldes,2.5,0
+79,Beşiktaş,10.0,1
+79,Young Boys,32.5,1
+79,Dynamo Kyiv,26.5,0
+79,Slavia Praha,42.0,1
+79,HJK,10.0,0
+79,Qarabağ,26.0,1
+79,Rijeka,12.0,0
+79,Olympiacos,34.0,0
+79,Bodø/Glimt,24.5,0
+79,Ferencváros,30.0,1
+79,Rangers,52.0,0
+79,FC Porto,66.0,0
+79,LASK,34.0,1
+79,PSV,43.0,1
+79,AZ Alkmaar,48.0,0
+79,Antwerp,21.0,0
+79,Sparta Praha,15.5,0
+79,Partizan,25.5,0
+79,AEK Larnaca,8.0,0
+79,Petrocub,7.0,0
+79,Copenhagen,41.5,0
+79,Progrès,4.5,0
+79,CSKA-Sofia,12.5,0
+79,CFR Cluj,26.5,0
+79,Galatasaray,30.5,0
+79,Servette,6.155,0
+79,Dnipro-1,10.5,0
+79,Maccabi Haifa,14.0,0
+79,IF Elfsborg,4.3,0
+79,Lech Poznań,20.5,0
+79,Levadia,6.0,0
+79,Shamrock Rovers,9.5,0
+79,Slovan Bratislava,26.5,0
+79,KÍ Klaksvík,10.0,0
+79,Larne,4.5,0
+79,Tre Penne,5.5,0
+79,FK Budućnost Podgorica,8.0,0
+79,Hamrun Spartans FC,4.5,0
+79,FC Santa Coloma,5.5,0
+79,Ordabasy,4.0,0
+79,Celje,4.5,0
+79,Drita,6.5,0
+79,RFS,8.0,0
+79,Panevezys,4.0,0
+79,Pyunik,9.5,0
+79,Dinamo Minsk,4.5,0
+79,Borac,5.5,0
+79,Dinamo Batumi,5.5,0
+79,Víkingur Reykjavík,4.0,0
+79,Egnatia,1.475,0
+79,Connah's Quay,5.5,0
+79,Europa,5.5,0
+79,Shkupi,7.5,0
+80,Fenerbahçe,28.0,1
+80,Luzern,6.155,0
+80,Dynamo Kyiv,26.5,1
+80,Slavia Praha,42.0,1
+80,Bodø/Glimt,24.5,1
+80,Shkupi,7.5,0
+80,Ferencváros,30.0,1
+80,Maccabi Haifa,14.0,0
+80,Ludogorets,19.0,0
+80,Borac,5.5,0
+80,AZ Alkmaar,48.0,1
+80,Partizan,25.5,1
+80,Monaco,24.0,0
+80,Celtic,30.0,0
+80,FC Porto,66.0,0
+80,Genk,13.0,0
+80,Sparta Praha,15.5,0
+80,Shakhtar Donetsk,59.0,0
+80,Partizani,6.5,0
+80,APOEL,14.5,0
+80,Raków Częstochowa,6.0,0
+80,Olimpija Ljubljana,6.5,0
+80,Rijeka,12.0,0
+80,AEK Athens,10.0,0
+80,LASK,34.0,0
+80,Galatasaray,30.5,0
+80,Young Boys,32.5,0
+80,AGF,5.64,0
+80,Malmö FF,18.5,0
+80,CFR Cluj,26.5,0
+80,Dunajská Streda,8.0,0
+80,Gżira,7.0,0
+80,Sheriff,18.0,0
+80,St Patrick's,4.0,0
+80,FK Budućnost Podgorica,8.0,0
+80,BATE Borisov,9.5,0
+80,Europa,5.5,0
+80,Pyunik,9.5,0
+80,HJK,10.0,0
+80,Sabah,3.575,0
+80,Ordabasy,4.0,0
+80,Drita,6.5,0
+80,RFS,8.0,0
+80,Panevezys,4.0,0
+80,F91 Diddeleng,8.5,0
+80,KÍ Klaksvík,10.0,0
+80,Linfield,10.0,0
+80,Dila,4.0,0
+80,Flora Tallinn,11.0,0
+80,Víkingur Reykjavík,4.0,0
+80,Connah's Quay,5.5,0
+80,Atlètic Club d'Escaldes,2.5,0
+80,Tre Penne,5.5,0
+81,Crvena zvezda,40.0,1
+81,Galatasaray,30.5,1
+81,Young Boys,32.5,0
+81,Shakhtar Donetsk,59.0,1
+81,Bodø/Glimt,24.5,1
+81,Qarabağ,26.0,0
+81,Slavia Praha,42.0,0
+81,Drita,6.5,0
+81,Petrocub,7.0,0
+81,Raków Częstochowa,6.0,1
+81,Benfica,69.0,1
+81,Dnipro-1,10.5,0
+81,Sparta Praha,15.5,1
+81,PSV,43.0,0
+81,Marseille,34.0,0
+81,Genk,13.0,0
+81,Celtic,30.0,0
+81,Salzburg,49.0,0
+81,HJK,10.0,0
+81,APOEL,14.5,0
+81,Riga,11.0,0
+81,CFR Cluj,26.5,0
+81,KÍ Klaksvík,10.0,0
+81,H. Beer Sheva,17.0,0
+81,Čukarički,5.555,0
+81,Adana Demirspor,7.07,0
+81,Servette,6.155,0
+81,Copenhagen,41.5,0
+81,Rijeka,12.0,0
+81,Olympiacos,34.0,0
+81,Malmö FF,18.5,0
+81,Glentoran,3.0,0
+81,Dinamo Tbilisi,8.0,0
+81,Tirana,5.5,0
+81,Željezničar,2.5,0
+81,Flora Tallinn,11.0,0
+81,CSKA-Sofia,12.5,0
+81,Shamrock Rovers,9.5,0
+81,Ararat-Armenia,8.0,0
+81,Ferencváros,30.0,0
+81,Dunajská Streda,8.0,0
+81,Ordabasy,4.0,0
+81,Celje,4.5,0
+81,Panevezys,4.0,0
+81,BATE Borisov,9.5,0
+81,F91 Diddeleng,8.5,0
+81,Birkirkara,2.5,0
+81,Víkingur Reykjavík,4.0,0
+81,Connah's Quay,5.5,0
+81,Magpies,2.0,0
+81,Shkëndija,8.0,0
+81,Inter Club d'Escaldes,6.0,0
+81,FK Budućnost Podgorica,8.0,0
+81,La Fiorita,4.5,0
+82,Beşiktaş,10.0,1
+82,Young Boys,32.5,1
+82,Shakhtar Donetsk,59.0,0
+82,Slavia Praha,42.0,1
+82,Panathinaikos,5.225,1
+82,Malmö FF,18.5,1
+82,Ludogorets,19.0,0
+82,Ordabasy,4.0,0
+82,CFR Cluj,26.5,0
+82,Ferencváros,30.0,0
+82,Genk,13.0,0
+82,Salzburg,49.0,1
+82,Rangers,52.0,1
+82,Lille,35.0,0
+82,Feyenoord,57.0,0
+82,FC Porto,66.0,0
+82,Viktoria Plzeň,17.0,0
+82,Galatasaray,30.5,0
+82,HJK,10.0,0
+82,Inter Club d'Escaldes,6.0,0
+82,APOEL,14.5,0
+82,Sheriff,18.0,0
+82,Bodø/Glimt,24.5,0
+82,Raków Częstochowa,6.0,0
+82,Čukarički,5.555,0
+82,Lugano,8.0,0
+82,Dnipro-1,10.5,0
+82,Copenhagen,41.5,0
+82,Rijeka,12.0,0
+82,H. Beer Sheva,17.0,0
+82,Maribor,9.5,0
+82,Linfield,10.0,0
+82,Ararat-Armenia,8.0,0
+82,FK Budućnost Podgorica,8.0,0
+82,Hamrun Spartans FC,4.5,0
+82,Levadia,6.0,0
+82,Shamrock Rovers,9.5,0
+82,Panevezys,4.0,0
+82,Slovan Bratislava,26.5,0
+82,Sabah,3.575,0
+82,Gjilani,3.0,0
+82,Riga,11.0,0
+82,BATE Borisov,9.5,0
+82,Borac,5.5,0
+82,F91 Diddeleng,8.5,0
+82,KÍ Klaksvík,10.0,0
+82,Dila,4.0,0
+82,Víkingur Reykjavík,4.0,0
+82,Partizani,6.5,0
+82,The New Saints,8.5,0
+82,Lincoln Red Imps,9.0,0
+82,Struga,3.5,0
+82,Tre Penne,5.5,0
+83,TSC Bačka Topola,5.555,0
+83,Fenerbahçe,28.0,0
+83,Young Boys,32.5,0
+83,Zorya Luhansk,16.5,1
+83,Viktoria Plzeň,17.0,0
+83,Partizani,6.5,1
+83,Copenhagen,41.5,1
+83,Ferencváros,30.0,1
+83,Bodø/Glimt,24.5,0
+83,Maccabi Haifa,14.0,1
+83,Feyenoord,57.0,1
+83,Antwerp,21.0,0
+83,Benfica,69.0,1
+83,Aberdeen,7.5,0
+83,Nice,17.0,0
+83,Beşiktaş,10.0,0
+83,Salzburg,49.0,0
+83,Slavia Praha,42.0,0
+83,Drita,6.5,0
+83,AEK Athens,10.0,0
+83,Sheriff,18.0,0
+83,Dinamo Tbilisi,8.0,0
+83,Sutjeska,7.5,0
+83,Malmö FF,18.5,0
+83,Servette,6.155,0
+83,Shakhtar Donetsk,59.0,0
+83,Rijeka,12.0,0
+83,APOEL,14.5,0
+83,Lech Poznań,20.5,0
+83,Qarabağ,26.0,0
+83,Birkirkara,2.5,0
+83,F91 Diddeleng,8.5,0
+83,Tre Penne,5.5,0
+83,The New Saints,8.5,0
+83,St Patrick's,4.0,0
+83,Shkupi,7.5,0
+83,Slovan Bratislava,26.5,0
+83,HJK,10.0,0
+83,FCSB,10.5,0
+83,CSKA-Sofia,12.5,0
+83,Ordabasy,4.0,0
+83,Maribor,9.5,0
+83,RFS,8.0,0
+83,Panevezys,4.0,0
+83,Urartu,3.5,0
+83,BATE Borisov,9.5,0
+83,Željezničar,2.5,0
+83,KÍ Klaksvík,10.0,0
+83,Linfield,10.0,0
+83,Flora Tallinn,11.0,0
+83,Víkingur Reykjavík,4.0,0
+83,Europa,5.5,0
+83,Inter Club d'Escaldes,6.0,0
+84,TSC Bačka Topola,5.555,0
+84,Fenerbahçe,28.0,1
+84,Young Boys,32.5,1
+84,Zorya Luhansk,16.5,0
+84,Flora Tallinn,11.0,1
+84,CFR Cluj,26.5,0
+84,Lech Poznań,20.5,0
+84,Olimpija Ljubljana,6.5,1
+84,Malmö FF,18.5,1
+84,Shkëndija,8.0,0
+84,Beşiktaş,10.0,0
+84,Braga,48.0,1
+84,Salzburg,49.0,0
+84,Ajax,64.0,1
+84,Lens,11.266,0
+84,Genk,13.0,0
+84,Celtic,30.0,0
+84,Shakhtar Donetsk,59.0,0
+84,Slovan Bratislava,26.5,0
+84,Petrocub,7.0,0
+84,Partizani,6.5,0
+84,La Fiorita,4.5,0
+84,APOEL,14.5,0
+84,Ludogorets,19.0,0
+84,Servette,6.155,0
+84,Bohemians Praha 1905,5.66,0
+84,Viktoria Plzeň,17.0,0
+84,Bodø/Glimt,24.5,0
+84,AGF,5.64,0
+84,Rijeka,12.0,0
+84,Panathinaikos,5.225,0
+84,Maccabi Haifa,14.0,0
+84,HJK,10.0,0
+84,Urartu,3.5,0
+84,RFS,8.0,0
+84,Linfield,10.0,0
+84,Ferencváros,30.0,0
+84,Dinamo Tbilisi,8.0,0
+84,Sabah,3.575,0
+84,Ordabasy,4.0,0
+84,Ballkani,7.5,0
+84,Shamrock Rovers,9.5,0
+84,Panevezys,4.0,0
+84,BATE Borisov,9.5,0
+84,Borac,5.5,0
+84,F91 Diddeleng,8.5,0
+84,KÍ Klaksvík,10.0,0
+84,Gżira,7.0,0
+84,Víkingur Reykjavík,4.0,0
+84,Connah's Quay,5.5,0
+84,Europa,5.5,0
+84,FC Santa Coloma,5.5,0
+84,Sutjeska,7.5,0
+85,TSC Bačka Topola,5.555,0
+85,Beşiktaş,10.0,0
+85,Lugano,8.0,0
+85,Zorya Luhansk,16.5,0
+85,Bodø/Glimt,24.5,1
+85,AEK Athens,10.0,0
+85,Maribor,9.5,1
+85,Copenhagen,41.5,1
+85,Ludogorets,19.0,1
+85,Ferencváros,30.0,1
+85,FC Porto,66.0,1
+85,Galatasaray,30.5,0
+85,Rangers,52.0,1
+85,Shakhtar Donetsk,59.0,0
+85,Lens,11.266,0
+85,Benfica,69.0,0
+85,Union SG,22.0,0
+85,Young Boys,32.5,0
+85,IF Elfsborg,4.3,0
+85,Slovan Bratislava,26.5,0
+85,Viktoria Plzeň,17.0,0
+85,Shkëndija,8.0,0
+85,Rijeka,12.0,0
+85,Ballkani,7.5,0
+85,Rapid Wien,14.0,0
+85,Slavia Praha,42.0,0
+85,Maccabi Haifa,14.0,0
+85,APOEL,14.5,0
+85,Lech Poznań,20.5,0
+85,RFS,8.0,0
+85,Dinamo Batumi,5.5,0
+85,HJK,10.0,0
+85,Flora Tallinn,11.0,0
+85,Larne,4.5,0
+85,Shamrock Rovers,9.5,0
+85,Panevezys,4.0,0
+85,La Fiorita,4.5,0
+85,Dinamo Minsk,4.5,0
+85,FCSB,10.5,0
+85,Qarabağ,26.0,0
+85,Ordabasy,4.0,0
+85,Petrocub,7.0,0
+85,Urartu,3.5,0
+85,Zrinjski,8.5,0
+85,Progrès,4.5,0
+85,KÍ Klaksvík,10.0,0
+85,Birkirkara,2.5,0
+85,Víkingur Reykjavík,4.0,0
+85,Partizani,6.5,0
+85,Connah's Quay,5.5,0
+85,Europa,5.5,0
+85,Inter Club d'Escaldes,6.0,0
+85,Sutjeska,7.5,0
+86,Fenerbahçe,28.0,1
+86,Young Boys,32.5,1
+86,Shakhtar Donetsk,59.0,1
+86,Slavia Praha,42.0,0
+86,CFR Cluj,26.5,0
+86,Lech Poznań,20.5,1
+86,Malmö FF,18.5,1
+86,Derry,4.0,0
+86,Pyunik,9.5,0
+86,Copenhagen,41.5,0
+86,LASK,34.0,0
+86,FC Porto,66.0,1
+86,AZ Alkmaar,48.0,1
+86,Lugano,8.0,0
+86,Ajax,64.0,0
+86,Union SG,22.0,0
+86,Celtic,30.0,0
+86,Sparta Praha,15.5,0
+86,Torpedo Zhodino,3.0,0
+86,Ferencváros,30.0,0
+86,Rijeka,12.0,0
+86,Bodø/Glimt,24.5,0
+86,Partizani,6.5,0
+86,Slovan Bratislava,26.5,0
+86,Partizan,25.5,0
+86,Galatasaray,30.5,0
+86,Dynamo Kyiv,26.5,0
+86,Olympiacos,34.0,0
+86,Maccabi Haifa,14.0,0
+86,APOEL,14.5,0
+86,Qarabağ,26.0,0
+86,Larne,4.5,0
+86,Ballkani,7.5,0
+86,Maribor,9.5,0
+86,Riga,11.0,0
+86,Sheriff,18.0,0
+86,Sutjeska,7.5,0
+86,Zrinjski,8.5,0
+86,FC Santa Coloma,5.5,0
+86,Ludogorets,19.0,0
+86,Ordabasy,4.0,0
+86,HJK,10.0,0
+86,Panevezys,4.0,0
+86,Progrès,4.5,0
+86,KÍ Klaksvík,10.0,0
+86,Gżira,7.0,0
+86,Dinamo Batumi,5.5,0
+86,Levadia,6.0,0
+86,Víkingur Reykjavík,4.0,0
+86,The New Saints,8.5,0
+86,Europa,5.5,0
+86,Shkëndija,8.0,0
+86,Tre Penne,5.5,0
+87,Partizan,25.5,1
+87,Galatasaray,30.5,1
+87,Young Boys,32.5,0
+87,Shakhtar Donetsk,59.0,1
+87,Copenhagen,41.5,1
+87,Shamrock Rovers,9.5,0
+87,Slavia Praha,42.0,1
+87,Rijeka,12.0,0
+87,BATE Borisov,9.5,0
+87,The New Saints,8.5,0
+87,Paris Saint-Germain,101.0,1
+87,Fenerbahçe,28.0,0
+87,Club Brugge,48.0,0
+87,Braga,48.0,1
+87,Twente,11.42,0
+87,Celtic,30.0,0
+87,Salzburg,49.0,0
+87,Bodø/Glimt,24.5,0
+87,Partizani,6.5,0
+87,Maccabi Haifa,14.0,0
+87,CFR Cluj,26.5,0
+87,Europa,5.5,0
+87,Riga,11.0,0
+87,Luzern,6.155,0
+87,Dynamo Kyiv,26.5,0
+87,Sparta Praha,15.5,0
+87,Olympiacos,34.0,0
+87,Aris Limassol,4.37,0
+87,Malmö FF,18.5,0
+87,Lech Poznań,20.5,0
+87,Sheriff,18.0,0
+87,Flora Tallinn,11.0,0
+87,Zrinjski,8.5,0
+87,Ordabasy,4.0,0
+87,Linfield,10.0,0
+87,HJK,10.0,0
+87,Kecskemét,4.125,0
+87,Qarabağ,26.0,0
+87,CSKA-Sofia,12.5,0
+87,Spartak Trnava,5.5,0
+87,Olimpija Ljubljana,6.5,0
+87,Gjilani,3.0,0
+87,Panevezys,4.0,0
+87,Pyunik,9.5,0
+87,F91 Diddeleng,8.5,0
+87,KÍ Klaksvík,10.0,0
+87,Gżira,7.0,0
+87,Dinamo Tbilisi,8.0,0
+87,Víkingur Reykjavík,4.0,0
+87,Shkupi,7.5,0
+87,FC Santa Coloma,5.5,0
+87,Sutjeska,7.5,0
+87,Tre Penne,5.5,0
+88,Čukarički,5.555,0
+88,Galatasaray,30.5,0
+88,Young Boys,32.5,0
+88,Shakhtar Donetsk,59.0,0
+88,Bodø/Glimt,24.5,1
+88,Olympiacos,34.0,1
+88,Slovan Bratislava,26.5,1
+88,Copenhagen,41.5,1
+88,Qarabağ,26.0,1
+88,Maribor,9.5,0
+88,Celtic,30.0,1
+88,Benfica,69.0,1
+88,Twente,11.42,0
+88,Feyenoord,57.0,0
+88,Genk,13.0,0
+88,Slavia Praha,42.0,0
+88,Adana Demirspor,7.07,0
+88,LASK,34.0,0
+88,HJK,10.0,0
+88,La Fiorita,4.5,0
+88,IF Elfsborg,4.3,0
+88,Ordabasy,4.0,0
+88,APOEL,14.5,0
+88,KÍ Klaksvík,10.0,0
+88,Partizan,25.5,0
+88,Luzern,6.155,0
+88,Zorya Luhansk,16.5,0
+88,Viktoria Plzeň,17.0,0
+88,Rijeka,12.0,0
+88,Maccabi Haifa,14.0,0
+88,Lech Poznań,20.5,0
+88,Dila,4.0,0
+88,Lincoln Red Imps,9.0,0
+88,Ferencváros,30.0,0
+88,Željezničar,2.5,0
+88,Pyunik,9.5,0
+88,FK Budućnost Podgorica,8.0,0
+88,Ballkani,7.5,0
+88,Sheriff,18.0,0
+88,CFR Cluj,26.5,0
+88,Ludogorets,19.0,0
+88,RFS,8.0,0
+88,Shamrock Rovers,9.5,0
+88,Panevezys,4.0,0
+88,BATE Borisov,9.5,0
+88,Swift Hesper,3.0,0
+88,Larne,4.5,0
+88,Gżira,7.0,0
+88,Flora Tallinn,11.0,0
+88,Víkingur Reykjavík,4.0,0
+88,Partizani,6.5,0
+88,The New Saints,8.5,0
+88,Shkupi,7.5,0
+88,Inter Club d'Escaldes,6.0,0
+89,Partizan,25.5,1
+89,Galatasaray,30.5,1
+89,Servette,6.155,0
+89,Dynamo Kyiv,26.5,1
+89,Olimpija Ljubljana,6.5,1
+89,Legia Warszawa,13.0,1
+89,Bodø/Glimt,24.5,0
+89,CSKA-Sofia,12.5,0
+89,Qarabağ,26.0,0
+89,APOEL,14.5,0
+89,AZ Alkmaar,48.0,0
+89,Fenerbahçe,28.0,0
+89,Zorya Luhansk,16.5,1
+89,Salzburg,49.0,1
+89,PSV,43.0,0
+89,Sporting CP,45.5,0
+89,Antwerp,21.0,0
+89,Aberdeen,7.5,0
+89,Ferencváros,30.0,0
+89,Dinamo Tbilisi,8.0,0
+89,KÍ Klaksvík,10.0,0
+89,Olympiacos,34.0,0
+89,H. Beer Sheva,17.0,0
+89,Sheriff,18.0,0
+89,Young Boys,32.5,0
+89,Slavia Praha,42.0,0
+89,Viktoria Plzeň,17.0,0
+89,Copenhagen,41.5,0
+89,Rijeka,12.0,0
+89,Malmö FF,18.5,0
+89,Ordabasy,4.0,0
+89,Shkupi,7.5,0
+89,Gżira,7.0,0
+89,Inter Club d'Escaldes,6.0,0
+89,Tirana,5.5,0
+89,Derry,4.0,0
+89,The New Saints,8.5,0
+89,Borac,5.5,0
+89,Farul Constanța,4.275,0
+89,Dunajská Streda,8.0,0
+89,Ballkani,7.5,0
+89,RFS,8.0,0
+89,HJK,10.0,0
+89,Panevezys,4.0,0
+89,Pyunik,9.5,0
+89,BATE Borisov,9.5,0
+89,F91 Diddeleng,8.5,0
+89,Glentoran,3.0,0
+89,Flora Tallinn,11.0,0
+89,Víkingur Reykjavík,4.0,0
+89,Lincoln Red Imps,9.0,0
+89,FK Budućnost Podgorica,8.0,0
+89,La Fiorita,4.5,0
+90,Fenerbahçe,28.0,1
+90,Lugano,8.0,1
+90,Dnipro-1,10.5,0
+90,Slavia Praha,42.0,1
+90,Maribor,9.5,1
+90,Slovan Bratislava,26.5,0
+90,APOEL,14.5,0
+90,Copenhagen,41.5,0
+90,KÍ Klaksvík,10.0,0
+90,Bodø/Glimt,24.5,1
+90,Partizan,25.5,0
+90,Rangers,52.0,0
+90,Twente,11.42,1
+90,AZ Alkmaar,48.0,1
+90,Braga,48.0,0
+90,Genk,13.0,0
+90,Viktoria Plzeň,17.0,0
+90,Salzburg,49.0,0
+90,Panathinaikos,5.225,0
+90,Ferencváros,30.0,0
+90,Panevezys,4.0,0
+90,Malmö FF,18.5,0
+90,HJK,10.0,0
+90,CFR Cluj,26.5,0
+90,Beşiktaş,10.0,0
+90,Young Boys,32.5,0
+90,Shakhtar Donetsk,59.0,0
+90,Rijeka,12.0,0
+90,Maccabi Haifa,14.0,0
+90,Lech Poznań,20.5,0
+90,Partizani,6.5,0
+90,The New Saints,8.5,0
+90,Inter Club d'Escaldes,6.0,0
+90,Petrocub,7.0,0
+90,Linfield,10.0,0
+90,Tre Penne,5.5,0
+90,Sutjeska,7.5,0
+90,Flora Tallinn,11.0,0
+90,Europa,5.5,0
+90,Ludogorets,19.0,0
+90,Qarabağ,26.0,0
+90,Ordabasy,4.0,0
+90,Gjilani,3.0,0
+90,Riga,11.0,0
+90,Derry,4.0,0
+90,Pyunik,9.5,0
+90,BATE Borisov,9.5,0
+90,Borac,5.5,0
+90,Progrès,4.5,0
+90,Birkirkara,2.5,0
+90,Dinamo Batumi,5.5,0
+90,Víkingur Reykjavík,4.0,0
+90,Struga,3.5,0
+91,Galatasaray,30.5,1
+91,Lugano,8.0,0
+91,Zorya Luhansk,16.5,0
+91,Slavia Praha,42.0,1
+91,Olympiacos,34.0,1
+91,Bodø/Glimt,24.5,1
+91,Slovan Bratislava,26.5,1
+91,Legia Warszawa,13.0,0
+91,Rijeka,12.0,0
+91,Ferencváros,30.0,0
+91,FC Porto,66.0,1
+91,Club Brugge,48.0,0
+91,Shakhtar Donetsk,59.0,0
+91,Young Boys,32.5,1
+91,Lens,11.266,0
+91,Twente,11.42,0
+91,Hearts,6.53,0
+91,Fenerbahçe,28.0,0
+91,Copenhagen,41.5,0
+91,APOEL,14.5,0
+91,Europa,5.5,0
+91,Víkingur Reykjavík,4.0,0
+91,Shkupi,7.5,0
+91,Maccabi Haifa,14.0,0
+91,Salzburg,49.0,0
+91,TSC Bačka Topola,5.555,0
+91,Viktoria Plzeň,17.0,0
+91,IF Elfsborg,4.3,0
+91,CFR Cluj,26.5,0
+91,Petrocub,7.0,0
+91,The New Saints,8.5,0
+91,La Fiorita,4.5,0
+91,Gżira,7.0,0
+91,FK Budućnost Podgorica,8.0,0
+91,HJK,10.0,0
+91,KÍ Klaksvík,10.0,0
+91,Ordabasy,4.0,0
+91,Riga,11.0,0
+91,Ludogorets,19.0,0
+91,Neftçi,10.0,0
+91,Maribor,9.5,0
+91,Drita,6.5,0
+91,Shamrock Rovers,9.5,0
+91,Panevezys,4.0,0
+91,Pyunik,9.5,0
+91,Dinamo Minsk,4.5,0
+91,Željezničar,2.5,0
+91,F91 Diddeleng,8.5,0
+91,Larne,4.5,0
+91,Dinamo Tbilisi,8.0,0
+91,Flora Tallinn,11.0,0
+91,Partizani,6.5,0
+91,Atlètic Club d'Escaldes,2.5,0
+92,Beşiktaş,10.0,1
+92,Young Boys,32.5,1
+92,Dnipro-1,10.5,0
+92,Viktoria Plzeň,17.0,0
+92,Bodø/Glimt,24.5,0
+92,Rijeka,12.0,0
+92,Víkingur Reykjavík,4.0,1
+92,H. Beer Sheva,17.0,1
+92,CFR Cluj,26.5,0
+92,Sheriff,18.0,1
+92,Salzburg,49.0,0
+92,Dynamo Kyiv,26.5,0
+92,Sporting CP,45.5,1
+92,Ajax,64.0,1
+92,Marseille,34.0,0
+92,Union SG,22.0,0
+92,Hearts,6.53,0
+92,Slavia Praha,42.0,0
+92,Shkëndija,8.0,0
+92,Olympiacos,34.0,0
+92,Copenhagen,41.5,0
+92,Maribor,9.5,0
+92,APOEL,14.5,0
+92,Lincoln Red Imps,9.0,0
+92,Partizan,25.5,0
+92,Adana Demirspor,7.07,0
+92,Luzern,6.155,0
+92,Malmö FF,18.5,0
+92,Legia Warszawa,13.0,0
+92,Ferencváros,30.0,0
+92,Borac,5.5,0
+92,Shamrock Rovers,9.5,0
+92,Drita,6.5,0
+92,Tre Penne,5.5,0
+92,Dinamo Batumi,5.5,0
+92,Ararat-Armenia,8.0,0
+92,Qarabağ,26.0,0
+92,Riga,11.0,0
+92,Gżira,7.0,0
+92,CSKA-Sofia,12.5,0
+92,Dunajská Streda,8.0,0
+92,Ordabasy,4.0,0
+92,HJK,10.0,0
+92,Panevezys,4.0,0
+92,Dinamo Minsk,4.5,0
+92,F91 Diddeleng,8.5,0
+92,KÍ Klaksvík,10.0,0
+92,Glentoran,3.0,0
+92,Flora Tallinn,11.0,0
+92,Partizani,6.5,0
+92,Connah's Quay,5.5,0
+92,FC Santa Coloma,5.5,0
+92,FK Budućnost Podgorica,8.0,0
+93,Partizan,25.5,1
+93,Galatasaray,30.5,0
+93,Young Boys,32.5,1
+93,Shakhtar Donetsk,59.0,0
+93,Raków Częstochowa,6.0,0
+93,Olimpija Ljubljana,6.5,0
+93,Malmö FF,18.5,1
+93,KÍ Klaksvík,10.0,1
+93,CSKA-Sofia,12.5,0
+93,Copenhagen,41.5,1
+93,Rangers,52.0,1
+93,PSV,43.0,1
+93,Dynamo Kyiv,26.5,0
+93,Feyenoord,57.0,0
+93,Braga,48.0,0
+93,Antwerp,21.0,0
+93,Adana Demirspor,7.07,0
+93,Luzern,6.155,0
+93,Bodø/Glimt,24.5,0
+93,FCSB,10.5,0
+93,Shamrock Rovers,9.5,0
+93,H. Beer Sheva,17.0,0
+93,Shkupi,7.5,0
+93,Sheriff,18.0,0
+93,Rapid Wien,14.0,0
+93,Slavia Praha,42.0,0
+93,Viktoria Plzeň,17.0,0
+93,Rijeka,12.0,0
+93,Olympiacos,34.0,0
+93,APOEL,14.5,0
+93,Debrecen,4.125,0
+93,Zrinjski,8.5,0
+93,FK Budućnost Podgorica,8.0,0
+93,Dinamo Tbilisi,8.0,0
+93,The New Saints,8.5,0
+93,Pyunik,9.5,0
+93,F91 Diddeleng,8.5,0
+93,Víkingur Reykjavík,4.0,0
+93,Slovan Bratislava,26.5,0
+93,Qarabağ,26.0,0
+93,Ordabasy,4.0,0
+93,Drita,6.5,0
+93,Riga,11.0,0
+93,HJK,10.0,0
+93,Panevezys,4.0,0
+93,Dinamo Minsk,4.5,0
+93,Linfield,10.0,0
+93,Gżira,7.0,0
+93,Flora Tallinn,11.0,0
+93,Tirana,5.5,0
+93,Europa,5.5,0
+93,Inter Club d'Escaldes,6.0,0
+93,La Fiorita,4.5,0
+94,Partizan,25.5,0
+94,Fenerbahçe,28.0,0
+94,Young Boys,32.5,1
+94,Shakhtar Donetsk,59.0,1
+94,Lech Poznań,20.5,0
+94,Copenhagen,41.5,0
+94,Viktoria Plzeň,17.0,0
+94,CFR Cluj,26.5,1
+94,Olympiacos,34.0,1
+94,Ferencváros,30.0,1
+94,Monaco,24.0,0
+94,Braga,48.0,1
+94,Slavia Praha,42.0,1
+94,Union SG,22.0,0
+94,PSV,43.0,0
+94,Rangers,52.0,0
+94,Servette,6.155,0
+94,Galatasaray,30.5,0
+94,Víkingur Reykjavík,4.0,0
+94,Partizani,6.5,0
+94,Maribor,9.5,0
+94,La Fiorita,4.5,0
+94,Malmö FF,18.5,0
+94,Bodø/Glimt,24.5,0
+94,Rapid Wien,14.0,0
+94,Dynamo Kyiv,26.5,0
+94,Rijeka,12.0,0
+94,Maccabi Haifa,14.0,0
+94,APOEL,14.5,0
+94,Shkupi,7.5,0
+94,Shamrock Rovers,9.5,0
+94,Drita,6.5,0
+94,F91 Diddeleng,8.5,0
+94,Qarabağ,26.0,0
+94,Sutjeska,7.5,0
+94,Dunajská Streda,8.0,0
+94,Ordabasy,4.0,0
+94,Torpedo Zhodino,3.0,0
+94,CSKA 1948,3.675,0
+94,Milsami,5.0,0
+94,RFS,8.0,0
+94,HJK,10.0,0
+94,Panevezys,4.0,0
+94,Urartu,3.5,0
+94,Borac,5.5,0
+94,KÍ Klaksvík,10.0,0
+94,Larne,4.5,0
+94,Gżira,7.0,0
+94,Dinamo Tbilisi,8.0,0
+94,Levadia,6.0,0
+94,The New Saints,8.5,0
+94,Europa,5.5,0
+94,Inter Club d'Escaldes,6.0,0
+95,Galatasaray,30.5,0
+95,Young Boys,32.5,0
+95,Shakhtar Donetsk,59.0,1
+95,Slavia Praha,42.0,1
+95,Copenhagen,41.5,0
+95,Víkingur Reykjavík,4.0,1
+95,AEK Athens,10.0,0
+95,FCSB,10.5,0
+95,Lincoln Red Imps,9.0,1
+95,Malmö FF,18.5,1
+95,AZ Alkmaar,48.0,0
+95,Benfica,69.0,0
+95,Marseille,34.0,1
+95,Union SG,22.0,1
+95,Aberdeen,7.5,0
+95,Dynamo Kyiv,26.5,0
+95,Salzburg,49.0,0
+95,Partizan,25.5,0
+95,Zrinjski,8.5,0
+95,KÍ Klaksvík,10.0,0
+95,Tirana,5.5,0
+95,Dinamo Tbilisi,8.0,0
+95,Maccabi Haifa,14.0,0
+95,BATE Borisov,9.5,0
+95,Adana Demirspor,7.07,0
+95,Lugano,8.0,0
+95,Sparta Praha,15.5,0
+95,Bodø/Glimt,24.5,0
+95,Rijeka,12.0,0
+95,AEK Larnaca,8.0,0
+95,Lech Poznań,20.5,0
+95,Ferencváros,30.0,0
+95,RFS,8.0,0
+95,HJK,10.0,0
+95,Petrocub,7.0,0
+95,Maribor,9.5,0
+95,Slovan Bratislava,26.5,0
+95,Linfield,10.0,0
+95,Atlètic Club d'Escaldes,2.5,0
+95,Ludogorets,19.0,0
+95,Qarabağ,26.0,0
+95,Ordabasy,4.0,0
+95,Drita,6.5,0
+95,Shamrock Rovers,9.5,0
+95,Panevezys,4.0,0
+95,Pyunik,9.5,0
+95,F91 Diddeleng,8.5,0
+95,Gżira,7.0,0
+95,Flora Tallinn,11.0,0
+95,The New Saints,8.5,0
+95,Shkëndija,8.0,0
+95,FK Budućnost Podgorica,8.0,0
+95,La Fiorita,4.5,0
+96,Galatasaray,30.5,1
+96,Young Boys,32.5,1
+96,Shakhtar Donetsk,59.0,1
+96,Slavia Praha,42.0,1
+96,Shkëndija,8.0,0
+96,IF Elfsborg,4.3,0
+96,Copenhagen,41.5,0
+96,Bodø/Glimt,24.5,1
+96,Rijeka,12.0,0
+96,Ferencváros,30.0,0
+96,Fenerbahçe,28.0,0
+96,Feyenoord,57.0,1
+96,Braga,48.0,1
+96,Club Brugge,48.0,0
+96,Marseille,34.0,0
+96,Hearts,6.53,0
+96,Sparta Praha,15.5,0
+96,Zorya Luhansk,16.5,0
+96,CFR Cluj,26.5,0
+96,Lech Poznań,20.5,0
+96,Zrinjski,8.5,0
+96,The New Saints,8.5,0
+96,KÍ Klaksvík,10.0,0
+96,Panathinaikos,5.225,0
+96,LASK,34.0,0
+96,Partizan,25.5,0
+96,Servette,6.155,0
+96,H. Beer Sheva,17.0,0
+96,APOEL,14.5,0
+96,F91 Diddeleng,8.5,0
+96,HJK,10.0,0
+96,FK Budućnost Podgorica,8.0,0
+96,Sheriff,18.0,0
+96,Spartak Trnava,5.5,0
+96,FC Santa Coloma,5.5,0
+96,Linfield,10.0,0
+96,Flora Tallinn,11.0,0
+96,Ludogorets,19.0,0
+96,Olimpija Ljubljana,6.5,0
+96,Qarabağ,26.0,0
+96,Ordabasy,4.0,0
+96,Drita,6.5,0
+96,Riga,11.0,0
+96,St Patrick's,4.0,0
+96,Panevezys,4.0,0
+96,Pyunik,9.5,0
+96,Dinamo Minsk,4.5,0
+96,Hamrun Spartans FC,4.5,0
+96,Dinamo Tbilisi,8.0,0
+96,Víkingur Reykjavík,4.0,0
+96,Egnatia,1.475,0
+96,Lincoln Red Imps,9.0,0
+96,Tre Penne,5.5,0
+97,TSC Bačka Topola,5.555,0
+97,Fenerbahçe,28.0,1
+97,Young Boys,32.5,0
+97,Shakhtar Donetsk,59.0,1
+97,Sheriff,18.0,0
+97,Rijeka,12.0,1
+97,APOEL,14.5,1
+97,Kecskemét,4.125,0
+97,F91 Diddeleng,8.5,0
+97,Ludogorets,19.0,1
+97,FC Porto,66.0,1
+97,Feyenoord,57.0,0
+97,Club Brugge,48.0,1
+97,Marseille,34.0,0
+97,Hearts,6.53,0
+97,Dynamo Kyiv,26.5,0
+97,Luzern,6.155,0
+97,Salzburg,49.0,0
+97,Slavia Praha,42.0,0
+97,Bodø/Glimt,24.5,0
+97,Qarabağ,26.0,0
+97,Lech Poznań,20.5,0
+97,Sutjeska,7.5,0
+97,Gżira,7.0,0
+97,Partizan,25.5,0
+97,Galatasaray,30.5,0
+97,Sparta Praha,15.5,0
+97,Copenhagen,41.5,0
+97,Olympiacos,34.0,0
+97,H. Beer Sheva,17.0,0
+97,IF Elfsborg,4.3,0
+97,Levadia,6.0,0
+97,Derry,4.0,0
+97,RFS,8.0,0
+97,Dinamo Minsk,4.5,0
+97,Tre Penne,5.5,0
+97,KÍ Klaksvík,10.0,0
+97,Zrinjski,8.5,0
+97,FCSB,10.5,0
+97,Slovan Bratislava,26.5,0
+97,Ordabasy,4.0,0
+97,Maribor,9.5,0
+97,Drita,6.5,0
+97,HJK,10.0,0
+97,Panevezys,4.0,0
+97,Urartu,3.5,0
+97,Larne,4.5,0
+97,Dinamo Batumi,5.5,0
+97,Víkingur Reykjavík,4.0,0
+97,Tirana,5.5,0
+97,The New Saints,8.5,0
+97,Europa,5.5,0
+97,Shkëndija,8.0,0
+97,Inter Club d'Escaldes,6.0,0
+98,Partizan,25.5,1
+98,Galatasaray,30.5,1
+98,Young Boys,32.5,1
+98,Zorya Luhansk,16.5,0
+98,Riga,11.0,1
+98,La Fiorita,4.5,1
+98,Legia Warszawa,13.0,0
+98,Sparta Praha,15.5,0
+98,Copenhagen,41.5,0
+98,Dunajská Streda,8.0,0
+98,LASK,34.0,1
+98,PSV,43.0,0
+98,Antwerp,21.0,0
+98,FC Porto,66.0,1
+98,AZ Alkmaar,48.0,0
+98,Celtic,30.0,0
+98,Slavia Praha,42.0,0
+98,Shakhtar Donetsk,59.0,0
+98,Rijeka,12.0,0
+98,AEK Athens,10.0,0
+98,Pyunik,9.5,0
+98,Ludogorets,19.0,0
+98,Shkëndija,8.0,0
+98,AEK Larnaca,8.0,0
+98,TSC Bačka Topola,5.555,0
+98,Adana Demirspor,7.07,0
+98,Luzern,6.155,0
+98,Bodø/Glimt,24.5,0
+98,H. Beer Sheva,17.0,0
+98,BK Häcken,4.3,0
+98,Víkingur Reykjavík,4.0,0
+98,Shamrock Rovers,9.5,0
+98,Europa,5.5,0
+98,FC Santa Coloma,5.5,0
+98,F91 Diddeleng,8.5,0
+98,Gżira,7.0,0
+98,Zrinjski,8.5,0
+98,FK Budućnost Podgorica,8.0,0
+98,KÍ Klaksvík,10.0,0
+98,Debrecen,4.125,0
+98,FCSB,10.5,0
+98,Qarabağ,26.0,0
+98,Ordabasy,4.0,0
+98,Maribor,9.5,0
+98,Milsami,5.0,0
+98,Ballkani,7.5,0
+98,HJK,10.0,0
+98,Panevezys,4.0,0
+98,BATE Borisov,9.5,0
+98,Larne,4.5,0
+98,Dila,4.0,0
+98,Flora Tallinn,11.0,0
+98,Tirana,5.5,0
+98,Penybont,1.158,0
+99,Partizan,25.5,1
+99,Fenerbahçe,28.0,1
+99,Young Boys,32.5,1
+99,Zorya Luhansk,16.5,0
+99,CFR Cluj,26.5,0
+99,Maccabi Haifa,14.0,1
+99,Bodø/Glimt,24.5,0
+99,APOEL,14.5,0
+99,Olympiacos,34.0,1
+99,BATE Borisov,9.5,0
+99,Salzburg,49.0,0
+99,Rennes,37.0,0
+99,Ajax,64.0,1
+99,Benfica,69.0,1
+99,Club Brugge,48.0,0
+99,Celtic,30.0,0
+99,Galatasaray,30.5,0
+99,Viktoria Plzeň,17.0,0
+99,Slovan Bratislava,26.5,0
+99,Rijeka,12.0,0
+99,Legia Warszawa,13.0,0
+99,KÍ Klaksvík,10.0,0
+99,Shamrock Rovers,9.5,0
+99,Dinamo Batumi,5.5,0
+99,Lugano,8.0,0
+99,Dynamo Kyiv,26.5,0
+99,Slavia Praha,42.0,0
+99,Copenhagen,41.5,0
+99,BK Häcken,4.3,0
+99,Ferencváros,30.0,0
+99,Qarabağ,26.0,0
+99,Ordabasy,4.0,0
+99,Inter Club d'Escaldes,6.0,0
+99,Sheriff,18.0,0
+99,Linfield,10.0,0
+99,Connah's Quay,5.5,0
+99,Ararat-Armenia,8.0,0
+99,Željezničar,2.5,0
+99,Ludogorets,19.0,0
+99,Maribor,9.5,0
+99,Ballkani,7.5,0
+99,RFS,8.0,0
+99,HJK,10.0,0
+99,Panevezys,4.0,0
+99,Progrès,4.5,0
+99,Birkirkara,2.5,0
+99,Flora Tallinn,11.0,0
+99,Víkingur Reykjavík,4.0,0
+99,Tirana,5.5,0
+99,Lincoln Red Imps,9.0,0
+99,Shkupi,7.5,0
+99,Sutjeska,7.5,0
+99,Tre Penne,5.5,0
+100,Galatasaray,30.5,1
+100,Servette,6.155,0
+100,Shakhtar Donetsk,59.0,0
+100,Viktoria Plzeň,17.0,0
+100,Larne,4.5,1
+100,Progrès,4.5,0
+100,Ludogorets,19.0,1
+100,Malmö FF,18.5,0
+100,Ferencváros,30.0,1
+100,Copenhagen,41.5,1
+100,Club Brugge,48.0,1
+100,AZ Alkmaar,48.0,0
+100,Benfica,69.0,1
+100,Ajax,64.0,0
+100,Celtic,30.0,0
+100,Dynamo Kyiv,26.5,0
+100,Partizan,25.5,0
+100,Fenerbahçe,28.0,0
+100,APOEL,14.5,0
+100,Gżira,7.0,0
+100,Dinamo Batumi,5.5,0
+100,Bodø/Glimt,24.5,0
+100,CFR Cluj,26.5,0
+100,KÍ Klaksvík,10.0,0
+100,Rapid Wien,14.0,0
+100,Young Boys,32.5,0
+100,Slavia Praha,42.0,0
+100,Rijeka,12.0,0
+100,Panathinaikos,5.225,0
+100,Maccabi Haifa,14.0,0
+100,Legia Warszawa,13.0,0
+100,Sheriff,18.0,0
+100,Struga,3.5,0
+100,The New Saints,8.5,0
+100,FC Santa Coloma,5.5,0
+100,Shamrock Rovers,9.5,0
+100,Ordabasy,4.0,0
+100,La Fiorita,4.5,0
+100,Partizani,6.5,0
+100,Slovan Bratislava,26.5,0
+100,Neftçi,10.0,0
+100,Maribor,9.5,0
+100,Ballkani,7.5,0
+100,Riga,11.0,0
+100,HJK,10.0,0
+100,Panevezys,4.0,0
+100,Ararat-Armenia,8.0,0
+100,BATE Borisov,9.5,0
+100,Borac,5.5,0
+100,Flora Tallinn,11.0,0
+100,Víkingur Reykjavík,4.0,0
+100,Europa,5.5,0
+100,FK Arsenal Tivat,1.141,0

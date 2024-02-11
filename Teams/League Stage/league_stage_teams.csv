@@ -1,37 +1,37 @@
 team_name,association,uefa_coefficient,city,status
-Real Madrid,ESP,112.0,Madrid,UEFA Champions League Winner
+Barcelona,ESP,78.0,Barcelona,UEFA Champions League Winner
 Rangers,SCO,52.0,Glasgow,UEFA Europa League Winner
-Liverpool,ENG,100.0,Liverpool,
-Arsenal,ENG,58.0,London,
-Manchester City,ENG,130.0,Manchester,
 West Ham,ENG,54.0,London,
-Villarreal,ESP,68.0,Villarreal,
-Atlético de Madrid,ESP,73.0,Madrid,
+Manchester United,ENG,91.0,Manchester,
+Chelsea,ENG,96.0,London,
+Tottenham Hotspur,ENG,54.0,London,
+Real Sociedad,ESP,42.0,San Sebastián,
 Sevilla,ESP,84.0,Seville,
-Borussia Dortmund,GER,75.0,Dortmund,
-Bayer 04 Leverkusen,GER,67.0,Leverkusen,
+Atlético de Madrid,ESP,73.0,Madrid,
+SC Freiburg,GER,19.0,Freiburg,
+Union Berlin,GER,21.0,Berlin,
 Bayern,GER,126.0,Munich,
-RB Leipzig,GER,87.0,Leipzig,
+Borussia Dortmund,GER,75.0,Dortmund,
 Atalanta,ITA,58.0,Bergamo,
-AC Milan,ITA,49.0,Milan,
-Fiorentina,ITA,24.0,Florence,
-Juventus,ITA,80.0,Turin,
+Roma,ITA,86.0,Rome,
+Inter,ITA,90.0,Milan,
+Napoli,ITA,71.0,Naples,
+Nice,FRA,17.0,Nice,
 Marseille,FRA,34.0,Marseille,
 Paris Saint-Germain,FRA,101.0,Paris,
-Lyon,FRA,44.0,Lyon,
+Feyenoord,NED,57.0,Rotterdam,
 PSV,NED,43.0,Eindhoven,
-Twente,NED,11.42,Enschede,
-FC Porto,POR,66.0,Porto,
-Antwerp,BEL,21.0,Antwerp,
-Celtic,SCO,30.0,Glasgow,
-Salzburg,AUT,49.0,Salzburg,
-Manchester United,ENG,91.0,Manchester,
-Real Sociedad,ESP,42.0,San Sebastián,
+Sporting CP,POR,45.5,Lisbon,
+Genk,BEL,13.0,Genk,
+LASK,AUT,34.0,Linz,
+Manchester City,ENG,130.0,Manchester,
+Real Madrid,ESP,112.0,Madrid,
 Crvena zvezda,SRB,40.0,Belgrade,
-Slavia Praha,CZE,42.0,Prague
-Young Boys,SUI,32.5,Bern
-Beşiktaş,TUR,10.0,Istanbul
+Lyon,FRA,44.0,Lyon,
+Galatasaray,TUR,30.5,Istanbul
+Larne,NIR,4.5,Larne
+Copenhagen,DEN,41.5,Copenhagen
+Ludogorets,BUL,19.0,Razgrad
 Ferencváros,HUN,30.0,Budapest
-Flora Tallinn,EST,11.0,Tallinn
 Club Brugge,BEL,48.0,Bruges
-Ajax,NED,64.0,Amsterdam
+Benfica,POR,69.0,Lisbon
