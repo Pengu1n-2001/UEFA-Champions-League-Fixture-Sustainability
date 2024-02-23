@@ -1,0 +1,97 @@
+home_team,home_team_city,away_team,away_team_city,group,distance
+Napoli,naples,Liverpool,liverpool,A,1902.0
+Napoli,naples,Ajax,amsterdam,A,1464.0
+Napoli,naples,Rangers,glasgow,A,2144.0
+Liverpool,liverpool,Napoli,naples,A,1902.0
+Liverpool,liverpool,Ajax,amsterdam,A,543.0
+Liverpool,liverpool,Rangers,glasgow,A,284.0
+Ajax,amsterdam,Napoli,naples,A,1464.0
+Ajax,amsterdam,Liverpool,liverpool,A,543.0
+Ajax,amsterdam,Rangers,glasgow,A,711.0
+Rangers,glasgow,Napoli,naples,A,2144.0
+Rangers,glasgow,Liverpool,liverpool,A,284.0
+Rangers,glasgow,Ajax,amsterdam,A,711.0
+FC Porto,porto,Club Brugge,bruges,B,1439.0
+FC Porto,porto,Bayer 04 Leverkusen,leverkusen,B,1626.0
+FC Porto,porto,Atlético de Madrid,madrid,B,421.0
+Club Brugge,bruges,FC Porto,porto,B,1439.0
+Club Brugge,bruges,Bayer 04 Leverkusen,leverkusen,B,264.0
+Club Brugge,bruges,Atlético de Madrid,madrid,B,1313.0
+Bayer 04 Leverkusen,leverkusen,FC Porto,porto,B,1626.0
+Bayer 04 Leverkusen,leverkusen,Club Brugge,bruges,B,264.0
+Bayer 04 Leverkusen,leverkusen,Atlético de Madrid,madrid,B,1443.0
+Atlético de Madrid,madrid,FC Porto,porto,B,421.0
+Atlético de Madrid,madrid,Club Brugge,bruges,B,1313.0
+Atlético de Madrid,madrid,Bayer 04 Leverkusen,leverkusen,B,1443.0
+Bayern,munich,Inter,milan,C,348.0
+Bayern,munich,Barcelona,barcelona,C,1055.0
+Bayern,munich,Viktoria Plzeň,plzeň,C,209.0
+Inter,milan,Bayern,munich,C,348.0
+Inter,milan,Barcelona,barcelona,C,725.0
+Inter,milan,Viktoria Plzeň,plzeň,C,557.0
+Barcelona,barcelona,Bayern,munich,C,1055.0
+Barcelona,barcelona,Inter,milan,C,725.0
+Barcelona,barcelona,Viktoria Plzeň,plzeň,C,1255.0
+Viktoria Plzeň,plzeň,Bayern,munich,C,209.0
+Viktoria Plzeň,plzeň,Inter,milan,C,557.0
+Viktoria Plzeň,plzeň,Barcelona,barcelona,C,1255.0
+Tottenham Hotspur,london,Eintracht Frankfurt,frankfurt,D,638.0
+Tottenham Hotspur,london,Sporting CP,lisbon,D,1585.0
+Tottenham Hotspur,london,Marseille,marseille,D,1002.0
+Eintracht Frankfurt,frankfurt,Tottenham Hotspur,london,D,638.0
+Eintracht Frankfurt,frankfurt,Sporting CP,lisbon,D,1890.0
+Eintracht Frankfurt,frankfurt,Marseille,marseille,D,799.0
+Sporting CP,lisbon,Tottenham Hotspur,london,D,1585.0
+Sporting CP,lisbon,Eintracht Frankfurt,frankfurt,D,1890.0
+Sporting CP,lisbon,Marseille,marseille,D,1317.0
+Marseille,marseille,Tottenham Hotspur,london,D,1002.0
+Marseille,marseille,Eintracht Frankfurt,frankfurt,D,799.0
+Marseille,marseille,Sporting CP,lisbon,D,1317.0
+Chelsea,london,AC Milan,milan,E,959.0
+Chelsea,london,Salzburg,salzburg,E,1032.0
+Chelsea,london,Dinamo Zagreb,zagreb,E,1338.0
+AC Milan,milan,Chelsea,london,E,959.0
+AC Milan,milan,Salzburg,salzburg,E,393.0
+AC Milan,milan,Dinamo Zagreb,zagreb,E,529.0
+Salzburg,salzburg,Chelsea,london,E,1032.0
+Salzburg,salzburg,AC Milan,milan,E,393.0
+Salzburg,salzburg,Dinamo Zagreb,zagreb,E,315.0
+Dinamo Zagreb,zagreb,Chelsea,london,E,1338.0
+Dinamo Zagreb,zagreb,AC Milan,milan,E,529.0
+Dinamo Zagreb,zagreb,Salzburg,salzburg,E,315.0
+Real Madrid,madrid,RB Leipzig,leipzig,F,1733.0
+Real Madrid,madrid,Shakhtar Donetsk (2022/23),warsaw,F,2290.0
+Real Madrid,madrid,Celtic,glasgow,F,1718.0
+RB Leipzig,leipzig,Real Madrid,madrid,F,1733.0
+RB Leipzig,leipzig,Shakhtar Donetsk (2022/23),warsaw,F,601.0
+RB Leipzig,leipzig,Celtic,glasgow,F,1203.0
+Shakhtar Donetsk (2022/23),warsaw,Real Madrid,madrid,F,2290.0
+Shakhtar Donetsk (2022/23),warsaw,RB Leipzig,leipzig,F,601.0
+Shakhtar Donetsk (2022/23),warsaw,Celtic,glasgow,F,1688.0
+Celtic,glasgow,Real Madrid,madrid,F,1718.0
+Celtic,glasgow,RB Leipzig,leipzig,F,1203.0
+Celtic,glasgow,Shakhtar Donetsk (2022/23),warsaw,F,1688.0
+Manchester City,manchester,Borussia Dortmund,dortmund,G,692.0
+Manchester City,manchester,Sevilla,seville,G,1812.0
+Manchester City,manchester,Copenhagen,copenhagen,G,983.0
+Borussia Dortmund,dortmund,Manchester City,manchester,G,692.0
+Borussia Dortmund,dortmund,Sevilla,seville,G,1893.0
+Borussia Dortmund,dortmund,Copenhagen,copenhagen,G,572.0
+Sevilla,seville,Manchester City,manchester,G,1812.0
+Sevilla,seville,Borussia Dortmund,dortmund,G,1893.0
+Sevilla,seville,Copenhagen,copenhagen,G,2463.0
+Copenhagen,copenhagen,Manchester City,manchester,G,983.0
+Copenhagen,copenhagen,Borussia Dortmund,dortmund,G,572.0
+Copenhagen,copenhagen,Sevilla,seville,G,2463.0
+Benfica,lisbon,Paris Saint-Germain,paris,H,1453.0
+Benfica,lisbon,Juventus,turin,H,1557.0
+Benfica,lisbon,Maccabi Haifa,haifa,H,3997.0
+Paris Saint-Germain,paris,Benfica,lisbon,H,1453.0
+Paris Saint-Germain,paris,Juventus,turin,H,584.0
+Paris Saint-Germain,paris,Maccabi Haifa,haifa,H,3237.0
+Juventus,turin,Benfica,lisbon,H,1557.0
+Juventus,turin,Paris Saint-Germain,paris,H,584.0
+Juventus,turin,Maccabi Haifa,haifa,H,2708.0
+Maccabi Haifa,haifa,Benfica,lisbon,H,3997.0
+Maccabi Haifa,haifa,Paris Saint-Germain,paris,H,3237.0
+Maccabi Haifa,haifa,Juventus,turin,H,2708.0

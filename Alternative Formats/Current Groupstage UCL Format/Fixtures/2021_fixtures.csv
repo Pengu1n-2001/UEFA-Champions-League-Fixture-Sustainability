@@ -1,0 +1,97 @@
+home_team,home_team_city,away_team,away_team_city,group
+Manchester City,Manchester,Paris Saint-Germain,Paris,A
+Manchester City,Manchester,RB Leipzig,Leipzig,A
+Manchester City,Manchester,Club Brugge,Bruges,A
+Paris Saint-Germain,Paris,Manchester City,Manchester,A
+Paris Saint-Germain,Paris,RB Leipzig,Leipzig,A
+Paris Saint-Germain,Paris,Club Brugge,Bruges,A
+RB Leipzig,Leipzig,Manchester City,Manchester,A
+RB Leipzig,Leipzig,Paris Saint-Germain,Paris,A
+RB Leipzig,Leipzig,Club Brugge,Bruges,A
+Club Brugge,Bruges,Manchester City,Manchester,A
+Club Brugge,Bruges,Paris Saint-Germain,Paris,A
+Club Brugge,Bruges,RB Leipzig,Leipzig,A
+Liverpool,Liverpool,Atlético de Madrid,Madrid,B
+Liverpool,Liverpool,FC Porto,Porto,B
+Liverpool,Liverpool,AC Milan,Milan,B
+Atlético de Madrid,Madrid,Liverpool,Liverpool,B
+Atlético de Madrid,Madrid,FC Porto,Porto,B
+Atlético de Madrid,Madrid,AC Milan,Milan,B
+FC Porto,Porto,Liverpool,Liverpool,B
+FC Porto,Porto,Atlético de Madrid,Madrid,B
+FC Porto,Porto,AC Milan,Milan,B
+AC Milan,Milan,Liverpool,Liverpool,B
+AC Milan,Milan,Atlético de Madrid,Madrid,B
+AC Milan,Milan,FC Porto,Porto,B
+Ajax,Amsterdam,Sporting CP,Lisbon,C
+Ajax,Amsterdam,Borussia Dortmund,Dortmund,C
+Ajax,Amsterdam,Beşiktaş,Istanbul,C
+Sporting CP,Lisbon,Ajax,Amsterdam,C
+Sporting CP,Lisbon,Borussia Dortmund,Dortmund,C
+Sporting CP,Lisbon,Beşiktaş,Istanbul,C
+Borussia Dortmund,Dortmund,Ajax,Amsterdam,C
+Borussia Dortmund,Dortmund,Sporting CP,Lisbon,C
+Borussia Dortmund,Dortmund,Beşiktaş,Istanbul,C
+Beşiktaş,Istanbul,Ajax,Amsterdam,C
+Beşiktaş,Istanbul,Sporting CP,Lisbon,C
+Beşiktaş,Istanbul,Borussia Dortmund,Dortmund,C
+Real Madrid,Madrid,Inter,Milan,D
+Real Madrid,Madrid,Sheriff,Tiraspol,D
+Real Madrid,Madrid,Shakhtar Donetsk (2021/22),Kyiv,D
+Inter,Milan,Real Madrid,Madrid,D
+Inter,Milan,Sheriff,Tiraspol,D
+Inter,Milan,Shakhtar Donetsk (2021/22),Kyiv,D
+Sheriff,Tiraspol,Real Madrid,Madrid,D
+Sheriff,Tiraspol,Inter,Milan,D
+Sheriff,Tiraspol,Shakhtar Donetsk (2021/22),Kyiv,D
+Shakhtar Donetsk (2021/22),Kyiv,Real Madrid,Madrid,D
+Shakhtar Donetsk (2021/22),Kyiv,Inter,Milan,D
+Shakhtar Donetsk (2021/22),Kyiv,Sheriff,Tiraspol,D
+Bayern,Munich,Benfica,Lisbon,E
+Bayern,Munich,Barcelona,Barcelona,E
+Bayern,Munich,Dynamo Kyiv,Kyiv,E
+Benfica,Lisbon,Bayern,Munich,E
+Benfica,Lisbon,Barcelona,Barcelona,E
+Benfica,Lisbon,Dynamo Kyiv,Kyiv,E
+Barcelona,Barcelona,Bayern,Munich,E
+Barcelona,Barcelona,Benfica,Lisbon,E
+Barcelona,Barcelona,Dynamo Kyiv,Kyiv,E
+Dynamo Kyiv,Kyiv,Bayern,Munich,E
+Dynamo Kyiv,Kyiv,Benfica,Lisbon,E
+Dynamo Kyiv,Kyiv,Barcelona,Barcelona,E
+Manchester United,Manchester,Villarreal,Villarreal,F
+Manchester United,Manchester,Atalanta,Bergamo,F
+Manchester United,Manchester,Young Boys,Bern,F
+Villarreal,Villarreal,Manchester United,Manchester,F
+Villarreal,Villarreal,Atalanta,Bergamo,F
+Villarreal,Villarreal,Young Boys,Bern,F
+Atalanta,Bergamo,Manchester United,Manchester,F
+Atalanta,Bergamo,Villarreal,Villarreal,F
+Atalanta,Bergamo,Young Boys,Bern,F
+Young Boys,Bern,Manchester United,Manchester,F
+Young Boys,Bern,Villarreal,Villarreal,F
+Young Boys,Bern,Atalanta,Bergamo,F
+Lille,Lille,Salzburg,Salzburg,G
+Lille,Lille,Sevilla,Seville,G
+Lille,Lille,VfL Wolfsburg,Wolfsburg,G
+Salzburg,Salzburg,Lille,Lille,G
+Salzburg,Salzburg,Sevilla,Seville,G
+Salzburg,Salzburg,VfL Wolfsburg,Wolfsburg,G
+Sevilla,Seville,Lille,Lille,G
+Sevilla,Seville,Salzburg,Salzburg,G
+Sevilla,Seville,VfL Wolfsburg,Wolfsburg,G
+VfL Wolfsburg,Wolfsburg,Lille,Lille,G
+VfL Wolfsburg,Wolfsburg,Salzburg,Salzburg,G
+VfL Wolfsburg,Wolfsburg,Sevilla,Seville,G
+Juventus,Turin,Chelsea,London,H
+Juventus,Turin,Zenit,Saint Petersburg,H
+Juventus,Turin,Malmö FF,Malmö,H
+Chelsea,London,Juventus,Turin,H
+Chelsea,London,Zenit,Saint Petersburg,H
+Chelsea,London,Malmö FF,Malmö,H
+Zenit,Saint Petersburg,Juventus,Turin,H
+Zenit,Saint Petersburg,Chelsea,London,H
+Zenit,Saint Petersburg,Malmö FF,Malmö,H
+Malmö FF,Malmö,Juventus,Turin,H
+Malmö FF,Malmö,Chelsea,London,H
+Malmö FF,Malmö,Zenit,Saint Petersburg,H

@@ -1,153 +1,153 @@
 home_team,home_team_city,away_team,away_team_city,double_legged_status,distance
-Barcelona,barcelona,Paris Saint-Germain,paris,,831.0
-Barcelona,barcelona,Benfica,lisbon,,1006.0
+Barcelona,barcelona,RB Leipzig,leipzig,,1354.0
 Barcelona,barcelona,Rangers,glasgow,,1676.0
-Barcelona,barcelona,Galatasaray,istanbul,,2234.0
-Manchester City,manchester,Barcelona,barcelona,,1385.0
-Manchester City,manchester,Sevilla,seville,,1812.0
-Manchester City,manchester,Club Brugge,bruges,,449.0
-Manchester City,manchester,Union Berlin,berlin,,1050.0
+Barcelona,barcelona,Lille,lille,,1030.0
+Barcelona,barcelona,Lens,lens,,1007.0
+Manchester City,manchester,Inter,milan,,1212.0
+Manchester City,manchester,Feyenoord,rotterdam,,485.0
+Manchester City,manchester,Rennes,rennes,,598.0
+Manchester City,manchester,SC Freiburg,freiburg,,934.0
 Bayern,munich,Manchester United,manchester,,1136.0
 Bayern,munich,West Ham,london,,919.0
-Bayern,munich,Sporting CP,lisbon,,1964.0
-Bayern,munich,Ferencváros,budapest,,561.0
-Real Madrid,madrid,Inter,milan,,1188.0
-Real Madrid,madrid,Atalanta,bergamo,,1233.0
-Real Madrid,madrid,Copenhagen,copenhagen,,2073.0
-Real Madrid,madrid,LASK,linz,,1671.0
-Paris Saint-Germain,paris,Manchester City,manchester,,606.0
-Paris Saint-Germain,paris,Borussia Dortmund,dortmund,,469.0
-Paris Saint-Germain,paris,PSV,eindhoven,,363.0
-Paris Saint-Germain,paris,Ludogorets,razgrad,,1943.0
-Chelsea,london,Roma,rome,,1434.0
-Chelsea,london,Atlético de Madrid,madrid,,1263.0
+Bayern,munich,Crvena zvezda,belgrade,,774.0
+Bayern,munich,Union SG,brussels,,603.0
+Paris Saint-Germain,paris,Chelsea,london,,344.0
+Paris Saint-Germain,paris,Atalanta,bergamo,,653.0
+Paris Saint-Germain,paris,Copenhagen,copenhagen,,1027.0
+Paris Saint-Germain,paris,VfL Wolfsburg,wolfsburg,,714.0
+Liverpool,liverpool,Paris Saint-Germain,paris,,629.0
+Liverpool,liverpool,Ajax,amsterdam,,543.0
+Liverpool,liverpool,Slavia Praha,prague,,1253.0
+Liverpool,liverpool,Bodø/Glimt,bodø,,1801.0
+Chelsea,london,Bayern,munich,,919.0
+Chelsea,london,Napoli,naples,,1617.0
 Chelsea,london,Real Sociedad,san sebastián,,921.0
-Chelsea,london,Nice,nice,,1028.0
-Manchester United,manchester,Real Madrid,madrid,,1457.0
-Manchester United,manchester,Napoli,naples,,1870.0
-Manchester United,manchester,Marseille,marseille,,1263.0
-Manchester United,manchester,Genk,genk,,598.0
-Inter,milan,Chelsea,london,,959.0
-Inter,milan,Tottenham Hotspur,london,,959.0
-Inter,milan,Crvena zvezda,belgrade,,886.0
-Inter,milan,Larne,larne,,1488.0
-Roma,rome,Bayern,munich,,697.0
-Roma,rome,Feyenoord,rotterdam,,1268.0
-Roma,rome,Lyon,lyon,,749.0
-Roma,rome,SC Freiburg,freiburg,,770.0
-Sevilla,seville,Paris Saint-Germain,paris,,1442.0
-Sevilla,seville,Borussia Dortmund,dortmund,,1893.0
-Sevilla,seville,Rangers,glasgow,,2058.0
-Sevilla,seville,Union Berlin,berlin,,2257.0
-Borussia Dortmund,dortmund,Chelsea,london,,525.0
-Borussia Dortmund,dortmund,West Ham,london,,525.0
-Borussia Dortmund,dortmund,Lyon,lyon,,668.0
-Borussia Dortmund,dortmund,LASK,linz,,604.0
-Atlético de Madrid,madrid,Bayern,munich,,1485.0
+Chelsea,london,Qarabağ,baku,,3974.0
+Manchester United,manchester,Barcelona,barcelona,,1385.0
+Manchester United,manchester,Atlético de Madrid,madrid,,1457.0
+Manchester United,manchester,Lyon,lyon,,997.0
+Manchester United,manchester,Real Betis,seville,,1812.0
+Inter,milan,Liverpool,liverpool,,1245.0
+Inter,milan,Sevilla,seville,,1547.0
+Inter,milan,AZ Alkmaar,alkmaar,,860.0
+Inter,milan,Young Boys,bern,,213.0
+RB Leipzig,leipzig,Manchester City,manchester,,1018.0
+RB Leipzig,leipzig,Roma,rome,,1050.0
+RB Leipzig,leipzig,Braga,braga,,1922.0
+RB Leipzig,leipzig,LASK,linz,,364.0
+Roma,rome,Manchester United,manchester,,1689.0
+Roma,rome,Rangers,glasgow,,1966.0
+Roma,rome,AZ Alkmaar,alkmaar,,1326.0
+Roma,rome,Lens,lens,,1204.0
+Sevilla,seville,RB Leipzig,leipzig,,2119.0
+Sevilla,seville,West Ham,london,,1636.0
+Sevilla,seville,Lille,lille,,1637.0
+Sevilla,seville,SC Freiburg,freiburg,,1629.0
+Atlético de Madrid,madrid,Inter,milan,,1188.0
 Atlético de Madrid,madrid,Feyenoord,rotterdam,,1424.0
-Atlético de Madrid,madrid,Club Brugge,bruges,,1313.0
-Atlético de Madrid,madrid,Nice,nice,,976.0
-Napoli,naples,Barcelona,barcelona,,1014.0
-Napoli,naples,Sevilla,seville,,1785.0
-Napoli,naples,Sporting CP,lisbon,,2008.0
-Napoli,naples,Galatasaray,istanbul,,1234.0
-Benfica,lisbon,Real Madrid,madrid,,502.0
-Benfica,lisbon,Atlético de Madrid,madrid,,502.0
-Benfica,lisbon,Crvena zvezda,belgrade,,2530.0
-Benfica,lisbon,Ludogorets,razgrad,,3011.0
-Atalanta,bergamo,Manchester United,manchester,,1216.0
-Atalanta,bergamo,Benfica,lisbon,,1727.0
-Atalanta,bergamo,Real Sociedad,san sebastián,,960.0
-Atalanta,bergamo,SC Freiburg,freiburg,,290.0
-Feyenoord,rotterdam,Manchester City,manchester,,485.0
-Feyenoord,rotterdam,Tottenham Hotspur,london,,321.0
-Feyenoord,rotterdam,Copenhagen,copenhagen,,675.0
-Feyenoord,rotterdam,Larne,larne,,756.0
-Tottenham Hotspur,london,Roma,rome,,1434.0
-Tottenham Hotspur,london,Atalanta,bergamo,,966.0
-Tottenham Hotspur,london,Marseille,marseille,,1002.0
-Tottenham Hotspur,london,Genk,genk,,398.0
-West Ham,london,Inter,milan,,959.0
-West Ham,london,Napoli,naples,,1617.0
-West Ham,london,PSV,eindhoven,,388.0
-West Ham,london,Ferencváros,budapest,,1449.0
-Rangers,glasgow,Bayern,munich,,1378.0
-Rangers,glasgow,Borussia Dortmund,dortmund,,909.0
-Rangers,glasgow,Copenhagen,copenhagen,,1050.0
+Atlético de Madrid,madrid,Rennes,rennes,,871.0
+Atlético de Madrid,madrid,Union SG,brussels,,1317.0
+Napoli,naples,Liverpool,liverpool,,1902.0
+Napoli,naples,Ajax,amsterdam,,1464.0
+Napoli,naples,Crvena zvezda,belgrade,,667.0
+Napoli,naples,VfL Wolfsburg,wolfsburg,,1313.0
+Ajax,amsterdam,Chelsea,london,,358.0
+Ajax,amsterdam,Atalanta,bergamo,,818.0
+Ajax,amsterdam,Copenhagen,copenhagen,,621.0
+Ajax,amsterdam,Bodø/Glimt,bodø,,1736.0
+Atalanta,bergamo,Bayern,munich,,307.0
+Atalanta,bergamo,Atlético de Madrid,madrid,,1233.0
+Atalanta,bergamo,Slavia Praha,prague,,602.0
+Atalanta,bergamo,Young Boys,bern,,220.0
+Feyenoord,rotterdam,Paris Saint-Germain,paris,,373.0
+Feyenoord,rotterdam,Napoli,naples,,1439.0
+Feyenoord,rotterdam,Real Sociedad,san sebastián,,1071.0
+Feyenoord,rotterdam,Qarabağ,baku,,3657.0
+West Ham,london,Barcelona,barcelona,,1139.0
+West Ham,london,Roma,rome,,1434.0
+West Ham,london,Lyon,lyon,,735.0
+West Ham,london,Real Betis,seville,,1636.0
+Rangers,glasgow,Manchester City,manchester,,294.0
+Rangers,glasgow,Sevilla,seville,,2058.0
+Rangers,glasgow,Braga,braga,,1621.0
 Rangers,glasgow,LASK,linz,,1512.0
-Club Brugge,bruges,Barcelona,barcelona,,1095.0
-Club Brugge,bruges,Sevilla,seville,,1699.0
-Club Brugge,bruges,Rangers,glasgow,,715.0
-Club Brugge,bruges,Ferencváros,budapest,,1215.0
-Sporting CP,lisbon,Real Madrid,madrid,,502.0
-Sporting CP,lisbon,Feyenoord,rotterdam,,1807.0
-Sporting CP,lisbon,Real Sociedad,san sebastián,,788.0
-Sporting CP,lisbon,Nice,nice,,1477.0
+Braga,braga,Inter,milan,,1484.0
+Braga,braga,West Ham,london,,1276.0
+Braga,braga,Lille,lille,,1341.0
+Braga,braga,Lens,lens,,1314.0
+AZ Alkmaar,alkmaar,RB Leipzig,leipzig,,541.0
+AZ Alkmaar,alkmaar,Rangers,glasgow,,686.0
+AZ Alkmaar,alkmaar,Rennes,rennes,,678.0
+AZ Alkmaar,alkmaar,SC Freiburg,freiburg,,560.0
 Lyon,lyon,Chelsea,london,,735.0
-Lyon,lyon,Napoli,naples,,938.0
+Lyon,lyon,Feyenoord,rotterdam,,685.0
 Lyon,lyon,Crvena zvezda,belgrade,,1225.0
-Lyon,lyon,Union Berlin,berlin,,975.0
-PSV,eindhoven,Manchester City,manchester,,569.0
-PSV,eindhoven,Benfica,lisbon,,1814.0
-PSV,eindhoven,Club Brugge,bruges,,158.0
-PSV,eindhoven,Galatasaray,istanbul,,2134.0
-Real Sociedad,san sebastián,Paris Saint-Germain,paris,,700.0
-Real Sociedad,san sebastián,Tottenham Hotspur,london,,921.0
-Real Sociedad,san sebastián,Lyon,lyon,,604.0
-Real Sociedad,san sebastián,SC Freiburg,freiburg,,923.0
-Copenhagen,copenhagen,Manchester United,manchester,,983.0
-Copenhagen,copenhagen,West Ham,london,,956.0
-Copenhagen,copenhagen,Sporting CP,lisbon,,2477.0
-Copenhagen,copenhagen,Ludogorets,razgrad,,1677.0
-Crvena zvezda,belgrade,Roma,rome,,718.0
-Crvena zvezda,belgrade,Atalanta,bergamo,,849.0
-Crvena zvezda,belgrade,Marseille,marseille,,1215.0
-Crvena zvezda,belgrade,Genk,genk,,1305.0
-Marseille,marseille,Inter,milan,,388.0
-Marseille,marseille,Atlético de Madrid,madrid,,816.0
-Marseille,marseille,PSV,eindhoven,,906.0
-Marseille,marseille,Larne,larne,,1517.0
-LASK,linz,Paris Saint-Germain,paris,,879.0
-LASK,linz,West Ham,london,,1089.0
-LASK,linz,PSV,eindhoven,,720.0
-LASK,linz,Ferencváros,budapest,,366.0
-Galatasaray,istanbul,Bayern,munich,,1584.0
-Galatasaray,istanbul,Sevilla,seville,,3019.0
-Galatasaray,istanbul,Rangers,glasgow,,2912.0
-Galatasaray,istanbul,Union Berlin,berlin,,1738.0
-Ferencváros,budapest,Barcelona,barcelona,,1497.0
-Ferencváros,budapest,Borussia Dortmund,dortmund,,946.0
-Ferencváros,budapest,Sporting CP,lisbon,,2469.0
-Ferencváros,budapest,Galatasaray,istanbul,,1070.0
-Union Berlin,berlin,Real Madrid,madrid,,1869.0
-Union Berlin,berlin,Atalanta,bergamo,,805.0
-Union Berlin,berlin,Club Brugge,bruges,,713.0
-Union Berlin,berlin,LASK,linz,,473.0
-SC Freiburg,freiburg,Manchester City,manchester,,934.0
-SC Freiburg,freiburg,Napoli,naples,,943.0
-SC Freiburg,freiburg,Marseille,marseille,,557.0
-SC Freiburg,freiburg,Ludogorets,razgrad,,1527.0
-Ludogorets,razgrad,Chelsea,london,,2173.0
-Ludogorets,razgrad,Tottenham Hotspur,london,,2173.0
-Ludogorets,razgrad,Lyon,lyon,,1728.0
-Ludogorets,razgrad,Nice,nice,,1547.0
-Nice,nice,Roma,rome,,472.0
-Nice,nice,Benfica,lisbon,,1477.0
-Nice,nice,Copenhagen,copenhagen,,1383.0
-Nice,nice,Larne,larne,,1555.0
-Genk,genk,Inter,milan,,669.0
-Genk,genk,Feyenoord,rotterdam,,129.0
-Genk,genk,Real Sociedad,san sebastián,,1021.0
-Genk,genk,SC Freiburg,freiburg,,370.0
-Larne,larne,Manchester United,manchester,,278.0
-Larne,larne,Atlético de Madrid,madrid,,1612.0
-Larne,larne,Crvena zvezda,belgrade,,2172.0
-Larne,larne,Genk,genk,,873.0
-Real Sociedad,san sebastián,West Ham,london,1,921.0
-Bayern,munich,Ferencváros,budapest,1,561.0
-Napoli,naples,Atalanta,bergamo,1,655.0
-Lyon,lyon,Genk,genk,1,581.0
-Benfica,lisbon,Club Brugge,bruges,1,1690.0
-Manchester City,manchester,Inter,milan,1,1212.0
-Sevilla,seville,Paris Saint-Germain,paris,1,1442.0
-Crvena zvezda,belgrade,Borussia Dortmund,dortmund,1,1216.0
+Lyon,lyon,Union SG,brussels,,567.0
+Real Sociedad,san sebastián,Manchester United,manchester,,1130.0
+Real Sociedad,san sebastián,Atalanta,bergamo,,960.0
+Real Sociedad,san sebastián,Copenhagen,copenhagen,,1722.0
+Real Sociedad,san sebastián,VfL Wolfsburg,wolfsburg,,1386.0
+Slavia Praha,prague,Paris Saint-Germain,paris,,883.0
+Slavia Praha,prague,Ajax,amsterdam,,711.0
+Slavia Praha,prague,Real Sociedad,san sebastián,,1455.0
+Slavia Praha,prague,Bodø/Glimt,bodø,,1913.0
+Copenhagen,copenhagen,Liverpool,liverpool,,1033.0
+Copenhagen,copenhagen,Napoli,naples,,1653.0
+Copenhagen,copenhagen,Lyon,lyon,,1228.0
+Copenhagen,copenhagen,Qarabağ,baku,,3199.0
+Crvena zvezda,belgrade,Manchester City,manchester,,1901.0
+Crvena zvezda,belgrade,Atlético de Madrid,madrid,,2027.0
+Crvena zvezda,belgrade,Slavia Praha,prague,,741.0
+Crvena zvezda,belgrade,Real Betis,seville,,2350.0
+Rennes,rennes,Barcelona,barcelona,,808.0
+Rennes,rennes,Sevilla,seville,,1243.0
+Rennes,rennes,Braga,braga,,904.0
+Rennes,rennes,Young Boys,bern,,697.0
+Lille,lille,Bayern,munich,,676.0
+Lille,lille,Roma,rome,,1209.0
+Lille,lille,AZ Alkmaar,alkmaar,,252.0
+Lille,lille,LASK,linz,,850.0
+LASK,linz,Inter,milan,,499.0
+LASK,linz,Atlético de Madrid,madrid,,1671.0
+LASK,linz,Rennes,rennes,,1180.0
+LASK,linz,Lens,lens,,861.0
+Young Boys,bern,RB Leipzig,leipzig,,606.0
+Young Boys,bern,Rangers,glasgow,,1277.0
+Young Boys,bern,Lille,lille,,520.0
+Young Boys,bern,SC Freiburg,freiburg,,121.0
+Real Betis,seville,Chelsea,london,,1636.0
+Real Betis,seville,Feyenoord,rotterdam,,1811.0
+Real Betis,seville,Copenhagen,copenhagen,,2463.0
+Real Betis,seville,Union SG,brussels,,1705.0
+Qarabağ,baku,Manchester United,manchester,,4112.0
+Qarabağ,baku,West Ham,london,,3974.0
+Qarabağ,baku,Real Sociedad,san sebastián,,4239.0
+Qarabağ,baku,VfL Wolfsburg,wolfsburg,,3234.0
+Bodø/Glimt,bodø,Paris Saint-Germain,paris,,2158.0
+Bodø/Glimt,bodø,Atalanta,bergamo,,2415.0
+Bodø/Glimt,bodø,Lyon,lyon,,2457.0
+Bodø/Glimt,bodø,Qarabağ,baku,,3688.0
+VfL Wolfsburg,wolfsburg,Liverpool,liverpool,,930.0
+VfL Wolfsburg,wolfsburg,Ajax,amsterdam,,399.0
+VfL Wolfsburg,wolfsburg,Slavia Praha,prague,,364.0
+VfL Wolfsburg,wolfsburg,Bodø/Glimt,bodø,,1664.0
+Union SG,brussels,Manchester City,manchester,,536.0
+Union SG,brussels,Napoli,naples,,1349.0
+Union SG,brussels,Braga,braga,,1425.0
+Union SG,brussels,Young Boys,bern,,489.0
+SC Freiburg,freiburg,Barcelona,barcelona,,861.0
+SC Freiburg,freiburg,Roma,rome,,770.0
+SC Freiburg,freiburg,Crvena zvezda,belgrade,,1029.0
+SC Freiburg,freiburg,LASK,linz,,478.0
+Lens,lens,Bayern,munich,,684.0
+Lens,lens,Sevilla,seville,,1610.0
+Lens,lens,AZ Alkmaar,alkmaar,,279.0
+Lens,lens,Real Betis,seville,,1610.0
+Napoli,naples,Manchester United,manchester,1,1870.0
+Roma,rome,Young Boys,bern,1,689.0
+Ajax,amsterdam,AZ Alkmaar,alkmaar,1,31.0
+Paris Saint-Germain,paris,Atlético de Madrid,madrid,1,1053.0
+Rennes,rennes,Inter,milan,1,877.0
+Braga,braga,West Ham,london,1,1276.0
+Barcelona,barcelona,Manchester City,manchester,1,1385.0
+Liverpool,liverpool,Copenhagen,copenhagen,1,1033.0

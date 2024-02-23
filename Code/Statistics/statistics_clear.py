@@ -15,3 +15,4 @@ def clear_csv_content(file_path):
 # list of csvs that need clearing
 clear_csv_content('../../Fixtures, Tables and Results/Stats/run_distance_analysis.csv')
 clear_csv_content('../../Fixtures, Tables and Results/Stats/qualified_teams.csv')
+clear_csv_content('../../Alternative Formats/Current Groupstage UCL Format/Stats/year_distance_analysis.csv')

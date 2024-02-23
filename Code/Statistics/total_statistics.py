@@ -28,7 +28,7 @@ def calculate_means_and_longest_entries(teams):
     longest_fixture_entry = max(teams, key=lambda x: float(x['fixture_with_longest_distance'].split(" - ")[-1]))
 
     return {
-        'run': 'total',
+        'run': 'Total',
         'average_distance_travelled_per_team': mean_average_distance_per_team,
         'average_distance_travelled_per_game': mean_average_distance_per_game,
         'total_distance_travelled': mean_total_distance_travelled,

@@ -1,0 +1,97 @@
+home_team,home_team_city,away_team,away_team_city,group,distance
+Manchester City,manchester,Paris Saint-Germain,paris,A,606.0
+Manchester City,manchester,RB Leipzig,leipzig,A,1018.0
+Manchester City,manchester,Club Brugge,bruges,A,449.0
+Paris Saint-Germain,paris,Manchester City,manchester,A,606.0
+Paris Saint-Germain,paris,RB Leipzig,leipzig,A,767.0
+Paris Saint-Germain,paris,Club Brugge,bruges,A,269.0
+RB Leipzig,leipzig,Manchester City,manchester,A,1018.0
+RB Leipzig,leipzig,Paris Saint-Germain,paris,A,767.0
+RB Leipzig,leipzig,Club Brugge,bruges,A,637.0
+Club Brugge,bruges,Manchester City,manchester,A,449.0
+Club Brugge,bruges,Paris Saint-Germain,paris,A,269.0
+Club Brugge,bruges,RB Leipzig,leipzig,A,637.0
+Liverpool,liverpool,Atlético de Madrid,madrid,B,1446.0
+Liverpool,liverpool,FC Porto,porto,B,1426.0
+Liverpool,liverpool,AC Milan,milan,B,1245.0
+Atlético de Madrid,madrid,Liverpool,liverpool,B,1446.0
+Atlético de Madrid,madrid,FC Porto,porto,B,421.0
+Atlético de Madrid,madrid,AC Milan,milan,B,1188.0
+FC Porto,porto,Liverpool,liverpool,B,1426.0
+FC Porto,porto,Atlético de Madrid,madrid,B,421.0
+FC Porto,porto,AC Milan,milan,B,1514.0
+AC Milan,milan,Liverpool,liverpool,B,1245.0
+AC Milan,milan,Atlético de Madrid,madrid,B,1188.0
+AC Milan,milan,FC Porto,porto,B,1514.0
+Ajax,amsterdam,Sporting CP,lisbon,C,1863.0
+Ajax,amsterdam,Borussia Dortmund,dortmund,C,200.0
+Ajax,amsterdam,Beşiktaş,istanbul,C,2212.0
+Sporting CP,lisbon,Ajax,amsterdam,C,1863.0
+Sporting CP,lisbon,Borussia Dortmund,dortmund,C,1920.0
+Sporting CP,lisbon,Beşiktaş,istanbul,C,3237.0
+Borussia Dortmund,dortmund,Ajax,amsterdam,C,200.0
+Borussia Dortmund,dortmund,Sporting CP,lisbon,C,1920.0
+Borussia Dortmund,dortmund,Beşiktaş,istanbul,C,2012.0
+Beşiktaş,istanbul,Ajax,amsterdam,C,2212.0
+Beşiktaş,istanbul,Sporting CP,lisbon,C,3237.0
+Beşiktaş,istanbul,Borussia Dortmund,dortmund,C,2012.0
+Real Madrid,madrid,Inter,milan,D,1188.0
+Real Madrid,madrid,Sheriff,tiraspol,D,2763.0
+Real Madrid,madrid,Shakhtar Donetsk (2021/22),kyiv,D,2863.0
+Inter,milan,Real Madrid,madrid,D,1188.0
+Inter,milan,Sheriff,tiraspol,D,1587.0
+Inter,milan,Shakhtar Donetsk (2021/22),kyiv,D,1676.0
+Sheriff,tiraspol,Real Madrid,madrid,D,2763.0
+Sheriff,tiraspol,Inter,milan,D,1587.0
+Sheriff,tiraspol,Shakhtar Donetsk (2021/22),kyiv,D,405.0
+Shakhtar Donetsk (2021/22),kyiv,Real Madrid,madrid,D,2863.0
+Shakhtar Donetsk (2021/22),kyiv,Inter,milan,D,1676.0
+Shakhtar Donetsk (2021/22),kyiv,Sheriff,tiraspol,D,405.0
+Bayern,munich,Benfica,lisbon,E,1964.0
+Bayern,munich,Barcelona,barcelona,E,1055.0
+Bayern,munich,Dynamo Kyiv,kyiv,E,1394.0
+Benfica,lisbon,Bayern,munich,E,1964.0
+Benfica,lisbon,Barcelona,barcelona,E,1006.0
+Benfica,lisbon,Dynamo Kyiv,kyiv,E,3352.0
+Barcelona,barcelona,Bayern,munich,E,1055.0
+Barcelona,barcelona,Benfica,lisbon,E,1006.0
+Barcelona,barcelona,Dynamo Kyiv,kyiv,E,2394.0
+Dynamo Kyiv,kyiv,Bayern,munich,E,1394.0
+Dynamo Kyiv,kyiv,Benfica,lisbon,E,3352.0
+Dynamo Kyiv,kyiv,Barcelona,barcelona,E,2394.0
+Manchester United,manchester,Villarreal,villarreal,F,1511.0
+Manchester United,manchester,Atalanta,bergamo,F,1216.0
+Manchester United,manchester,Young Boys,bern,F,1000.0
+Villarreal,villarreal,Manchester United,manchester,F,1511.0
+Villarreal,villarreal,Atalanta,bergamo,F,1019.0
+Villarreal,villarreal,Young Boys,bern,F,986.0
+Atalanta,bergamo,Manchester United,manchester,F,1216.0
+Atalanta,bergamo,Villarreal,villarreal,F,1019.0
+Atalanta,bergamo,Young Boys,bern,F,220.0
+Young Boys,bern,Manchester United,manchester,F,1000.0
+Young Boys,bern,Villarreal,villarreal,F,986.0
+Young Boys,bern,Atalanta,bergamo,F,220.0
+Lille,lille,Salzburg,salzburg,G,789.0
+Lille,lille,Sevilla,seville,G,1637.0
+Lille,lille,VfL Wolfsburg,wolfsburg,G,570.0
+Salzburg,salzburg,Lille,lille,G,789.0
+Salzburg,salzburg,Sevilla,seville,G,1932.0
+Salzburg,salzburg,VfL Wolfsburg,wolfsburg,G,538.0
+Sevilla,seville,Lille,lille,G,1637.0
+Sevilla,seville,Salzburg,salzburg,G,1932.0
+Sevilla,seville,VfL Wolfsburg,wolfsburg,G,2120.0
+VfL Wolfsburg,wolfsburg,Lille,lille,G,570.0
+VfL Wolfsburg,wolfsburg,Salzburg,salzburg,G,538.0
+VfL Wolfsburg,wolfsburg,Sevilla,seville,G,2120.0
+Juventus,turin,Chelsea,london,H,919.0
+Juventus,turin,Zenit,saint petersburg,H,2232.0
+Juventus,turin,Malmö FF,malmö,H,1232.0
+Chelsea,london,Juventus,turin,H,919.0
+Chelsea,london,Zenit,saint petersburg,H,2100.0
+Chelsea,london,Malmö FF,malmö,H,983.0
+Zenit,saint petersburg,Juventus,turin,H,2232.0
+Zenit,saint petersburg,Chelsea,london,H,2100.0
+Zenit,saint petersburg,Malmö FF,malmö,H,1126.0
+Malmö FF,malmö,Juventus,turin,H,1232.0
+Malmö FF,malmö,Chelsea,london,H,983.0
+Malmö FF,malmö,Zenit,saint petersburg,H,1126.0

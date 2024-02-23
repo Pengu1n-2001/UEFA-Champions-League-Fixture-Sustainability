@@ -1,24 +1,24 @@
 match,home_team,home_team_coefficient,home_team_city,home_team_association,away_team,away_team_coefficient,away_team_city,away_team_association,result
-KO-PO 1,Real Sociedad,42.0,San Sebastián,ESP,West Ham,54.0,London,ENG,Real Sociedad
-KO-PO 2,Bayern,126.0,Munich,GER,Ferencváros,30.0,Budapest,HUN,Bayern
-KO-PO 3,Napoli,71.0,Naples,ITA,Atalanta,58.0,Bergamo,ITA,Atalanta
-KO-PO 4,Lyon,44.0,Lyon,FRA,Genk,13.0,Genk,BEL,Lyon
-KO-PO 5,Benfica,69.0,Lisbon,POR,Club Brugge,48.0,Bruges,BEL,Club Brugge
-KO-PO 6,Manchester City,130.0,Manchester,ENG,Inter,90.0,Milan,ITA,Manchester City
-KO-PO 7,Sevilla,84.0,Seville,ESP,Paris Saint-Germain,101.0,Paris,FRA,Paris Saint-Germain
-KO-PO 8,Crvena zvezda,40.0,Belgrade,SRB,Borussia Dortmund,75.0,Dortmund,GER,Crvena zvezda
-R16-M1,Roma,86.0,Rome,ITA,Real Sociedad,42.0,San Sebastián,ESP,Roma
-R16-M2,Atlético de Madrid,73.0,Madrid,ESP,Bayern,126.0,Munich,GER,Bayern
-R16-M3,Chelsea,96.0,London,ENG,Atalanta,58.0,Bergamo,ITA,Atalanta
-R16-M4,LASK,34.0,Linz,AUT,Lyon,44.0,Lyon,FRA,Lyon
-R16-M5,Manchester United,91.0,Manchester,ENG,Club Brugge,48.0,Bruges,BEL,Manchester United
-R16-M6,Tottenham Hotspur,54.0,London,ENG,Manchester City,130.0,Manchester,ENG,Manchester City
-R16-M7,Barcelona,78.0,Barcelona,ESP,Paris Saint-Germain,101.0,Paris,FRA,Barcelona
-R16-M8,Real Madrid,112.0,Madrid,ESP,Crvena zvezda,40.0,Belgrade,SRB,Real Madrid
-QF-1,Roma,86.0,Rome,ITA,Bayern,126.0,Munich,GER,Bayern
-QF-2,Atalanta,58.0,Bergamo,ITA,Lyon,44.0,Lyon,FRA,Atalanta
-QF-3,Manchester United,91.0,Manchester,ENG,Manchester City,130.0,Manchester,ENG,Manchester United
-QF-4,Barcelona,78.0,Barcelona,ESP,Real Madrid,112.0,Madrid,ESP,Real Madrid
-SF-1,Bayern,126.0,Munich,GER,Atalanta,58.0,Bergamo,ITA,Bayern
-SF-2,Manchester United,91.0,Manchester,ENG,Real Madrid,112.0,Madrid,ESP,Real Madrid
-Final,Bayern,126.0,Munich,GER,Real Madrid,112.0,Madrid,ESP,Bayern
+KO-PO 1,Napoli,71.0,Naples,ITA,Manchester United,91.0,Manchester,ENG,Napoli
+KO-PO 2,Roma,86.0,Rome,ITA,Young Boys,32.5,Bern,SUI,Roma
+KO-PO 3,Ajax,64.0,Amsterdam,NED,AZ Alkmaar,48.0,Alkmaar,NED,Ajax
+KO-PO 4,Paris Saint-Germain,101.0,Paris,FRA,Atlético de Madrid,73.0,Madrid,ESP,Atlético de Madrid
+KO-PO 5,Rennes,37.0,Rennes,FRA,Inter,90.0,Milan,ITA,Rennes
+KO-PO 6,Braga,48.0,Braga,POR,West Ham,54.0,London,ENG,West Ham
+KO-PO 7,Barcelona,78.0,Barcelona,ESP,Manchester City,130.0,Manchester,ENG,Manchester City
+KO-PO 8,Liverpool,100.0,Liverpool,ENG,Copenhagen,41.5,Copenhagen,DEN,Copenhagen
+R16-M1,Crvena zvezda,40.0,Belgrade,SRB,Napoli,71.0,Naples,ITA,Napoli
+R16-M2,Qarabağ,26.0,Baku,AZE,Roma,86.0,Rome,ITA,Roma
+R16-M3,Sevilla,84.0,Seville,ESP,Ajax,64.0,Amsterdam,NED,Sevilla
+R16-M4,RB Leipzig,87.0,Leipzig,GER,Atlético de Madrid,73.0,Madrid,ESP,RB Leipzig
+R16-M5,Feyenoord,57.0,Rotterdam,NED,Rennes,37.0,Rennes,FRA,Rennes
+R16-M6,Bayern,126.0,Munich,GER,West Ham,54.0,London,ENG,West Ham
+R16-M7,LASK,34.0,Linz,AUT,Manchester City,130.0,Manchester,ENG,Manchester City
+R16-M8,Lyon,44.0,Lyon,FRA,Copenhagen,41.5,Copenhagen,DEN,Copenhagen
+QF-1,Napoli,71.0,Naples,ITA,Roma,86.0,Rome,ITA,Roma
+QF-2,Sevilla,84.0,Seville,ESP,RB Leipzig,87.0,Leipzig,GER,Sevilla
+QF-3,Rennes,37.0,Rennes,FRA,West Ham,54.0,London,ENG,West Ham
+QF-4,Manchester City,130.0,Manchester,ENG,Copenhagen,41.5,Copenhagen,DEN,Copenhagen
+SF-1,Roma,86.0,Rome,ITA,Sevilla,84.0,Seville,ESP,Sevilla
+SF-2,West Ham,54.0,London,ENG,Copenhagen,41.5,Copenhagen,DEN,West Ham
+Final,Sevilla,84.0,Seville,ESP,West Ham,54.0,London,ENG,West Ham

@@ -1,0 +1,97 @@
+home_team,home_team_city,away_team,away_team_city,group
+Bayern,Munich,Copenhagen,Copenhagen,A
+Bayern,Munich,Galatasaray,Istanbul,A
+Bayern,Munich,Manchester United,Manchester,A
+Copenhagen,Copenhagen,Bayern,Munich,A
+Copenhagen,Copenhagen,Galatasaray,Istanbul,A
+Copenhagen,Copenhagen,Manchester United,Manchester,A
+Galatasaray,Istanbul,Bayern,Munich,A
+Galatasaray,Istanbul,Copenhagen,Copenhagen,A
+Galatasaray,Istanbul,Manchester United,Manchester,A
+Manchester United,Manchester,Bayern,Munich,A
+Manchester United,Manchester,Copenhagen,Copenhagen,A
+Manchester United,Manchester,Galatasaray,Istanbul,A
+Arsenal,London,PSV,Eindhoven,B
+Arsenal,London,Lens,Lens,B
+Arsenal,London,Sevilla,Seville,B
+PSV,Eindhoven,Arsenal,London,B
+PSV,Eindhoven,Lens,Lens,B
+PSV,Eindhoven,Sevilla,Seville,B
+Lens,Lens,Arsenal,London,B
+Lens,Lens,PSV,Eindhoven,B
+Lens,Lens,Sevilla,Seville,B
+Sevilla,Seville,Arsenal,London,B
+Sevilla,Seville,PSV,Eindhoven,B
+Sevilla,Seville,Lens,Lens,B
+Real Madrid,Madrid,Napoli,Naples,C
+Real Madrid,Madrid,Braga,Braga,C
+Real Madrid,Madrid,Union Berlin,Berlin,C
+Napoli,Naples,Real Madrid,Madrid,C
+Napoli,Naples,Braga,Braga,C
+Napoli,Naples,Union Berlin,Berlin,C
+Braga,Braga,Real Madrid,Madrid,C
+Braga,Braga,Napoli,Naples,C
+Braga,Braga,Union Berlin,Berlin,C
+Union Berlin,Berlin,Real Madrid,Madrid,C
+Union Berlin,Berlin,Napoli,Naples,C
+Union Berlin,Berlin,Braga,Braga,C
+Real Sociedad,San Sebastián,Inter,Milan,D
+Real Sociedad,San Sebastián,Benfica,Lisbon,D
+Real Sociedad,San Sebastián,Salzburg,Salzburg,D
+Inter,Milan,Real Sociedad,San Sebastián,D
+Inter,Milan,Benfica,Lisbon,D
+Inter,Milan,Salzburg,Salzburg,D
+Benfica,Lisbon,Real Sociedad,San Sebastián,D
+Benfica,Lisbon,Inter,Milan,D
+Benfica,Lisbon,Salzburg,Salzburg,D
+Salzburg,Salzburg,Real Sociedad,San Sebastián,D
+Salzburg,Salzburg,Inter,Milan,D
+Salzburg,Salzburg,Benfica,Lisbon,D
+Atlético de Madrid,Madrid,Lazio,Rome,E
+Atlético de Madrid,Madrid,Feyenoord,Rotterdam,E
+Atlético de Madrid,Madrid,Celtic,Glasgow,E
+Lazio,Rome,Atlético de Madrid,Madrid,E
+Lazio,Rome,Feyenoord,Rotterdam,E
+Lazio,Rome,Celtic,Glasgow,E
+Feyenoord,Rotterdam,Atlético de Madrid,Madrid,E
+Feyenoord,Rotterdam,Lazio,Rome,E
+Feyenoord,Rotterdam,Celtic,Glasgow,E
+Celtic,Glasgow,Atlético de Madrid,Madrid,E
+Celtic,Glasgow,Lazio,Rome,E
+Celtic,Glasgow,Feyenoord,Rotterdam,E
+Borussia Dortmund,Dortmund,Paris Saint-Germain,Paris,F
+Borussia Dortmund,Dortmund,AC Milan,Milan,F
+Borussia Dortmund,Dortmund,Newcastle,Newcastle upon Tyne,F
+Paris Saint-Germain,Paris,Borussia Dortmund,Dortmund,F
+Paris Saint-Germain,Paris,AC Milan,Milan,F
+Paris Saint-Germain,Paris,Newcastle,Newcastle upon Tyne,F
+AC Milan,Milan,Borussia Dortmund,Dortmund,F
+AC Milan,Milan,Paris Saint-Germain,Paris,F
+AC Milan,Milan,Newcastle,Newcastle upon Tyne,F
+Newcastle,Newcastle upon Tyne,Borussia Dortmund,Dortmund,F
+Newcastle,Newcastle upon Tyne,Paris Saint-Germain,Paris,F
+Newcastle,Newcastle upon Tyne,AC Milan,Milan,F
+Manchester City,Manchester,RB Leipzig,Leipzig,G
+Manchester City,Manchester,Young Boys,Bern,G
+Manchester City,Manchester,Crvena zvezda,Belgrade,G
+RB Leipzig,Leipzig,Manchester City,Manchester,G
+RB Leipzig,Leipzig,Young Boys,Bern,G
+RB Leipzig,Leipzig,Crvena zvezda,Belgrade,G
+Young Boys,Bern,Manchester City,Manchester,G
+Young Boys,Bern,RB Leipzig,Leipzig,G
+Young Boys,Bern,Crvena zvezda,Belgrade,G
+Crvena zvezda,Belgrade,Manchester City,Manchester,G
+Crvena zvezda,Belgrade,RB Leipzig,Leipzig,G
+Crvena zvezda,Belgrade,Young Boys,Bern,G
+Barcelona,Barcelona,FC Porto,Porto,H
+Barcelona,Barcelona,Shakhtar Donetsk (2023/24),Hamburg,H
+Barcelona,Barcelona,Antwerp,Antwerp,H
+FC Porto,Porto,Barcelona,Barcelona,H
+FC Porto,Porto,Shakhtar Donetsk (2023/24),Hamburg,H
+FC Porto,Porto,Antwerp,Antwerp,H
+Shakhtar Donetsk (2023/24),Hamburg,Barcelona,Barcelona,H
+Shakhtar Donetsk (2023/24),Hamburg,FC Porto,Porto,H
+Shakhtar Donetsk (2023/24),Hamburg,Antwerp,Antwerp,H
+Antwerp,Antwerp,Barcelona,Barcelona,H
+Antwerp,Antwerp,FC Porto,Porto,H
+Antwerp,Antwerp,Shakhtar Donetsk (2023/24),Hamburg,H

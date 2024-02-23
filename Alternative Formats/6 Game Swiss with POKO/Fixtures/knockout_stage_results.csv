@@ -1,0 +1,24 @@
+match,home_team,home_team_coefficient,home_team_city,home_team_association,away_team,away_team_coefficient,away_team_city,away_team_association,result
+KO-PO 1,Rennes,37.0,Rennes,FRA,Sevilla,84.0,Seville,ESP,Sevilla
+KO-PO 2,Rangers,52.0,Glasgow,SCO,Liverpool,100.0,Liverpool,ENG,Liverpool
+KO-PO 3,Atlético de Madrid,73.0,Madrid,ESP,Paris Saint-Germain,101.0,Paris,FRA,Paris Saint-Germain
+KO-PO 4,Crvena zvezda,40.0,Belgrade,SRB,Feyenoord,57.0,Rotterdam,NED,Feyenoord
+KO-PO 5,Atalanta,58.0,Bergamo,ITA,West Ham,54.0,London,ENG,West Ham
+KO-PO 6,Bayern,126.0,Munich,GER,Slavia Praha,42.0,Prague,CZE,Bayern
+KO-PO 7,Copenhagen,41.5,Copenhagen,DEN,Napoli,71.0,Naples,ITA,Copenhagen
+KO-PO 8,Manchester United,91.0,Manchester,ENG,Lens,11.266,Lens,FRA,Manchester United
+R16-M1,Chelsea,96.0,London,ENG,Sevilla,84.0,Seville,ESP,Chelsea
+R16-M2,AZ Alkmaar,48.0,Alkmaar,NED,Liverpool,100.0,Liverpool,ENG,Liverpool
+R16-M3,Roma,86.0,Rome,ITA,Paris Saint-Germain,101.0,Paris,FRA,Paris Saint-Germain
+R16-M4,Inter,90.0,Milan,ITA,Feyenoord,57.0,Rotterdam,NED,Inter
+R16-M5,RB Leipzig,87.0,Leipzig,GER,West Ham,54.0,London,ENG,West Ham
+R16-M6,Ajax,64.0,Amsterdam,NED,Bayern,126.0,Munich,GER,Bayern
+R16-M7,Barcelona,78.0,Barcelona,ESP,Copenhagen,41.5,Copenhagen,DEN,Barcelona
+R16-M8,Manchester City,130.0,Manchester,ENG,Manchester United,91.0,Manchester,ENG,Manchester United
+QF-1,Chelsea,96.0,London,ENG,Liverpool,100.0,Liverpool,ENG,Chelsea
+QF-2,Paris Saint-Germain,101.0,Paris,FRA,Inter,90.0,Milan,ITA,Paris Saint-Germain
+QF-3,West Ham,54.0,London,ENG,Bayern,126.0,Munich,GER,West Ham
+QF-4,Barcelona,78.0,Barcelona,ESP,Manchester United,91.0,Manchester,ENG,Barcelona
+SF-1,Chelsea,96.0,London,ENG,Paris Saint-Germain,101.0,Paris,FRA,Chelsea
+SF-2,West Ham,54.0,London,ENG,Barcelona,78.0,Barcelona,ESP,West Ham
+Final,Chelsea,96.0,London,ENG,West Ham,54.0,London,ENG,Chelsea

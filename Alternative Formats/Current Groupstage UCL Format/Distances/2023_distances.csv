@@ -1,0 +1,97 @@
+home_team,home_team_city,away_team,away_team_city,group,distance
+Bayern,munich,Copenhagen,copenhagen,A,841.0
+Bayern,munich,Galatasaray,istanbul,A,1584.0
+Bayern,munich,Manchester United,manchester,A,1136.0
+Copenhagen,copenhagen,Bayern,munich,A,841.0
+Copenhagen,copenhagen,Galatasaray,istanbul,A,2022.0
+Copenhagen,copenhagen,Manchester United,manchester,A,983.0
+Galatasaray,istanbul,Bayern,munich,A,1584.0
+Galatasaray,istanbul,Copenhagen,copenhagen,A,2022.0
+Galatasaray,istanbul,Manchester United,manchester,A,2703.0
+Manchester United,manchester,Bayern,munich,A,1136.0
+Manchester United,manchester,Copenhagen,copenhagen,A,983.0
+Manchester United,manchester,Galatasaray,istanbul,A,2703.0
+Arsenal,london,PSV,eindhoven,B,388.0
+Arsenal,london,Lens,lens,B,239.0
+Arsenal,london,Sevilla,seville,B,1636.0
+PSV,eindhoven,Arsenal,london,B,388.0
+PSV,eindhoven,Lens,lens,B,217.0
+PSV,eindhoven,Sevilla,seville,B,1803.0
+Lens,lens,Arsenal,london,B,239.0
+Lens,lens,PSV,eindhoven,B,217.0
+Lens,lens,Sevilla,seville,B,1610.0
+Sevilla,seville,Arsenal,london,B,1636.0
+Sevilla,seville,PSV,eindhoven,B,1803.0
+Sevilla,seville,Lens,lens,B,1610.0
+Real Madrid,madrid,Napoli,naples,C,1515.0
+Real Madrid,madrid,Braga,braga,C,417.0
+Real Madrid,madrid,Union Berlin,berlin,C,1869.0
+Napoli,naples,Real Madrid,madrid,C,1515.0
+Napoli,naples,Braga,braga,C,1896.0
+Napoli,naples,Union Berlin,berlin,C,1299.0
+Braga,braga,Real Madrid,madrid,C,417.0
+Braga,braga,Napoli,naples,C,1896.0
+Braga,braga,Union Berlin,berlin,C,2044.0
+Union Berlin,berlin,Real Madrid,madrid,C,1869.0
+Union Berlin,berlin,Napoli,naples,C,1299.0
+Union Berlin,berlin,Braga,braga,C,2044.0
+Real Sociedad,san sebastián,Inter,milan,D,918.0
+Real Sociedad,san sebastián,Benfica,lisbon,D,788.0
+Real Sociedad,san sebastián,Salzburg,salzburg,D,1269.0
+Inter,milan,Real Sociedad,san sebastián,D,918.0
+Inter,milan,Benfica,lisbon,D,1683.0
+Inter,milan,Salzburg,salzburg,D,393.0
+Benfica,lisbon,Real Sociedad,san sebastián,D,788.0
+Benfica,lisbon,Inter,milan,D,1683.0
+Benfica,lisbon,Salzburg,salzburg,D,2050.0
+Salzburg,salzburg,Real Sociedad,san sebastián,D,1269.0
+Salzburg,salzburg,Inter,milan,D,393.0
+Salzburg,salzburg,Benfica,lisbon,D,2050.0
+Atlético de Madrid,madrid,Lazio,rome,E,1364.0
+Atlético de Madrid,madrid,Feyenoord,rotterdam,E,1424.0
+Atlético de Madrid,madrid,Celtic,glasgow,E,1718.0
+Lazio,rome,Atlético de Madrid,madrid,E,1364.0
+Lazio,rome,Feyenoord,rotterdam,E,1268.0
+Lazio,rome,Celtic,glasgow,E,1966.0
+Feyenoord,rotterdam,Atlético de Madrid,madrid,E,1424.0
+Feyenoord,rotterdam,Lazio,rome,E,1268.0
+Feyenoord,rotterdam,Celtic,glasgow,E,720.0
+Celtic,glasgow,Atlético de Madrid,madrid,E,1718.0
+Celtic,glasgow,Lazio,rome,E,1966.0
+Celtic,glasgow,Feyenoord,rotterdam,E,720.0
+Borussia Dortmund,dortmund,Paris Saint-Germain,paris,F,469.0
+Borussia Dortmund,dortmund,AC Milan,milan,F,684.0
+Borussia Dortmund,dortmund,Newcastle,newcastle upon tyne,F,718.0
+Paris Saint-Germain,paris,Borussia Dortmund,dortmund,F,469.0
+Paris Saint-Germain,paris,AC Milan,milan,F,640.0
+Paris Saint-Germain,paris,Newcastle,newcastle upon tyne,F,736.0
+AC Milan,milan,Borussia Dortmund,dortmund,F,684.0
+AC Milan,milan,Paris Saint-Germain,paris,F,640.0
+AC Milan,milan,Newcastle,newcastle upon tyne,F,1307.0
+Newcastle,newcastle upon tyne,Borussia Dortmund,dortmund,F,718.0
+Newcastle,newcastle upon tyne,Paris Saint-Germain,paris,F,736.0
+Newcastle,newcastle upon tyne,AC Milan,milan,F,1307.0
+Manchester City,manchester,RB Leipzig,leipzig,G,1018.0
+Manchester City,manchester,Young Boys,bern,G,1000.0
+Manchester City,manchester,Crvena zvezda,belgrade,G,1901.0
+RB Leipzig,leipzig,Manchester City,manchester,G,1018.0
+RB Leipzig,leipzig,Young Boys,bern,G,606.0
+RB Leipzig,leipzig,Crvena zvezda,belgrade,G,942.0
+Young Boys,bern,Manchester City,manchester,G,1000.0
+Young Boys,bern,RB Leipzig,leipzig,G,606.0
+Young Boys,bern,Crvena zvezda,belgrade,G,1034.0
+Crvena zvezda,belgrade,Manchester City,manchester,G,1901.0
+Crvena zvezda,belgrade,RB Leipzig,leipzig,G,942.0
+Crvena zvezda,belgrade,Young Boys,bern,G,1034.0
+Barcelona,barcelona,FC Porto,porto,H,901.0
+Barcelona,barcelona,Shakhtar Donetsk (2023/24),hamburg,H,1473.0
+Barcelona,barcelona,Antwerp,antwerp,H,1107.0
+FC Porto,porto,Barcelona,barcelona,H,901.0
+FC Porto,porto,Shakhtar Donetsk (2023/24),hamburg,H,1955.0
+FC Porto,porto,Antwerp,antwerp,H,1498.0
+Shakhtar Donetsk (2023/24),hamburg,Barcelona,barcelona,H,1473.0
+Shakhtar Donetsk (2023/24),hamburg,FC Porto,porto,H,1955.0
+Shakhtar Donetsk (2023/24),hamburg,Antwerp,antwerp,H,459.0
+Antwerp,antwerp,Barcelona,barcelona,H,1107.0
+Antwerp,antwerp,FC Porto,porto,H,1498.0
+Antwerp,antwerp,Shakhtar Donetsk (2023/24),hamburg,H,459.0

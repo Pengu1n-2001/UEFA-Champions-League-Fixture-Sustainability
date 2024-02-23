@@ -1,0 +1,97 @@
+home_team,home_team_city,away_team,away_team_city,group
+Napoli,Naples,Liverpool,Liverpool,A
+Napoli,Naples,Ajax,Amsterdam,A
+Napoli,Naples,Rangers,Glasgow,A
+Liverpool,Liverpool,Napoli,Naples,A
+Liverpool,Liverpool,Ajax,Amsterdam,A
+Liverpool,Liverpool,Rangers,Glasgow,A
+Ajax,Amsterdam,Napoli,Naples,A
+Ajax,Amsterdam,Liverpool,Liverpool,A
+Ajax,Amsterdam,Rangers,Glasgow,A
+Rangers,Glasgow,Napoli,Naples,A
+Rangers,Glasgow,Liverpool,Liverpool,A
+Rangers,Glasgow,Ajax,Amsterdam,A
+FC Porto,Porto,Club Brugge,Bruges,B
+FC Porto,Porto,Bayer 04 Leverkusen,Leverkusen,B
+FC Porto,Porto,Atlético de Madrid,Madrid,B
+Club Brugge,Bruges,FC Porto,Porto,B
+Club Brugge,Bruges,Bayer 04 Leverkusen,Leverkusen,B
+Club Brugge,Bruges,Atlético de Madrid,Madrid,B
+Bayer 04 Leverkusen,Leverkusen,FC Porto,Porto,B
+Bayer 04 Leverkusen,Leverkusen,Club Brugge,Bruges,B
+Bayer 04 Leverkusen,Leverkusen,Atlético de Madrid,Madrid,B
+Atlético de Madrid,Madrid,FC Porto,Porto,B
+Atlético de Madrid,Madrid,Club Brugge,Bruges,B
+Atlético de Madrid,Madrid,Bayer 04 Leverkusen,Leverkusen,B
+Bayern,Munich,Inter,Milan,C
+Bayern,Munich,Barcelona,Barcelona,C
+Bayern,Munich,Viktoria Plzeň,Plzeň,C
+Inter,Milan,Bayern,Munich,C
+Inter,Milan,Barcelona,Barcelona,C
+Inter,Milan,Viktoria Plzeň,Plzeň,C
+Barcelona,Barcelona,Bayern,Munich,C
+Barcelona,Barcelona,Inter,Milan,C
+Barcelona,Barcelona,Viktoria Plzeň,Plzeň,C
+Viktoria Plzeň,Plzeň,Bayern,Munich,C
+Viktoria Plzeň,Plzeň,Inter,Milan,C
+Viktoria Plzeň,Plzeň,Barcelona,Barcelona,C
+Tottenham Hotspur,London,Eintracht Frankfurt,Frankfurt,D
+Tottenham Hotspur,London,Sporting CP,Lisbon,D
+Tottenham Hotspur,London,Marseille,Marseille,D
+Eintracht Frankfurt,Frankfurt,Tottenham Hotspur,London,D
+Eintracht Frankfurt,Frankfurt,Sporting CP,Lisbon,D
+Eintracht Frankfurt,Frankfurt,Marseille,Marseille,D
+Sporting CP,Lisbon,Tottenham Hotspur,London,D
+Sporting CP,Lisbon,Eintracht Frankfurt,Frankfurt,D
+Sporting CP,Lisbon,Marseille,Marseille,D
+Marseille,Marseille,Tottenham Hotspur,London,D
+Marseille,Marseille,Eintracht Frankfurt,Frankfurt,D
+Marseille,Marseille,Sporting CP,Lisbon,D
+Chelsea,London,AC Milan,Milan,E
+Chelsea,London,Salzburg,Salzburg,E
+Chelsea,London,Dinamo Zagreb,Zagreb,E
+AC Milan,Milan,Chelsea,London,E
+AC Milan,Milan,Salzburg,Salzburg,E
+AC Milan,Milan,Dinamo Zagreb,Zagreb,E
+Salzburg,Salzburg,Chelsea,London,E
+Salzburg,Salzburg,AC Milan,Milan,E
+Salzburg,Salzburg,Dinamo Zagreb,Zagreb,E
+Dinamo Zagreb,Zagreb,Chelsea,London,E
+Dinamo Zagreb,Zagreb,AC Milan,Milan,E
+Dinamo Zagreb,Zagreb,Salzburg,Salzburg,E
+Real Madrid,Madrid,RB Leipzig,Leipzig,F
+Real Madrid,Madrid,Shakhtar Donetsk (2022/23),Warsaw,F
+Real Madrid,Madrid,Celtic,Glasgow,F
+RB Leipzig,Leipzig,Real Madrid,Madrid,F
+RB Leipzig,Leipzig,Shakhtar Donetsk (2022/23),Warsaw,F
+RB Leipzig,Leipzig,Celtic,Glasgow,F
+Shakhtar Donetsk (2022/23),Warsaw,Real Madrid,Madrid,F
+Shakhtar Donetsk (2022/23),Warsaw,RB Leipzig,Leipzig,F
+Shakhtar Donetsk (2022/23),Warsaw,Celtic,Glasgow,F
+Celtic,Glasgow,Real Madrid,Madrid,F
+Celtic,Glasgow,RB Leipzig,Leipzig,F
+Celtic,Glasgow,Shakhtar Donetsk (2022/23),Warsaw,F
+Manchester City,Manchester,Borussia Dortmund,Dortmund,G
+Manchester City,Manchester,Sevilla,Seville,G
+Manchester City,Manchester,Copenhagen,Copenhagen,G
+Borussia Dortmund,Dortmund,Manchester City,Manchester,G
+Borussia Dortmund,Dortmund,Sevilla,Seville,G
+Borussia Dortmund,Dortmund,Copenhagen,Copenhagen,G
+Sevilla,Seville,Manchester City,Manchester,G
+Sevilla,Seville,Borussia Dortmund,Dortmund,G
+Sevilla,Seville,Copenhagen,Copenhagen,G
+Copenhagen,Copenhagen,Manchester City,Manchester,G
+Copenhagen,Copenhagen,Borussia Dortmund,Dortmund,G
+Copenhagen,Copenhagen,Sevilla,Seville,G
+Benfica,Lisbon,Paris Saint-Germain,Paris,H
+Benfica,Lisbon,Juventus,Turin,H
+Benfica,Lisbon,Maccabi Haifa,Haifa,H
+Paris Saint-Germain,Paris,Benfica,Lisbon,H
+Paris Saint-Germain,Paris,Juventus,Turin,H
+Paris Saint-Germain,Paris,Maccabi Haifa,Haifa,H
+Juventus,Turin,Benfica,Lisbon,H
+Juventus,Turin,Paris Saint-Germain,Paris,H
+Juventus,Turin,Maccabi Haifa,Haifa,H
+Maccabi Haifa,Haifa,Benfica,Lisbon,H
+Maccabi Haifa,Haifa,Paris Saint-Germain,Paris,H
+Maccabi Haifa,Haifa,Juventus,Turin,H
