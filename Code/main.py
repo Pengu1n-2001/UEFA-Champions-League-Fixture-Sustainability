@@ -24,6 +24,8 @@ def total_stats(type):
         file_path = '../Fixtures, Tables and Results/Stats/total_distance_analysis.csv'
     elif type == 2:
         file_path = '../Alternative Formats/Current Groupstage UCL Format/Stats/year_distance_analysis.csv'
+    elif type == 3:
+        file_path = '../Alternative Formats/6 Game Swiss with POKO/Stats/total_distance_analysis.csv'
     with open(file_path, mode='r', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         teams = [row for row in reader]
@@ -55,7 +57,7 @@ def run_new_format(runs):
             run_python_script('./Qualification Rounds/League_Path_Round_3_Simulator.py')
             run_python_script('./Qualification Rounds/League_Path_Play_off_Round_Simulator.py')
             run_python_script('League Stage/League_Stage_Pot_Seeding.py')
-            run_python_script('League Stage/League_Stage_Fixture_Generator.py')
+            run_python_script('League Stage/League_Stage_Fixture_Generator_2.py')
             run_python_script('./League Stage/League_Stage_Simulator.py')
             run_python_script('./League Stage/League_Table_Generator.py')
             run_python_script('./Knockout Round/Knockout_Round_Simulator.py')
@@ -104,8 +106,7 @@ def run_6_game_swiss(runs):
             run_python_script('../Alternative Formats/6 Game Swiss with POKO/Code/Distance Calculation/fixture_distance_calculator.py')
             run_python_script('../Alternative Formats/6 Game Swiss with POKO/Code/Distance Calculation/distance_stats_calculator.py')
             run_python_script('../Alternative Formats/6 Game Swiss with POKO/Code/Distance Calculation/per_run_distance.py')
-            run_python_script('./Statistics/Qualifying Stats/qualification_round_stats.py')
-            run_python_script('./Statistics/total_statistics.py')
+            run_python_script('../Alternative Formats/6 Game Swiss with POKO/Code/Distance Calculation/total_statistics.py')
             bar()
     total_stats(sim_type)
 
@@ -132,9 +133,9 @@ while 1 == 1:
         if clear_stats.lower() == ("y"):
             run_python_script('./Statistics/statistics_clear.py')
         simulation_type = int(input("""What Simulation would you like to run?: 
-1. Default Upcoming Swiss Format
+1. Default Upcoming Swiss Format (randomised draws)
 2. Current Group-stage Format Analysis (Last 3 years)
-3. ALTERNATIVE FORMAT 1 - COMING SOON     
+3. 6 Game Swiss with POKO (randomised draws)    
 4. ALTERNATIVE FORMAT 2 - COMING SOON
 5. ALTERNATIVE FORMAT 3 - COMING SOON
 """))
@@ -145,6 +146,10 @@ while 1 == 1:
         elif simulation_type == 2:
             print("Now running Current Group-stage Format Analysis (Last 3 years)")
             run_current_format()
+        elif simulation_type == 3:
+            print('Now running 6 Game Swiss with POKO (randomised draws)')
+            runs = int(input("Enter amount of runs: "))
+            run_6_game_swiss(runs)
         restart = input("Would you like to re-run the program? Y/N: ")
         if restart.lower() == ("n"):
             break

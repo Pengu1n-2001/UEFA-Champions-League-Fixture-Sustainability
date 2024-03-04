@@ -1,7 +1,6 @@
 import pandas as pd
 # read the league stage teams
 df = pd.read_csv('../../Teams/league_stage_teams.csv')
-
 cl_winner = df[df['status'] == 'UEFA Champions League Winner']
 df = df[df['status'] != 'UEFA Champions League Winner']
 
@@ -19,4 +18,4 @@ sorted_teams['pot'] = sorted_teams['pot'].astype(int)
 # select only the required columns for the final output
 final_output = sorted_teams[['team_name', 'association', 'uefa_coefficient', 'city', 'pot']]
 
-final_output.to_csv('../Teams/league_stage_teams_seeded_into_pots.csv', index=False)
+final_output.to_csv('../../Teams/league_stage_teams_seeded_into_pots.csv', index=False)

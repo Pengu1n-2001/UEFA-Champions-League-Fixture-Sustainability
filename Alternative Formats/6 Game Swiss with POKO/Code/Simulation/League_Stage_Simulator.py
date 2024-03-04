@@ -42,4 +42,4 @@ for index, row in df.iterrows():
 # writes the updated fixtures to a csv file
 headers = list(df.columns) + ['result']
 new_df = pd.DataFrame(updated_fixtures, columns=headers)
-new_df.to_csv('../Fixtures/league_stage_results.csv', index=False)
+new_df.to_csv('../../Fixtures/league_stage_results.csv', index=False)

@@ -57,6 +57,6 @@ league_table['rank'] = league_table.index
 # re-orders the teams to create an ordered league table, and outputs this to the csv
 final_columns = ['rank', 'team_name', 'association', 'uefa_coefficient', 'city', 'points', 'wins', 'draws', 'losses']
 league_table = league_table[final_columns]
-league_table.to_csv('../Fixtures/league_stage_table.csv', index=False)
+league_table.to_csv('../../Fixtures/league_stage_table.csv', index=False)
 
 
