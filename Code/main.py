@@ -57,7 +57,7 @@ def run_new_format(runs):
             run_python_script('./Qualification Rounds/League_Path_Round_3_Simulator.py')
             run_python_script('./Qualification Rounds/League_Path_Play_off_Round_Simulator.py')
             run_python_script('League Stage/League_Stage_Pot_Seeding.py')
-            run_python_script('League Stage/League_Stage_Fixture_Generator_2.py')
+            run_python_script('League Stage/League_Stage_Fixture_Generator.py')
             run_python_script('./League Stage/League_Stage_Simulator.py')
             run_python_script('./League Stage/League_Table_Generator.py')
             run_python_script('./Knockout Round/Knockout_Round_Simulator.py')

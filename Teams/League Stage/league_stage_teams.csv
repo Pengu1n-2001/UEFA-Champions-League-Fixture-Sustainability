@@ -1,37 +1,37 @@
 team_name,association,uefa_coefficient,city,status
-Inter,ITA,90.0,Milan,UEFA Champions League Winner
-Ajax,NED,64.0,Amsterdam,UEFA Europa League Winner
-Brighton,ENG,18.635,Brighton,
-Manchester United,ENG,91.0,Manchester,
+Real Madrid,ESP,112.0,Madrid,UEFA Champions League Winner
+Sevilla,ESP,84.0,Seville,UEFA Europa League Winner
 Liverpool,ENG,100.0,Liverpool,
-West Ham,ENG,54.0,London,
-Real Madrid,ESP,112.0,Madrid,
-Barcelona,ESP,78.0,Barcelona,
-Villarreal,ESP,68.0,Villarreal,
+Tottenham Hotspur,ENG,54.0,London,
+Chelsea,ENG,96.0,London,
+Arsenal,ENG,58.0,London,
+Osasuna,ESP,15.922,Pamplona,
 Real Sociedad,ESP,42.0,San Sebastián,
-Bayern,GER,126.0,Munich,
+Villarreal,ESP,68.0,Villarreal,
+SC Freiburg,GER,19.0,Freiburg,
+Eintracht Frankfurt,GER,57.0,Frankfurt,
+Mönchengladbach,GER,21.0,Mönchengladbach,
 Bayer 04 Leverkusen,GER,67.0,Leverkusen,
-Borussia Dortmund,GER,75.0,Dortmund,
-Union Berlin,GER,21.0,Berlin,
-Roma,ITA,86.0,Rome,
-Atalanta,ITA,58.0,Bergamo,
+Torino,ITA,15.171,Turin,
+Juventus,ITA,80.0,Turin,
 Lazio,ITA,43.0,Rome,
-Monaco,FRA,24.0,Monaco,
-Lyon,FRA,44.0,Lyon,
+Napoli,ITA,71.0,Naples,
 Paris Saint-Germain,FRA,101.0,Paris,
-PSV,NED,43.0,Eindhoven,
-Sporting CP,POR,45.5,Lisbon,
+Lille,FRA,35.0,Lille,
+Rennes,FRA,37.0,Rennes,
+Twente,NED,11.42,Enschede,
+Feyenoord,NED,57.0,Rotterdam,
+FC Porto,POR,66.0,Porto,
 Club Brugge,BEL,48.0,Bruges,
 Rangers,SCO,52.0,Glasgow,
 Salzburg,AUT,49.0,Salzburg,
-Arsenal,ENG,58.0,London,
-Sevilla,ESP,84.0,Seville,
+Manchester United,ENG,91.0,Manchester,
+Atlético de Madrid,ESP,73.0,Madrid,
 Crvena zvezda,SRB,40.0,Belgrade,
-Rennes,FRA,37.0,Rennes,
-Olympiacos,GRE,34.0,Piraeus
-Shakhtar Donetsk,UKR,59.0,Hamburg
 Ferencváros,HUN,30.0,Budapest
-Copenhagen,DEN,41.5,Copenhagen
-Dinamo Tbilisi,GEO,8.0,Tbilisi
-Lille,FRA,35.0,Lille
-Benfica,POR,69.0,Lisbon
+Slavia Praha,CZE,42.0,Prague
+Bodø/Glimt,NOR,24.5,Bodø
+Hamrun Spartans FC,MLT,4.5,Ħamrun
+Young Boys,SUI,32.5,Bern
+LASK,AUT,34.0,Linz
+PSV,NED,43.0,Eindhoven
