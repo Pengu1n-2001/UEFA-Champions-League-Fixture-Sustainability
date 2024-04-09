@@ -1,37 +1,37 @@
 team_name,association,uefa_coefficient,city,pot
 Real Madrid,ESP,112.0,Madrid,1
+Manchester City,ENG,130.0,Manchester,1
 Paris Saint-Germain,FRA,101.0,Paris,1
-Liverpool,ENG,100.0,Liverpool,1
-Chelsea,ENG,96.0,London,1
 Manchester United,ENG,91.0,Manchester,1
+Inter,ITA,90.0,Milan,1
+RB Leipzig,GER,87.0,Leipzig,1
 Sevilla,ESP,84.0,Seville,1
 Juventus,ITA,80.0,Turin,1
-Atlético de Madrid,ESP,73.0,Madrid,1
-Napoli,ITA,71.0,Naples,1
+Borussia Dortmund,GER,75.0,Dortmund,1
+Atlético de Madrid,ESP,73.0,Madrid,2
 Villarreal,ESP,68.0,Villarreal,2
 Bayer 04 Leverkusen,GER,67.0,Leverkusen,2
-FC Porto,POR,66.0,Porto,2
+Atalanta,ITA,58.0,Bergamo,2
 Arsenal,ENG,58.0,London,2
 Feyenoord,NED,57.0,Rotterdam,2
-Eintracht Frankfurt,GER,57.0,Frankfurt,2
 Tottenham Hotspur,ENG,54.0,London,2
 Rangers,SCO,52.0,Glasgow,2
-Salzburg,AUT,49.0,Salzburg,2
-Club Brugge,BEL,48.0,Bruges,3
-PSV,NED,43.0,Eindhoven,3
-Lazio,ITA,43.0,Rome,3
-Real Sociedad,ESP,42.0,San Sebastián,3
+AZ Alkmaar,NED,48.0,Alkmaar,2
+Sporting CP,POR,45.5,Lisbon,3
+Lyon,FRA,44.0,Lyon,3
 Slavia Praha,CZE,42.0,Prague,3
+Real Sociedad,ESP,42.0,San Sebastián,3
+Copenhagen,DEN,41.5,Copenhagen,3
 Crvena zvezda,SRB,40.0,Belgrade,3
 Rennes,FRA,37.0,Rennes,3
 Lille,FRA,35.0,Lille,3
 LASK,AUT,34.0,Linz,3
-Young Boys,SUI,32.5,Bern,4
-Ferencváros,HUN,30.0,Budapest,4
-Bodø/Glimt,NOR,24.5,Bodø,4
+Marseille,FRA,34.0,Marseille,4
+Galatasaray,TUR,30.5,Istanbul,4
+Slovan Bratislava,SVK,26.5,Bratislava,4
+Qarabağ,AZE,26.0,Baku,4
 Mönchengladbach,GER,21.0,Mönchengladbach,4
-SC Freiburg,GER,19.0,Freiburg,4
-Osasuna,ESP,15.922,Pamplona,4
+Antwerp,BEL,21.0,Antwerp,4
+Newcastle,ENG,18.635,Newcastle upon Tyne,4
 Torino,ITA,15.171,Turin,4
-Twente,NED,11.42,Enschede,4
-Hamrun Spartans FC,MLT,4.5,Ħamrun,4
+Hearts,SCO,6.53,Edinburgh,4

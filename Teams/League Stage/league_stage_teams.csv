@@ -1,37 +1,37 @@
 team_name,association,uefa_coefficient,city,status
 Real Madrid,ESP,112.0,Madrid,UEFA Champions League Winner
 Sevilla,ESP,84.0,Seville,UEFA Europa League Winner
-Liverpool,ENG,100.0,Liverpool,
-Tottenham Hotspur,ENG,54.0,London,
-Chelsea,ENG,96.0,London,
 Arsenal,ENG,58.0,London,
-Osasuna,ESP,15.922,Pamplona,
+Manchester City,ENG,130.0,Manchester,
+Tottenham Hotspur,ENG,54.0,London,
+Manchester United,ENG,91.0,Manchester,
 Real Sociedad,ESP,42.0,San Sebastián,
+Atlético de Madrid,ESP,73.0,Madrid,
 Villarreal,ESP,68.0,Villarreal,
-SC Freiburg,GER,19.0,Freiburg,
-Eintracht Frankfurt,GER,57.0,Frankfurt,
-Mönchengladbach,GER,21.0,Mönchengladbach,
+RB Leipzig,GER,87.0,Leipzig,
 Bayer 04 Leverkusen,GER,67.0,Leverkusen,
+Mönchengladbach,GER,21.0,Mönchengladbach,
+Borussia Dortmund,GER,75.0,Dortmund,
+Atalanta,ITA,58.0,Bergamo,
 Torino,ITA,15.171,Turin,
 Juventus,ITA,80.0,Turin,
-Lazio,ITA,43.0,Rome,
-Napoli,ITA,71.0,Naples,
+Inter,ITA,90.0,Milan,
 Paris Saint-Germain,FRA,101.0,Paris,
+Lyon,FRA,44.0,Lyon,
 Lille,FRA,35.0,Lille,
-Rennes,FRA,37.0,Rennes,
-Twente,NED,11.42,Enschede,
+AZ Alkmaar,NED,48.0,Alkmaar,
 Feyenoord,NED,57.0,Rotterdam,
-FC Porto,POR,66.0,Porto,
-Club Brugge,BEL,48.0,Bruges,
-Rangers,SCO,52.0,Glasgow,
-Salzburg,AUT,49.0,Salzburg,
-Manchester United,ENG,91.0,Manchester,
-Atlético de Madrid,ESP,73.0,Madrid,
+Sporting CP,POR,45.5,Lisbon,
+Antwerp,BEL,21.0,Antwerp,
+Hearts,SCO,6.53,Edinburgh,
+LASK,AUT,34.0,Linz,
+Newcastle,ENG,18.635,Newcastle upon Tyne,
 Crvena zvezda,SRB,40.0,Belgrade,
-Ferencváros,HUN,30.0,Budapest
+Rennes,FRA,37.0,Rennes,
+Copenhagen,DEN,41.5,Copenhagen
+Qarabağ,AZE,26.0,Baku
 Slavia Praha,CZE,42.0,Prague
-Bodø/Glimt,NOR,24.5,Bodø
-Hamrun Spartans FC,MLT,4.5,Ħamrun
-Young Boys,SUI,32.5,Bern
-LASK,AUT,34.0,Linz
-PSV,NED,43.0,Eindhoven
+Slovan Bratislava,SVK,26.5,Bratislava
+Galatasaray,TUR,30.5,Istanbul
+Rangers,SCO,52.0,Glasgow
+Marseille,FRA,34.0,Marseille
