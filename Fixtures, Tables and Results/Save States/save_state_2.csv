@@ -1,0 +1,37 @@
+team_name,association,uefa_coefficient,city,status
+Atlético de Madrid,ESP,73.0,Madrid,UEFA Champions League Winner
+Rangers,SCO,52.0,Glasgow,UEFA Europa League Winner
+Chelsea,ENG,96.0,London,
+Manchester United,ENG,91.0,Manchester,
+Arsenal,ENG,58.0,London,
+Brighton,ENG,18.635,Brighton,
+Osasuna,ESP,15.922,Pamplona,
+Villarreal,ESP,68.0,Villarreal,
+Sevilla,ESP,84.0,Seville,
+Bayern,GER,126.0,Munich,
+Borussia Dortmund,GER,75.0,Dortmund,
+Union Berlin,GER,21.0,Berlin,
+Mönchengladbach,GER,21.0,Mönchengladbach,
+Lazio,ITA,43.0,Rome,
+Inter,ITA,90.0,Milan,
+Juventus,ITA,80.0,Turin,
+Napoli,ITA,71.0,Naples,
+Monaco,FRA,24.0,Monaco,
+Lille,FRA,35.0,Lille,
+Lyon,FRA,44.0,Lyon,
+PSV,NED,43.0,Eindhoven,
+Ajax,NED,64.0,Amsterdam,
+Braga,POR,48.0,Braga,
+Antwerp,BEL,21.0,Antwerp,
+Salzburg,AUT,49.0,Salzburg,
+Liverpool,ENG,100.0,Liverpool,
+Barcelona,ESP,78.0,Barcelona,
+Crvena zvezda,SRB,40.0,Belgrade,
+Paris Saint-Germain,FRA,101.0,Paris,
+Lugano,SUI,8.0,Lugano
+HJK,FIN,10.0,Helsinki
+AEK Athens,GRE,10.0,Athens
+Riga,LAT,11.0,Riga
+Shakhtar Donetsk,UKR,59.0,Hamburg
+Feyenoord,NED,57.0,Rotterdam
+FC Porto,POR,66.0,Porto

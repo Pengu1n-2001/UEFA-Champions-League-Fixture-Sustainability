@@ -1,0 +1,182 @@
+team_name,association,city,uefa_coefficient,total_distance,mean_distance,median_distance
+Salzburg,AUT,Salzburg,49.0,164636,1076,891.0
+LASK,AUT,Linz,34.0,165024,1079,879.0
+Bayern,GER,Munich,126.0,165200,1080,916.0
+Viktoria Plzeň,CZE,Plzeň,17.0,166602,1089,941.0
+Rapid Wien,AUT,Vienna,14.0,167820,1097,929.0
+Maribor,SVN,Maribor,9.5,168043,1098,1004.0
+Celje,SVN,Celje,4.5,168364,1100,1011.0
+Olimpija Ljubljana,SVN,Ljubljana,6.5,168296,1100,985.0
+Slavia Praha,CZE,Prague,42.0,168475,1101,933.0
+Sparta Praha,CZE,Prague,15.5,168475,1101,933.0
+Bohemians Praha 1905,CZE,Prague,5.66,168475,1101,933.0
+Slovan Bratislava,SVK,Bratislava,26.5,169408,1107,961.0
+Dunajská Streda,SVK,Dunajská Streda,8.0,170715,1116,949.0
+Spartak Trnava,SVK,Trnava,5.5,170858,1117,938.0
+Rijeka,CRO,Rijeka,12.0,171166,1119,1030.0
+Eintracht Frankfurt,GER,Frankfurt,57.0,171404,1120,933.0
+SC Freiburg,GER,Freiburg,19.0,172422,1127,938.0
+RB Leipzig,GER,Leipzig,87.0,172361,1127,983.0
+Luzern,SUI,Luzern,6.155,172730,1129,993.0
+Atalanta,ITA,Bergamo,58.0,173813,1136,960.0
+Lugano,SUI,Lugano,8.0,174322,1139,979.0
+Ferencváros,HUN,Budapest,30.0,175517,1147,1007.0
+Young Boys,SUI,Bern,32.5,175817,1149,1017.0
+Inter,ITA,Milan,90.0,176101,1151,973.0
+AC Milan,ITA,Milan,49.0,176101,1151,973.0
+Swift Hesper,LUX,Hesperange,3.0,177559,1161,973.0
+Borac,BIH,Banja Luka,5.5,177560,1161,1039.0
+Progrès,LUX,Niederkorn,4.5,177900,1163,979.0
+F91 Diddeleng,LUX,Dudelange,8.5,177887,1163,979.0
+Bayer 04 Leverkusen,GER,Leverkusen,67.0,178110,1164,955.0
+VfL Wolfsburg,GER,Wolfsburg,22.5,178771,1168,988.0
+Kecskemét,HUN,Kecskemét,4.125,178628,1168,1046.0
+Borussia Dortmund,GER,Dortmund,75.0,178786,1169,951.0
+SS Cosmos,SMR,Serravalle,1.0,178990,1170,1007.0
+Tre Penne,SMR,San Marino,5.5,179279,1172,1009.0
+La Fiorita,SMR,Montegiardino,4.5,179308,1172,1008.0
+Union Berlin,GER,Berlin,21.0,179427,1173,1023.0
+TSC Bačka Topola,SRB,Bačka Topola,5.555,180403,1179,1094.0
+Mönchengladbach,GER,Mönchengladbach,21.0,181028,1183,935.0
+Fiorentina,ITA,Florence,24.0,182102,1190,994.0
+Raków Częstochowa,POL,Częstochowa,6.0,182335,1192,995.0
+Genk,BEL,Genk,13.0,182698,1194,960.0
+Juventus,ITA,Turin,80.0,182917,1196,1063.0
+Torino,ITA,Turin,15.171,182917,1196,1063.0
+Servette,SUI,Geneva,6.155,183702,1201,1039.0
+Lech Poznań,POL,Poznań,20.5,184127,1203,1047.0
+Twente,NED,Enschede,11.42,183989,1203,1006.0
+PSV,NED,Eindhoven,43.0,184592,1206,983.0
+Dnipro-1,UKR,Košice,10.5,185615,1213,1106.0
+Željezničar,BIH,Sarajevo,2.5,185587,1213,1171.0
+Debrecen,HUN,Debrecen,4.125,186956,1222,1128.0
+Union SG,BEL,Brussels,22.0,187395,1225,980.0
+Zrinjski,BIH,Mostar,8.5,187390,1225,1182.0
+Shakhtar Donetsk,UKR,Hamburg,59.0,187391,1225,1058.0
+Čukarički,SRB,Belgrade,5.555,188131,1230,1204.0
+Partizan,SRB,Belgrade,25.5,188131,1230,1204.0
+Crvena zvezda,SRB,Belgrade,40.0,188131,1230,1204.0
+Antwerp,BEL,Antwerp,21.0,188244,1230,1008.0
+Feyenoord,NED,Rotterdam,57.0,190851,1247,1067.0
+Ajax,NED,Amsterdam,64.0,191455,1251,1090.0
+Lyon,FRA,Lyon,44.0,192074,1255,1144.0
+Monaco,FRA,Monaco,24.0,192668,1259,1059.0
+Nice,FRA,Nice,17.0,193436,1264,1064.0
+Lille,FRA,Lille,35.0,193572,1265,1030.0
+AZ Alkmaar,NED,Alkmaar,48.0,193659,1266,1118.0
+Club Brugge,BEL,Bruges,48.0,194128,1269,1062.0
+Sutjeska,MNE,Nikšić,7.5,194337,1270,1240.0
+Lens,FRA,Lens,11.266,194592,1272,1037.0
+FK Arsenal Tivat,MNE,Tivat,1.141,196310,1283,1268.0
+Roma,ITA,Rome,86.0,196242,1283,1173.0
+Lazio,ITA,Rome,43.0,196242,1283,1173.0
+Legia Warszawa,POL,Warsaw,13.0,196597,1285,1118.0
+Paris Saint-Germain,FRA,Paris,101.0,197326,1290,1053.0
+FK Budućnost Podgorica,MNE,Podgorica,8.0,197685,1292,1282.0
+CFR Cluj,ROM,Cluj-Napoca,26.5,198759,1299,1300.0
+Zorya Luhansk,UKR,Lublin,16.5,199019,1301,1174.0
+Ballkani,KOS,Prishtina,7.5,203429,1330,1355.0
+Malmö FF,SWE,Malmö,18.5,204553,1337,1161.0
+Copenhagen,DEN,Copenhagen,41.5,205023,1340,1159.0
+Marseille,FRA,Marseille,34.0,204993,1340,1163.0
+Napoli,ITA,Naples,71.0,205700,1344,1300.0
+Gjilani,KOS,Gjilan,3.0,206278,1348,1349.0
+Drita,KOS,Gjilan,6.5,206278,1348,1349.0
+Nordsjælland,DEN,Farum,5.64,206335,1349,1153.0
+Shkëndija,MKD,Tetovo,8.0,207636,1357,1356.0
+Partizani,ALB,Tirana,6.5,209307,1368,1401.0
+Tirana,ALB,Tirana,5.5,209307,1368,1401.0
+Shkupi,MKD,Skopje,7.5,209752,1371,1392.0
+AGF,DEN,Aarhus,5.64,211123,1380,1179.0
+Egnatia,ALB,Rrogozhinë,1.475,211407,1382,1414.0
+Struga,MKD,Struga,3.5,213856,1398,1375.0
+Brighton,ENG,Brighton,18.635,214301,1401,1218.0
+CSKA-Sofia,BUL,Sofia,12.5,214483,1402,1389.0
+CSKA 1948,BUL,Sofia,3.675,214483,1402,1389.0
+Tottenham Hotspur,ENG,London,54.0,215358,1408,1263.0
+West Ham,ENG,London,54.0,215358,1408,1263.0
+Arsenal,ENG,London,58.0,215358,1408,1263.0
+Chelsea,ENG,London,96.0,215358,1408,1263.0
+Dynamo Kyiv,UKR,Bucharest,26.5,222058,1451,1454.0
+FCSB,ROM,Bucharest,10.5,222058,1451,1454.0
+Rennes,FRA,Rennes,37.0,227144,1485,1285.0
+BK Häcken,SWE,Gothenburg,4.3,227381,1486,1307.0
+IF Elfsborg,SWE,Borås,4.3,227551,1487,1297.0
+Aston Villa,ENG,Birmingham,18.635,228403,1493,1397.0
+Ludogorets,BUL,Razgrad,19.0,229579,1501,1505.0
+Petrocub,MDA,Hîncești,7.0,232370,1519,1498.0
+FC Santa Coloma,AND,Santa Coloma,5.5,232735,1521,1339.0
+Inter Club d'Escaldes,AND,Andorra la Vella,6.0,232979,1523,1337.0
+Atlètic Club d'Escaldes,AND,Andorra la Vella,2.5,232979,1523,1337.0
+Milsami,MDA,Orhei,5.0,233400,1525,1474.0
+Manchester City,ENG,Manchester,130.0,236802,1548,1477.0
+Manchester United,ENG,Manchester,91.0,236802,1548,1477.0
+Panevezys,LTU,Panevėžys,4.0,237613,1553,1528.0
+Barcelona,ESP,Barcelona,78.0,238887,1561,1389.0
+The New Saints,WAL,Oswestry,8.5,239895,1568,1472.0
+Dinamo Minsk,BLR,Minsk,4.5,239946,1568,1550.0
+Penybont,WAL,Bridgend,1.158,240660,1573,1460.0
+Connah's Quay,WAL,Connah's Quay,5.5,241260,1577,1490.0
+Sheriff,MDA,Tiraspol,18.0,241448,1578,1541.0
+Farul Constanța,ROM,Constanța,4.275,241748,1580,1537.0
+Liverpool,ENG,Liverpool,100.0,241686,1580,1510.0
+Newcastle,ENG,Newcastle upon Tyne,18.635,242184,1583,1528.0
+Riga,LAT,Riga,11.0,245331,1603,1586.0
+RFS,LAT,Riga,8.0,245331,1603,1586.0
+Torpedo Zhodino,BLR,Zhodino,3.0,245756,1606,1603.0
+BATE Borisov,BLR,Borisov,9.5,247474,1617,1617.0
+Real Sociedad,ESP,San Sebastián,42.0,252093,1648,1446.0
+Osasuna,ESP,Pamplona,15.922,253150,1655,1469.0
+Hearts,SCO,Edinburgh,6.53,258794,1691,1647.0
+Olympiacos,GRE,Piraeus,34.0,261192,1707,1730.0
+Panathinaikos,GRE,Athens,5.225,261337,1708,1731.0
+AEK Athens,GRE,Athens,10.0,261337,1708,1731.0
+Aberdeen,SCO,Aberdeen,7.5,262623,1716,1635.0
+Gżira,MLT,Gżira,7.0,264606,1729,1709.0
+Birkirkara,MLT,Birkirkara,2.5,264702,1730,1711.0
+Rangers,SCO,Glasgow,52.0,264993,1732,1685.0
+Hamrun Spartans FC,MLT,Ħamrun,4.5,264930,1732,1708.0
+Fenerbahçe,TUR,Istanbul,28.0,264950,1732,1711.0
+Celtic,SCO,Glasgow,30.0,264993,1732,1685.0
+Galatasaray,TUR,Istanbul,30.5,264950,1732,1711.0
+Beşiktaş,TUR,Istanbul,10.0,264950,1732,1711.0
+Shamrock Rovers,IRL,Dublin,9.5,266835,1744,1664.0
+St Patrick's,IRL,Dublin,4.0,266835,1744,1664.0
+Villarreal,ESP,Villarreal,68.0,267403,1748,1597.0
+Linfield,NIR,Belfast,10.0,269256,1760,1724.0
+Glentoran,NIR,Belfast,3.0,269256,1760,1724.0
+Larne,NIR,Larne,4.5,269721,1763,1724.0
+Flora Tallinn,EST,Tallinn,11.0,273190,1786,1771.0
+Levadia,EST,Tallinn,6.0,273190,1786,1771.0
+HJK,FIN,Helsinki,10.0,282081,1844,1814.0
+Derry,IRL,Derry,4.0,282274,1845,1790.0
+Atlético de Madrid,ESP,Madrid,73.0,289864,1895,1728.0
+Real Madrid,ESP,Madrid,112.0,289864,1895,1728.0
+Braga,POR,Braga,48.0,321944,2104,1996.0
+FC Porto,POR,Porto,66.0,326697,2135,2027.0
+KÍ Klaksvík,FRO,Klaksvík,10.0,337915,2209,2178.0
+Sevilla,ESP,Seville,84.0,339462,2219,2075.0
+Real Betis,ESP,Seville,31.0,339462,2219,2075.0
+Lincoln Red Imps,GIB,Gibraltar,9.0,348475,2278,2128.0
+Magpies,GIB,Gibraltar,2.0,348475,2278,2128.0
+Europa,GIB,Gibraltar,5.5,348475,2278,2128.0
+Adana Demirspor,TUR,Adana,7.07,350741,2292,2366.0
+Sporting CP,POR,Lisbon,45.5,353727,2312,2160.0
+Benfica,POR,Lisbon,69.0,353727,2312,2160.0
+APOEL,CYP,Nicosia,14.5,353861,2313,2374.0
+Aris Limassol,CYP,Limassol,4.37,356582,2331,2381.0
+AEK Larnaca,CYP,Larnaca,8.0,358854,2345,2411.0
+Bodø/Glimt,NOR,Bodø,24.5,360126,2354,2296.0
+Dinamo Batumi,GEO,Batumi,5.5,371643,2429,2437.0
+Dila,GEO,Gori,4.0,392522,2566,2609.0
+Maccabi Haifa,ISR,Haifa,14.0,394358,2578,2657.0
+Dinamo Tbilisi,GEO,Tbilisi,8.0,401030,2621,2673.0
+Urartu,ARM,Yerevan,3.5,408921,2673,2669.0
+Pyunik,ARM,Yerevan,9.5,408921,2673,2669.0
+Ararat-Armenia,ARM,Yerevan,8.0,408921,2673,2669.0
+H. Beer Sheva,ISR,Beer Sheva,17.0,412202,2694,2763.0
+Víkingur Reykjavík,ISL,Reykjavík,4.0,444370,2904,2825.0
+Sabah,AZE,Baku,3.575,463469,3029,3111.0
+Qarabağ,AZE,Baku,26.0,463469,3029,3111.0
+Neftçi,AZE,Baku,10.0,463469,3029,3111.0
+Ordabasy,KAZ,Shymkent,4.0,663575,4337,4350.0

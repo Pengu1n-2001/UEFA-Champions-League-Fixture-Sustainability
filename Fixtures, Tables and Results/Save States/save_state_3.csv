@@ -1,0 +1,37 @@
+team_name,association,uefa_coefficient,city,status
+Inter,ITA,90.0,Milan,UEFA Champions League Winner
+Roma,ITA,86.0,Rome,UEFA Europa League Winner
+Liverpool,ENG,100.0,Liverpool,
+Manchester City,ENG,130.0,Manchester,
+Chelsea,ENG,96.0,London,
+Manchester United,ENG,91.0,Manchester,
+Real Madrid,ESP,112.0,Madrid,
+Real Betis,ESP,31.0,Seville,
+Sevilla,ESP,84.0,Seville,
+Villarreal,ESP,68.0,Villarreal,
+Bayern,GER,126.0,Munich,
+Borussia Dortmund,GER,75.0,Dortmund,
+Bayer 04 Leverkusen,GER,67.0,Leverkusen,
+Eintracht Frankfurt,GER,57.0,Frankfurt,
+Fiorentina,ITA,24.0,Florence,
+Napoli,ITA,71.0,Naples,
+Juventus,ITA,80.0,Turin,
+Marseille,FRA,34.0,Marseille,
+Lens,FRA,11.266,Lens,
+Rennes,FRA,37.0,Rennes,
+AZ Alkmaar,NED,48.0,Alkmaar,
+PSV,NED,43.0,Eindhoven,
+Braga,POR,48.0,Braga,
+Genk,BEL,13.0,Genk,
+Aberdeen,SCO,7.5,Aberdeen,
+LASK,AUT,34.0,Linz,
+Arsenal,ENG,58.0,London,
+Barcelona,ESP,78.0,Barcelona,
+Crvena zvezda,SRB,40.0,Belgrade,
+Slavia Praha,CZE,42.0,Prague
+Young Boys,SUI,32.5,Bern
+Bodø/Glimt,NOR,24.5,Bodø
+Linfield,NIR,10.0,Belfast
+Qarabağ,AZE,26.0,Baku
+Feyenoord,NED,57.0,Rotterdam
+Rangers,SCO,52.0,Glasgow

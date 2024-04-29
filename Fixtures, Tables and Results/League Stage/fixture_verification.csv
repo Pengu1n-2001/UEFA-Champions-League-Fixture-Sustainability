@@ -1,0 +1,37 @@
+team_name,association,uefa_coefficient,city,pot,pot 1_home game,pot 1_away game,pot 2_home game,pot 2_away game,pot 3_home game,pot 3_away game,pot 4_home game,pot 4_away game,same_association
+Atlético de Madrid,ESP,73.0,Madrid,1,1,1,1,1,1,1,1,1,0
+Manchester City,ENG,130.0,Manchester,1,1,1,1,1,1,1,1,1,0
+Real Madrid,ESP,112.0,Madrid,1,1,1,1,1,1,1,1,1,0
+Paris Saint-Germain,FRA,101.0,Paris,1,1,1,1,1,1,1,1,1,0
+Liverpool,ENG,100.0,Liverpool,1,1,1,1,1,1,1,1,1,0
+Manchester United,ENG,91.0,Manchester,1,1,1,1,1,1,1,1,1,0
+Roma,ITA,86.0,Rome,1,1,1,1,1,1,1,1,1,0
+Sevilla,ESP,84.0,Seville,1,1,1,1,1,1,1,1,1,0
+Juventus,ITA,80.0,Turin,1,1,1,1,1,1,1,1,1,0
+Borussia Dortmund,GER,75.0,Dortmund,2,1,1,1,1,1,1,1,1,0
+Napoli,ITA,71.0,Naples,2,1,1,1,1,1,1,1,1,0
+Benfica,POR,69.0,Lisbon,2,1,1,1,1,1,1,1,1,0
+Villarreal,ESP,68.0,Villarreal,2,1,1,1,1,1,1,1,1,0
+Ajax,NED,64.0,Amsterdam,2,1,1,1,1,1,1,1,1,0
+Rangers,SCO,52.0,Glasgow,2,1,1,1,1,1,1,1,1,0
+Club Brugge,BEL,48.0,Bruges,2,1,1,1,1,1,1,1,1,0
+AZ Alkmaar,NED,48.0,Alkmaar,2,1,1,1,1,1,1,1,1,0
+Sporting CP,POR,45.5,Lisbon,2,1,1,1,1,1,1,1,1,0
+Lyon,FRA,44.0,Lyon,3,1,1,1,1,1,1,1,1,0
+Lazio,ITA,43.0,Rome,3,1,1,1,1,1,1,1,1,0
+Crvena zvezda,SRB,40.0,Belgrade,3,1,1,1,1,1,1,1,1,0
+Rennes,FRA,37.0,Rennes,3,1,1,1,1,1,1,1,1,0
+Marseille,FRA,34.0,Marseille,3,1,1,1,1,1,1,1,1,0
+Real Betis,ESP,31.0,Seville,3,1,1,1,1,1,1,1,1,0
+Celtic,SCO,30.0,Glasgow,3,1,1,1,1,1,1,1,1,0
+Qarabağ,AZE,26.0,Baku,3,1,1,1,1,1,1,1,1,0
+VfL Wolfsburg,GER,22.5,Wolfsburg,3,1,1,1,1,1,1,1,1,0
+Mönchengladbach,GER,21.0,Mönchengladbach,4,1,1,1,1,1,1,1,1,0
+Union Berlin,GER,21.0,Berlin,4,1,1,1,1,1,1,1,1,0
+Aston Villa,ENG,18.635,Birmingham,4,1,1,1,1,1,1,1,1,0
+Newcastle,ENG,18.635,Newcastle upon Tyne,4,1,1,1,1,1,1,1,1,0
+H. Beer Sheva,ISR,17.0,Beer Sheva,4,1,1,1,1,1,1,1,1,0
+Rapid Wien,AUT,14.0,Vienna,4,1,1,1,1,1,1,1,1,0
+Pyunik,ARM,9.5,Yerevan,4,1,1,1,1,1,1,1,1,0
+Ordabasy,KAZ,4.0,Shymkent,4,1,1,1,1,1,1,1,1,0
+Víkingur Reykjavík,ISL,4.0,Reykjavík,4,1,1,1,1,1,1,1,1,0

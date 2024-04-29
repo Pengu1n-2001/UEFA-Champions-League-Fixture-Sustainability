@@ -1,6 +1,8 @@
 import csv
 from math import radians, sin, cos, sqrt, atan2
 
+
+# This formula was created by OpenAI's ChatGPT
 def haversine(lat1, lon1, lat2, lon2):
     R = 6371  # Radius of the Earth in kilometers
 
@@ -12,6 +14,7 @@ def haversine(lat1, lon1, lat2, lon2):
 
     distance = R * c
     return distance
+################################################################################################
 
 def create_distance_matrix(city_location_file, distance_matrix_file):
     # Read city data

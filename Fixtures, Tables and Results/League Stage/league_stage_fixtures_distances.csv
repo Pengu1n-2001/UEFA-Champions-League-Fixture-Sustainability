@@ -1,0 +1,145 @@
+match,home_team,home_team_coefficient,home_team_city,home_team_association,away_team,away_team_coefficient,away_team_city,away_team_association,distance
+1,Atlético de Madrid,73.0,Madrid,ESP,Sporting CP,45.5,Lisbon,POR,502.0
+2,Atlético de Madrid,73.0,Madrid,ESP,Lazio,43.0,Rome,ITA,1364.0
+3,Atlético de Madrid,73.0,Madrid,ESP,Paris Saint-Germain,101.0,Paris,FRA,1053.0
+4,Atlético de Madrid,73.0,Madrid,ESP,Ordabasy,4.0,Shymkent,KAZ,5921.0
+5,Manchester City,130.0,Manchester,ENG,Club Brugge,48.0,Bruges,BEL,449.0
+6,Manchester City,130.0,Manchester,ENG,Pyunik,9.5,Yerevan,ARM,3769.0
+7,Manchester City,130.0,Manchester,ENG,Rennes,37.0,Rennes,FRA,598.0
+8,Manchester City,130.0,Manchester,ENG,Sevilla,84.0,Seville,ESP,1812.0
+9,Real Madrid,112.0,Madrid,ESP,Juventus,80.0,Turin,ITA,1063.0
+10,Real Madrid,112.0,Madrid,ESP,Aston Villa,18.635,Birmingham,ENG,1351.0
+11,Real Madrid,112.0,Madrid,ESP,AZ Alkmaar,48.0,Alkmaar,NED,1502.0
+12,Real Madrid,112.0,Madrid,ESP,Crvena zvezda,40.0,Belgrade,SRB,2027.0
+13,Paris Saint-Germain,101.0,Paris,FRA,Real Madrid,112.0,Madrid,ESP,1053.0
+14,Paris Saint-Germain,101.0,Paris,FRA,Rangers,52.0,Glasgow,SCO,898.0
+15,Paris Saint-Germain,101.0,Paris,FRA,Qarabağ,26.0,Baku,AZE,3813.0
+16,Paris Saint-Germain,101.0,Paris,FRA,Mönchengladbach,21.0,Mönchengladbach,GER,376.0
+17,Liverpool,100.0,Liverpool,ENG,VfL Wolfsburg,22.5,Wolfsburg,GER,930.0
+18,Liverpool,100.0,Liverpool,ENG,Roma,86.0,Rome,ITA,1720.0
+19,Liverpool,100.0,Liverpool,ENG,Villarreal,68.0,Villarreal,ESP,1510.0
+20,Liverpool,100.0,Liverpool,ENG,Víkingur Reykjavík,4.0,Reykjavík,ISL,1599.0
+21,Manchester United,91.0,Manchester,ENG,Borussia Dortmund,75.0,Dortmund,GER,692.0
+22,Manchester United,91.0,Manchester,ENG,H. Beer Sheva,17.0,Beer Sheva,ISR,3848.0
+23,Manchester United,91.0,Manchester,ENG,Celtic,30.0,Glasgow,SCO,294.0
+24,Manchester United,91.0,Manchester,ENG,Atlético de Madrid,73.0,Madrid,ESP,1457.0
+25,Roma,86.0,Rome,ITA,Marseille,34.0,Marseille,FRA,603.0
+26,Roma,86.0,Rome,ITA,Rapid Wien,14.0,Vienna,AUT,764.0
+27,Roma,86.0,Rome,ITA,Ajax,64.0,Amsterdam,NED,1296.0
+28,Roma,86.0,Rome,ITA,Manchester City,130.0,Manchester,ENG,1689.0
+29,Sevilla,84.0,Seville,ESP,Union Berlin,21.0,Berlin,GER,2257.0
+30,Sevilla,84.0,Seville,ESP,Napoli,71.0,Naples,ITA,1785.0
+31,Sevilla,84.0,Seville,ESP,Lyon,44.0,Lyon,FRA,1293.0
+32,Sevilla,84.0,Seville,ESP,Manchester United,91.0,Manchester,ENG,1812.0
+33,Juventus,80.0,Turin,ITA,Benfica,69.0,Lisbon,POR,1557.0
+34,Juventus,80.0,Turin,ITA,Real Betis,31.0,Seville,ESP,1424.0
+35,Juventus,80.0,Turin,ITA,Newcastle,18.635,Newcastle upon Tyne,ENG,1287.0
+36,Juventus,80.0,Turin,ITA,Liverpool,100.0,Liverpool,ENG,1206.0
+37,Borussia Dortmund,75.0,Dortmund,GER,Lyon,44.0,Lyon,FRA,668.0
+38,Borussia Dortmund,75.0,Dortmund,GER,Roma,86.0,Rome,ITA,1135.0
+39,Borussia Dortmund,75.0,Dortmund,GER,Ajax,64.0,Amsterdam,NED,200.0
+40,Borussia Dortmund,75.0,Dortmund,GER,Pyunik,9.5,Yerevan,ARM,3092.0
+41,Napoli,71.0,Naples,ITA,Villarreal,68.0,Villarreal,ESP,1219.0
+42,Napoli,71.0,Naples,ITA,Atlético de Madrid,73.0,Madrid,ESP,1515.0
+43,Napoli,71.0,Naples,ITA,Qarabağ,26.0,Baku,AZE,2986.0
+44,Napoli,71.0,Naples,ITA,Union Berlin,21.0,Berlin,GER,1299.0
+45,Benfica,69.0,Lisbon,POR,Newcastle,18.635,Newcastle upon Tyne,ENG,1896.0
+46,Benfica,69.0,Lisbon,POR,Celtic,30.0,Glasgow,SCO,1940.0
+47,Benfica,69.0,Lisbon,POR,Club Brugge,48.0,Bruges,BEL,1690.0
+48,Benfica,69.0,Lisbon,POR,Liverpool,100.0,Liverpool,ENG,1699.0
+49,Villarreal,68.0,Villarreal,ESP,Aston Villa,18.635,Birmingham,ENG,1397.0
+50,Villarreal,68.0,Villarreal,ESP,Marseille,34.0,Marseille,FRA,586.0
+51,Villarreal,68.0,Villarreal,ESP,Benfica,69.0,Lisbon,POR,789.0
+52,Villarreal,68.0,Villarreal,ESP,Paris Saint-Germain,101.0,Paris,FRA,1007.0
+53,Ajax,64.0,Amsterdam,NED,Napoli,71.0,Naples,ITA,1464.0
+54,Ajax,64.0,Amsterdam,NED,Crvena zvezda,40.0,Belgrade,SRB,1416.0
+55,Ajax,64.0,Amsterdam,NED,Mönchengladbach,21.0,Mönchengladbach,GER,159.0
+56,Ajax,64.0,Amsterdam,NED,Manchester City,130.0,Manchester,ENG,495.0
+57,Rangers,52.0,Glasgow,SCO,AZ Alkmaar,48.0,Alkmaar,NED,686.0
+58,Rangers,52.0,Glasgow,SCO,Rennes,37.0,Rennes,FRA,879.0
+59,Rangers,52.0,Glasgow,SCO,Manchester United,91.0,Manchester,ENG,294.0
+60,Rangers,52.0,Glasgow,SCO,Víkingur Reykjavík,4.0,Reykjavík,ISL,1333.0
+61,Club Brugge,48.0,Bruges,BEL,Borussia Dortmund,75.0,Dortmund,GER,297.0
+62,Club Brugge,48.0,Bruges,BEL,Rapid Wien,14.0,Vienna,AUT,1001.0
+63,Club Brugge,48.0,Bruges,BEL,Sevilla,84.0,Seville,ESP,1699.0
+64,Club Brugge,48.0,Bruges,BEL,Lazio,43.0,Rome,ITA,1252.0
+65,AZ Alkmaar,48.0,Alkmaar,NED,VfL Wolfsburg,22.5,Wolfsburg,GER,408.0
+66,AZ Alkmaar,48.0,Alkmaar,NED,Juventus,80.0,Turin,ITA,868.0
+67,AZ Alkmaar,48.0,Alkmaar,NED,Ordabasy,4.0,Shymkent,KAZ,4832.0
+68,AZ Alkmaar,48.0,Alkmaar,NED,Sporting CP,45.5,Lisbon,POR,1879.0
+69,Sporting CP,45.5,Lisbon,POR,H. Beer Sheva,17.0,Beer Sheva,ISR,4047.0
+70,Sporting CP,45.5,Lisbon,POR,Rangers,52.0,Glasgow,SCO,1940.0
+71,Sporting CP,45.5,Lisbon,POR,Real Betis,31.0,Seville,ESP,313.0
+72,Sporting CP,45.5,Lisbon,POR,Real Madrid,112.0,Madrid,ESP,502.0
+73,Lyon,44.0,Lyon,FRA,Liverpool,100.0,Liverpool,ENG,1019.0
+74,Lyon,44.0,Lyon,FRA,Mönchengladbach,21.0,Mönchengladbach,GER,610.0
+75,Lyon,44.0,Lyon,FRA,Rangers,52.0,Glasgow,SCO,1289.0
+76,Lyon,44.0,Lyon,FRA,VfL Wolfsburg,22.5,Wolfsburg,GER,857.0
+77,Lazio,43.0,Rome,ITA,Real Betis,31.0,Seville,ESP,1656.0
+78,Lazio,43.0,Rome,ITA,Víkingur Reykjavík,4.0,Reykjavík,ISL,3295.0
+79,Lazio,43.0,Rome,ITA,Paris Saint-Germain,101.0,Paris,FRA,1105.0
+80,Lazio,43.0,Rome,ITA,Villarreal,68.0,Villarreal,ESP,1079.0
+81,Crvena zvezda,40.0,Belgrade,SRB,Napoli,71.0,Naples,ITA,667.0
+82,Crvena zvezda,40.0,Belgrade,SRB,Manchester City,130.0,Manchester,ENG,1901.0
+83,Crvena zvezda,40.0,Belgrade,SRB,Rennes,37.0,Rennes,FRA,1729.0
+84,Crvena zvezda,40.0,Belgrade,SRB,Pyunik,9.5,Yerevan,ARM,2030.0
+85,Rennes,37.0,Rennes,FRA,Rapid Wien,14.0,Vienna,AUT,1336.0
+86,Rennes,37.0,Rennes,FRA,Sevilla,84.0,Seville,ESP,1243.0
+87,Rennes,37.0,Rennes,FRA,Sporting CP,45.5,Lisbon,POR,1205.0
+88,Rennes,37.0,Rennes,FRA,Lazio,43.0,Rome,ITA,1308.0
+89,Marseille,34.0,Marseille,FRA,Aston Villa,18.635,Birmingham,ENG,1146.0
+90,Marseille,34.0,Marseille,FRA,Celtic,30.0,Glasgow,SCO,1556.0
+91,Marseille,34.0,Marseille,FRA,Juventus,80.0,Turin,ITA,270.0
+92,Marseille,34.0,Marseille,FRA,Club Brugge,48.0,Bruges,BEL,895.0
+93,Real Betis,31.0,Seville,ESP,Ajax,64.0,Amsterdam,NED,1869.0
+94,Real Betis,31.0,Seville,ESP,Crvena zvezda,40.0,Belgrade,SRB,2350.0
+95,Real Betis,31.0,Seville,ESP,Union Berlin,21.0,Berlin,GER,2257.0
+96,Real Betis,31.0,Seville,ESP,Manchester United,91.0,Manchester,ENG,1812.0
+97,Celtic,30.0,Glasgow,SCO,Ordabasy,4.0,Shymkent,KAZ,5307.0
+98,Celtic,30.0,Glasgow,SCO,AZ Alkmaar,48.0,Alkmaar,NED,686.0
+99,Celtic,30.0,Glasgow,SCO,Real Madrid,112.0,Madrid,ESP,1718.0
+100,Celtic,30.0,Glasgow,SCO,Lyon,44.0,Lyon,FRA,1289.0
+101,Qarabağ,26.0,Baku,AZE,Newcastle,18.635,Newcastle upon Tyne,ENG,4072.0
+102,Qarabağ,26.0,Baku,AZE,Roma,86.0,Rome,ITA,3111.0
+103,Qarabağ,26.0,Baku,AZE,Borussia Dortmund,75.0,Dortmund,GER,3449.0
+104,Qarabağ,26.0,Baku,AZE,Marseille,34.0,Marseille,FRA,3659.0
+105,VfL Wolfsburg,22.5,Wolfsburg,GER,H. Beer Sheva,17.0,Beer Sheva,ISR,3052.0
+106,VfL Wolfsburg,22.5,Wolfsburg,GER,Atlético de Madrid,73.0,Madrid,ESP,1730.0
+107,VfL Wolfsburg,22.5,Wolfsburg,GER,Benfica,69.0,Lisbon,POR,2160.0
+108,VfL Wolfsburg,22.5,Wolfsburg,GER,Qarabağ,26.0,Baku,AZE,3234.0
+109,Mönchengladbach,21.0,Mönchengladbach,GER,Pyunik,9.5,Yerevan,ARM,3174.0
+110,Mönchengladbach,21.0,Mönchengladbach,GER,Lazio,43.0,Rome,ITA,1138.0
+111,Mönchengladbach,21.0,Mönchengladbach,GER,Club Brugge,48.0,Bruges,BEL,206.0
+112,Mönchengladbach,21.0,Mönchengladbach,GER,Manchester United,91.0,Manchester,ENG,627.0
+113,Union Berlin,21.0,Berlin,GER,Rapid Wien,14.0,Vienna,AUT,524.0
+114,Union Berlin,21.0,Berlin,GER,Paris Saint-Germain,101.0,Paris,FRA,877.0
+115,Union Berlin,21.0,Berlin,GER,Crvena zvezda,40.0,Belgrade,SRB,1003.0
+116,Union Berlin,21.0,Berlin,GER,Ajax,64.0,Amsterdam,NED,576.0
+117,Aston Villa,18.635,Birmingham,ENG,Borussia Dortmund,75.0,Dortmund,GER,631.0
+118,Aston Villa,18.635,Birmingham,ENG,Celtic,30.0,Glasgow,SCO,412.0
+119,Aston Villa,18.635,Birmingham,ENG,Víkingur Reykjavík,4.0,Reykjavík,ISL,1736.0
+120,Aston Villa,18.635,Birmingham,ENG,Juventus,80.0,Turin,ITA,1068.0
+121,Newcastle,18.635,Newcastle upon Tyne,ENG,Mönchengladbach,21.0,Mönchengladbach,GER,672.0
+122,Newcastle,18.635,Newcastle upon Tyne,ENG,Marseille,34.0,Marseille,FRA,1396.0
+123,Newcastle,18.635,Newcastle upon Tyne,ENG,AZ Alkmaar,48.0,Alkmaar,NED,495.0
+124,Newcastle,18.635,Newcastle upon Tyne,ENG,Roma,86.0,Rome,ITA,1783.0
+125,H. Beer Sheva,17.0,Beer Sheva,ISR,Villarreal,68.0,Villarreal,ESP,3275.0
+126,H. Beer Sheva,17.0,Beer Sheva,ISR,Qarabağ,26.0,Baku,AZE,1695.0
+127,H. Beer Sheva,17.0,Beer Sheva,ISR,Atlético de Madrid,73.0,Madrid,ESP,3585.0
+128,H. Beer Sheva,17.0,Beer Sheva,ISR,Newcastle,18.635,Newcastle upon Tyne,ENG,3886.0
+129,Rapid Wien,14.0,Vienna,AUT,VfL Wolfsburg,22.5,Wolfsburg,GER,614.0
+130,Rapid Wien,14.0,Vienna,AUT,Liverpool,100.0,Liverpool,ENG,1473.0
+131,Rapid Wien,14.0,Vienna,AUT,H. Beer Sheva,17.0,Beer Sheva,ISR,2443.0
+132,Rapid Wien,14.0,Vienna,AUT,Sporting CP,45.5,Lisbon,POR,2298.0
+133,Pyunik,9.5,Yerevan,ARM,Real Madrid,112.0,Madrid,ESP,4037.0
+134,Pyunik,9.5,Yerevan,ARM,Union Berlin,21.0,Berlin,GER,2723.0
+135,Pyunik,9.5,Yerevan,ARM,Rangers,52.0,Glasgow,SCO,3919.0
+136,Pyunik,9.5,Yerevan,ARM,Rennes,37.0,Rennes,FRA,3730.0
+137,Ordabasy,4.0,Shymkent,KAZ,Sevilla,84.0,Seville,ESP,6258.0
+138,Ordabasy,4.0,Shymkent,KAZ,Napoli,71.0,Naples,ITA,4521.0
+139,Ordabasy,4.0,Shymkent,KAZ,Aston Villa,18.635,Birmingham,ENG,5252.0
+140,Ordabasy,4.0,Shymkent,KAZ,Lyon,44.0,Lyon,FRA,5046.0
+141,Víkingur Reykjavík,4.0,Reykjavík,ISL,Manchester City,130.0,Manchester,ENG,1622.0
+142,Víkingur Reykjavík,4.0,Reykjavík,ISL,Ordabasy,4.0,Shymkent,KAZ,5925.0
+143,Víkingur Reykjavík,4.0,Reykjavík,ISL,Real Betis,31.0,Seville,ESP,3154.0
+144,Víkingur Reykjavík,4.0,Reykjavík,ISL,Benfica,69.0,Lisbon,POR,2946.0

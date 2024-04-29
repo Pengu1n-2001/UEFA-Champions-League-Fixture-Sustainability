@@ -1,37 +1,30 @@
 team_name,association,uefa_coefficient,city,status
-Real Madrid,ESP,112.0,Madrid,UEFA Champions League Winner
-Sevilla,ESP,84.0,Seville,UEFA Europa League Winner
-Arsenal,ENG,58.0,London,
-Manchester City,ENG,130.0,Manchester,
+Bayern,GER,126.0,Munich,UEFA Champions League Winner
+Roma,ITA,86.0,Rome,UEFA Europa League Winner
 Tottenham Hotspur,ENG,54.0,London,
-Manchester United,ENG,91.0,Manchester,
-Real Sociedad,ESP,42.0,San Sebastián,
-Atlético de Madrid,ESP,73.0,Madrid,
+Arsenal,ENG,58.0,London,
+Chelsea,ENG,96.0,London,
+Brighton,ENG,18.635,Brighton,
 Villarreal,ESP,68.0,Villarreal,
+Osasuna,ESP,15.922,Pamplona,
+Real Sociedad,ESP,42.0,San Sebastián,
+Barcelona,ESP,78.0,Barcelona,
+SC Freiburg,GER,19.0,Freiburg,
 RB Leipzig,GER,87.0,Leipzig,
-Bayer 04 Leverkusen,GER,67.0,Leverkusen,
-Mönchengladbach,GER,21.0,Mönchengladbach,
-Borussia Dortmund,GER,75.0,Dortmund,
-Atalanta,ITA,58.0,Bergamo,
-Torino,ITA,15.171,Turin,
-Juventus,ITA,80.0,Turin,
+Eintracht Frankfurt,GER,57.0,Frankfurt,
+Fiorentina,ITA,24.0,Florence,
+AC Milan,ITA,49.0,Milan,
 Inter,ITA,90.0,Milan,
-Paris Saint-Germain,FRA,101.0,Paris,
+Atalanta,ITA,58.0,Bergamo,
+Nice,FRA,17.0,Nice,
+Monaco,FRA,24.0,Monaco,
 Lyon,FRA,44.0,Lyon,
-Lille,FRA,35.0,Lille,
-AZ Alkmaar,NED,48.0,Alkmaar,
-Feyenoord,NED,57.0,Rotterdam,
-Sporting CP,POR,45.5,Lisbon,
-Antwerp,BEL,21.0,Antwerp,
+PSV,NED,43.0,Eindhoven,
+Twente,NED,11.42,Enschede,
+Braga,POR,48.0,Braga,
+Genk,BEL,13.0,Genk,
 Hearts,SCO,6.53,Edinburgh,
-LASK,AUT,34.0,Linz,
-Newcastle,ENG,18.635,Newcastle upon Tyne,
+Salzburg,AUT,49.0,Salzburg,
+West Ham,ENG,54.0,London,
+Real Madrid,ESP,112.0,Madrid,
 Crvena zvezda,SRB,40.0,Belgrade,
-Rennes,FRA,37.0,Rennes,
-Copenhagen,DEN,41.5,Copenhagen
-Qarabağ,AZE,26.0,Baku
-Slavia Praha,CZE,42.0,Prague
-Slovan Bratislava,SVK,26.5,Bratislava
-Galatasaray,TUR,30.5,Istanbul
-Rangers,SCO,52.0,Glasgow
-Marseille,FRA,34.0,Marseille

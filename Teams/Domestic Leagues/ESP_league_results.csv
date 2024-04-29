@@ -1,9 +1,9 @@
 rank,team_name,association,uefa_coefficient,city
-1,Villarreal,ESP,68.0,Villarreal
-2,Atlético de Madrid,ESP,73.0,Madrid
-3,Sevilla,ESP,84.0,Seville
-4,Real Sociedad,ESP,42.0,San Sebastián
+1,Barcelona,ESP,78.0,Barcelona
+2,Real Sociedad,ESP,42.0,San Sebastián
+3,Osasuna,ESP,15.922,Pamplona
+4,Villarreal,ESP,68.0,Villarreal
 5,Real Madrid,ESP,112.0,Madrid
-6,Real Betis,ESP,31.0,Seville
-7,Barcelona,ESP,78.0,Barcelona
-8,Osasuna,ESP,15.922,Pamplona
+6,Atlético de Madrid,ESP,73.0,Madrid
+7,Sevilla,ESP,84.0,Seville
+8,Real Betis,ESP,31.0,Seville

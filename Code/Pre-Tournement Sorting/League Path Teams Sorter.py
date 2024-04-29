@@ -55,24 +55,24 @@ def write_teams_to_csv(teams, output_path):
 # data setup
 associations = load_filtered_coefficients(coefficients_path)
 league_stage_teams = load_league_stage_teams(league_stage_path)
-selected_teams_round_3 = []
-selected_teams_round_2 = []
+round_3_teams = []
+round_2_teams = []
 
 # finds teams for round 3
-selected_teams_round_3.append(get_next_eligible_team(5, 4, league_stage_teams, associations))
-selected_teams_round_3.append(get_next_eligible_team(6, 3, league_stage_teams, associations))
+round_3_teams.append(get_next_eligible_team(5, 4, league_stage_teams, associations))
+round_3_teams.append(get_next_eligible_team(6, 3, league_stage_teams, associations))
 for rank in range(7, 10):
     team = get_next_eligible_team(rank, 2, league_stage_teams, associations)
     if team:
-        selected_teams_round_3.append(team)
+        round_3_teams.append(team)
 
 # finds teams for round 2
 for rank in range(10, 16):
     team = get_next_eligible_team(rank, 2, league_stage_teams, associations)
     if team:
-        selected_teams_round_2.append(team)
+        round_2_teams.append(team)
 
 # outputs the results to csv files
-write_teams_to_csv(selected_teams_round_3, league_path_round_3)
-write_teams_to_csv(selected_teams_round_2, league_path_round_2)
+write_teams_to_csv(round_3_teams, league_path_round_3)
+write_teams_to_csv(round_2_teams, league_path_round_2)
 

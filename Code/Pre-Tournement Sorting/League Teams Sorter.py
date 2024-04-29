@@ -88,7 +88,6 @@ if uel_winner_data and uel_winner_data['team_name'] in league_stage_team_names:
             if next_highest_team:
                 league_stage_teams.append(next_highest_team)
                 break
-
 # update league_stage_teams.csv with the selected teams
 with open(league_winners_path, mode='w', newline='', encoding='utf-8') as file:
     fieldnames = ['team_name', 'association', 'uefa_coefficient', 'city', 'status']

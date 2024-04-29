@@ -1,0 +1,37 @@
+team_name,association,uefa_coefficient,city,status
+Barcelona,ESP,78.0,Barcelona,UEFA Champions League Winner
+Villarreal,ESP,68.0,Villarreal,UEFA Europa League Winner
+Manchester City,ENG,130.0,Manchester,
+Aston Villa,ENG,18.635,Birmingham,
+Chelsea,ENG,96.0,London,
+Manchester United,ENG,91.0,Manchester,
+Real Madrid,ESP,112.0,Madrid,
+Real Sociedad,ESP,42.0,San Sebastián,
+Atlético de Madrid,ESP,73.0,Madrid,
+VfL Wolfsburg,GER,22.5,Wolfsburg,
+Borussia Dortmund,GER,75.0,Dortmund,
+Bayer 04 Leverkusen,GER,67.0,Leverkusen,
+Bayern,GER,126.0,Munich,
+AC Milan,ITA,49.0,Milan,
+Atalanta,ITA,58.0,Bergamo,
+Roma,ITA,86.0,Rome,
+Inter,ITA,90.0,Milan,
+Paris Saint-Germain,FRA,101.0,Paris,
+Lille,FRA,35.0,Lille,
+Lens,FRA,11.266,Lens,
+Ajax,NED,64.0,Amsterdam,
+AZ Alkmaar,NED,48.0,Alkmaar,
+Benfica,POR,69.0,Lisbon,
+Antwerp,BEL,21.0,Antwerp,
+Celtic,SCO,30.0,Glasgow,
+Rapid Wien,AUT,14.0,Vienna,
+Liverpool,ENG,100.0,Liverpool,
+Crvena zvezda,SRB,40.0,Belgrade,
+Lyon,FRA,44.0,Lyon,
+Young Boys,SUI,32.5,Bern
+Legia Warszawa,POL,13.0,Warsaw
+Fenerbahçe,TUR,28.0,Istanbul
+APOEL,CYP,14.5,Nicosia
+Qarabağ,AZE,26.0,Baku
+Feyenoord,NED,57.0,Rotterdam
+Braga,POR,48.0,Braga

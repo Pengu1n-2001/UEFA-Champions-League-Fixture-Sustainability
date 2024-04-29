@@ -1,24 +1,24 @@
 match,home_team,home_team_coefficient,home_team_city,home_team_association,away_team,away_team_coefficient,away_team_city,away_team_association,result
-KO-PO 1,Ajax,64.0,Amsterdam,NED,Marseille,34.0,Marseille,FRA,Ajax
-KO-PO 2,Arsenal,58.0,London,ENG,Lazio,43.0,Rome,ITA,Lazio
-KO-PO 3,Shakhtar Donetsk,59.0,Hamburg,UKR,Benfica,69.0,Lisbon,POR,Shakhtar Donetsk
-KO-PO 4,LASK,34.0,Linz,AUT,Atlético de Madrid,73.0,Madrid,ESP,Atlético de Madrid
-KO-PO 5,Bayern,126.0,Munich,GER,Inter,90.0,Milan,ITA,Inter
-KO-PO 6,Rangers,52.0,Glasgow,SCO,Feyenoord,57.0,Rotterdam,NED,Feyenoord
-KO-PO 7,Villarreal,68.0,Villarreal,ESP,Young Boys,32.5,Bern,SUI,Villarreal
-KO-PO 8,Crvena zvezda,40.0,Belgrade,SRB,Chelsea,96.0,London,ENG,Chelsea
-R16-M1,Manchester City,130.0,Manchester,ENG,Ajax,64.0,Amsterdam,NED,Ajax
-R16-M2,Bayer 04 Leverkusen,67.0,Leverkusen,GER,Lazio,43.0,Rome,ITA,Bayer 04 Leverkusen
-R16-M3,Liverpool,100.0,Liverpool,ENG,Shakhtar Donetsk,59.0,Hamburg,UKR,Shakhtar Donetsk
-R16-M4,Paris Saint-Germain,101.0,Paris,FRA,Atlético de Madrid,73.0,Madrid,ESP,Paris Saint-Germain
-R16-M5,Tottenham Hotspur,54.0,London,ENG,Inter,90.0,Milan,ITA,Inter
-R16-M6,Juventus,80.0,Turin,ITA,Feyenoord,57.0,Rotterdam,NED,Feyenoord
-R16-M7,Barcelona,78.0,Barcelona,ESP,Villarreal,68.0,Villarreal,ESP,Barcelona
-R16-M8,Real Madrid,112.0,Madrid,ESP,Chelsea,96.0,London,ENG,Real Madrid
-QF-1,Ajax,64.0,Amsterdam,NED,Bayer 04 Leverkusen,67.0,Leverkusen,GER,Bayer 04 Leverkusen
-QF-2,Shakhtar Donetsk,59.0,Hamburg,UKR,Paris Saint-Germain,101.0,Paris,FRA,Paris Saint-Germain
-QF-3,Inter,90.0,Milan,ITA,Feyenoord,57.0,Rotterdam,NED,Feyenoord
-QF-4,Barcelona,78.0,Barcelona,ESP,Real Madrid,112.0,Madrid,ESP,Barcelona
-SF-1,Bayer 04 Leverkusen,67.0,Leverkusen,GER,Paris Saint-Germain,101.0,Paris,FRA,Paris Saint-Germain
-SF-2,Feyenoord,57.0,Rotterdam,NED,Barcelona,78.0,Barcelona,ESP,Feyenoord
-Final,Paris Saint-Germain,101.0,Paris,FRA,Feyenoord,57.0,Rotterdam,NED,Paris Saint-Germain
+KO-PO 1,Chelsea,96.0,London,ENG,Barcelona,78.0,Barcelona,ESP,Chelsea
+KO-PO 2,Bayern,126.0,Munich,GER,Manchester United,91.0,Manchester,ENG,Manchester United
+KO-PO 3,Real Madrid,112.0,Madrid,ESP,Inter,90.0,Milan,ITA,Inter
+KO-PO 4,Fenerbahçe,28.0,Istanbul,TUR,Ajax,64.0,Amsterdam,NED,Ajax
+KO-PO 5,Celtic,30.0,Glasgow,SCO,Real Sociedad,42.0,San Sebastián,ESP,Real Sociedad
+KO-PO 6,Benfica,69.0,Lisbon,POR,Borussia Dortmund,75.0,Dortmund,GER,Borussia Dortmund
+KO-PO 7,Feyenoord,57.0,Rotterdam,NED,Lyon,44.0,Lyon,FRA,Lyon
+KO-PO 8,Manchester City,130.0,Manchester,ENG,Atalanta,58.0,Bergamo,ITA,Manchester City
+R16-M1,AC Milan,49.0,Milan,ITA,Chelsea,96.0,London,ENG,AC Milan
+R16-M2,Paris Saint-Germain,101.0,Paris,FRA,Manchester United,91.0,Manchester,ENG,Manchester United
+R16-M3,Villarreal,68.0,Villarreal,ESP,Inter,90.0,Milan,ITA,Inter
+R16-M4,Antwerp,21.0,Antwerp,BEL,Ajax,64.0,Amsterdam,NED,Ajax
+R16-M5,Young Boys,32.5,Bern,SUI,Real Sociedad,42.0,San Sebastián,ESP,Real Sociedad
+R16-M6,Roma,86.0,Rome,ITA,Borussia Dortmund,75.0,Dortmund,GER,Roma
+R16-M7,AZ Alkmaar,48.0,Alkmaar,NED,Lyon,44.0,Lyon,FRA,Lyon
+R16-M8,Liverpool,100.0,Liverpool,ENG,Manchester City,130.0,Manchester,ENG,Liverpool
+QF-1,AC Milan,49.0,Milan,ITA,Manchester United,91.0,Manchester,ENG,AC Milan
+QF-2,Inter,90.0,Milan,ITA,Ajax,64.0,Amsterdam,NED,Inter
+QF-3,Real Sociedad,42.0,San Sebastián,ESP,Roma,86.0,Rome,ITA,Real Sociedad
+QF-4,Lyon,44.0,Lyon,FRA,Liverpool,100.0,Liverpool,ENG,Lyon
+SF-1,AC Milan,49.0,Milan,ITA,Inter,90.0,Milan,ITA,AC Milan
+SF-2,Real Sociedad,42.0,San Sebastián,ESP,Lyon,44.0,Lyon,FRA,Lyon
+Final,AC Milan,49.0,Milan,ITA,Lyon,44.0,Lyon,FRA,Lyon

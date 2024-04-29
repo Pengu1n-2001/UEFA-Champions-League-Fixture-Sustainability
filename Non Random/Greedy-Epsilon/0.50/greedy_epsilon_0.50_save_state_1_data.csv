@@ -1,0 +1,1441 @@
+replicate,match,home_team,home_team_coefficient,home_team_city,home_team_association,away_team,away_team_coefficient,away_team_city,away_team_association,distance
+1,1,Bayern,126.0,Munich,GER,Salzburg,49.0,Salzburg,AUT,115.0
+1,2,Bayern,126.0,Munich,GER,LASK,34.0,Linz,AUT,201.0
+1,3,Bayern,126.0,Munich,GER,Viktoria Plzeň,17.0,Plzeň,CZE,209.0
+1,4,Bayern,126.0,Munich,GER,Villarreal,68.0,Villarreal,ESP,1300.0
+1,5,Real Madrid,112.0,Madrid,ESP,Eintracht Frankfurt,57.0,Frankfurt,GER,1446.0
+1,6,Real Madrid,112.0,Madrid,ESP,Bayern,126.0,Munich,GER,1485.0
+1,7,Real Madrid,112.0,Madrid,ESP,Slavia Praha,42.0,Prague,CZE,1773.0
+1,8,Real Madrid,112.0,Madrid,ESP,Nice,17.0,Nice,FRA,976.0
+1,9,Chelsea,96.0,London,ENG,Crvena zvezda,40.0,Belgrade,SRB,1692.0
+1,10,Chelsea,96.0,London,ENG,Roma,86.0,Rome,ITA,1434.0
+1,11,Chelsea,96.0,London,ENG,PSV,43.0,Eindhoven,NED,388.0
+1,12,Chelsea,96.0,London,ENG,Twente,11.42,Enschede,NED,489.0
+1,13,Inter,90.0,Milan,ITA,Hearts,6.53,Edinburgh,SCO,1451.0
+1,14,Inter,90.0,Milan,ITA,Monaco,24.0,Monaco,FRA,238.0
+1,15,Inter,90.0,Milan,ITA,Barcelona,78.0,Barcelona,ESP,725.0
+1,16,Inter,90.0,Milan,ITA,Lyon,44.0,Lyon,FRA,340.0
+1,17,RB Leipzig,87.0,Leipzig,GER,Luzern,6.155,Luzern,SUI,562.0
+1,18,RB Leipzig,87.0,Leipzig,GER,Real Sociedad,42.0,San Sebastián,ESP,1399.0
+1,19,RB Leipzig,87.0,Leipzig,GER,Atalanta,58.0,Bergamo,ITA,658.0
+1,20,RB Leipzig,87.0,Leipzig,GER,Chelsea,96.0,London,ENG,867.0
+1,21,Roma,86.0,Rome,ITA,Rijeka,12.0,Rijeka,CRO,412.0
+1,22,Roma,86.0,Rome,ITA,Braga,48.0,Braga,POR,1734.0
+1,23,Roma,86.0,Rome,ITA,SC Freiburg,19.0,Freiburg,GER,770.0
+1,24,Roma,86.0,Rome,ITA,RB Leipzig,87.0,Leipzig,GER,1050.0
+1,25,Barcelona,78.0,Barcelona,ESP,Fiorentina,24.0,Florence,ITA,789.0
+1,26,Barcelona,78.0,Barcelona,ESP,Genk,13.0,Genk,BEL,1096.0
+1,27,Barcelona,78.0,Barcelona,ESP,Arsenal,58.0,London,ENG,1139.0
+1,28,Barcelona,78.0,Barcelona,ESP,West Ham,54.0,London,ENG,1139.0
+1,29,Villarreal,68.0,Villarreal,ESP,Maribor,9.5,Maribor,SVN,1467.0
+1,30,Villarreal,68.0,Villarreal,ESP,Inter,90.0,Milan,ITA,973.0
+1,31,Villarreal,68.0,Villarreal,ESP,Tottenham Hotspur,54.0,London,ENG,1283.0
+1,32,Villarreal,68.0,Villarreal,ESP,Brighton,18.635,Brighton,ENG,1207.0
+1,33,Arsenal,58.0,London,ENG,AC Milan,49.0,Milan,ITA,959.0
+1,34,Arsenal,58.0,London,ENG,Osasuna,15.922,Pamplona,ESP,974.0
+1,35,Arsenal,58.0,London,ENG,Real Madrid,112.0,Madrid,ESP,1263.0
+1,36,Arsenal,58.0,London,ENG,Slovan Bratislava,26.5,Bratislava,SVK,1288.0
+1,37,Atalanta,58.0,Bergamo,ITA,Luzern,6.155,Luzern,SUI,182.0
+1,38,Atalanta,58.0,Bergamo,ITA,Monaco,24.0,Monaco,FRA,282.0
+1,39,Atalanta,58.0,Bergamo,ITA,Bayern,126.0,Munich,GER,307.0
+1,40,Atalanta,58.0,Bergamo,ITA,Lyon,44.0,Lyon,FRA,375.0
+1,41,Eintracht Frankfurt,57.0,Frankfurt,GER,Genk,13.0,Genk,BEL,243.0
+1,42,Eintracht Frankfurt,57.0,Frankfurt,GER,Braga,48.0,Braga,POR,1627.0
+1,43,Eintracht Frankfurt,57.0,Frankfurt,GER,Villarreal,68.0,Villarreal,ESP,1320.0
+1,44,Eintracht Frankfurt,57.0,Frankfurt,GER,Crvena zvezda,40.0,Belgrade,SRB,1063.0
+1,45,West Ham,54.0,London,ENG,PSV,43.0,Eindhoven,NED,388.0
+1,46,West Ham,54.0,London,ENG,Hearts,6.53,Edinburgh,SCO,534.0
+1,47,West Ham,54.0,London,ENG,SC Freiburg,19.0,Freiburg,GER,693.0
+1,48,West Ham,54.0,London,ENG,Roma,86.0,Rome,ITA,1434.0
+1,49,Tottenham Hotspur,54.0,London,ENG,Twente,11.42,Enschede,NED,489.0
+1,50,Tottenham Hotspur,54.0,London,ENG,Real Sociedad,42.0,San Sebastián,ESP,921.0
+1,51,Tottenham Hotspur,54.0,London,ENG,Eintracht Frankfurt,57.0,Frankfurt,GER,638.0
+1,52,Tottenham Hotspur,54.0,London,ENG,RB Leipzig,87.0,Leipzig,GER,867.0
+1,53,AC Milan,49.0,Milan,ITA,Rijeka,12.0,Rijeka,CRO,410.0
+1,54,AC Milan,49.0,Milan,ITA,Salzburg,49.0,Salzburg,AUT,393.0
+1,55,AC Milan,49.0,Milan,ITA,LASK,34.0,Linz,AUT,499.0
+1,56,AC Milan,49.0,Milan,ITA,Real Madrid,112.0,Madrid,ESP,1188.0
+1,57,Salzburg,49.0,Salzburg,AUT,Viktoria Plzeň,17.0,Plzeň,CZE,215.0
+1,58,Salzburg,49.0,Salzburg,AUT,Slavia Praha,42.0,Prague,CZE,272.0
+1,59,Salzburg,49.0,Salzburg,AUT,Inter,90.0,Milan,ITA,393.0
+1,60,Salzburg,49.0,Salzburg,AUT,West Ham,54.0,London,ENG,1032.0
+1,61,Braga,48.0,Braga,POR,Barcelona,78.0,Barcelona,ESP,884.0
+1,62,Braga,48.0,Braga,POR,Osasuna,15.922,Pamplona,ESP,578.0
+1,63,Braga,48.0,Braga,POR,Brighton,18.635,Brighton,ENG,1211.0
+1,64,Braga,48.0,Braga,POR,Tottenham Hotspur,54.0,London,ENG,1276.0
+1,65,Lyon,44.0,Lyon,FRA,AC Milan,49.0,Milan,ITA,340.0
+1,66,Lyon,44.0,Lyon,FRA,Fiorentina,24.0,Florence,ITA,553.0
+1,67,Lyon,44.0,Lyon,FRA,Maribor,9.5,Maribor,SVN,837.0
+1,68,Lyon,44.0,Lyon,FRA,Chelsea,96.0,London,ENG,735.0
+1,69,PSV,43.0,Eindhoven,NED,Arsenal,58.0,London,ENG,388.0
+1,70,PSV,43.0,Eindhoven,NED,Nice,17.0,Nice,FRA,870.0
+1,71,PSV,43.0,Eindhoven,NED,Atalanta,58.0,Bergamo,ITA,709.0
+1,72,PSV,43.0,Eindhoven,NED,Slovan Bratislava,26.5,Bratislava,SVK,911.0
+1,73,Real Sociedad,42.0,San Sebastián,ESP,Arsenal,58.0,London,ENG,921.0
+1,74,Real Sociedad,42.0,San Sebastián,ESP,Braga,48.0,Braga,POR,566.0
+1,75,Real Sociedad,42.0,San Sebastián,ESP,Nice,17.0,Nice,FRA,746.0
+1,76,Real Sociedad,42.0,San Sebastián,ESP,Monaco,24.0,Monaco,FRA,758.0
+1,77,Slavia Praha,42.0,Prague,CZE,LASK,34.0,Linz,AUT,197.0
+1,78,Slavia Praha,42.0,Prague,CZE,RB Leipzig,87.0,Leipzig,GER,202.0
+1,79,Slavia Praha,42.0,Prague,CZE,Atalanta,58.0,Bergamo,ITA,602.0
+1,80,Slavia Praha,42.0,Prague,CZE,Maribor,9.5,Maribor,SVN,402.0
+1,81,Crvena zvezda,40.0,Belgrade,SRB,West Ham,54.0,London,ENG,1692.0
+1,82,Crvena zvezda,40.0,Belgrade,SRB,Slovan Bratislava,26.5,Bratislava,SVK,453.0
+1,83,Crvena zvezda,40.0,Belgrade,SRB,Rijeka,12.0,Rijeka,CRO,476.0
+1,84,Crvena zvezda,40.0,Belgrade,SRB,Roma,86.0,Rome,ITA,718.0
+1,85,LASK,34.0,Linz,AUT,Viktoria Plzeň,17.0,Plzeň,CZE,184.0
+1,86,LASK,34.0,Linz,AUT,Eintracht Frankfurt,57.0,Frankfurt,GER,453.0
+1,87,LASK,34.0,Linz,AUT,SC Freiburg,19.0,Freiburg,GER,478.0
+1,88,LASK,34.0,Linz,AUT,Chelsea,96.0,London,ENG,1089.0
+1,89,Slovan Bratislava,26.5,Bratislava,SVK,Villarreal,68.0,Villarreal,ESP,1643.0
+1,90,Slovan Bratislava,26.5,Bratislava,SVK,Slavia Praha,42.0,Prague,CZE,289.0
+1,91,Slovan Bratislava,26.5,Bratislava,SVK,Salzburg,49.0,Salzburg,AUT,305.0
+1,92,Slovan Bratislava,26.5,Bratislava,SVK,Luzern,6.155,Luzern,SUI,671.0
+1,93,Fiorentina,24.0,Florence,ITA,Bayern,126.0,Munich,GER,486.0
+1,94,Fiorentina,24.0,Florence,ITA,Osasuna,15.922,Pamplona,ESP,1048.0
+1,95,Fiorentina,24.0,Florence,ITA,Crvena zvezda,40.0,Belgrade,SRB,740.0
+1,96,Fiorentina,24.0,Florence,ITA,PSV,43.0,Eindhoven,NED,956.0
+1,97,Monaco,24.0,Monaco,FRA,Fiorentina,24.0,Florence,ITA,309.0
+1,98,Monaco,24.0,Monaco,FRA,AC Milan,49.0,Milan,ITA,238.0
+1,99,Monaco,24.0,Monaco,FRA,Twente,11.42,Enschede,NED,944.0
+1,100,Monaco,24.0,Monaco,FRA,Barcelona,78.0,Barcelona,ESP,502.0
+1,101,SC Freiburg,19.0,Freiburg,GER,Inter,90.0,Milan,ITA,300.0
+1,102,SC Freiburg,19.0,Freiburg,GER,Genk,13.0,Genk,BEL,370.0
+1,103,SC Freiburg,19.0,Freiburg,GER,Brighton,18.635,Brighton,ENG,659.0
+1,104,SC Freiburg,19.0,Freiburg,GER,Tottenham Hotspur,54.0,London,ENG,693.0
+1,105,Brighton,18.635,Brighton,ENG,Hearts,6.53,Edinburgh,SCO,604.0
+1,106,Brighton,18.635,Brighton,ENG,Lyon,44.0,Lyon,FRA,673.0
+1,107,Brighton,18.635,Brighton,ENG,Real Sociedad,42.0,San Sebastián,ESP,845.0
+1,108,Brighton,18.635,Brighton,ENG,Real Madrid,112.0,Madrid,ESP,1189.0
+1,109,Nice,17.0,Nice,FRA,Slovan Bratislava,26.5,Bratislava,SVK,906.0
+1,110,Nice,17.0,Nice,FRA,AC Milan,49.0,Milan,ITA,247.0
+1,111,Nice,17.0,Nice,FRA,Inter,90.0,Milan,ITA,247.0
+1,112,Nice,17.0,Nice,FRA,Luzern,6.155,Luzern,SUI,380.0
+1,113,Viktoria Plzeň,17.0,Plzeň,CZE,Hearts,6.53,Edinburgh,SCO,1285.0
+1,114,Viktoria Plzeň,17.0,Plzeň,CZE,RB Leipzig,87.0,Leipzig,GER,183.0
+1,115,Viktoria Plzeň,17.0,Plzeň,CZE,Eintracht Frankfurt,57.0,Frankfurt,GER,315.0
+1,116,Viktoria Plzeň,17.0,Plzeň,CZE,SC Freiburg,19.0,Freiburg,GER,427.0
+1,117,Osasuna,15.922,Pamplona,ESP,Maribor,9.5,Maribor,SVN,1426.0
+1,118,Osasuna,15.922,Pamplona,ESP,Chelsea,96.0,London,ENG,974.0
+1,119,Osasuna,15.922,Pamplona,ESP,Salzburg,49.0,Salzburg,AUT,1273.0
+1,120,Osasuna,15.922,Pamplona,ESP,Monaco,24.0,Monaco,FRA,740.0
+1,121,Genk,13.0,Genk,BEL,PSV,43.0,Eindhoven,NED,53.0
+1,122,Genk,13.0,Genk,BEL,Real Sociedad,42.0,San Sebastián,ESP,1021.0
+1,123,Genk,13.0,Genk,BEL,Roma,86.0,Rome,ITA,1140.0
+1,124,Genk,13.0,Genk,BEL,Twente,11.42,Enschede,NED,169.0
+1,125,Rijeka,12.0,Rijeka,CRO,Fiorentina,24.0,Florence,ITA,306.0
+1,126,Rijeka,12.0,Rijeka,CRO,Atalanta,58.0,Bergamo,ITA,374.0
+1,127,Rijeka,12.0,Rijeka,CRO,Bayern,126.0,Munich,GER,381.0
+1,128,Rijeka,12.0,Rijeka,CRO,Osasuna,15.922,Pamplona,ESP,1313.0
+1,129,Twente,11.42,Enschede,NED,West Ham,54.0,London,ENG,489.0
+1,130,Twente,11.42,Enschede,NED,Barcelona,78.0,Barcelona,ESP,1257.0
+1,131,Twente,11.42,Enschede,NED,Viktoria Plzeň,17.0,Plzeň,CZE,511.0
+1,132,Twente,11.42,Enschede,NED,Brighton,18.635,Brighton,ENG,513.0
+1,133,Maribor,9.5,Maribor,SVN,LASK,34.0,Linz,AUT,220.0
+1,134,Maribor,9.5,Maribor,SVN,Braga,48.0,Braga,POR,1996.0
+1,135,Maribor,9.5,Maribor,SVN,Rijeka,12.0,Rijeka,CRO,165.0
+1,136,Maribor,9.5,Maribor,SVN,Arsenal,58.0,London,ENG,1272.0
+1,137,Hearts,6.53,Edinburgh,SCO,Tottenham Hotspur,54.0,London,ENG,534.0
+1,138,Hearts,6.53,Edinburgh,SCO,Slavia Praha,42.0,Prague,CZE,1343.0
+1,139,Hearts,6.53,Edinburgh,SCO,Nice,17.0,Nice,FRA,1550.0
+1,140,Hearts,6.53,Edinburgh,SCO,Villarreal,68.0,Villarreal,ESP,1792.0
+1,141,Luzern,6.155,Luzern,SUI,Genk,13.0,Genk,BEL,480.0
+1,142,Luzern,6.155,Luzern,SUI,Lyon,44.0,Lyon,FRA,302.0
+1,143,Luzern,6.155,Luzern,SUI,Crvena zvezda,40.0,Belgrade,SRB,971.0
+1,144,Luzern,6.155,Luzern,SUI,Real Madrid,112.0,Madrid,ESP,1212.0
+2,1,Bayern,126.0,Munich,GER,Hearts,6.53,Edinburgh,SCO,1328.0
+2,2,Bayern,126.0,Munich,GER,Salzburg,49.0,Salzburg,AUT,115.0
+2,3,Bayern,126.0,Munich,GER,LASK,34.0,Linz,AUT,201.0
+2,4,Bayern,126.0,Munich,GER,Roma,86.0,Rome,ITA,697.0
+2,5,Real Madrid,112.0,Madrid,ESP,Braga,48.0,Braga,POR,417.0
+2,6,Real Madrid,112.0,Madrid,ESP,Twente,11.42,Enschede,NED,1541.0
+2,7,Real Madrid,112.0,Madrid,ESP,Bayern,126.0,Munich,GER,1485.0
+2,8,Real Madrid,112.0,Madrid,ESP,Monaco,24.0,Monaco,FRA,988.0
+2,9,Chelsea,96.0,London,ENG,Crvena zvezda,40.0,Belgrade,SRB,1692.0
+2,10,Chelsea,96.0,London,ENG,PSV,43.0,Eindhoven,NED,388.0
+2,11,Chelsea,96.0,London,ENG,Rijeka,12.0,Rijeka,CRO,1273.0
+2,12,Chelsea,96.0,London,ENG,RB Leipzig,87.0,Leipzig,GER,867.0
+2,13,Inter,90.0,Milan,ITA,Real Madrid,112.0,Madrid,ESP,1188.0
+2,14,Inter,90.0,Milan,ITA,Luzern,6.155,Luzern,SUI,189.0
+2,15,Inter,90.0,Milan,ITA,SC Freiburg,19.0,Freiburg,GER,300.0
+2,16,Inter,90.0,Milan,ITA,Lyon,44.0,Lyon,FRA,340.0
+2,17,RB Leipzig,87.0,Leipzig,GER,Brighton,18.635,Brighton,ENG,878.0
+2,18,RB Leipzig,87.0,Leipzig,GER,Viktoria Plzeň,17.0,Plzeň,CZE,183.0
+2,19,RB Leipzig,87.0,Leipzig,GER,Atalanta,58.0,Bergamo,ITA,658.0
+2,20,RB Leipzig,87.0,Leipzig,GER,Arsenal,58.0,London,ENG,867.0
+2,21,Roma,86.0,Rome,ITA,Nice,17.0,Nice,FRA,472.0
+2,22,Roma,86.0,Rome,ITA,Slovan Bratislava,26.5,Bratislava,SVK,783.0
+2,23,Roma,86.0,Rome,ITA,Barcelona,78.0,Barcelona,ESP,859.0
+2,24,Roma,86.0,Rome,ITA,Eintracht Frankfurt,57.0,Frankfurt,GER,959.0
+2,25,Barcelona,78.0,Barcelona,ESP,Genk,13.0,Genk,BEL,1096.0
+2,26,Barcelona,78.0,Barcelona,ESP,West Ham,54.0,London,ENG,1139.0
+2,27,Barcelona,78.0,Barcelona,ESP,Inter,90.0,Milan,ITA,725.0
+2,28,Barcelona,78.0,Barcelona,ESP,Fiorentina,24.0,Florence,ITA,789.0
+2,29,Villarreal,68.0,Villarreal,ESP,Slavia Praha,42.0,Prague,CZE,1597.0
+2,30,Villarreal,68.0,Villarreal,ESP,Tottenham Hotspur,54.0,London,ENG,1283.0
+2,31,Villarreal,68.0,Villarreal,ESP,Maribor,9.5,Maribor,SVN,1467.0
+2,32,Villarreal,68.0,Villarreal,ESP,Chelsea,96.0,London,ENG,1283.0
+2,33,Arsenal,58.0,London,ENG,Real Sociedad,42.0,San Sebastián,ESP,921.0
+2,34,Arsenal,58.0,London,ENG,Villarreal,68.0,Villarreal,ESP,1283.0
+2,35,Arsenal,58.0,London,ENG,Osasuna,15.922,Pamplona,ESP,974.0
+2,36,Arsenal,58.0,London,ENG,AC Milan,49.0,Milan,ITA,959.0
+2,37,Atalanta,58.0,Bergamo,ITA,Luzern,6.155,Luzern,SUI,182.0
+2,38,Atalanta,58.0,Bergamo,ITA,Monaco,24.0,Monaco,FRA,282.0
+2,39,Atalanta,58.0,Bergamo,ITA,Barcelona,78.0,Barcelona,ESP,771.0
+2,40,Atalanta,58.0,Bergamo,ITA,Eintracht Frankfurt,57.0,Frankfurt,GER,495.0
+2,41,Eintracht Frankfurt,57.0,Frankfurt,GER,Genk,13.0,Genk,BEL,243.0
+2,42,Eintracht Frankfurt,57.0,Frankfurt,GER,Lyon,44.0,Lyon,FRA,562.0
+2,43,Eintracht Frankfurt,57.0,Frankfurt,GER,Slavia Praha,42.0,Prague,CZE,411.0
+2,44,Eintracht Frankfurt,57.0,Frankfurt,GER,Inter,90.0,Milan,ITA,518.0
+2,45,West Ham,54.0,London,ENG,Bayern,126.0,Munich,GER,919.0
+2,46,West Ham,54.0,London,ENG,SC Freiburg,19.0,Freiburg,GER,693.0
+2,47,West Ham,54.0,London,ENG,PSV,43.0,Eindhoven,NED,388.0
+2,48,West Ham,54.0,London,ENG,Twente,11.42,Enschede,NED,489.0
+2,49,Tottenham Hotspur,54.0,London,ENG,Salzburg,49.0,Salzburg,AUT,1032.0
+2,50,Tottenham Hotspur,54.0,London,ENG,Hearts,6.53,Edinburgh,SCO,534.0
+2,51,Tottenham Hotspur,54.0,London,ENG,RB Leipzig,87.0,Leipzig,GER,867.0
+2,52,Tottenham Hotspur,54.0,London,ENG,Real Sociedad,42.0,San Sebastián,ESP,921.0
+2,53,AC Milan,49.0,Milan,ITA,Real Madrid,112.0,Madrid,ESP,1188.0
+2,54,AC Milan,49.0,Milan,ITA,Nice,17.0,Nice,FRA,247.0
+2,55,AC Milan,49.0,Milan,ITA,LASK,34.0,Linz,AUT,499.0
+2,56,AC Milan,49.0,Milan,ITA,Braga,48.0,Braga,POR,1484.0
+2,57,Salzburg,49.0,Salzburg,AUT,Viktoria Plzeň,17.0,Plzeň,CZE,215.0
+2,58,Salzburg,49.0,Salzburg,AUT,Slovan Bratislava,26.5,Bratislava,SVK,305.0
+2,59,Salzburg,49.0,Salzburg,AUT,Roma,86.0,Rome,ITA,658.0
+2,60,Salzburg,49.0,Salzburg,AUT,Atalanta,58.0,Bergamo,ITA,348.0
+2,61,Braga,48.0,Braga,POR,Brighton,18.635,Brighton,ENG,1211.0
+2,62,Braga,48.0,Braga,POR,Chelsea,96.0,London,ENG,1276.0
+2,63,Braga,48.0,Braga,POR,Osasuna,15.922,Pamplona,ESP,578.0
+2,64,Braga,48.0,Braga,POR,West Ham,54.0,London,ENG,1276.0
+2,65,Lyon,44.0,Lyon,FRA,AC Milan,49.0,Milan,ITA,340.0
+2,66,Lyon,44.0,Lyon,FRA,Fiorentina,24.0,Florence,ITA,553.0
+2,67,Lyon,44.0,Lyon,FRA,Arsenal,58.0,London,ENG,735.0
+2,68,Lyon,44.0,Lyon,FRA,Rijeka,12.0,Rijeka,CRO,749.0
+2,69,PSV,43.0,Eindhoven,NED,Tottenham Hotspur,54.0,London,ENG,388.0
+2,70,PSV,43.0,Eindhoven,NED,Maribor,9.5,Maribor,SVN,919.0
+2,71,PSV,43.0,Eindhoven,NED,Crvena zvezda,40.0,Belgrade,SRB,1332.0
+2,72,PSV,43.0,Eindhoven,NED,Villarreal,68.0,Villarreal,ESP,1346.0
+2,73,Real Sociedad,42.0,San Sebastián,ESP,Braga,48.0,Braga,POR,566.0
+2,74,Real Sociedad,42.0,San Sebastián,ESP,Nice,17.0,Nice,FRA,746.0
+2,75,Real Sociedad,42.0,San Sebastián,ESP,Bayern,126.0,Munich,GER,1179.0
+2,76,Real Sociedad,42.0,San Sebastián,ESP,Monaco,24.0,Monaco,FRA,758.0
+2,77,Slavia Praha,42.0,Prague,CZE,Atalanta,58.0,Bergamo,ITA,602.0
+2,78,Slavia Praha,42.0,Prague,CZE,LASK,34.0,Linz,AUT,197.0
+2,79,Slavia Praha,42.0,Prague,CZE,RB Leipzig,87.0,Leipzig,GER,202.0
+2,80,Slavia Praha,42.0,Prague,CZE,Maribor,9.5,Maribor,SVN,402.0
+2,81,Crvena zvezda,40.0,Belgrade,SRB,Slovan Bratislava,26.5,Bratislava,SVK,453.0
+2,82,Crvena zvezda,40.0,Belgrade,SRB,Rijeka,12.0,Rijeka,CRO,476.0
+2,83,Crvena zvezda,40.0,Belgrade,SRB,Salzburg,49.0,Salzburg,AUT,660.0
+2,84,Crvena zvezda,40.0,Belgrade,SRB,Roma,86.0,Rome,ITA,718.0
+2,85,LASK,34.0,Linz,AUT,Viktoria Plzeň,17.0,Plzeň,CZE,184.0
+2,86,LASK,34.0,Linz,AUT,Eintracht Frankfurt,57.0,Frankfurt,GER,453.0
+2,87,LASK,34.0,Linz,AUT,SC Freiburg,19.0,Freiburg,GER,478.0
+2,88,LASK,34.0,Linz,AUT,Real Madrid,112.0,Madrid,ESP,1671.0
+2,89,Slovan Bratislava,26.5,Bratislava,SVK,Inter,90.0,Milan,ITA,672.0
+2,90,Slovan Bratislava,26.5,Bratislava,SVK,Slavia Praha,42.0,Prague,CZE,289.0
+2,91,Slovan Bratislava,26.5,Bratislava,SVK,AC Milan,49.0,Milan,ITA,672.0
+2,92,Slovan Bratislava,26.5,Bratislava,SVK,Luzern,6.155,Luzern,SUI,671.0
+2,93,Fiorentina,24.0,Florence,ITA,Crvena zvezda,40.0,Belgrade,SRB,740.0
+2,94,Fiorentina,24.0,Florence,ITA,Hearts,6.53,Edinburgh,SCO,1698.0
+2,95,Fiorentina,24.0,Florence,ITA,PSV,43.0,Eindhoven,NED,956.0
+2,96,Fiorentina,24.0,Florence,ITA,Arsenal,58.0,London,ENG,1209.0
+2,97,Monaco,24.0,Monaco,FRA,Villarreal,68.0,Villarreal,ESP,750.0
+2,98,Monaco,24.0,Monaco,FRA,Fiorentina,24.0,Florence,ITA,309.0
+2,99,Monaco,24.0,Monaco,FRA,West Ham,54.0,London,ENG,1031.0
+2,100,Monaco,24.0,Monaco,FRA,Osasuna,15.922,Pamplona,ESP,740.0
+2,101,SC Freiburg,19.0,Freiburg,GER,Genk,13.0,Genk,BEL,370.0
+2,102,SC Freiburg,19.0,Freiburg,GER,Brighton,18.635,Brighton,ENG,659.0
+2,103,SC Freiburg,19.0,Freiburg,GER,Tottenham Hotspur,54.0,London,ENG,693.0
+2,104,SC Freiburg,19.0,Freiburg,GER,Chelsea,96.0,London,ENG,693.0
+2,105,Brighton,18.635,Brighton,ENG,Twente,11.42,Enschede,NED,513.0
+2,106,Brighton,18.635,Brighton,ENG,Real Sociedad,42.0,San Sebastián,ESP,845.0
+2,107,Brighton,18.635,Brighton,ENG,Lyon,44.0,Lyon,FRA,673.0
+2,108,Brighton,18.635,Brighton,ENG,Barcelona,78.0,Barcelona,ESP,1065.0
+2,109,Nice,17.0,Nice,FRA,Braga,48.0,Braga,POR,1306.0
+2,110,Nice,17.0,Nice,FRA,Inter,90.0,Milan,ITA,247.0
+2,111,Nice,17.0,Nice,FRA,Fiorentina,24.0,Florence,ITA,321.0
+2,112,Nice,17.0,Nice,FRA,Luzern,6.155,Luzern,SUI,380.0
+2,113,Viktoria Plzeň,17.0,Plzeň,CZE,Brighton,18.635,Brighton,ENG,945.0
+2,114,Viktoria Plzeň,17.0,Plzeň,CZE,Arsenal,58.0,London,ENG,948.0
+2,115,Viktoria Plzeň,17.0,Plzeň,CZE,PSV,43.0,Eindhoven,NED,567.0
+2,116,Viktoria Plzeň,17.0,Plzeň,CZE,Osasuna,15.922,Pamplona,ESP,1363.0
+2,117,Osasuna,15.922,Pamplona,ESP,Lyon,44.0,Lyon,FRA,611.0
+2,118,Osasuna,15.922,Pamplona,ESP,Nice,17.0,Nice,FRA,728.0
+2,119,Osasuna,15.922,Pamplona,ESP,Roma,86.0,Rome,ITA,1165.0
+2,120,Osasuna,15.922,Pamplona,ESP,SC Freiburg,19.0,Freiburg,GER,938.0
+2,121,Genk,13.0,Genk,BEL,Chelsea,96.0,London,ENG,398.0
+2,122,Genk,13.0,Genk,BEL,Twente,11.42,Enschede,NED,169.0
+2,123,Genk,13.0,Genk,BEL,West Ham,54.0,London,ENG,398.0
+2,124,Genk,13.0,Genk,BEL,Crvena zvezda,40.0,Belgrade,SRB,1305.0
+2,125,Rijeka,12.0,Rijeka,CRO,Maribor,9.5,Maribor,SVN,165.0
+2,126,Rijeka,12.0,Rijeka,CRO,Real Sociedad,42.0,San Sebastián,ESP,1323.0
+2,127,Rijeka,12.0,Rijeka,CRO,Salzburg,49.0,Salzburg,AUT,296.0
+2,128,Rijeka,12.0,Rijeka,CRO,Bayern,126.0,Munich,GER,381.0
+2,129,Twente,11.42,Enschede,NED,Eintracht Frankfurt,57.0,Frankfurt,GER,266.0
+2,130,Twente,11.42,Enschede,NED,Viktoria Plzeň,17.0,Plzeň,CZE,511.0
+2,131,Twente,11.42,Enschede,NED,RB Leipzig,87.0,Leipzig,GER,390.0
+2,132,Twente,11.42,Enschede,NED,Slovan Bratislava,26.5,Bratislava,SVK,855.0
+2,133,Maribor,9.5,Maribor,SVN,Real Madrid,112.0,Madrid,ESP,1698.0
+2,134,Maribor,9.5,Maribor,SVN,LASK,34.0,Linz,AUT,220.0
+2,135,Maribor,9.5,Maribor,SVN,AC Milan,49.0,Milan,ITA,513.0
+2,136,Maribor,9.5,Maribor,SVN,Hearts,6.53,Edinburgh,SCO,1667.0
+2,137,Hearts,6.53,Edinburgh,SCO,Genk,13.0,Genk,BEL,799.0
+2,138,Hearts,6.53,Edinburgh,SCO,Slavia Praha,42.0,Prague,CZE,1343.0
+2,139,Hearts,6.53,Edinburgh,SCO,Barcelona,78.0,Barcelona,ESP,1666.0
+2,140,Hearts,6.53,Edinburgh,SCO,Atalanta,58.0,Bergamo,ITA,1449.0
+2,141,Luzern,6.155,Luzern,SUI,Villarreal,68.0,Villarreal,ESP,1038.0
+2,142,Luzern,6.155,Luzern,SUI,Tottenham Hotspur,54.0,London,ENG,787.0
+2,143,Luzern,6.155,Luzern,SUI,Monaco,24.0,Monaco,FRA,375.0
+2,144,Luzern,6.155,Luzern,SUI,Rijeka,12.0,Rijeka,CRO,509.0
+3,1,Bayern,126.0,Munich,GER,Salzburg,49.0,Salzburg,AUT,115.0
+3,2,Bayern,126.0,Munich,GER,Crvena zvezda,40.0,Belgrade,SRB,774.0
+3,3,Bayern,126.0,Munich,GER,Genk,13.0,Genk,BEL,539.0
+3,4,Bayern,126.0,Munich,GER,Inter,90.0,Milan,ITA,348.0
+3,5,Real Madrid,112.0,Madrid,ESP,Braga,48.0,Braga,POR,417.0
+3,6,Real Madrid,112.0,Madrid,ESP,LASK,34.0,Linz,AUT,1671.0
+3,7,Real Madrid,112.0,Madrid,ESP,Hearts,6.53,Edinburgh,SCO,1728.0
+3,8,Real Madrid,112.0,Madrid,ESP,Roma,86.0,Rome,ITA,1364.0
+3,9,Chelsea,96.0,London,ENG,PSV,43.0,Eindhoven,NED,388.0
+3,10,Chelsea,96.0,London,ENG,RB Leipzig,87.0,Leipzig,GER,867.0
+3,11,Chelsea,96.0,London,ENG,Twente,11.42,Enschede,NED,489.0
+3,12,Chelsea,96.0,London,ENG,Monaco,24.0,Monaco,FRA,1031.0
+3,13,Inter,90.0,Milan,ITA,Tottenham Hotspur,54.0,London,ENG,959.0
+3,14,Inter,90.0,Milan,ITA,Nice,17.0,Nice,FRA,247.0
+3,15,Inter,90.0,Milan,ITA,SC Freiburg,19.0,Freiburg,GER,300.0
+3,16,Inter,90.0,Milan,ITA,Barcelona,78.0,Barcelona,ESP,725.0
+3,17,RB Leipzig,87.0,Leipzig,GER,Viktoria Plzeň,17.0,Plzeň,CZE,183.0
+3,18,RB Leipzig,87.0,Leipzig,GER,Slavia Praha,42.0,Prague,CZE,202.0
+3,19,RB Leipzig,87.0,Leipzig,GER,Atalanta,58.0,Bergamo,ITA,658.0
+3,20,RB Leipzig,87.0,Leipzig,GER,Real Madrid,112.0,Madrid,ESP,1733.0
+3,21,Roma,86.0,Rome,ITA,Bayern,126.0,Munich,GER,697.0
+3,22,Roma,86.0,Rome,ITA,Rijeka,12.0,Rijeka,CRO,412.0
+3,23,Roma,86.0,Rome,ITA,Lyon,44.0,Lyon,FRA,749.0
+3,24,Roma,86.0,Rome,ITA,Slovan Bratislava,26.5,Bratislava,SVK,783.0
+3,25,Barcelona,78.0,Barcelona,ESP,AC Milan,49.0,Milan,ITA,725.0
+3,26,Barcelona,78.0,Barcelona,ESP,Fiorentina,24.0,Florence,ITA,789.0
+3,27,Barcelona,78.0,Barcelona,ESP,Luzern,6.155,Luzern,SUI,797.0
+3,28,Barcelona,78.0,Barcelona,ESP,Arsenal,58.0,London,ENG,1139.0
+3,29,Villarreal,68.0,Villarreal,ESP,Brighton,18.635,Brighton,ENG,1207.0
+3,30,Villarreal,68.0,Villarreal,ESP,Chelsea,96.0,London,ENG,1283.0
+3,31,Villarreal,68.0,Villarreal,ESP,Maribor,9.5,Maribor,SVN,1467.0
+3,32,Villarreal,68.0,Villarreal,ESP,West Ham,54.0,London,ENG,1283.0
+3,33,Arsenal,58.0,London,ENG,Villarreal,68.0,Villarreal,ESP,1283.0
+3,34,Arsenal,58.0,London,ENG,Eintracht Frankfurt,57.0,Frankfurt,GER,638.0
+3,35,Arsenal,58.0,London,ENG,Real Sociedad,42.0,San Sebastián,ESP,921.0
+3,36,Arsenal,58.0,London,ENG,Osasuna,15.922,Pamplona,ESP,974.0
+3,37,Atalanta,58.0,Bergamo,ITA,Bayern,126.0,Munich,GER,307.0
+3,38,Atalanta,58.0,Bergamo,ITA,Luzern,6.155,Luzern,SUI,182.0
+3,39,Atalanta,58.0,Bergamo,ITA,West Ham,54.0,London,ENG,966.0
+3,40,Atalanta,58.0,Bergamo,ITA,Monaco,24.0,Monaco,FRA,282.0
+3,41,Eintracht Frankfurt,57.0,Frankfurt,GER,Genk,13.0,Genk,BEL,243.0
+3,42,Eintracht Frankfurt,57.0,Frankfurt,GER,Fiorentina,24.0,Florence,ITA,732.0
+3,43,Eintracht Frankfurt,57.0,Frankfurt,GER,Barcelona,78.0,Barcelona,ESP,1093.0
+3,44,Eintracht Frankfurt,57.0,Frankfurt,GER,Lyon,44.0,Lyon,FRA,562.0
+3,45,West Ham,54.0,London,ENG,Rijeka,12.0,Rijeka,CRO,1273.0
+3,46,West Ham,54.0,London,ENG,Inter,90.0,Milan,ITA,959.0
+3,47,West Ham,54.0,London,ENG,PSV,43.0,Eindhoven,NED,388.0
+3,48,West Ham,54.0,London,ENG,SC Freiburg,19.0,Freiburg,GER,693.0
+3,49,Tottenham Hotspur,54.0,London,ENG,Twente,11.42,Enschede,NED,489.0
+3,50,Tottenham Hotspur,54.0,London,ENG,Eintracht Frankfurt,57.0,Frankfurt,GER,638.0
+3,51,Tottenham Hotspur,54.0,London,ENG,Crvena zvezda,40.0,Belgrade,SRB,1692.0
+3,52,Tottenham Hotspur,54.0,London,ENG,Villarreal,68.0,Villarreal,ESP,1283.0
+3,53,AC Milan,49.0,Milan,ITA,Nice,17.0,Nice,FRA,247.0
+3,54,AC Milan,49.0,Milan,ITA,Salzburg,49.0,Salzburg,AUT,393.0
+3,55,AC Milan,49.0,Milan,ITA,LASK,34.0,Linz,AUT,499.0
+3,56,AC Milan,49.0,Milan,ITA,Chelsea,96.0,London,ENG,959.0
+3,57,Salzburg,49.0,Salzburg,AUT,Tottenham Hotspur,54.0,London,ENG,1032.0
+3,58,Salzburg,49.0,Salzburg,AUT,Viktoria Plzeň,17.0,Plzeň,CZE,215.0
+3,59,Salzburg,49.0,Salzburg,AUT,Real Madrid,112.0,Madrid,ESP,1565.0
+3,60,Salzburg,49.0,Salzburg,AUT,Slavia Praha,42.0,Prague,CZE,272.0
+3,61,Braga,48.0,Braga,POR,Real Sociedad,42.0,San Sebastián,ESP,566.0
+3,62,Braga,48.0,Braga,POR,Osasuna,15.922,Pamplona,ESP,578.0
+3,63,Braga,48.0,Braga,POR,Arsenal,58.0,London,ENG,1276.0
+3,64,Braga,48.0,Braga,POR,AC Milan,49.0,Milan,ITA,1484.0
+3,65,Lyon,44.0,Lyon,FRA,Slovan Bratislava,26.5,Bratislava,SVK,967.0
+3,66,Lyon,44.0,Lyon,FRA,Atalanta,58.0,Bergamo,ITA,375.0
+3,67,Lyon,44.0,Lyon,FRA,RB Leipzig,87.0,Leipzig,GER,832.0
+3,68,Lyon,44.0,Lyon,FRA,Maribor,9.5,Maribor,SVN,837.0
+3,69,PSV,43.0,Eindhoven,NED,Braga,48.0,Braga,POR,1527.0
+3,70,PSV,43.0,Eindhoven,NED,Brighton,18.635,Brighton,ENG,400.0
+3,71,PSV,43.0,Eindhoven,NED,Hearts,6.53,Edinburgh,SCO,758.0
+3,72,PSV,43.0,Eindhoven,NED,Roma,86.0,Rome,ITA,1187.0
+3,73,Real Sociedad,42.0,San Sebastián,ESP,Twente,11.42,Enschede,NED,1190.0
+3,74,Real Sociedad,42.0,San Sebastián,ESP,Lyon,44.0,Lyon,FRA,604.0
+3,75,Real Sociedad,42.0,San Sebastián,ESP,Monaco,24.0,Monaco,FRA,758.0
+3,76,Real Sociedad,42.0,San Sebastián,ESP,Inter,90.0,Milan,ITA,918.0
+3,77,Slavia Praha,42.0,Prague,CZE,LASK,34.0,Linz,AUT,197.0
+3,78,Slavia Praha,42.0,Prague,CZE,Bayern,126.0,Munich,GER,300.0
+3,79,Slavia Praha,42.0,Prague,CZE,Maribor,9.5,Maribor,SVN,402.0
+3,80,Slavia Praha,42.0,Prague,CZE,West Ham,54.0,London,ENG,1034.0
+3,81,Crvena zvezda,40.0,Belgrade,SRB,RB Leipzig,87.0,Leipzig,GER,942.0
+3,82,Crvena zvezda,40.0,Belgrade,SRB,Slovan Bratislava,26.5,Bratislava,SVK,453.0
+3,83,Crvena zvezda,40.0,Belgrade,SRB,AC Milan,49.0,Milan,ITA,886.0
+3,84,Crvena zvezda,40.0,Belgrade,SRB,Viktoria Plzeň,17.0,Plzeň,CZE,784.0
+3,85,LASK,34.0,Linz,AUT,Rijeka,12.0,Rijeka,CRO,332.0
+3,86,LASK,34.0,Linz,AUT,Eintracht Frankfurt,57.0,Frankfurt,GER,453.0
+3,87,LASK,34.0,Linz,AUT,SC Freiburg,19.0,Freiburg,GER,478.0
+3,88,LASK,34.0,Linz,AUT,Chelsea,96.0,London,ENG,1089.0
+3,89,Slovan Bratislava,26.5,Bratislava,SVK,Slavia Praha,42.0,Prague,CZE,289.0
+3,90,Slovan Bratislava,26.5,Bratislava,SVK,Villarreal,68.0,Villarreal,ESP,1643.0
+3,91,Slovan Bratislava,26.5,Bratislava,SVK,Salzburg,49.0,Salzburg,AUT,305.0
+3,92,Slovan Bratislava,26.5,Bratislava,SVK,Luzern,6.155,Luzern,SUI,671.0
+3,93,Fiorentina,24.0,Florence,ITA,Arsenal,58.0,London,ENG,1209.0
+3,94,Fiorentina,24.0,Florence,ITA,Nice,17.0,Nice,FRA,321.0
+3,95,Fiorentina,24.0,Florence,ITA,Real Sociedad,42.0,San Sebastián,ESP,1067.0
+3,96,Fiorentina,24.0,Florence,ITA,PSV,43.0,Eindhoven,NED,956.0
+3,97,Monaco,24.0,Monaco,FRA,Fiorentina,24.0,Florence,ITA,309.0
+3,98,Monaco,24.0,Monaco,FRA,Roma,86.0,Rome,ITA,462.0
+3,99,Monaco,24.0,Monaco,FRA,Tottenham Hotspur,54.0,London,ENG,1031.0
+3,100,Monaco,24.0,Monaco,FRA,Osasuna,15.922,Pamplona,ESP,740.0
+3,101,SC Freiburg,19.0,Freiburg,GER,Real Madrid,112.0,Madrid,ESP,1246.0
+3,102,SC Freiburg,19.0,Freiburg,GER,Atalanta,58.0,Bergamo,ITA,290.0
+3,103,SC Freiburg,19.0,Freiburg,GER,Genk,13.0,Genk,BEL,370.0
+3,104,SC Freiburg,19.0,Freiburg,GER,Brighton,18.635,Brighton,ENG,659.0
+3,105,Brighton,18.635,Brighton,ENG,Barcelona,78.0,Barcelona,ESP,1065.0
+3,106,Brighton,18.635,Brighton,ENG,Crvena zvezda,40.0,Belgrade,SRB,1673.0
+3,107,Brighton,18.635,Brighton,ENG,Hearts,6.53,Edinburgh,SCO,604.0
+3,108,Brighton,18.635,Brighton,ENG,Braga,48.0,Braga,POR,1211.0
+3,109,Nice,17.0,Nice,FRA,SC Freiburg,19.0,Freiburg,GER,479.0
+3,110,Nice,17.0,Nice,FRA,Atalanta,58.0,Bergamo,ITA,292.0
+3,111,Nice,17.0,Nice,FRA,Hearts,6.53,Edinburgh,SCO,1550.0
+3,112,Nice,17.0,Nice,FRA,Arsenal,58.0,London,ENG,1028.0
+3,113,Viktoria Plzeň,17.0,Plzeň,CZE,LASK,34.0,Linz,AUT,184.0
+3,114,Viktoria Plzeň,17.0,Plzeň,CZE,Inter,90.0,Milan,ITA,557.0
+3,115,Viktoria Plzeň,17.0,Plzeň,CZE,AC Milan,49.0,Milan,ITA,557.0
+3,116,Viktoria Plzeň,17.0,Plzeň,CZE,Genk,13.0,Genk,BEL,551.0
+3,117,Osasuna,15.922,Pamplona,ESP,Tottenham Hotspur,54.0,London,ENG,974.0
+3,118,Osasuna,15.922,Pamplona,ESP,Nice,17.0,Nice,FRA,728.0
+3,119,Osasuna,15.922,Pamplona,ESP,Brighton,18.635,Brighton,ENG,898.0
+3,120,Osasuna,15.922,Pamplona,ESP,Chelsea,96.0,London,ENG,974.0
+3,121,Genk,13.0,Genk,BEL,PSV,43.0,Eindhoven,NED,53.0
+3,122,Genk,13.0,Genk,BEL,Luzern,6.155,Luzern,SUI,480.0
+3,123,Genk,13.0,Genk,BEL,RB Leipzig,87.0,Leipzig,GER,481.0
+3,124,Genk,13.0,Genk,BEL,Slavia Praha,42.0,Prague,CZE,638.0
+3,125,Rijeka,12.0,Rijeka,CRO,Maribor,9.5,Maribor,SVN,165.0
+3,126,Rijeka,12.0,Rijeka,CRO,Salzburg,49.0,Salzburg,AUT,296.0
+3,127,Rijeka,12.0,Rijeka,CRO,Fiorentina,24.0,Florence,ITA,306.0
+3,128,Rijeka,12.0,Rijeka,CRO,Barcelona,78.0,Barcelona,ESP,1083.0
+3,129,Twente,11.42,Enschede,NED,Eintracht Frankfurt,57.0,Frankfurt,GER,266.0
+3,130,Twente,11.42,Enschede,NED,Roma,86.0,Rome,ITA,1222.0
+3,131,Twente,11.42,Enschede,NED,Viktoria Plzeň,17.0,Plzeň,CZE,511.0
+3,132,Twente,11.42,Enschede,NED,Slovan Bratislava,26.5,Bratislava,SVK,855.0
+3,133,Maribor,9.5,Maribor,SVN,Bayern,126.0,Munich,GER,353.0
+3,134,Maribor,9.5,Maribor,SVN,Monaco,24.0,Monaco,FRA,717.0
+3,135,Maribor,9.5,Maribor,SVN,Twente,11.42,Enschede,NED,892.0
+3,136,Maribor,9.5,Maribor,SVN,West Ham,54.0,London,ENG,1272.0
+3,137,Hearts,6.53,Edinburgh,SCO,Lyon,44.0,Lyon,FRA,1263.0
+3,138,Hearts,6.53,Edinburgh,SCO,Villarreal,68.0,Villarreal,ESP,1792.0
+3,139,Hearts,6.53,Edinburgh,SCO,Real Sociedad,42.0,San Sebastián,ESP,1408.0
+3,140,Hearts,6.53,Edinburgh,SCO,Osasuna,15.922,Pamplona,ESP,1465.0
+3,141,Luzern,6.155,Luzern,SUI,Rijeka,12.0,Rijeka,CRO,509.0
+3,142,Luzern,6.155,Luzern,SUI,Crvena zvezda,40.0,Belgrade,SRB,971.0
+3,143,Luzern,6.155,Luzern,SUI,Real Madrid,112.0,Madrid,ESP,1212.0
+3,144,Luzern,6.155,Luzern,SUI,Braga,48.0,Braga,POR,1463.0
+4,1,Bayern,126.0,Munich,GER,Salzburg,49.0,Salzburg,AUT,115.0
+4,2,Bayern,126.0,Munich,GER,LASK,34.0,Linz,AUT,201.0
+4,3,Bayern,126.0,Munich,GER,Luzern,6.155,Luzern,SUI,273.0
+4,4,Bayern,126.0,Munich,GER,Real Madrid,112.0,Madrid,ESP,1485.0
+4,5,Real Madrid,112.0,Madrid,ESP,Twente,11.42,Enschede,NED,1541.0
+4,6,Real Madrid,112.0,Madrid,ESP,Braga,48.0,Braga,POR,417.0
+4,7,Real Madrid,112.0,Madrid,ESP,SC Freiburg,19.0,Freiburg,GER,1246.0
+4,8,Real Madrid,112.0,Madrid,ESP,Inter,90.0,Milan,ITA,1188.0
+4,9,Chelsea,96.0,London,ENG,AC Milan,49.0,Milan,ITA,959.0
+4,10,Chelsea,96.0,London,ENG,Villarreal,68.0,Villarreal,ESP,1283.0
+4,11,Chelsea,96.0,London,ENG,Nice,17.0,Nice,FRA,1028.0
+4,12,Chelsea,96.0,London,ENG,Real Sociedad,42.0,San Sebastián,ESP,921.0
+4,13,Inter,90.0,Milan,ITA,Slovan Bratislava,26.5,Bratislava,SVK,672.0
+4,14,Inter,90.0,Milan,ITA,Genk,13.0,Genk,BEL,669.0
+4,15,Inter,90.0,Milan,ITA,Lyon,44.0,Lyon,FRA,340.0
+4,16,Inter,90.0,Milan,ITA,RB Leipzig,87.0,Leipzig,GER,695.0
+4,17,RB Leipzig,87.0,Leipzig,GER,Viktoria Plzeň,17.0,Plzeň,CZE,183.0
+4,18,RB Leipzig,87.0,Leipzig,GER,Slavia Praha,42.0,Prague,CZE,202.0
+4,19,RB Leipzig,87.0,Leipzig,GER,PSV,43.0,Eindhoven,NED,480.0
+4,20,RB Leipzig,87.0,Leipzig,GER,Arsenal,58.0,London,ENG,867.0
+4,21,Roma,86.0,Rome,ITA,Osasuna,15.922,Pamplona,ESP,1165.0
+4,22,Roma,86.0,Rome,ITA,Monaco,24.0,Monaco,FRA,462.0
+4,23,Roma,86.0,Rome,ITA,Eintracht Frankfurt,57.0,Frankfurt,GER,959.0
+4,24,Roma,86.0,Rome,ITA,Bayern,126.0,Munich,GER,697.0
+4,25,Barcelona,78.0,Barcelona,ESP,Fiorentina,24.0,Florence,ITA,789.0
+4,26,Barcelona,78.0,Barcelona,ESP,Hearts,6.53,Edinburgh,SCO,1666.0
+4,27,Barcelona,78.0,Barcelona,ESP,West Ham,54.0,London,ENG,1139.0
+4,28,Barcelona,78.0,Barcelona,ESP,Chelsea,96.0,London,ENG,1139.0
+4,29,Villarreal,68.0,Villarreal,ESP,Roma,86.0,Rome,ITA,1079.0
+4,30,Villarreal,68.0,Villarreal,ESP,Rijeka,12.0,Rijeka,CRO,1328.0
+4,31,Villarreal,68.0,Villarreal,ESP,Brighton,18.635,Brighton,ENG,1207.0
+4,32,Villarreal,68.0,Villarreal,ESP,Tottenham Hotspur,54.0,London,ENG,1283.0
+4,33,Arsenal,58.0,London,ENG,Atalanta,58.0,Bergamo,ITA,966.0
+4,34,Arsenal,58.0,London,ENG,Barcelona,78.0,Barcelona,ESP,1139.0
+4,35,Arsenal,58.0,London,ENG,Crvena zvezda,40.0,Belgrade,SRB,1692.0
+4,36,Arsenal,58.0,London,ENG,Maribor,9.5,Maribor,SVN,1272.0
+4,37,Atalanta,58.0,Bergamo,ITA,Luzern,6.155,Luzern,SUI,182.0
+4,38,Atalanta,58.0,Bergamo,ITA,RB Leipzig,87.0,Leipzig,GER,658.0
+4,39,Atalanta,58.0,Bergamo,ITA,Monaco,24.0,Monaco,FRA,282.0
+4,40,Atalanta,58.0,Bergamo,ITA,Tottenham Hotspur,54.0,London,ENG,966.0
+4,41,Eintracht Frankfurt,57.0,Frankfurt,GER,Genk,13.0,Genk,BEL,243.0
+4,42,Eintracht Frankfurt,57.0,Frankfurt,GER,PSV,43.0,Eindhoven,NED,270.0
+4,43,Eintracht Frankfurt,57.0,Frankfurt,GER,Brighton,18.635,Brighton,ENG,631.0
+4,44,Eintracht Frankfurt,57.0,Frankfurt,GER,Inter,90.0,Milan,ITA,518.0
+4,45,West Ham,54.0,London,ENG,Twente,11.42,Enschede,NED,489.0
+4,46,West Ham,54.0,London,ENG,Braga,48.0,Braga,POR,1276.0
+4,47,West Ham,54.0,London,ENG,Slavia Praha,42.0,Prague,CZE,1034.0
+4,48,West Ham,54.0,London,ENG,Bayern,126.0,Munich,GER,919.0
+4,49,Tottenham Hotspur,54.0,London,ENG,Real Sociedad,42.0,San Sebastián,ESP,921.0
+4,50,Tottenham Hotspur,54.0,London,ENG,Eintracht Frankfurt,57.0,Frankfurt,GER,638.0
+4,51,Tottenham Hotspur,54.0,London,ENG,Hearts,6.53,Edinburgh,SCO,534.0
+4,52,Tottenham Hotspur,54.0,London,ENG,Roma,86.0,Rome,ITA,1434.0
+4,53,AC Milan,49.0,Milan,ITA,SC Freiburg,19.0,Freiburg,GER,300.0
+4,54,AC Milan,49.0,Milan,ITA,Osasuna,15.922,Pamplona,ESP,913.0
+4,55,AC Milan,49.0,Milan,ITA,Lyon,44.0,Lyon,FRA,340.0
+4,56,AC Milan,49.0,Milan,ITA,Villarreal,68.0,Villarreal,ESP,973.0
+4,57,Salzburg,49.0,Salzburg,AUT,Viktoria Plzeň,17.0,Plzeň,CZE,215.0
+4,58,Salzburg,49.0,Salzburg,AUT,Slovan Bratislava,26.5,Bratislava,SVK,305.0
+4,59,Salzburg,49.0,Salzburg,AUT,Arsenal,58.0,London,ENG,1032.0
+4,60,Salzburg,49.0,Salzburg,AUT,Atalanta,58.0,Bergamo,ITA,348.0
+4,61,Braga,48.0,Braga,POR,AC Milan,49.0,Milan,ITA,1484.0
+4,62,Braga,48.0,Braga,POR,Maribor,9.5,Maribor,SVN,1996.0
+4,63,Braga,48.0,Braga,POR,LASK,34.0,Linz,AUT,1931.0
+4,64,Braga,48.0,Braga,POR,Barcelona,78.0,Barcelona,ESP,884.0
+4,65,Lyon,44.0,Lyon,FRA,Fiorentina,24.0,Florence,ITA,553.0
+4,66,Lyon,44.0,Lyon,FRA,Salzburg,49.0,Salzburg,AUT,665.0
+4,67,Lyon,44.0,Lyon,FRA,Chelsea,96.0,London,ENG,735.0
+4,68,Lyon,44.0,Lyon,FRA,Rijeka,12.0,Rijeka,CRO,749.0
+4,69,PSV,43.0,Eindhoven,NED,West Ham,54.0,London,ENG,388.0
+4,70,PSV,43.0,Eindhoven,NED,Nice,17.0,Nice,FRA,870.0
+4,71,PSV,43.0,Eindhoven,NED,Crvena zvezda,40.0,Belgrade,SRB,1332.0
+4,72,PSV,43.0,Eindhoven,NED,Real Madrid,112.0,Madrid,ESP,1414.0
+4,73,Real Sociedad,42.0,San Sebastián,ESP,Braga,48.0,Braga,POR,566.0
+4,74,Real Sociedad,42.0,San Sebastián,ESP,Hearts,6.53,Edinburgh,SCO,1408.0
+4,75,Real Sociedad,42.0,San Sebastián,ESP,Slovan Bratislava,26.5,Bratislava,SVK,1571.0
+4,76,Real Sociedad,42.0,San Sebastián,ESP,Inter,90.0,Milan,ITA,918.0
+4,77,Slavia Praha,42.0,Prague,CZE,Osasuna,15.922,Pamplona,ESP,1469.0
+4,78,Slavia Praha,42.0,Prague,CZE,Chelsea,96.0,London,ENG,1034.0
+4,79,Slavia Praha,42.0,Prague,CZE,LASK,34.0,Linz,AUT,197.0
+4,80,Slavia Praha,42.0,Prague,CZE,Salzburg,49.0,Salzburg,AUT,272.0
+4,81,Crvena zvezda,40.0,Belgrade,SRB,Maribor,9.5,Maribor,SVN,422.0
+4,82,Crvena zvezda,40.0,Belgrade,SRB,Roma,86.0,Rome,ITA,718.0
+4,83,Crvena zvezda,40.0,Belgrade,SRB,Fiorentina,24.0,Florence,ITA,740.0
+4,84,Crvena zvezda,40.0,Belgrade,SRB,Atalanta,58.0,Bergamo,ITA,849.0
+4,85,LASK,34.0,Linz,AUT,Viktoria Plzeň,17.0,Plzeň,CZE,184.0
+4,86,LASK,34.0,Linz,AUT,RB Leipzig,87.0,Leipzig,GER,364.0
+4,87,LASK,34.0,Linz,AUT,AC Milan,49.0,Milan,ITA,499.0
+4,88,LASK,34.0,Linz,AUT,SC Freiburg,19.0,Freiburg,GER,478.0
+4,89,Slovan Bratislava,26.5,Bratislava,SVK,Crvena zvezda,40.0,Belgrade,SRB,453.0
+4,90,Slovan Bratislava,26.5,Bratislava,SVK,Rijeka,12.0,Rijeka,CRO,374.0
+4,91,Slovan Bratislava,26.5,Bratislava,SVK,Bayern,126.0,Munich,GER,410.0
+4,92,Slovan Bratislava,26.5,Bratislava,SVK,Eintracht Frankfurt,57.0,Frankfurt,GER,650.0
+4,93,Fiorentina,24.0,Florence,ITA,Monaco,24.0,Monaco,FRA,309.0
+4,94,Fiorentina,24.0,Florence,ITA,Nice,17.0,Nice,FRA,321.0
+4,95,Fiorentina,24.0,Florence,ITA,PSV,43.0,Eindhoven,NED,956.0
+4,96,Fiorentina,24.0,Florence,ITA,Arsenal,58.0,London,ENG,1209.0
+4,97,Monaco,24.0,Monaco,FRA,Luzern,6.155,Luzern,SUI,375.0
+4,98,Monaco,24.0,Monaco,FRA,Barcelona,78.0,Barcelona,ESP,502.0
+4,99,Monaco,24.0,Monaco,FRA,Real Sociedad,42.0,San Sebastián,ESP,758.0
+4,100,Monaco,24.0,Monaco,FRA,Tottenham Hotspur,54.0,London,ENG,1031.0
+4,101,SC Freiburg,19.0,Freiburg,GER,Genk,13.0,Genk,BEL,370.0
+4,102,SC Freiburg,19.0,Freiburg,GER,West Ham,54.0,London,ENG,693.0
+4,103,SC Freiburg,19.0,Freiburg,GER,Villarreal,68.0,Villarreal,ESP,1095.0
+4,104,SC Freiburg,19.0,Freiburg,GER,Brighton,18.635,Brighton,ENG,659.0
+4,105,Brighton,18.635,Brighton,ENG,Twente,11.42,Enschede,NED,513.0
+4,106,Brighton,18.635,Brighton,ENG,Real Madrid,112.0,Madrid,ESP,1189.0
+4,107,Brighton,18.635,Brighton,ENG,Lyon,44.0,Lyon,FRA,673.0
+4,108,Brighton,18.635,Brighton,ENG,Slavia Praha,42.0,Prague,CZE,1036.0
+4,109,Nice,17.0,Nice,FRA,Barcelona,78.0,Barcelona,ESP,491.0
+4,110,Nice,17.0,Nice,FRA,AC Milan,49.0,Milan,ITA,247.0
+4,111,Nice,17.0,Nice,FRA,Luzern,6.155,Luzern,SUI,380.0
+4,112,Nice,17.0,Nice,FRA,SC Freiburg,19.0,Freiburg,GER,479.0
+4,113,Viktoria Plzeň,17.0,Plzeň,CZE,Bayern,126.0,Munich,GER,209.0
+4,114,Viktoria Plzeň,17.0,Plzeň,CZE,Osasuna,15.922,Pamplona,ESP,1363.0
+4,115,Viktoria Plzeň,17.0,Plzeň,CZE,Atalanta,58.0,Bergamo,ITA,515.0
+4,116,Viktoria Plzeň,17.0,Plzeň,CZE,Monaco,24.0,Monaco,FRA,794.0
+4,117,Osasuna,15.922,Pamplona,ESP,Genk,13.0,Genk,BEL,1056.0
+4,118,Osasuna,15.922,Pamplona,ESP,Braga,48.0,Braga,POR,578.0
+4,119,Osasuna,15.922,Pamplona,ESP,Brighton,18.635,Brighton,ENG,898.0
+4,120,Osasuna,15.922,Pamplona,ESP,Inter,90.0,Milan,ITA,913.0
+4,121,Genk,13.0,Genk,BEL,PSV,43.0,Eindhoven,NED,53.0
+4,122,Genk,13.0,Genk,BEL,Twente,11.42,Enschede,NED,169.0
+4,123,Genk,13.0,Genk,BEL,Chelsea,96.0,London,ENG,398.0
+4,124,Genk,13.0,Genk,BEL,Slavia Praha,42.0,Prague,CZE,638.0
+4,125,Rijeka,12.0,Rijeka,CRO,Hearts,6.53,Edinburgh,SCO,1706.0
+4,126,Rijeka,12.0,Rijeka,CRO,Salzburg,49.0,Salzburg,AUT,296.0
+4,127,Rijeka,12.0,Rijeka,CRO,Fiorentina,24.0,Florence,ITA,306.0
+4,128,Rijeka,12.0,Rijeka,CRO,RB Leipzig,87.0,Leipzig,GER,686.0
+4,129,Twente,11.42,Enschede,NED,Maribor,9.5,Maribor,SVN,892.0
+4,130,Twente,11.42,Enschede,NED,Eintracht Frankfurt,57.0,Frankfurt,GER,266.0
+4,131,Twente,11.42,Enschede,NED,Arsenal,58.0,London,ENG,489.0
+4,132,Twente,11.42,Enschede,NED,LASK,34.0,Linz,AUT,681.0
+4,133,Maribor,9.5,Maribor,SVN,Lyon,44.0,Lyon,FRA,837.0
+4,134,Maribor,9.5,Maribor,SVN,Villarreal,68.0,Villarreal,ESP,1467.0
+4,135,Maribor,9.5,Maribor,SVN,Rijeka,12.0,Rijeka,CRO,165.0
+4,136,Maribor,9.5,Maribor,SVN,Real Sociedad,42.0,San Sebastián,ESP,1430.0
+4,137,Hearts,6.53,Edinburgh,SCO,West Ham,54.0,London,ENG,534.0
+4,138,Hearts,6.53,Edinburgh,SCO,Nice,17.0,Nice,FRA,1550.0
+4,139,Hearts,6.53,Edinburgh,SCO,Slovan Bratislava,26.5,Bratislava,SVK,1628.0
+4,140,Hearts,6.53,Edinburgh,SCO,Real Madrid,112.0,Madrid,ESP,1728.0
+4,141,Luzern,6.155,Luzern,SUI,Viktoria Plzeň,17.0,Plzeň,CZE,460.0
+4,142,Luzern,6.155,Luzern,SUI,Roma,86.0,Rome,ITA,662.0
+4,143,Luzern,6.155,Luzern,SUI,Tottenham Hotspur,54.0,London,ENG,787.0
+4,144,Luzern,6.155,Luzern,SUI,Crvena zvezda,40.0,Belgrade,SRB,971.0
+5,1,Bayern,126.0,Munich,GER,Tottenham Hotspur,54.0,London,ENG,919.0
+5,2,Bayern,126.0,Munich,GER,LASK,34.0,Linz,AUT,201.0
+5,3,Bayern,126.0,Munich,GER,Chelsea,96.0,London,ENG,919.0
+5,4,Bayern,126.0,Munich,GER,Viktoria Plzeň,17.0,Plzeň,CZE,209.0
+5,5,Real Madrid,112.0,Madrid,ESP,Braga,48.0,Braga,POR,417.0
+5,6,Real Madrid,112.0,Madrid,ESP,Slavia Praha,42.0,Prague,CZE,1773.0
+5,7,Real Madrid,112.0,Madrid,ESP,Nice,17.0,Nice,FRA,976.0
+5,8,Real Madrid,112.0,Madrid,ESP,Bayern,126.0,Munich,GER,1485.0
+5,9,Chelsea,96.0,London,ENG,Slovan Bratislava,26.5,Bratislava,SVK,1288.0
+5,10,Chelsea,96.0,London,ENG,Eintracht Frankfurt,57.0,Frankfurt,GER,638.0
+5,11,Chelsea,96.0,London,ENG,Rijeka,12.0,Rijeka,CRO,1273.0
+5,12,Chelsea,96.0,London,ENG,Inter,90.0,Milan,ITA,959.0
+5,13,Inter,90.0,Milan,ITA,Luzern,6.155,Luzern,SUI,189.0
+5,14,Inter,90.0,Milan,ITA,Monaco,24.0,Monaco,FRA,238.0
+5,15,Inter,90.0,Milan,ITA,Lyon,44.0,Lyon,FRA,340.0
+5,16,Inter,90.0,Milan,ITA,RB Leipzig,87.0,Leipzig,GER,695.0
+5,17,RB Leipzig,87.0,Leipzig,GER,Twente,11.42,Enschede,NED,390.0
+5,18,RB Leipzig,87.0,Leipzig,GER,Salzburg,49.0,Salzburg,AUT,396.0
+5,19,RB Leipzig,87.0,Leipzig,GER,Brighton,18.635,Brighton,ENG,878.0
+5,20,RB Leipzig,87.0,Leipzig,GER,Barcelona,78.0,Barcelona,ESP,1354.0
+5,21,Roma,86.0,Rome,ITA,West Ham,54.0,London,ENG,1434.0
+5,22,Roma,86.0,Rome,ITA,Maribor,9.5,Maribor,SVN,575.0
+5,23,Roma,86.0,Rome,ITA,Crvena zvezda,40.0,Belgrade,SRB,718.0
+5,24,Roma,86.0,Rome,ITA,Real Madrid,112.0,Madrid,ESP,1364.0
+5,25,Barcelona,78.0,Barcelona,ESP,AC Milan,49.0,Milan,ITA,725.0
+5,26,Barcelona,78.0,Barcelona,ESP,SC Freiburg,19.0,Freiburg,GER,861.0
+5,27,Barcelona,78.0,Barcelona,ESP,Hearts,6.53,Edinburgh,SCO,1666.0
+5,28,Barcelona,78.0,Barcelona,ESP,Arsenal,58.0,London,ENG,1139.0
+5,29,Villarreal,68.0,Villarreal,ESP,Atalanta,58.0,Bergamo,ITA,1019.0
+5,30,Villarreal,68.0,Villarreal,ESP,Fiorentina,24.0,Florence,ITA,1030.0
+5,31,Villarreal,68.0,Villarreal,ESP,Roma,86.0,Rome,ITA,1079.0
+5,32,Villarreal,68.0,Villarreal,ESP,Genk,13.0,Genk,BEL,1298.0
+5,33,Arsenal,58.0,London,ENG,PSV,43.0,Eindhoven,NED,388.0
+5,34,Arsenal,58.0,London,ENG,Real Sociedad,42.0,San Sebastián,ESP,921.0
+5,35,Arsenal,58.0,London,ENG,Osasuna,15.922,Pamplona,ESP,974.0
+5,36,Arsenal,58.0,London,ENG,Villarreal,68.0,Villarreal,ESP,1283.0
+5,37,Atalanta,58.0,Bergamo,ITA,Luzern,6.155,Luzern,SUI,182.0
+5,38,Atalanta,58.0,Bergamo,ITA,Monaco,24.0,Monaco,FRA,282.0
+5,39,Atalanta,58.0,Bergamo,ITA,Barcelona,78.0,Barcelona,ESP,771.0
+5,40,Atalanta,58.0,Bergamo,ITA,Salzburg,49.0,Salzburg,AUT,348.0
+5,41,Eintracht Frankfurt,57.0,Frankfurt,GER,Genk,13.0,Genk,BEL,243.0
+5,42,Eintracht Frankfurt,57.0,Frankfurt,GER,Crvena zvezda,40.0,Belgrade,SRB,1063.0
+5,43,Eintracht Frankfurt,57.0,Frankfurt,GER,PSV,43.0,Eindhoven,NED,270.0
+5,44,Eintracht Frankfurt,57.0,Frankfurt,GER,Inter,90.0,Milan,ITA,518.0
+5,45,West Ham,54.0,London,ENG,Real Sociedad,42.0,San Sebastián,ESP,921.0
+5,46,West Ham,54.0,London,ENG,Twente,11.42,Enschede,NED,489.0
+5,47,West Ham,54.0,London,ENG,Eintracht Frankfurt,57.0,Frankfurt,GER,638.0
+5,48,West Ham,54.0,London,ENG,Bayern,126.0,Munich,GER,919.0
+5,49,Tottenham Hotspur,54.0,London,ENG,LASK,34.0,Linz,AUT,1089.0
+5,50,Tottenham Hotspur,54.0,London,ENG,Hearts,6.53,Edinburgh,SCO,534.0
+5,51,Tottenham Hotspur,54.0,London,ENG,Roma,86.0,Rome,ITA,1434.0
+5,52,Tottenham Hotspur,54.0,London,ENG,Lyon,44.0,Lyon,FRA,735.0
+5,53,AC Milan,49.0,Milan,ITA,Braga,48.0,Braga,POR,1484.0
+5,54,AC Milan,49.0,Milan,ITA,Osasuna,15.922,Pamplona,ESP,913.0
+5,55,AC Milan,49.0,Milan,ITA,Brighton,18.635,Brighton,ENG,914.0
+5,56,AC Milan,49.0,Milan,ITA,RB Leipzig,87.0,Leipzig,GER,695.0
+5,57,Salzburg,49.0,Salzburg,AUT,Viktoria Plzeň,17.0,Plzeň,CZE,215.0
+5,58,Salzburg,49.0,Salzburg,AUT,Slavia Praha,42.0,Prague,CZE,272.0
+5,59,Salzburg,49.0,Salzburg,AUT,West Ham,54.0,London,ENG,1032.0
+5,60,Salzburg,49.0,Salzburg,AUT,Villarreal,68.0,Villarreal,ESP,1364.0
+5,61,Braga,48.0,Braga,POR,Tottenham Hotspur,54.0,London,ENG,1276.0
+5,62,Braga,48.0,Braga,POR,Arsenal,58.0,London,ENG,1276.0
+5,63,Braga,48.0,Braga,POR,Slovan Bratislava,26.5,Bratislava,SVK,2132.0
+5,64,Braga,48.0,Braga,POR,Nice,17.0,Nice,FRA,1306.0
+5,65,Lyon,44.0,Lyon,FRA,Real Madrid,112.0,Madrid,ESP,913.0
+5,66,Lyon,44.0,Lyon,FRA,SC Freiburg,19.0,Freiburg,GER,338.0
+5,67,Lyon,44.0,Lyon,FRA,Atalanta,58.0,Bergamo,ITA,375.0
+5,68,Lyon,44.0,Lyon,FRA,Rijeka,12.0,Rijeka,CRO,749.0
+5,69,PSV,43.0,Eindhoven,NED,Chelsea,96.0,London,ENG,388.0
+5,70,PSV,43.0,Eindhoven,NED,Fiorentina,24.0,Florence,ITA,956.0
+5,71,PSV,43.0,Eindhoven,NED,Maribor,9.5,Maribor,SVN,919.0
+5,72,PSV,43.0,Eindhoven,NED,AC Milan,49.0,Milan,ITA,719.0
+5,73,Real Sociedad,42.0,San Sebastián,ESP,Braga,48.0,Braga,POR,566.0
+5,74,Real Sociedad,42.0,San Sebastián,ESP,Nice,17.0,Nice,FRA,746.0
+5,75,Real Sociedad,42.0,San Sebastián,ESP,Inter,90.0,Milan,ITA,918.0
+5,76,Real Sociedad,42.0,San Sebastián,ESP,Monaco,24.0,Monaco,FRA,758.0
+5,77,Slavia Praha,42.0,Prague,CZE,LASK,34.0,Linz,AUT,197.0
+5,78,Slavia Praha,42.0,Prague,CZE,Arsenal,58.0,London,ENG,1034.0
+5,79,Slavia Praha,42.0,Prague,CZE,Maribor,9.5,Maribor,SVN,402.0
+5,80,Slavia Praha,42.0,Prague,CZE,AC Milan,49.0,Milan,ITA,645.0
+5,81,Crvena zvezda,40.0,Belgrade,SRB,Slovan Bratislava,26.5,Bratislava,SVK,453.0
+5,82,Crvena zvezda,40.0,Belgrade,SRB,PSV,43.0,Eindhoven,NED,1332.0
+5,83,Crvena zvezda,40.0,Belgrade,SRB,Osasuna,15.922,Pamplona,ESP,1781.0
+5,84,Crvena zvezda,40.0,Belgrade,SRB,Chelsea,96.0,London,ENG,1692.0
+5,85,LASK,34.0,Linz,AUT,Viktoria Plzeň,17.0,Plzeň,CZE,184.0
+5,86,LASK,34.0,Linz,AUT,RB Leipzig,87.0,Leipzig,GER,364.0
+5,87,LASK,34.0,Linz,AUT,Crvena zvezda,40.0,Belgrade,SRB,613.0
+5,88,LASK,34.0,Linz,AUT,Eintracht Frankfurt,57.0,Frankfurt,GER,453.0
+5,89,Slovan Bratislava,26.5,Bratislava,SVK,Tottenham Hotspur,54.0,London,ENG,1288.0
+5,90,Slovan Bratislava,26.5,Bratislava,SVK,Hearts,6.53,Edinburgh,SCO,1628.0
+5,91,Slovan Bratislava,26.5,Bratislava,SVK,Slavia Praha,42.0,Prague,CZE,289.0
+5,92,Slovan Bratislava,26.5,Bratislava,SVK,Bayern,126.0,Munich,GER,410.0
+5,93,Fiorentina,24.0,Florence,ITA,Rijeka,12.0,Rijeka,CRO,306.0
+5,94,Fiorentina,24.0,Florence,ITA,Salzburg,49.0,Salzburg,AUT,470.0
+5,95,Fiorentina,24.0,Florence,ITA,SC Freiburg,19.0,Freiburg,GER,539.0
+5,96,Fiorentina,24.0,Florence,ITA,Barcelona,78.0,Barcelona,ESP,789.0
+5,97,Monaco,24.0,Monaco,FRA,Roma,86.0,Rome,ITA,462.0
+5,98,Monaco,24.0,Monaco,FRA,Genk,13.0,Genk,BEL,816.0
+5,99,Monaco,24.0,Monaco,FRA,Fiorentina,24.0,Florence,ITA,309.0
+5,100,Monaco,24.0,Monaco,FRA,West Ham,54.0,London,ENG,1031.0
+5,101,SC Freiburg,19.0,Freiburg,GER,Luzern,6.155,Luzern,SUI,111.0
+5,102,SC Freiburg,19.0,Freiburg,GER,Atalanta,58.0,Bergamo,ITA,290.0
+5,103,SC Freiburg,19.0,Freiburg,GER,Villarreal,68.0,Villarreal,ESP,1095.0
+5,104,SC Freiburg,19.0,Freiburg,GER,Brighton,18.635,Brighton,ENG,659.0
+5,105,Brighton,18.635,Brighton,ENG,Real Madrid,112.0,Madrid,ESP,1189.0
+5,106,Brighton,18.635,Brighton,ENG,Lyon,44.0,Lyon,FRA,673.0
+5,107,Brighton,18.635,Brighton,ENG,Real Sociedad,42.0,San Sebastián,ESP,845.0
+5,108,Brighton,18.635,Brighton,ENG,Twente,11.42,Enschede,NED,513.0
+5,109,Nice,17.0,Nice,FRA,Inter,90.0,Milan,ITA,247.0
+5,110,Nice,17.0,Nice,FRA,Eintracht Frankfurt,57.0,Frankfurt,GER,720.0
+5,111,Nice,17.0,Nice,FRA,Genk,13.0,Genk,BEL,817.0
+5,112,Nice,17.0,Nice,FRA,Slavia Praha,42.0,Prague,CZE,892.0
+5,113,Viktoria Plzeň,17.0,Plzeň,CZE,Real Madrid,112.0,Madrid,ESP,1668.0
+5,114,Viktoria Plzeň,17.0,Plzeň,CZE,Braga,48.0,Braga,POR,1894.0
+5,115,Viktoria Plzeň,17.0,Plzeň,CZE,Slovan Bratislava,26.5,Bratislava,SVK,346.0
+5,116,Viktoria Plzeň,17.0,Plzeň,CZE,Maribor,9.5,Maribor,SVN,404.0
+5,117,Osasuna,15.922,Pamplona,ESP,SC Freiburg,19.0,Freiburg,GER,938.0
+5,118,Osasuna,15.922,Pamplona,ESP,Luzern,6.155,Luzern,SUI,913.0
+5,119,Osasuna,15.922,Pamplona,ESP,Lyon,44.0,Lyon,FRA,611.0
+5,120,Osasuna,15.922,Pamplona,ESP,Chelsea,96.0,London,ENG,974.0
+5,121,Genk,13.0,Genk,BEL,PSV,43.0,Eindhoven,NED,53.0
+5,122,Genk,13.0,Genk,BEL,Twente,11.42,Enschede,NED,169.0
+5,123,Genk,13.0,Genk,BEL,RB Leipzig,87.0,Leipzig,GER,481.0
+5,124,Genk,13.0,Genk,BEL,Real Sociedad,42.0,San Sebastián,ESP,1021.0
+5,125,Rijeka,12.0,Rijeka,CRO,Salzburg,49.0,Salzburg,AUT,296.0
+5,126,Rijeka,12.0,Rijeka,CRO,LASK,34.0,Linz,AUT,332.0
+5,127,Rijeka,12.0,Rijeka,CRO,Nice,17.0,Nice,FRA,596.0
+5,128,Rijeka,12.0,Rijeka,CRO,Roma,86.0,Rome,ITA,412.0
+5,129,Twente,11.42,Enschede,NED,Arsenal,58.0,London,ENG,489.0
+5,130,Twente,11.42,Enschede,NED,Tottenham Hotspur,54.0,London,ENG,489.0
+5,131,Twente,11.42,Enschede,NED,Hearts,6.53,Edinburgh,SCO,776.0
+5,132,Twente,11.42,Enschede,NED,Crvena zvezda,40.0,Belgrade,SRB,1293.0
+5,133,Maribor,9.5,Maribor,SVN,Rijeka,12.0,Rijeka,CRO,165.0
+5,134,Maribor,9.5,Maribor,SVN,Bayern,126.0,Munich,GER,353.0
+5,135,Maribor,9.5,Maribor,SVN,Brighton,18.635,Brighton,ENG,1251.0
+5,136,Maribor,9.5,Maribor,SVN,Atalanta,58.0,Bergamo,ITA,470.0
+5,137,Hearts,6.53,Edinburgh,SCO,West Ham,54.0,London,ENG,534.0
+5,138,Hearts,6.53,Edinburgh,SCO,Villarreal,68.0,Villarreal,ESP,1792.0
+5,139,Hearts,6.53,Edinburgh,SCO,Monaco,24.0,Monaco,FRA,1552.0
+5,140,Hearts,6.53,Edinburgh,SCO,Osasuna,15.922,Pamplona,ESP,1465.0
+5,141,Luzern,6.155,Luzern,SUI,AC Milan,49.0,Milan,ITA,189.0
+5,142,Luzern,6.155,Luzern,SUI,Fiorentina,24.0,Florence,ITA,431.0
+5,143,Luzern,6.155,Luzern,SUI,Viktoria Plzeň,17.0,Plzeň,CZE,460.0
+5,144,Luzern,6.155,Luzern,SUI,Barcelona,78.0,Barcelona,ESP,797.0
+6,1,Bayern,126.0,Munich,GER,AC Milan,49.0,Milan,ITA,348.0
+6,2,Bayern,126.0,Munich,GER,Hearts,6.53,Edinburgh,SCO,1328.0
+6,3,Bayern,126.0,Munich,GER,LASK,34.0,Linz,AUT,201.0
+6,4,Bayern,126.0,Munich,GER,Inter,90.0,Milan,ITA,348.0
+6,5,Real Madrid,112.0,Madrid,ESP,Brighton,18.635,Brighton,ENG,1189.0
+6,6,Real Madrid,112.0,Madrid,ESP,Genk,13.0,Genk,BEL,1372.0
+6,7,Real Madrid,112.0,Madrid,ESP,Braga,48.0,Braga,POR,417.0
+6,8,Real Madrid,112.0,Madrid,ESP,Chelsea,96.0,London,ENG,1263.0
+6,9,Chelsea,96.0,London,ENG,PSV,43.0,Eindhoven,NED,388.0
+6,10,Chelsea,96.0,London,ENG,Twente,11.42,Enschede,NED,489.0
+6,11,Chelsea,96.0,London,ENG,SC Freiburg,19.0,Freiburg,GER,693.0
+6,12,Chelsea,96.0,London,ENG,Villarreal,68.0,Villarreal,ESP,1283.0
+6,13,Inter,90.0,Milan,ITA,Luzern,6.155,Luzern,SUI,189.0
+6,14,Inter,90.0,Milan,ITA,Slavia Praha,42.0,Prague,CZE,645.0
+6,15,Inter,90.0,Milan,ITA,Lyon,44.0,Lyon,FRA,340.0
+6,16,Inter,90.0,Milan,ITA,Arsenal,58.0,London,ENG,959.0
+6,17,RB Leipzig,87.0,Leipzig,GER,Osasuna,15.922,Pamplona,ESP,1420.0
+6,18,RB Leipzig,87.0,Leipzig,GER,Salzburg,49.0,Salzburg,AUT,396.0
+6,19,RB Leipzig,87.0,Leipzig,GER,Slovan Bratislava,26.5,Bratislava,SVK,491.0
+6,20,RB Leipzig,87.0,Leipzig,GER,Roma,86.0,Rome,ITA,1050.0
+6,21,Roma,86.0,Rome,ITA,Rijeka,12.0,Rijeka,CRO,412.0
+6,22,Roma,86.0,Rome,ITA,Real Sociedad,42.0,San Sebastián,ESP,1193.0
+6,23,Roma,86.0,Rome,ITA,Barcelona,78.0,Barcelona,ESP,859.0
+6,24,Roma,86.0,Rome,ITA,Tottenham Hotspur,54.0,London,ENG,1434.0
+6,25,Barcelona,78.0,Barcelona,ESP,Fiorentina,24.0,Florence,ITA,789.0
+6,26,Barcelona,78.0,Barcelona,ESP,Nice,17.0,Nice,FRA,491.0
+6,27,Barcelona,78.0,Barcelona,ESP,Bayern,126.0,Munich,GER,1055.0
+6,28,Barcelona,78.0,Barcelona,ESP,Atalanta,58.0,Bergamo,ITA,771.0
+6,29,Villarreal,68.0,Villarreal,ESP,Monaco,24.0,Monaco,FRA,750.0
+6,30,Villarreal,68.0,Villarreal,ESP,RB Leipzig,87.0,Leipzig,GER,1590.0
+6,31,Villarreal,68.0,Villarreal,ESP,West Ham,54.0,London,ENG,1283.0
+6,32,Villarreal,68.0,Villarreal,ESP,Maribor,9.5,Maribor,SVN,1467.0
+6,33,Arsenal,58.0,London,ENG,Eintracht Frankfurt,57.0,Frankfurt,GER,638.0
+6,34,Arsenal,58.0,London,ENG,Viktoria Plzeň,17.0,Plzeň,CZE,948.0
+6,35,Arsenal,58.0,London,ENG,Real Madrid,112.0,Madrid,ESP,1263.0
+6,36,Arsenal,58.0,London,ENG,Crvena zvezda,40.0,Belgrade,SRB,1692.0
+6,37,Atalanta,58.0,Bergamo,ITA,Eintracht Frankfurt,57.0,Frankfurt,GER,495.0
+6,38,Atalanta,58.0,Bergamo,ITA,Luzern,6.155,Luzern,SUI,182.0
+6,39,Atalanta,58.0,Bergamo,ITA,RB Leipzig,87.0,Leipzig,GER,658.0
+6,40,Atalanta,58.0,Bergamo,ITA,Monaco,24.0,Monaco,FRA,282.0
+6,41,Eintracht Frankfurt,57.0,Frankfurt,GER,Genk,13.0,Genk,BEL,243.0
+6,42,Eintracht Frankfurt,57.0,Frankfurt,GER,PSV,43.0,Eindhoven,NED,270.0
+6,43,Eintracht Frankfurt,57.0,Frankfurt,GER,Villarreal,68.0,Villarreal,ESP,1320.0
+6,44,Eintracht Frankfurt,57.0,Frankfurt,GER,Slovan Bratislava,26.5,Bratislava,SVK,650.0
+6,45,West Ham,54.0,London,ENG,Maribor,9.5,Maribor,SVN,1272.0
+6,46,West Ham,54.0,London,ENG,LASK,34.0,Linz,AUT,1089.0
+6,47,West Ham,54.0,London,ENG,AC Milan,49.0,Milan,ITA,959.0
+6,48,West Ham,54.0,London,ENG,Bayern,126.0,Munich,GER,919.0
+6,49,Tottenham Hotspur,54.0,London,ENG,Twente,11.42,Enschede,NED,489.0
+6,50,Tottenham Hotspur,54.0,London,ENG,Braga,48.0,Braga,POR,1276.0
+6,51,Tottenham Hotspur,54.0,London,ENG,SC Freiburg,19.0,Freiburg,GER,693.0
+6,52,Tottenham Hotspur,54.0,London,ENG,Inter,90.0,Milan,ITA,959.0
+6,53,AC Milan,49.0,Milan,ITA,Nice,17.0,Nice,FRA,247.0
+6,54,AC Milan,49.0,Milan,ITA,Lyon,44.0,Lyon,FRA,340.0
+6,55,AC Milan,49.0,Milan,ITA,Real Sociedad,42.0,San Sebastián,ESP,918.0
+6,56,AC Milan,49.0,Milan,ITA,Barcelona,78.0,Barcelona,ESP,725.0
+6,57,Salzburg,49.0,Salzburg,AUT,Viktoria Plzeň,17.0,Plzeň,CZE,215.0
+6,58,Salzburg,49.0,Salzburg,AUT,Real Madrid,112.0,Madrid,ESP,1565.0
+6,59,Salzburg,49.0,Salzburg,AUT,Fiorentina,24.0,Florence,ITA,470.0
+6,60,Salzburg,49.0,Salzburg,AUT,Atalanta,58.0,Bergamo,ITA,348.0
+6,61,Braga,48.0,Braga,POR,Osasuna,15.922,Pamplona,ESP,578.0
+6,62,Braga,48.0,Braga,POR,Brighton,18.635,Brighton,ENG,1211.0
+6,63,Braga,48.0,Braga,POR,Arsenal,58.0,London,ENG,1276.0
+6,64,Braga,48.0,Braga,POR,West Ham,54.0,London,ENG,1276.0
+6,65,Lyon,44.0,Lyon,FRA,Hearts,6.53,Edinburgh,SCO,1263.0
+6,66,Lyon,44.0,Lyon,FRA,Salzburg,49.0,Salzburg,AUT,665.0
+6,67,Lyon,44.0,Lyon,FRA,Crvena zvezda,40.0,Belgrade,SRB,1225.0
+6,68,Lyon,44.0,Lyon,FRA,Chelsea,96.0,London,ENG,735.0
+6,69,PSV,43.0,Eindhoven,NED,Tottenham Hotspur,54.0,London,ENG,388.0
+6,70,PSV,43.0,Eindhoven,NED,Slavia Praha,42.0,Prague,CZE,648.0
+6,71,PSV,43.0,Eindhoven,NED,Rijeka,12.0,Rijeka,CRO,948.0
+6,72,PSV,43.0,Eindhoven,NED,Roma,86.0,Rome,ITA,1187.0
+6,73,Real Sociedad,42.0,San Sebastián,ESP,Lyon,44.0,Lyon,FRA,604.0
+6,74,Real Sociedad,42.0,San Sebastián,ESP,Luzern,6.155,Luzern,SUI,906.0
+6,75,Real Sociedad,42.0,San Sebastián,ESP,Fiorentina,24.0,Florence,ITA,1067.0
+6,76,Real Sociedad,42.0,San Sebastián,ESP,Inter,90.0,Milan,ITA,918.0
+6,77,Slavia Praha,42.0,Prague,CZE,LASK,34.0,Linz,AUT,197.0
+6,78,Slavia Praha,42.0,Prague,CZE,RB Leipzig,87.0,Leipzig,GER,202.0
+6,79,Slavia Praha,42.0,Prague,CZE,Salzburg,49.0,Salzburg,AUT,272.0
+6,80,Slavia Praha,42.0,Prague,CZE,Maribor,9.5,Maribor,SVN,402.0
+6,81,Crvena zvezda,40.0,Belgrade,SRB,Slovan Bratislava,26.5,Bratislava,SVK,453.0
+6,82,Crvena zvezda,40.0,Belgrade,SRB,Rijeka,12.0,Rijeka,CRO,476.0
+6,83,Crvena zvezda,40.0,Belgrade,SRB,Roma,86.0,Rome,ITA,718.0
+6,84,Crvena zvezda,40.0,Belgrade,SRB,PSV,43.0,Eindhoven,NED,1332.0
+6,85,LASK,34.0,Linz,AUT,Genk,13.0,Genk,BEL,696.0
+6,86,LASK,34.0,Linz,AUT,Monaco,24.0,Monaco,FRA,734.0
+6,87,LASK,34.0,Linz,AUT,Eintracht Frankfurt,57.0,Frankfurt,GER,453.0
+6,88,LASK,34.0,Linz,AUT,Arsenal,58.0,London,ENG,1089.0
+6,89,Slovan Bratislava,26.5,Bratislava,SVK,Slavia Praha,42.0,Prague,CZE,289.0
+6,90,Slovan Bratislava,26.5,Bratislava,SVK,Nice,17.0,Nice,FRA,906.0
+6,91,Slovan Bratislava,26.5,Bratislava,SVK,Villarreal,68.0,Villarreal,ESP,1643.0
+6,92,Slovan Bratislava,26.5,Bratislava,SVK,Tottenham Hotspur,54.0,London,ENG,1288.0
+6,93,Fiorentina,24.0,Florence,ITA,Bayern,126.0,Munich,GER,486.0
+6,94,Fiorentina,24.0,Florence,ITA,SC Freiburg,19.0,Freiburg,GER,539.0
+6,95,Fiorentina,24.0,Florence,ITA,Viktoria Plzeň,17.0,Plzeň,CZE,678.0
+6,96,Fiorentina,24.0,Florence,ITA,West Ham,54.0,London,ENG,1209.0
+6,97,Monaco,24.0,Monaco,FRA,AC Milan,49.0,Milan,ITA,238.0
+6,98,Monaco,24.0,Monaco,FRA,Brighton,18.635,Brighton,ENG,973.0
+6,99,Monaco,24.0,Monaco,FRA,Osasuna,15.922,Pamplona,ESP,740.0
+6,100,Monaco,24.0,Monaco,FRA,Chelsea,96.0,London,ENG,1031.0
+6,101,SC Freiburg,19.0,Freiburg,GER,Twente,11.42,Enschede,NED,475.0
+6,102,SC Freiburg,19.0,Freiburg,GER,Crvena zvezda,40.0,Belgrade,SRB,1029.0
+6,103,SC Freiburg,19.0,Freiburg,GER,Braga,48.0,Braga,POR,1469.0
+6,104,SC Freiburg,19.0,Freiburg,GER,Real Madrid,112.0,Madrid,ESP,1246.0
+6,105,Brighton,18.635,Brighton,ENG,Hearts,6.53,Edinburgh,SCO,604.0
+6,106,Brighton,18.635,Brighton,ENG,Atalanta,58.0,Bergamo,ITA,923.0
+6,107,Brighton,18.635,Brighton,ENG,Barcelona,78.0,Barcelona,ESP,1065.0
+6,108,Brighton,18.635,Brighton,ENG,Real Sociedad,42.0,San Sebastián,ESP,845.0
+6,109,Nice,17.0,Nice,FRA,Chelsea,96.0,London,ENG,1028.0
+6,110,Nice,17.0,Nice,FRA,Atalanta,58.0,Bergamo,ITA,292.0
+6,111,Nice,17.0,Nice,FRA,Real Sociedad,42.0,San Sebastián,ESP,746.0
+6,112,Nice,17.0,Nice,FRA,Maribor,9.5,Maribor,SVN,729.0
+6,113,Viktoria Plzeň,17.0,Plzeň,CZE,RB Leipzig,87.0,Leipzig,GER,183.0
+6,114,Viktoria Plzeň,17.0,Plzeň,CZE,LASK,34.0,Linz,AUT,184.0
+6,115,Viktoria Plzeň,17.0,Plzeň,CZE,Nice,17.0,Nice,FRA,802.0
+6,116,Viktoria Plzeň,17.0,Plzeň,CZE,Eintracht Frankfurt,57.0,Frankfurt,GER,315.0
+6,117,Osasuna,15.922,Pamplona,ESP,Roma,86.0,Rome,ITA,1165.0
+6,118,Osasuna,15.922,Pamplona,ESP,Lyon,44.0,Lyon,FRA,611.0
+6,119,Osasuna,15.922,Pamplona,ESP,Brighton,18.635,Brighton,ENG,898.0
+6,120,Osasuna,15.922,Pamplona,ESP,Twente,11.42,Enschede,NED,1225.0
+6,121,Genk,13.0,Genk,BEL,Villarreal,68.0,Villarreal,ESP,1298.0
+6,122,Genk,13.0,Genk,BEL,Hearts,6.53,Edinburgh,SCO,799.0
+6,123,Genk,13.0,Genk,BEL,Crvena zvezda,40.0,Belgrade,SRB,1305.0
+6,124,Genk,13.0,Genk,BEL,Salzburg,49.0,Salzburg,AUT,647.0
+6,125,Rijeka,12.0,Rijeka,CRO,Slavia Praha,42.0,Prague,CZE,528.0
+6,126,Rijeka,12.0,Rijeka,CRO,Bayern,126.0,Munich,GER,381.0
+6,127,Rijeka,12.0,Rijeka,CRO,Osasuna,15.922,Pamplona,ESP,1313.0
+6,128,Rijeka,12.0,Rijeka,CRO,Braga,48.0,Braga,POR,1888.0
+6,129,Twente,11.42,Enschede,NED,Genk,13.0,Genk,BEL,169.0
+6,130,Twente,11.42,Enschede,NED,Arsenal,58.0,London,ENG,489.0
+6,131,Twente,11.42,Enschede,NED,West Ham,54.0,London,ENG,489.0
+6,132,Twente,11.42,Enschede,NED,Fiorentina,24.0,Florence,ITA,994.0
+6,133,Maribor,9.5,Maribor,SVN,Rijeka,12.0,Rijeka,CRO,165.0
+6,134,Maribor,9.5,Maribor,SVN,SC Freiburg,19.0,Freiburg,GER,610.0
+6,135,Maribor,9.5,Maribor,SVN,Tottenham Hotspur,54.0,London,ENG,1272.0
+6,136,Maribor,9.5,Maribor,SVN,Inter,90.0,Milan,ITA,513.0
+6,137,Hearts,6.53,Edinburgh,SCO,Slovan Bratislava,26.5,Bratislava,SVK,1628.0
+6,138,Hearts,6.53,Edinburgh,SCO,PSV,43.0,Eindhoven,NED,758.0
+6,139,Hearts,6.53,Edinburgh,SCO,Barcelona,78.0,Barcelona,ESP,1666.0
+6,140,Hearts,6.53,Edinburgh,SCO,Luzern,6.155,Luzern,SUI,1267.0
+6,141,Luzern,6.155,Luzern,SUI,AC Milan,49.0,Milan,ITA,189.0
+6,142,Luzern,6.155,Luzern,SUI,Real Madrid,112.0,Madrid,ESP,1212.0
+6,143,Luzern,6.155,Luzern,SUI,Monaco,24.0,Monaco,FRA,375.0
+6,144,Luzern,6.155,Luzern,SUI,Viktoria Plzeň,17.0,Plzeň,CZE,460.0
+7,1,Bayern,126.0,Munich,GER,Salzburg,49.0,Salzburg,AUT,115.0
+7,2,Bayern,126.0,Munich,GER,Monaco,24.0,Monaco,FRA,585.0
+7,3,Bayern,126.0,Munich,GER,Villarreal,68.0,Villarreal,ESP,1300.0
+7,4,Bayern,126.0,Munich,GER,Osasuna,15.922,Pamplona,ESP,1187.0
+7,5,Real Madrid,112.0,Madrid,ESP,Braga,48.0,Braga,POR,417.0
+7,6,Real Madrid,112.0,Madrid,ESP,Viktoria Plzeň,17.0,Plzeň,CZE,1668.0
+7,7,Real Madrid,112.0,Madrid,ESP,Inter,90.0,Milan,ITA,1188.0
+7,8,Real Madrid,112.0,Madrid,ESP,Brighton,18.635,Brighton,ENG,1189.0
+7,9,Chelsea,96.0,London,ENG,PSV,43.0,Eindhoven,NED,388.0
+7,10,Chelsea,96.0,London,ENG,Luzern,6.155,Luzern,SUI,787.0
+7,11,Chelsea,96.0,London,ENG,Roma,86.0,Rome,ITA,1434.0
+7,12,Chelsea,96.0,London,ENG,Fiorentina,24.0,Florence,ITA,1209.0
+7,13,Inter,90.0,Milan,ITA,Nice,17.0,Nice,FRA,247.0
+7,14,Inter,90.0,Milan,ITA,SC Freiburg,19.0,Freiburg,GER,300.0
+7,15,Inter,90.0,Milan,ITA,Bayern,126.0,Munich,GER,348.0
+7,16,Inter,90.0,Milan,ITA,Eintracht Frankfurt,57.0,Frankfurt,GER,518.0
+7,17,RB Leipzig,87.0,Leipzig,GER,Slavia Praha,42.0,Prague,CZE,202.0
+7,18,RB Leipzig,87.0,Leipzig,GER,Chelsea,96.0,London,ENG,867.0
+7,19,RB Leipzig,87.0,Leipzig,GER,Twente,11.42,Enschede,NED,390.0
+7,20,RB Leipzig,87.0,Leipzig,GER,Lyon,44.0,Lyon,FRA,832.0
+7,21,Roma,86.0,Rome,ITA,Rijeka,12.0,Rijeka,CRO,412.0
+7,22,Roma,86.0,Rome,ITA,Crvena zvezda,40.0,Belgrade,SRB,718.0
+7,23,Roma,86.0,Rome,ITA,Barcelona,78.0,Barcelona,ESP,859.0
+7,24,Roma,86.0,Rome,ITA,West Ham,54.0,London,ENG,1434.0
+7,25,Barcelona,78.0,Barcelona,ESP,LASK,34.0,Linz,AUT,1224.0
+7,26,Barcelona,78.0,Barcelona,ESP,Hearts,6.53,Edinburgh,SCO,1666.0
+7,27,Barcelona,78.0,Barcelona,ESP,AC Milan,49.0,Milan,ITA,725.0
+7,28,Barcelona,78.0,Barcelona,ESP,Arsenal,58.0,London,ENG,1139.0
+7,29,Villarreal,68.0,Villarreal,ESP,Maribor,9.5,Maribor,SVN,1467.0
+7,30,Villarreal,68.0,Villarreal,ESP,Tottenham Hotspur,54.0,London,ENG,1283.0
+7,31,Villarreal,68.0,Villarreal,ESP,RB Leipzig,87.0,Leipzig,GER,1590.0
+7,32,Villarreal,68.0,Villarreal,ESP,Slovan Bratislava,26.5,Bratislava,SVK,1643.0
+7,33,Arsenal,58.0,London,ENG,Genk,13.0,Genk,BEL,398.0
+7,34,Arsenal,58.0,London,ENG,Atalanta,58.0,Bergamo,ITA,966.0
+7,35,Arsenal,58.0,London,ENG,Real Sociedad,42.0,San Sebastián,ESP,921.0
+7,36,Arsenal,58.0,London,ENG,Real Madrid,112.0,Madrid,ESP,1263.0
+7,37,Atalanta,58.0,Bergamo,ITA,Tottenham Hotspur,54.0,London,ENG,966.0
+7,38,Atalanta,58.0,Bergamo,ITA,Luzern,6.155,Luzern,SUI,182.0
+7,39,Atalanta,58.0,Bergamo,ITA,Chelsea,96.0,London,ENG,966.0
+7,40,Atalanta,58.0,Bergamo,ITA,Slavia Praha,42.0,Prague,CZE,602.0
+7,41,Eintracht Frankfurt,57.0,Frankfurt,GER,Genk,13.0,Genk,BEL,243.0
+7,42,Eintracht Frankfurt,57.0,Frankfurt,GER,PSV,43.0,Eindhoven,NED,270.0
+7,43,Eintracht Frankfurt,57.0,Frankfurt,GER,Crvena zvezda,40.0,Belgrade,SRB,1063.0
+7,44,Eintracht Frankfurt,57.0,Frankfurt,GER,Arsenal,58.0,London,ENG,638.0
+7,45,West Ham,54.0,London,ENG,Twente,11.42,Enschede,NED,489.0
+7,46,West Ham,54.0,London,ENG,Eintracht Frankfurt,57.0,Frankfurt,GER,638.0
+7,47,West Ham,54.0,London,ENG,SC Freiburg,19.0,Freiburg,GER,693.0
+7,48,West Ham,54.0,London,ENG,RB Leipzig,87.0,Leipzig,GER,867.0
+7,49,Tottenham Hotspur,54.0,London,ENG,Hearts,6.53,Edinburgh,SCO,534.0
+7,50,Tottenham Hotspur,54.0,London,ENG,Lyon,44.0,Lyon,FRA,735.0
+7,51,Tottenham Hotspur,54.0,London,ENG,Bayern,126.0,Munich,GER,919.0
+7,52,Tottenham Hotspur,54.0,London,ENG,Fiorentina,24.0,Florence,ITA,1209.0
+7,53,AC Milan,49.0,Milan,ITA,Monaco,24.0,Monaco,FRA,238.0
+7,54,AC Milan,49.0,Milan,ITA,Nice,17.0,Nice,FRA,247.0
+7,55,AC Milan,49.0,Milan,ITA,Salzburg,49.0,Salzburg,AUT,393.0
+7,56,AC Milan,49.0,Milan,ITA,Villarreal,68.0,Villarreal,ESP,973.0
+7,57,Salzburg,49.0,Salzburg,AUT,Atalanta,58.0,Bergamo,ITA,348.0
+7,58,Salzburg,49.0,Salzburg,AUT,Viktoria Plzeň,17.0,Plzeň,CZE,215.0
+7,59,Salzburg,49.0,Salzburg,AUT,Barcelona,78.0,Barcelona,ESP,1117.0
+7,60,Salzburg,49.0,Salzburg,AUT,Brighton,18.635,Brighton,ENG,1013.0
+7,61,Braga,48.0,Braga,POR,Real Sociedad,42.0,San Sebastián,ESP,566.0
+7,62,Braga,48.0,Braga,POR,Osasuna,15.922,Pamplona,ESP,578.0
+7,63,Braga,48.0,Braga,POR,West Ham,54.0,London,ENG,1276.0
+7,64,Braga,48.0,Braga,POR,Inter,90.0,Milan,ITA,1484.0
+7,65,Lyon,44.0,Lyon,FRA,Braga,48.0,Braga,POR,1165.0
+7,66,Lyon,44.0,Lyon,FRA,Maribor,9.5,Maribor,SVN,837.0
+7,67,Lyon,44.0,Lyon,FRA,Roma,86.0,Rome,ITA,749.0
+7,68,Lyon,44.0,Lyon,FRA,LASK,34.0,Linz,AUT,769.0
+7,69,PSV,43.0,Eindhoven,NED,Slovan Bratislava,26.5,Bratislava,SVK,911.0
+7,70,PSV,43.0,Eindhoven,NED,Real Madrid,112.0,Madrid,ESP,1414.0
+7,71,PSV,43.0,Eindhoven,NED,AC Milan,49.0,Milan,ITA,719.0
+7,72,PSV,43.0,Eindhoven,NED,Rijeka,12.0,Rijeka,CRO,948.0
+7,73,Real Sociedad,42.0,San Sebastián,ESP,Lyon,44.0,Lyon,FRA,604.0
+7,74,Real Sociedad,42.0,San Sebastián,ESP,Nice,17.0,Nice,FRA,746.0
+7,75,Real Sociedad,42.0,San Sebastián,ESP,Monaco,24.0,Monaco,FRA,758.0
+7,76,Real Sociedad,42.0,San Sebastián,ESP,RB Leipzig,87.0,Leipzig,GER,1399.0
+7,77,Slavia Praha,42.0,Prague,CZE,Villarreal,68.0,Villarreal,ESP,1597.0
+7,78,Slavia Praha,42.0,Prague,CZE,West Ham,54.0,London,ENG,1034.0
+7,79,Slavia Praha,42.0,Prague,CZE,LASK,34.0,Linz,AUT,197.0
+7,80,Slavia Praha,42.0,Prague,CZE,Maribor,9.5,Maribor,SVN,402.0
+7,81,Crvena zvezda,40.0,Belgrade,SRB,Slovan Bratislava,26.5,Bratislava,SVK,453.0
+7,82,Crvena zvezda,40.0,Belgrade,SRB,Rijeka,12.0,Rijeka,CRO,476.0
+7,83,Crvena zvezda,40.0,Belgrade,SRB,Salzburg,49.0,Salzburg,AUT,660.0
+7,84,Crvena zvezda,40.0,Belgrade,SRB,Arsenal,58.0,London,ENG,1692.0
+7,85,LASK,34.0,Linz,AUT,Fiorentina,24.0,Florence,ITA,556.0
+7,86,LASK,34.0,Linz,AUT,Luzern,6.155,Luzern,SUI,468.0
+7,87,LASK,34.0,Linz,AUT,Bayern,126.0,Munich,GER,201.0
+7,88,LASK,34.0,Linz,AUT,Eintracht Frankfurt,57.0,Frankfurt,GER,453.0
+7,89,Slovan Bratislava,26.5,Bratislava,SVK,Slavia Praha,42.0,Prague,CZE,289.0
+7,90,Slovan Bratislava,26.5,Bratislava,SVK,Hearts,6.53,Edinburgh,SCO,1628.0
+7,91,Slovan Bratislava,26.5,Bratislava,SVK,Atalanta,58.0,Bergamo,ITA,626.0
+7,92,Slovan Bratislava,26.5,Bratislava,SVK,Real Madrid,112.0,Madrid,ESP,1858.0
+7,93,Fiorentina,24.0,Florence,ITA,SC Freiburg,19.0,Freiburg,GER,539.0
+7,94,Fiorentina,24.0,Florence,ITA,Viktoria Plzeň,17.0,Plzeň,CZE,678.0
+7,95,Fiorentina,24.0,Florence,ITA,Barcelona,78.0,Barcelona,ESP,789.0
+7,96,Fiorentina,24.0,Florence,ITA,PSV,43.0,Eindhoven,NED,956.0
+7,97,Monaco,24.0,Monaco,FRA,Inter,90.0,Milan,ITA,238.0
+7,98,Monaco,24.0,Monaco,FRA,Osasuna,15.922,Pamplona,ESP,740.0
+7,99,Monaco,24.0,Monaco,FRA,Brighton,18.635,Brighton,ENG,973.0
+7,100,Monaco,24.0,Monaco,FRA,Braga,48.0,Braga,POR,1318.0
+7,101,SC Freiburg,19.0,Freiburg,GER,Genk,13.0,Genk,BEL,370.0
+7,102,SC Freiburg,19.0,Freiburg,GER,Tottenham Hotspur,54.0,London,ENG,693.0
+7,103,SC Freiburg,19.0,Freiburg,GER,Chelsea,96.0,London,ENG,693.0
+7,104,SC Freiburg,19.0,Freiburg,GER,Real Sociedad,42.0,San Sebastián,ESP,923.0
+7,105,Brighton,18.635,Brighton,ENG,Roma,86.0,Rome,ITA,1385.0
+7,106,Brighton,18.635,Brighton,ENG,Twente,11.42,Enschede,NED,513.0
+7,107,Brighton,18.635,Brighton,ENG,AC Milan,49.0,Milan,ITA,914.0
+7,108,Brighton,18.635,Brighton,ENG,Crvena zvezda,40.0,Belgrade,SRB,1673.0
+7,109,Nice,17.0,Nice,FRA,Slavia Praha,42.0,Prague,CZE,892.0
+7,110,Nice,17.0,Nice,FRA,Atalanta,58.0,Bergamo,ITA,292.0
+7,111,Nice,17.0,Nice,FRA,Luzern,6.155,Luzern,SUI,380.0
+7,112,Nice,17.0,Nice,FRA,Chelsea,96.0,London,ENG,1028.0
+7,113,Viktoria Plzeň,17.0,Plzeň,CZE,RB Leipzig,87.0,Leipzig,GER,183.0
+7,114,Viktoria Plzeň,17.0,Plzeň,CZE,LASK,34.0,Linz,AUT,184.0
+7,115,Viktoria Plzeň,17.0,Plzeň,CZE,Eintracht Frankfurt,57.0,Frankfurt,GER,315.0
+7,116,Viktoria Plzeň,17.0,Plzeň,CZE,Maribor,9.5,Maribor,SVN,404.0
+7,117,Osasuna,15.922,Pamplona,ESP,Lyon,44.0,Lyon,FRA,611.0
+7,118,Osasuna,15.922,Pamplona,ESP,Arsenal,58.0,London,ENG,974.0
+7,119,Osasuna,15.922,Pamplona,ESP,Nice,17.0,Nice,FRA,728.0
+7,120,Osasuna,15.922,Pamplona,ESP,Crvena zvezda,40.0,Belgrade,SRB,1781.0
+7,121,Genk,13.0,Genk,BEL,PSV,43.0,Eindhoven,NED,53.0
+7,122,Genk,13.0,Genk,BEL,Twente,11.42,Enschede,NED,169.0
+7,123,Genk,13.0,Genk,BEL,Monaco,24.0,Monaco,FRA,816.0
+7,124,Genk,13.0,Genk,BEL,Bayern,126.0,Munich,GER,539.0
+7,125,Rijeka,12.0,Rijeka,CRO,Salzburg,49.0,Salzburg,AUT,296.0
+7,126,Rijeka,12.0,Rijeka,CRO,Fiorentina,24.0,Florence,ITA,306.0
+7,127,Rijeka,12.0,Rijeka,CRO,Villarreal,68.0,Villarreal,ESP,1328.0
+7,128,Rijeka,12.0,Rijeka,CRO,Hearts,6.53,Edinburgh,SCO,1706.0
+7,129,Twente,11.42,Enschede,NED,Inter,90.0,Milan,ITA,770.0
+7,130,Twente,11.42,Enschede,NED,SC Freiburg,19.0,Freiburg,GER,475.0
+7,131,Twente,11.42,Enschede,NED,Tottenham Hotspur,54.0,London,ENG,489.0
+7,132,Twente,11.42,Enschede,NED,Viktoria Plzeň,17.0,Plzeň,CZE,511.0
+7,133,Maribor,9.5,Maribor,SVN,Rijeka,12.0,Rijeka,CRO,165.0
+7,134,Maribor,9.5,Maribor,SVN,Slovan Bratislava,26.5,Bratislava,SVK,209.0
+7,135,Maribor,9.5,Maribor,SVN,Roma,86.0,Rome,ITA,575.0
+7,136,Maribor,9.5,Maribor,SVN,AC Milan,49.0,Milan,ITA,513.0
+7,137,Hearts,6.53,Edinburgh,SCO,Real Sociedad,42.0,San Sebastián,ESP,1408.0
+7,138,Hearts,6.53,Edinburgh,SCO,West Ham,54.0,London,ENG,534.0
+7,139,Hearts,6.53,Edinburgh,SCO,Genk,13.0,Genk,BEL,799.0
+7,140,Hearts,6.53,Edinburgh,SCO,Real Madrid,112.0,Madrid,ESP,1728.0
+7,141,Luzern,6.155,Luzern,SUI,Brighton,18.635,Brighton,ENG,747.0
+7,142,Luzern,6.155,Luzern,SUI,Barcelona,78.0,Barcelona,ESP,797.0
+7,143,Luzern,6.155,Luzern,SUI,Braga,48.0,Braga,POR,1463.0
+7,144,Luzern,6.155,Luzern,SUI,Osasuna,15.922,Pamplona,ESP,913.0
+8,1,Bayern,126.0,Munich,GER,Salzburg,49.0,Salzburg,AUT,115.0
+8,2,Bayern,126.0,Munich,GER,LASK,34.0,Linz,AUT,201.0
+8,3,Bayern,126.0,Munich,GER,Chelsea,96.0,London,ENG,919.0
+8,4,Bayern,126.0,Munich,GER,Osasuna,15.922,Pamplona,ESP,1187.0
+8,5,Real Madrid,112.0,Madrid,ESP,Twente,11.42,Enschede,NED,1541.0
+8,6,Real Madrid,112.0,Madrid,ESP,Braga,48.0,Braga,POR,417.0
+8,7,Real Madrid,112.0,Madrid,ESP,Monaco,24.0,Monaco,FRA,988.0
+8,8,Real Madrid,112.0,Madrid,ESP,RB Leipzig,87.0,Leipzig,GER,1733.0
+8,9,Chelsea,96.0,London,ENG,Villarreal,68.0,Villarreal,ESP,1283.0
+8,10,Chelsea,96.0,London,ENG,PSV,43.0,Eindhoven,NED,388.0
+8,11,Chelsea,96.0,London,ENG,Nice,17.0,Nice,FRA,1028.0
+8,12,Chelsea,96.0,London,ENG,SC Freiburg,19.0,Freiburg,GER,693.0
+8,13,Inter,90.0,Milan,ITA,Rijeka,12.0,Rijeka,CRO,410.0
+8,14,Inter,90.0,Milan,ITA,Lyon,44.0,Lyon,FRA,340.0
+8,15,Inter,90.0,Milan,ITA,Slovan Bratislava,26.5,Bratislava,SVK,672.0
+8,16,Inter,90.0,Milan,ITA,Bayern,126.0,Munich,GER,348.0
+8,17,RB Leipzig,87.0,Leipzig,GER,Viktoria Plzeň,17.0,Plzeň,CZE,183.0
+8,18,RB Leipzig,87.0,Leipzig,GER,Fiorentina,24.0,Florence,ITA,846.0
+8,19,RB Leipzig,87.0,Leipzig,GER,AC Milan,49.0,Milan,ITA,695.0
+8,20,RB Leipzig,87.0,Leipzig,GER,Inter,90.0,Milan,ITA,695.0
+8,21,Roma,86.0,Rome,ITA,Eintracht Frankfurt,57.0,Frankfurt,GER,959.0
+8,22,Roma,86.0,Rome,ITA,Maribor,9.5,Maribor,SVN,575.0
+8,23,Roma,86.0,Rome,ITA,Slavia Praha,42.0,Prague,CZE,921.0
+8,24,Roma,86.0,Rome,ITA,Real Madrid,112.0,Madrid,ESP,1364.0
+8,25,Barcelona,78.0,Barcelona,ESP,Luzern,6.155,Luzern,SUI,797.0
+8,26,Barcelona,78.0,Barcelona,ESP,Brighton,18.635,Brighton,ENG,1065.0
+8,27,Barcelona,78.0,Barcelona,ESP,Roma,86.0,Rome,ITA,859.0
+8,28,Barcelona,78.0,Barcelona,ESP,Tottenham Hotspur,54.0,London,ENG,1139.0
+8,29,Villarreal,68.0,Villarreal,ESP,Genk,13.0,Genk,BEL,1298.0
+8,30,Villarreal,68.0,Villarreal,ESP,Arsenal,58.0,London,ENG,1283.0
+8,31,Villarreal,68.0,Villarreal,ESP,West Ham,54.0,London,ENG,1283.0
+8,32,Villarreal,68.0,Villarreal,ESP,Crvena zvezda,40.0,Belgrade,SRB,1765.0
+8,33,Arsenal,58.0,London,ENG,Hearts,6.53,Edinburgh,SCO,534.0
+8,34,Arsenal,58.0,London,ENG,Barcelona,78.0,Barcelona,ESP,1139.0
+8,35,Arsenal,58.0,London,ENG,Real Sociedad,42.0,San Sebastián,ESP,921.0
+8,36,Arsenal,58.0,London,ENG,Atalanta,58.0,Bergamo,ITA,966.0
+8,37,Atalanta,58.0,Bergamo,ITA,Luzern,6.155,Luzern,SUI,182.0
+8,38,Atalanta,58.0,Bergamo,ITA,Monaco,24.0,Monaco,FRA,282.0
+8,39,Atalanta,58.0,Bergamo,ITA,Bayern,126.0,Munich,GER,307.0
+8,40,Atalanta,58.0,Bergamo,ITA,Salzburg,49.0,Salzburg,AUT,348.0
+8,41,Eintracht Frankfurt,57.0,Frankfurt,GER,Genk,13.0,Genk,BEL,243.0
+8,42,Eintracht Frankfurt,57.0,Frankfurt,GER,AC Milan,49.0,Milan,ITA,518.0
+8,43,Eintracht Frankfurt,57.0,Frankfurt,GER,Slavia Praha,42.0,Prague,CZE,411.0
+8,44,Eintracht Frankfurt,57.0,Frankfurt,GER,Inter,90.0,Milan,ITA,518.0
+8,45,West Ham,54.0,London,ENG,PSV,43.0,Eindhoven,NED,388.0
+8,46,West Ham,54.0,London,ENG,Nice,17.0,Nice,FRA,1028.0
+8,47,West Ham,54.0,London,ENG,SC Freiburg,19.0,Freiburg,GER,693.0
+8,48,West Ham,54.0,London,ENG,Roma,86.0,Rome,ITA,1434.0
+8,49,Tottenham Hotspur,54.0,London,ENG,Twente,11.42,Enschede,NED,489.0
+8,50,Tottenham Hotspur,54.0,London,ENG,Real Sociedad,42.0,San Sebastián,ESP,921.0
+8,51,Tottenham Hotspur,54.0,London,ENG,Real Madrid,112.0,Madrid,ESP,1263.0
+8,52,Tottenham Hotspur,54.0,London,ENG,Eintracht Frankfurt,57.0,Frankfurt,GER,638.0
+8,53,AC Milan,49.0,Milan,ITA,Lyon,44.0,Lyon,FRA,340.0
+8,54,AC Milan,49.0,Milan,ITA,Arsenal,58.0,London,ENG,959.0
+8,55,AC Milan,49.0,Milan,ITA,Rijeka,12.0,Rijeka,CRO,410.0
+8,56,AC Milan,49.0,Milan,ITA,Slovan Bratislava,26.5,Bratislava,SVK,672.0
+8,57,Salzburg,49.0,Salzburg,AUT,Viktoria Plzeň,17.0,Plzeň,CZE,215.0
+8,58,Salzburg,49.0,Salzburg,AUT,RB Leipzig,87.0,Leipzig,GER,396.0
+8,59,Salzburg,49.0,Salzburg,AUT,Fiorentina,24.0,Florence,ITA,470.0
+8,60,Salzburg,49.0,Salzburg,AUT,West Ham,54.0,London,ENG,1032.0
+8,61,Braga,48.0,Braga,POR,Maribor,9.5,Maribor,SVN,1996.0
+8,62,Braga,48.0,Braga,POR,Villarreal,68.0,Villarreal,ESP,724.0
+8,63,Braga,48.0,Braga,POR,LASK,34.0,Linz,AUT,1931.0
+8,64,Braga,48.0,Braga,POR,Tottenham Hotspur,54.0,London,ENG,1276.0
+8,65,Lyon,44.0,Lyon,FRA,Crvena zvezda,40.0,Belgrade,SRB,1225.0
+8,66,Lyon,44.0,Lyon,FRA,Osasuna,15.922,Pamplona,ESP,611.0
+8,67,Lyon,44.0,Lyon,FRA,Braga,48.0,Braga,POR,1165.0
+8,68,Lyon,44.0,Lyon,FRA,Chelsea,96.0,London,ENG,735.0
+8,69,PSV,43.0,Eindhoven,NED,Brighton,18.635,Brighton,ENG,400.0
+8,70,PSV,43.0,Eindhoven,NED,Atalanta,58.0,Bergamo,ITA,709.0
+8,71,PSV,43.0,Eindhoven,NED,Hearts,6.53,Edinburgh,SCO,758.0
+8,72,PSV,43.0,Eindhoven,NED,Barcelona,78.0,Barcelona,ESP,1146.0
+8,73,Real Sociedad,42.0,San Sebastián,ESP,Braga,48.0,Braga,POR,566.0
+8,74,Real Sociedad,42.0,San Sebastián,ESP,Hearts,6.53,Edinburgh,SCO,1408.0
+8,75,Real Sociedad,42.0,San Sebastián,ESP,SC Freiburg,19.0,Freiburg,GER,923.0
+8,76,Real Sociedad,42.0,San Sebastián,ESP,RB Leipzig,87.0,Leipzig,GER,1399.0
+8,77,Slavia Praha,42.0,Prague,CZE,Atalanta,58.0,Bergamo,ITA,602.0
+8,78,Slavia Praha,42.0,Prague,CZE,Monaco,24.0,Monaco,FRA,883.0
+8,79,Slavia Praha,42.0,Prague,CZE,Bayern,126.0,Munich,GER,300.0
+8,80,Slavia Praha,42.0,Prague,CZE,Maribor,9.5,Maribor,SVN,402.0
+8,81,Crvena zvezda,40.0,Belgrade,SRB,Fiorentina,24.0,Florence,ITA,740.0
+8,82,Crvena zvezda,40.0,Belgrade,SRB,Rijeka,12.0,Rijeka,CRO,476.0
+8,83,Crvena zvezda,40.0,Belgrade,SRB,Salzburg,49.0,Salzburg,AUT,660.0
+8,84,Crvena zvezda,40.0,Belgrade,SRB,Barcelona,78.0,Barcelona,ESP,1528.0
+8,85,LASK,34.0,Linz,AUT,Viktoria Plzeň,17.0,Plzeň,CZE,184.0
+8,86,LASK,34.0,Linz,AUT,Slavia Praha,42.0,Prague,CZE,197.0
+8,87,LASK,34.0,Linz,AUT,Real Madrid,112.0,Madrid,ESP,1671.0
+8,88,LASK,34.0,Linz,AUT,Eintracht Frankfurt,57.0,Frankfurt,GER,453.0
+8,89,Slovan Bratislava,26.5,Bratislava,SVK,LASK,34.0,Linz,AUT,210.0
+8,90,Slovan Bratislava,26.5,Bratislava,SVK,Luzern,6.155,Luzern,SUI,671.0
+8,91,Slovan Bratislava,26.5,Bratislava,SVK,Roma,86.0,Rome,ITA,783.0
+8,92,Slovan Bratislava,26.5,Bratislava,SVK,PSV,43.0,Eindhoven,NED,911.0
+8,93,Fiorentina,24.0,Florence,ITA,Arsenal,58.0,London,ENG,1209.0
+8,94,Fiorentina,24.0,Florence,ITA,West Ham,54.0,London,ENG,1209.0
+8,95,Fiorentina,24.0,Florence,ITA,Nice,17.0,Nice,FRA,321.0
+8,96,Fiorentina,24.0,Florence,ITA,Slovan Bratislava,26.5,Bratislava,SVK,664.0
+8,97,Monaco,24.0,Monaco,FRA,AC Milan,49.0,Milan,ITA,238.0
+8,98,Monaco,24.0,Monaco,FRA,Osasuna,15.922,Pamplona,ESP,740.0
+8,99,Monaco,24.0,Monaco,FRA,Chelsea,96.0,London,ENG,1031.0
+8,100,Monaco,24.0,Monaco,FRA,Brighton,18.635,Brighton,ENG,973.0
+8,101,SC Freiburg,19.0,Freiburg,GER,Inter,90.0,Milan,ITA,300.0
+8,102,SC Freiburg,19.0,Freiburg,GER,Twente,11.42,Enschede,NED,475.0
+8,103,SC Freiburg,19.0,Freiburg,GER,Tottenham Hotspur,54.0,London,ENG,693.0
+8,104,SC Freiburg,19.0,Freiburg,GER,Crvena zvezda,40.0,Belgrade,SRB,1029.0
+8,105,Brighton,18.635,Brighton,ENG,Genk,13.0,Genk,BEL,399.0
+8,106,Brighton,18.635,Brighton,ENG,Lyon,44.0,Lyon,FRA,673.0
+8,107,Brighton,18.635,Brighton,ENG,Real Sociedad,42.0,San Sebastián,ESP,845.0
+8,108,Brighton,18.635,Brighton,ENG,Villarreal,68.0,Villarreal,ESP,1207.0
+8,109,Nice,17.0,Nice,FRA,Braga,48.0,Braga,POR,1306.0
+8,110,Nice,17.0,Nice,FRA,SC Freiburg,19.0,Freiburg,GER,479.0
+8,111,Nice,17.0,Nice,FRA,Rijeka,12.0,Rijeka,CRO,596.0
+8,112,Nice,17.0,Nice,FRA,Villarreal,68.0,Villarreal,ESP,738.0
+8,113,Viktoria Plzeň,17.0,Plzeň,CZE,Bayern,126.0,Munich,GER,209.0
+8,114,Viktoria Plzeň,17.0,Plzeň,CZE,Nice,17.0,Nice,FRA,802.0
+8,115,Viktoria Plzeň,17.0,Plzeň,CZE,Eintracht Frankfurt,57.0,Frankfurt,GER,315.0
+8,116,Viktoria Plzeň,17.0,Plzeň,CZE,Slovan Bratislava,26.5,Bratislava,SVK,346.0
+8,117,Osasuna,15.922,Pamplona,ESP,Maribor,9.5,Maribor,SVN,1426.0
+8,118,Osasuna,15.922,Pamplona,ESP,Brighton,18.635,Brighton,ENG,898.0
+8,119,Osasuna,15.922,Pamplona,ESP,AC Milan,49.0,Milan,ITA,913.0
+8,120,Osasuna,15.922,Pamplona,ESP,Arsenal,58.0,London,ENG,974.0
+8,121,Genk,13.0,Genk,BEL,PSV,43.0,Eindhoven,NED,53.0
+8,122,Genk,13.0,Genk,BEL,Twente,11.42,Enschede,NED,169.0
+8,123,Genk,13.0,Genk,BEL,Chelsea,96.0,London,ENG,398.0
+8,124,Genk,13.0,Genk,BEL,Slavia Praha,42.0,Prague,CZE,638.0
+8,125,Rijeka,12.0,Rijeka,CRO,Salzburg,49.0,Salzburg,AUT,296.0
+8,126,Rijeka,12.0,Rijeka,CRO,Fiorentina,24.0,Florence,ITA,306.0
+8,127,Rijeka,12.0,Rijeka,CRO,RB Leipzig,87.0,Leipzig,GER,686.0
+8,128,Rijeka,12.0,Rijeka,CRO,Genk,13.0,Genk,BEL,911.0
+8,129,Twente,11.42,Enschede,NED,Lyon,44.0,Lyon,FRA,734.0
+8,130,Twente,11.42,Enschede,NED,Viktoria Plzeň,17.0,Plzeň,CZE,511.0
+8,131,Twente,11.42,Enschede,NED,LASK,34.0,Linz,AUT,681.0
+8,132,Twente,11.42,Enschede,NED,Inter,90.0,Milan,ITA,770.0
+8,133,Maribor,9.5,Maribor,SVN,West Ham,54.0,London,ENG,1272.0
+8,134,Maribor,9.5,Maribor,SVN,Crvena zvezda,40.0,Belgrade,SRB,422.0
+8,135,Maribor,9.5,Maribor,SVN,Hearts,6.53,Edinburgh,SCO,1667.0
+8,136,Maribor,9.5,Maribor,SVN,Barcelona,78.0,Barcelona,ESP,1220.0
+8,137,Hearts,6.53,Edinburgh,SCO,Luzern,6.155,Luzern,SUI,1267.0
+8,138,Hearts,6.53,Edinburgh,SCO,Atalanta,58.0,Bergamo,ITA,1449.0
+8,139,Hearts,6.53,Edinburgh,SCO,Monaco,24.0,Monaco,FRA,1552.0
+8,140,Hearts,6.53,Edinburgh,SCO,Real Madrid,112.0,Madrid,ESP,1728.0
+8,141,Luzern,6.155,Luzern,SUI,Real Sociedad,42.0,San Sebastián,ESP,906.0
+8,142,Luzern,6.155,Luzern,SUI,Roma,86.0,Rome,ITA,662.0
+8,143,Luzern,6.155,Luzern,SUI,Tottenham Hotspur,54.0,London,ENG,787.0
+8,144,Luzern,6.155,Luzern,SUI,Osasuna,15.922,Pamplona,ESP,913.0
+9,1,Bayern,126.0,Munich,GER,Salzburg,49.0,Salzburg,AUT,115.0
+9,2,Bayern,126.0,Munich,GER,LASK,34.0,Linz,AUT,201.0
+9,3,Bayern,126.0,Munich,GER,Viktoria Plzeň,17.0,Plzeň,CZE,209.0
+9,4,Bayern,126.0,Munich,GER,Inter,90.0,Milan,ITA,348.0
+9,5,Real Madrid,112.0,Madrid,ESP,Tottenham Hotspur,54.0,London,ENG,1263.0
+9,6,Real Madrid,112.0,Madrid,ESP,Nice,17.0,Nice,FRA,976.0
+9,7,Real Madrid,112.0,Madrid,ESP,Chelsea,96.0,London,ENG,1263.0
+9,8,Real Madrid,112.0,Madrid,ESP,Monaco,24.0,Monaco,FRA,988.0
+9,9,Chelsea,96.0,London,ENG,Twente,11.42,Enschede,NED,489.0
+9,10,Chelsea,96.0,London,ENG,Roma,86.0,Rome,ITA,1434.0
+9,11,Chelsea,96.0,London,ENG,PSV,43.0,Eindhoven,NED,388.0
+9,12,Chelsea,96.0,London,ENG,SC Freiburg,19.0,Freiburg,GER,693.0
+9,13,Inter,90.0,Milan,ITA,Braga,48.0,Braga,POR,1484.0
+9,14,Inter,90.0,Milan,ITA,Brighton,18.635,Brighton,ENG,914.0
+9,15,Inter,90.0,Milan,ITA,Arsenal,58.0,London,ENG,959.0
+9,16,Inter,90.0,Milan,ITA,Maribor,9.5,Maribor,SVN,513.0
+9,17,RB Leipzig,87.0,Leipzig,GER,Slavia Praha,42.0,Prague,CZE,202.0
+9,18,RB Leipzig,87.0,Leipzig,GER,Villarreal,68.0,Villarreal,ESP,1590.0
+9,19,RB Leipzig,87.0,Leipzig,GER,Rijeka,12.0,Rijeka,CRO,686.0
+9,20,RB Leipzig,87.0,Leipzig,GER,West Ham,54.0,London,ENG,867.0
+9,21,Roma,86.0,Rome,ITA,Luzern,6.155,Luzern,SUI,662.0
+9,22,Roma,86.0,Rome,ITA,Real Madrid,112.0,Madrid,ESP,1364.0
+9,23,Roma,86.0,Rome,ITA,Lyon,44.0,Lyon,FRA,749.0
+9,24,Roma,86.0,Rome,ITA,Crvena zvezda,40.0,Belgrade,SRB,718.0
+9,25,Barcelona,78.0,Barcelona,ESP,AC Milan,49.0,Milan,ITA,725.0
+9,26,Barcelona,78.0,Barcelona,ESP,Genk,13.0,Genk,BEL,1096.0
+9,27,Barcelona,78.0,Barcelona,ESP,Fiorentina,24.0,Florence,ITA,789.0
+9,28,Barcelona,78.0,Barcelona,ESP,RB Leipzig,87.0,Leipzig,GER,1354.0
+9,29,Villarreal,68.0,Villarreal,ESP,Hearts,6.53,Edinburgh,SCO,1792.0
+9,30,Villarreal,68.0,Villarreal,ESP,Atalanta,58.0,Bergamo,ITA,1019.0
+9,31,Villarreal,68.0,Villarreal,ESP,Bayern,126.0,Munich,GER,1300.0
+9,32,Villarreal,68.0,Villarreal,ESP,Slovan Bratislava,26.5,Bratislava,SVK,1643.0
+9,33,Arsenal,58.0,London,ENG,Eintracht Frankfurt,57.0,Frankfurt,GER,638.0
+9,34,Arsenal,58.0,London,ENG,Real Sociedad,42.0,San Sebastián,ESP,921.0
+9,35,Arsenal,58.0,London,ENG,Barcelona,78.0,Barcelona,ESP,1139.0
+9,36,Arsenal,58.0,London,ENG,Osasuna,15.922,Pamplona,ESP,974.0
+9,37,Atalanta,58.0,Bergamo,ITA,Luzern,6.155,Luzern,SUI,182.0
+9,38,Atalanta,58.0,Bergamo,ITA,Barcelona,78.0,Barcelona,ESP,771.0
+9,39,Atalanta,58.0,Bergamo,ITA,Monaco,24.0,Monaco,FRA,282.0
+9,40,Atalanta,58.0,Bergamo,ITA,Salzburg,49.0,Salzburg,AUT,348.0
+9,41,Eintracht Frankfurt,57.0,Frankfurt,GER,Genk,13.0,Genk,BEL,243.0
+9,42,Eintracht Frankfurt,57.0,Frankfurt,GER,PSV,43.0,Eindhoven,NED,270.0
+9,43,Eintracht Frankfurt,57.0,Frankfurt,GER,Slavia Praha,42.0,Prague,CZE,411.0
+9,44,Eintracht Frankfurt,57.0,Frankfurt,GER,Inter,90.0,Milan,ITA,518.0
+9,45,West Ham,54.0,London,ENG,Osasuna,15.922,Pamplona,ESP,974.0
+9,46,West Ham,54.0,London,ENG,Bayern,126.0,Munich,GER,919.0
+9,47,West Ham,54.0,London,ENG,Eintracht Frankfurt,57.0,Frankfurt,GER,638.0
+9,48,West Ham,54.0,London,ENG,SC Freiburg,19.0,Freiburg,GER,693.0
+9,49,Tottenham Hotspur,54.0,London,ENG,Fiorentina,24.0,Florence,ITA,1209.0
+9,50,Tottenham Hotspur,54.0,London,ENG,Twente,11.42,Enschede,NED,489.0
+9,51,Tottenham Hotspur,54.0,London,ENG,Lyon,44.0,Lyon,FRA,735.0
+9,52,Tottenham Hotspur,54.0,London,ENG,Villarreal,68.0,Villarreal,ESP,1283.0
+9,53,AC Milan,49.0,Milan,ITA,Nice,17.0,Nice,FRA,247.0
+9,54,AC Milan,49.0,Milan,ITA,LASK,34.0,Linz,AUT,499.0
+9,55,AC Milan,49.0,Milan,ITA,RB Leipzig,87.0,Leipzig,GER,695.0
+9,56,AC Milan,49.0,Milan,ITA,West Ham,54.0,London,ENG,959.0
+9,57,Salzburg,49.0,Salzburg,AUT,Viktoria Plzeň,17.0,Plzeň,CZE,215.0
+9,58,Salzburg,49.0,Salzburg,AUT,Chelsea,96.0,London,ENG,1032.0
+9,59,Salzburg,49.0,Salzburg,AUT,Slovan Bratislava,26.5,Bratislava,SVK,305.0
+9,60,Salzburg,49.0,Salzburg,AUT,AC Milan,49.0,Milan,ITA,393.0
+9,61,Braga,48.0,Braga,POR,Real Madrid,112.0,Madrid,ESP,417.0
+9,62,Braga,48.0,Braga,POR,Real Sociedad,42.0,San Sebastián,ESP,566.0
+9,63,Braga,48.0,Braga,POR,Atalanta,58.0,Bergamo,ITA,1526.0
+9,64,Braga,48.0,Braga,POR,Hearts,6.53,Edinburgh,SCO,1647.0
+9,65,Lyon,44.0,Lyon,FRA,Maribor,9.5,Maribor,SVN,837.0
+9,66,Lyon,44.0,Lyon,FRA,Crvena zvezda,40.0,Belgrade,SRB,1225.0
+9,67,Lyon,44.0,Lyon,FRA,Arsenal,58.0,London,ENG,735.0
+9,68,Lyon,44.0,Lyon,FRA,Braga,48.0,Braga,POR,1165.0
+9,69,PSV,43.0,Eindhoven,NED,Tottenham Hotspur,54.0,London,ENG,388.0
+9,70,PSV,43.0,Eindhoven,NED,Roma,86.0,Rome,ITA,1187.0
+9,71,PSV,43.0,Eindhoven,NED,Brighton,18.635,Brighton,ENG,400.0
+9,72,PSV,43.0,Eindhoven,NED,Rijeka,12.0,Rijeka,CRO,948.0
+9,73,Real Sociedad,42.0,San Sebastián,ESP,Lyon,44.0,Lyon,FRA,604.0
+9,74,Real Sociedad,42.0,San Sebastián,ESP,Nice,17.0,Nice,FRA,746.0
+9,75,Real Sociedad,42.0,San Sebastián,ESP,Monaco,24.0,Monaco,FRA,758.0
+9,76,Real Sociedad,42.0,San Sebastián,ESP,RB Leipzig,87.0,Leipzig,GER,1399.0
+9,77,Slavia Praha,42.0,Prague,CZE,Genk,13.0,Genk,BEL,638.0
+9,78,Slavia Praha,42.0,Prague,CZE,LASK,34.0,Linz,AUT,197.0
+9,79,Slavia Praha,42.0,Prague,CZE,Salzburg,49.0,Salzburg,AUT,272.0
+9,80,Slavia Praha,42.0,Prague,CZE,Real Madrid,112.0,Madrid,ESP,1773.0
+9,81,Crvena zvezda,40.0,Belgrade,SRB,Maribor,9.5,Maribor,SVN,422.0
+9,82,Crvena zvezda,40.0,Belgrade,SRB,Villarreal,68.0,Villarreal,ESP,1765.0
+9,83,Crvena zvezda,40.0,Belgrade,SRB,Slovan Bratislava,26.5,Bratislava,SVK,453.0
+9,84,Crvena zvezda,40.0,Belgrade,SRB,Atalanta,58.0,Bergamo,ITA,849.0
+9,85,LASK,34.0,Linz,AUT,Viktoria Plzeň,17.0,Plzeň,CZE,184.0
+9,86,LASK,34.0,Linz,AUT,Crvena zvezda,40.0,Belgrade,SRB,613.0
+9,87,LASK,34.0,Linz,AUT,Eintracht Frankfurt,57.0,Frankfurt,GER,453.0
+9,88,LASK,34.0,Linz,AUT,Inter,90.0,Milan,ITA,499.0
+9,89,Slovan Bratislava,26.5,Bratislava,SVK,Hearts,6.53,Edinburgh,SCO,1628.0
+9,90,Slovan Bratislava,26.5,Bratislava,SVK,Slavia Praha,42.0,Prague,CZE,289.0
+9,91,Slovan Bratislava,26.5,Bratislava,SVK,Roma,86.0,Rome,ITA,783.0
+9,92,Slovan Bratislava,26.5,Bratislava,SVK,AC Milan,49.0,Milan,ITA,672.0
+9,93,Fiorentina,24.0,Florence,ITA,Rijeka,12.0,Rijeka,CRO,306.0
+9,94,Fiorentina,24.0,Florence,ITA,Brighton,18.635,Brighton,ENG,1163.0
+9,95,Fiorentina,24.0,Florence,ITA,Bayern,126.0,Munich,GER,486.0
+9,96,Fiorentina,24.0,Florence,ITA,PSV,43.0,Eindhoven,NED,956.0
+9,97,Monaco,24.0,Monaco,FRA,Fiorentina,24.0,Florence,ITA,309.0
+9,98,Monaco,24.0,Monaco,FRA,Twente,11.42,Enschede,NED,944.0
+9,99,Monaco,24.0,Monaco,FRA,Chelsea,96.0,London,ENG,1031.0
+9,100,Monaco,24.0,Monaco,FRA,West Ham,54.0,London,ENG,1031.0
+9,101,SC Freiburg,19.0,Freiburg,GER,Luzern,6.155,Luzern,SUI,111.0
+9,102,SC Freiburg,19.0,Freiburg,GER,Arsenal,58.0,London,ENG,693.0
+9,103,SC Freiburg,19.0,Freiburg,GER,Tottenham Hotspur,54.0,London,ENG,693.0
+9,104,SC Freiburg,19.0,Freiburg,GER,Real Sociedad,42.0,San Sebastián,ESP,923.0
+9,105,Brighton,18.635,Brighton,ENG,SC Freiburg,19.0,Freiburg,GER,659.0
+9,106,Brighton,18.635,Brighton,ENG,Osasuna,15.922,Pamplona,ESP,898.0
+9,107,Brighton,18.635,Brighton,ENG,Barcelona,78.0,Barcelona,ESP,1065.0
+9,108,Brighton,18.635,Brighton,ENG,Braga,48.0,Braga,POR,1211.0
+9,109,Nice,17.0,Nice,FRA,Inter,90.0,Milan,ITA,247.0
+9,110,Nice,17.0,Nice,FRA,LASK,34.0,Linz,AUT,744.0
+9,111,Nice,17.0,Nice,FRA,Atalanta,58.0,Bergamo,ITA,292.0
+9,112,Nice,17.0,Nice,FRA,Genk,13.0,Genk,BEL,817.0
+9,113,Viktoria Plzeň,17.0,Plzeň,CZE,Arsenal,58.0,London,ENG,948.0
+9,114,Viktoria Plzeň,17.0,Plzeň,CZE,Slovan Bratislava,26.5,Bratislava,SVK,346.0
+9,115,Viktoria Plzeň,17.0,Plzeň,CZE,Twente,11.42,Enschede,NED,511.0
+9,116,Viktoria Plzeň,17.0,Plzeň,CZE,Eintracht Frankfurt,57.0,Frankfurt,GER,315.0
+9,117,Osasuna,15.922,Pamplona,ESP,Braga,48.0,Braga,POR,578.0
+9,118,Osasuna,15.922,Pamplona,ESP,Nice,17.0,Nice,FRA,728.0
+9,119,Osasuna,15.922,Pamplona,ESP,Monaco,24.0,Monaco,FRA,740.0
+9,120,Osasuna,15.922,Pamplona,ESP,Chelsea,96.0,London,ENG,974.0
+9,121,Genk,13.0,Genk,BEL,SC Freiburg,19.0,Freiburg,GER,370.0
+9,122,Genk,13.0,Genk,BEL,PSV,43.0,Eindhoven,NED,53.0
+9,123,Genk,13.0,Genk,BEL,Viktoria Plzeň,17.0,Plzeň,CZE,551.0
+9,124,Genk,13.0,Genk,BEL,RB Leipzig,87.0,Leipzig,GER,481.0
+9,125,Rijeka,12.0,Rijeka,CRO,Real Sociedad,42.0,San Sebastián,ESP,1323.0
+9,126,Rijeka,12.0,Rijeka,CRO,Maribor,9.5,Maribor,SVN,165.0
+9,127,Rijeka,12.0,Rijeka,CRO,Salzburg,49.0,Salzburg,AUT,296.0
+9,128,Rijeka,12.0,Rijeka,CRO,Bayern,126.0,Munich,GER,381.0
+9,129,Twente,11.42,Enschede,NED,West Ham,54.0,London,ENG,489.0
+9,130,Twente,11.42,Enschede,NED,Slavia Praha,42.0,Prague,CZE,577.0
+9,131,Twente,11.42,Enschede,NED,Luzern,6.155,Luzern,SUI,584.0
+9,132,Twente,11.42,Enschede,NED,Roma,86.0,Rome,ITA,1222.0
+9,133,Maribor,9.5,Maribor,SVN,Fiorentina,24.0,Florence,ITA,463.0
+9,134,Maribor,9.5,Maribor,SVN,Barcelona,78.0,Barcelona,ESP,1220.0
+9,135,Maribor,9.5,Maribor,SVN,Hearts,6.53,Edinburgh,SCO,1667.0
+9,136,Maribor,9.5,Maribor,SVN,AC Milan,49.0,Milan,ITA,513.0
+9,137,Hearts,6.53,Edinburgh,SCO,Tottenham Hotspur,54.0,London,ENG,534.0
+9,138,Hearts,6.53,Edinburgh,SCO,Brighton,18.635,Brighton,ENG,604.0
+9,139,Hearts,6.53,Edinburgh,SCO,Rijeka,12.0,Rijeka,CRO,1706.0
+9,140,Hearts,6.53,Edinburgh,SCO,Real Madrid,112.0,Madrid,ESP,1728.0
+9,141,Luzern,6.155,Luzern,SUI,Crvena zvezda,40.0,Belgrade,SRB,971.0
+9,142,Luzern,6.155,Luzern,SUI,Lyon,44.0,Lyon,FRA,302.0
+9,143,Luzern,6.155,Luzern,SUI,Osasuna,15.922,Pamplona,ESP,913.0
+9,144,Luzern,6.155,Luzern,SUI,Villarreal,68.0,Villarreal,ESP,1038.0
+10,1,Bayern,126.0,Munich,GER,Salzburg,49.0,Salzburg,AUT,115.0
+10,2,Bayern,126.0,Munich,GER,Barcelona,78.0,Barcelona,ESP,1055.0
+10,3,Bayern,126.0,Munich,GER,LASK,34.0,Linz,AUT,201.0
+10,4,Bayern,126.0,Munich,GER,Hearts,6.53,Edinburgh,SCO,1328.0
+10,5,Real Madrid,112.0,Madrid,ESP,Braga,48.0,Braga,POR,417.0
+10,6,Real Madrid,112.0,Madrid,ESP,Nice,17.0,Nice,FRA,976.0
+10,7,Real Madrid,112.0,Madrid,ESP,Brighton,18.635,Brighton,ENG,1189.0
+10,8,Real Madrid,112.0,Madrid,ESP,RB Leipzig,87.0,Leipzig,GER,1733.0
+10,9,Chelsea,96.0,London,ENG,Bayern,126.0,Munich,GER,919.0
+10,10,Chelsea,96.0,London,ENG,PSV,43.0,Eindhoven,NED,388.0
+10,11,Chelsea,96.0,London,ENG,Genk,13.0,Genk,BEL,398.0
+10,12,Chelsea,96.0,London,ENG,Slovan Bratislava,26.5,Bratislava,SVK,1288.0
+10,13,Inter,90.0,Milan,ITA,Arsenal,58.0,London,ENG,959.0
+10,14,Inter,90.0,Milan,ITA,Rijeka,12.0,Rijeka,CRO,410.0
+10,15,Inter,90.0,Milan,ITA,Monaco,24.0,Monaco,FRA,238.0
+10,16,Inter,90.0,Milan,ITA,Tottenham Hotspur,54.0,London,ENG,959.0
+10,17,RB Leipzig,87.0,Leipzig,GER,Viktoria Plzeň,17.0,Plzeň,CZE,183.0
+10,18,RB Leipzig,87.0,Leipzig,GER,Slavia Praha,42.0,Prague,CZE,202.0
+10,19,RB Leipzig,87.0,Leipzig,GER,Atalanta,58.0,Bergamo,ITA,658.0
+10,20,RB Leipzig,87.0,Leipzig,GER,Inter,90.0,Milan,ITA,695.0
+10,21,Roma,86.0,Rome,ITA,Maribor,9.5,Maribor,SVN,575.0
+10,22,Roma,86.0,Rome,ITA,Crvena zvezda,40.0,Belgrade,SRB,718.0
+10,23,Roma,86.0,Rome,ITA,Lyon,44.0,Lyon,FRA,749.0
+10,24,Roma,86.0,Rome,ITA,Villarreal,68.0,Villarreal,ESP,1079.0
+10,25,Barcelona,78.0,Barcelona,ESP,AC Milan,49.0,Milan,ITA,725.0
+10,26,Barcelona,78.0,Barcelona,ESP,Fiorentina,24.0,Florence,ITA,789.0
+10,27,Barcelona,78.0,Barcelona,ESP,Luzern,6.155,Luzern,SUI,797.0
+10,28,Barcelona,78.0,Barcelona,ESP,Roma,86.0,Rome,ITA,859.0
+10,29,Villarreal,68.0,Villarreal,ESP,Chelsea,96.0,London,ENG,1283.0
+10,30,Villarreal,68.0,Villarreal,ESP,SC Freiburg,19.0,Freiburg,GER,1095.0
+10,31,Villarreal,68.0,Villarreal,ESP,West Ham,54.0,London,ENG,1283.0
+10,32,Villarreal,68.0,Villarreal,ESP,Twente,11.42,Enschede,NED,1464.0
+10,33,Arsenal,58.0,London,ENG,Eintracht Frankfurt,57.0,Frankfurt,GER,638.0
+10,34,Arsenal,58.0,London,ENG,Osasuna,15.922,Pamplona,ESP,974.0
+10,35,Arsenal,58.0,London,ENG,Real Sociedad,42.0,San Sebastián,ESP,921.0
+10,36,Arsenal,58.0,London,ENG,Real Madrid,112.0,Madrid,ESP,1263.0
+10,37,Atalanta,58.0,Bergamo,ITA,Luzern,6.155,Luzern,SUI,182.0
+10,38,Atalanta,58.0,Bergamo,ITA,Real Madrid,112.0,Madrid,ESP,1233.0
+10,39,Atalanta,58.0,Bergamo,ITA,Monaco,24.0,Monaco,FRA,282.0
+10,40,Atalanta,58.0,Bergamo,ITA,Salzburg,49.0,Salzburg,AUT,348.0
+10,41,Eintracht Frankfurt,57.0,Frankfurt,GER,Rijeka,12.0,Rijeka,CRO,684.0
+10,42,Eintracht Frankfurt,57.0,Frankfurt,GER,PSV,43.0,Eindhoven,NED,270.0
+10,43,Eintracht Frankfurt,57.0,Frankfurt,GER,Slavia Praha,42.0,Prague,CZE,411.0
+10,44,Eintracht Frankfurt,57.0,Frankfurt,GER,Roma,86.0,Rome,ITA,959.0
+10,45,West Ham,54.0,London,ENG,RB Leipzig,87.0,Leipzig,GER,867.0
+10,46,West Ham,54.0,London,ENG,Crvena zvezda,40.0,Belgrade,SRB,1692.0
+10,47,West Ham,54.0,London,ENG,Genk,13.0,Genk,BEL,398.0
+10,48,West Ham,54.0,London,ENG,Eintracht Frankfurt,57.0,Frankfurt,GER,638.0
+10,49,Tottenham Hotspur,54.0,London,ENG,Twente,11.42,Enschede,NED,489.0
+10,50,Tottenham Hotspur,54.0,London,ENG,SC Freiburg,19.0,Freiburg,GER,693.0
+10,51,Tottenham Hotspur,54.0,London,ENG,Barcelona,78.0,Barcelona,ESP,1139.0
+10,52,Tottenham Hotspur,54.0,London,ENG,Lyon,44.0,Lyon,FRA,735.0
+10,53,AC Milan,49.0,Milan,ITA,Nice,17.0,Nice,FRA,247.0
+10,54,AC Milan,49.0,Milan,ITA,Braga,48.0,Braga,POR,1484.0
+10,55,AC Milan,49.0,Milan,ITA,Arsenal,58.0,London,ENG,959.0
+10,56,AC Milan,49.0,Milan,ITA,LASK,34.0,Linz,AUT,499.0
+10,57,Salzburg,49.0,Salzburg,AUT,Viktoria Plzeň,17.0,Plzeň,CZE,215.0
+10,58,Salzburg,49.0,Salzburg,AUT,Slovan Bratislava,26.5,Bratislava,SVK,305.0
+10,59,Salzburg,49.0,Salzburg,AUT,Villarreal,68.0,Villarreal,ESP,1364.0
+10,60,Salzburg,49.0,Salzburg,AUT,Tottenham Hotspur,54.0,London,ENG,1032.0
+10,61,Braga,48.0,Braga,POR,Real Sociedad,42.0,San Sebastián,ESP,566.0
+10,62,Braga,48.0,Braga,POR,Osasuna,15.922,Pamplona,ESP,578.0
+10,63,Braga,48.0,Braga,POR,Chelsea,96.0,London,ENG,1276.0
+10,64,Braga,48.0,Braga,POR,West Ham,54.0,London,ENG,1276.0
+10,65,Lyon,44.0,Lyon,FRA,Hearts,6.53,Edinburgh,SCO,1263.0
+10,66,Lyon,44.0,Lyon,FRA,Inter,90.0,Milan,ITA,340.0
+10,67,Lyon,44.0,Lyon,FRA,AC Milan,49.0,Milan,ITA,340.0
+10,68,Lyon,44.0,Lyon,FRA,Fiorentina,24.0,Florence,ITA,553.0
+10,69,PSV,43.0,Eindhoven,NED,Bayern,126.0,Munich,GER,572.0
+10,70,PSV,43.0,Eindhoven,NED,Brighton,18.635,Brighton,ENG,400.0
+10,71,PSV,43.0,Eindhoven,NED,Atalanta,58.0,Bergamo,ITA,709.0
+10,72,PSV,43.0,Eindhoven,NED,Maribor,9.5,Maribor,SVN,919.0
+10,73,Real Sociedad,42.0,San Sebastián,ESP,Lyon,44.0,Lyon,FRA,604.0
+10,74,Real Sociedad,42.0,San Sebastián,ESP,Nice,17.0,Nice,FRA,746.0
+10,75,Real Sociedad,42.0,San Sebastián,ESP,Monaco,24.0,Monaco,FRA,758.0
+10,76,Real Sociedad,42.0,San Sebastián,ESP,Chelsea,96.0,London,ENG,921.0
+10,77,Slavia Praha,42.0,Prague,CZE,Arsenal,58.0,London,ENG,1034.0
+10,78,Slavia Praha,42.0,Prague,CZE,Braga,48.0,Braga,POR,2000.0
+10,79,Slavia Praha,42.0,Prague,CZE,Slovan Bratislava,26.5,Bratislava,SVK,289.0
+10,80,Slavia Praha,42.0,Prague,CZE,Maribor,9.5,Maribor,SVN,402.0
+10,81,Crvena zvezda,40.0,Belgrade,SRB,Rijeka,12.0,Rijeka,CRO,476.0
+10,82,Crvena zvezda,40.0,Belgrade,SRB,Brighton,18.635,Brighton,ENG,1673.0
+10,83,Crvena zvezda,40.0,Belgrade,SRB,Barcelona,78.0,Barcelona,ESP,1528.0
+10,84,Crvena zvezda,40.0,Belgrade,SRB,PSV,43.0,Eindhoven,NED,1332.0
+10,85,LASK,34.0,Linz,AUT,Viktoria Plzeň,17.0,Plzeň,CZE,184.0
+10,86,LASK,34.0,Linz,AUT,Eintracht Frankfurt,57.0,Frankfurt,GER,453.0
+10,87,LASK,34.0,Linz,AUT,Roma,86.0,Rome,ITA,726.0
+10,88,LASK,34.0,Linz,AUT,Slavia Praha,42.0,Prague,CZE,197.0
+10,89,Slovan Bratislava,26.5,Bratislava,SVK,Hearts,6.53,Edinburgh,SCO,1628.0
+10,90,Slovan Bratislava,26.5,Bratislava,SVK,LASK,34.0,Linz,AUT,210.0
+10,91,Slovan Bratislava,26.5,Bratislava,SVK,Bayern,126.0,Munich,GER,410.0
+10,92,Slovan Bratislava,26.5,Bratislava,SVK,Atalanta,58.0,Bergamo,ITA,626.0
+10,93,Fiorentina,24.0,Florence,ITA,Luzern,6.155,Luzern,SUI,431.0
+10,94,Fiorentina,24.0,Florence,ITA,RB Leipzig,87.0,Leipzig,GER,846.0
+10,95,Fiorentina,24.0,Florence,ITA,West Ham,54.0,London,ENG,1209.0
+10,96,Fiorentina,24.0,Florence,ITA,Real Sociedad,42.0,San Sebastián,ESP,1067.0
+10,97,Monaco,24.0,Monaco,FRA,Tottenham Hotspur,54.0,London,ENG,1031.0
+10,98,Monaco,24.0,Monaco,FRA,Genk,13.0,Genk,BEL,816.0
+10,99,Monaco,24.0,Monaco,FRA,Fiorentina,24.0,Florence,ITA,309.0
+10,100,Monaco,24.0,Monaco,FRA,Villarreal,68.0,Villarreal,ESP,750.0
+10,101,SC Freiburg,19.0,Freiburg,GER,AC Milan,49.0,Milan,ITA,300.0
+10,102,SC Freiburg,19.0,Freiburg,GER,Twente,11.42,Enschede,NED,475.0
+10,103,SC Freiburg,19.0,Freiburg,GER,Real Madrid,112.0,Madrid,ESP,1246.0
+10,104,SC Freiburg,19.0,Freiburg,GER,Crvena zvezda,40.0,Belgrade,SRB,1029.0
+10,105,Brighton,18.635,Brighton,ENG,Inter,90.0,Milan,ITA,914.0
+10,106,Brighton,18.635,Brighton,ENG,SC Freiburg,19.0,Freiburg,GER,659.0
+10,107,Brighton,18.635,Brighton,ENG,Salzburg,49.0,Salzburg,AUT,1013.0
+10,108,Brighton,18.635,Brighton,ENG,Osasuna,15.922,Pamplona,ESP,898.0
+10,109,Nice,17.0,Nice,FRA,Chelsea,96.0,London,ENG,1028.0
+10,110,Nice,17.0,Nice,FRA,Atalanta,58.0,Bergamo,ITA,292.0
+10,111,Nice,17.0,Nice,FRA,Luzern,6.155,Luzern,SUI,380.0
+10,112,Nice,17.0,Nice,FRA,Fiorentina,24.0,Florence,ITA,321.0
+10,113,Viktoria Plzeň,17.0,Plzeň,CZE,West Ham,54.0,London,ENG,948.0
+10,114,Viktoria Plzeň,17.0,Plzeň,CZE,Twente,11.42,Enschede,NED,511.0
+10,115,Viktoria Plzeň,17.0,Plzeň,CZE,Bayern,126.0,Munich,GER,209.0
+10,116,Viktoria Plzeň,17.0,Plzeň,CZE,Real Sociedad,42.0,San Sebastián,ESP,1350.0
+10,117,Osasuna,15.922,Pamplona,ESP,Lyon,44.0,Lyon,FRA,611.0
+10,118,Osasuna,15.922,Pamplona,ESP,SC Freiburg,19.0,Freiburg,GER,938.0
+10,119,Osasuna,15.922,Pamplona,ESP,Hearts,6.53,Edinburgh,SCO,1465.0
+10,120,Osasuna,15.922,Pamplona,ESP,Inter,90.0,Milan,ITA,913.0
+10,121,Genk,13.0,Genk,BEL,Osasuna,15.922,Pamplona,ESP,1056.0
+10,122,Genk,13.0,Genk,BEL,AC Milan,49.0,Milan,ITA,669.0
+10,123,Genk,13.0,Genk,BEL,Brighton,18.635,Brighton,ENG,399.0
+10,124,Genk,13.0,Genk,BEL,RB Leipzig,87.0,Leipzig,GER,481.0
+10,125,Rijeka,12.0,Rijeka,CRO,Viktoria Plzeň,17.0,Plzeň,CZE,503.0
+10,126,Rijeka,12.0,Rijeka,CRO,Salzburg,49.0,Salzburg,AUT,296.0
+10,127,Rijeka,12.0,Rijeka,CRO,Roma,86.0,Rome,ITA,412.0
+10,128,Rijeka,12.0,Rijeka,CRO,LASK,34.0,Linz,AUT,332.0
+10,129,Twente,11.42,Enschede,NED,Genk,13.0,Genk,BEL,169.0
+10,130,Twente,11.42,Enschede,NED,Real Madrid,112.0,Madrid,ESP,1541.0
+10,131,Twente,11.42,Enschede,NED,Eintracht Frankfurt,57.0,Frankfurt,GER,266.0
+10,132,Twente,11.42,Enschede,NED,Crvena zvezda,40.0,Belgrade,SRB,1293.0
+10,133,Maribor,9.5,Maribor,SVN,Nice,17.0,Nice,FRA,729.0
+10,134,Maribor,9.5,Maribor,SVN,Tottenham Hotspur,54.0,London,ENG,1272.0
+10,135,Maribor,9.5,Maribor,SVN,Slovan Bratislava,26.5,Bratislava,SVK,209.0
+10,136,Maribor,9.5,Maribor,SVN,Barcelona,78.0,Barcelona,ESP,1220.0
+10,137,Hearts,6.53,Edinburgh,SCO,Arsenal,58.0,London,ENG,534.0
+10,138,Hearts,6.53,Edinburgh,SCO,Maribor,9.5,Maribor,SVN,1667.0
+10,139,Hearts,6.53,Edinburgh,SCO,PSV,43.0,Eindhoven,NED,758.0
+10,140,Hearts,6.53,Edinburgh,SCO,Slavia Praha,42.0,Prague,CZE,1343.0
+10,141,Luzern,6.155,Luzern,SUI,Braga,48.0,Braga,POR,1463.0
+10,142,Luzern,6.155,Luzern,SUI,Monaco,24.0,Monaco,FRA,375.0
+10,143,Luzern,6.155,Luzern,SUI,Rijeka,12.0,Rijeka,CRO,509.0
+10,144,Luzern,6.155,Luzern,SUI,Villarreal,68.0,Villarreal,ESP,1038.0

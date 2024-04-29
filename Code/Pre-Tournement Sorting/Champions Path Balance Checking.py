@@ -55,6 +55,7 @@ associations = load_coefficients(coefficients_path)
 
 # make sure that the play-off round has the right amount of teams, and corrects if not
 play_off_teams = read_teams_from_csv(play_off_path)
+print(len(play_off_teams))
 if len(play_off_teams) < 4:
     move_team_by_rank(round_2_path, play_off_path, associations, 4 - len(play_off_teams))
 

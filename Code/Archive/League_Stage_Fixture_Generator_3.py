@@ -20,7 +20,8 @@ pots = df['pot'].tolist()
 associations = df['association'].tolist()
 coefficients = df['uefa_coefficient'].tolist()
 cities = df['city'].tolist()
-existing_fixtures = read_existing_fixtures('../../Fixtures, Tables and Results/League Stage/existing_league_stage_fixtures.csv')
+existing_fixtures = read_existing_fixtures(
+    '../../Fixtures, Tables and Results/League Stage/existing_league_stage_fixtures.csv')
 team_additional_info = {team: {'coefficient': coeff, 'city': city, 'association': assoc}
                         for team, coeff, city, assoc in zip(teams, coefficients, cities, associations)}
 
@@ -83,7 +84,8 @@ def build_model(allow_intra_association, existing_fixtures):
     return model, match_vars
 
 # Read existing fixtures
-existing_fixtures = read_existing_fixtures('../../Fixtures, Tables and Results/League Stage/existing_league_stage_fixtures.csv')
+existing_fixtures = read_existing_fixtures(
+    '../../Fixtures, Tables and Results/League Stage/existing_league_stage_fixtures.csv')
 
 # Initialize values
 overall_fixtures = len(existing_fixtures)
@@ -118,7 +120,8 @@ while overall_fixtures < 143:
             status = solver.Solve(model)
 
             # Check status and update fixtures
-            if len(existing_fixtures) + len(read_existing_fixtures('../../Fixtures, Tables and Results/League Stage/existing_league_stage_fixtures.csv')) == 146:
+            if len(existing_fixtures) + len(read_existing_fixtures(
+                    '../../Fixtures, Tables and Results/League Stage/existing_league_stage_fixtures.csv')) == 146:
                 fixture_count += 1
                 fixture_validated = True
             else:
@@ -130,6 +133,7 @@ while overall_fixtures < 143:
                     f.writelines(lines[:-1])  # Remove last line
 
         team_count += 1
-        overall_fixtures = len(existing_fixtures) + len(read_existing_fixtures('../../Fixtures, Tables and Results/League Stage/existing_league_stage_fixtures.csv'))
+        overall_fixtures = len(existing_fixtures) + len(read_existing_fixtures(
+            '../../Fixtures, Tables and Results/League Stage/existing_league_stage_fixtures.csv'))
 
 print("Fixtures generated successfully.")

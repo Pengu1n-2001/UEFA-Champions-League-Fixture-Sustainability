@@ -2,6 +2,7 @@ import pandas as pd
 import csv
 import random
 from ortools.sat.python import cp_model
+from alive_progress import alive_bar; import time
 
 def clear_csv_except_header(file_path):
     # Read header
@@ -38,6 +39,11 @@ cities = df['city'].tolist()
 
 team_additional_info = {team: {'coefficient': coeff, 'city': city, 'association': assoc}
                         for team, coeff, city, assoc in zip(teams, coefficients, cities, associations)}
+
+df_distance_matrix = pd.read_csv('../../Teams/UEFA Coefficients/distance_matrix.csv')
+cities = df_distance_matrix.columns[1:].tolist()  # Assuming the first column is a city name and others are distances
+coordinates = {row[0].lower(): row[1:] for row in df_distance_matrix.values}
+
 
 num_teams = len(teams)
 
@@ -128,16 +134,47 @@ def run_model():
     #else:
         #print("No solution found.")
 
+def select_opponent(selected, excluded):
+    selected_city = team_additional_info[selected]['city'].lower()
+
+    # Filter teams that are not excluded and have a recorded distance
+    available_teams = [team for team in teams if team not in excluded and team_additional_info[team]['city'].lower() in coordinates]
+
+    if not available_teams:
+        return None  # No available teams left
+
+    # Calculate distances to each available team
+    min_distance = float('inf')
+    closest_teams = []
+
+    for team in available_teams:
+        team_city = team_additional_info[team]['city'].lower()
+        if selected_city in coordinates and team_city in cities:
+            away_idx = cities.index(team_city)
+            distance = float(coordinates[selected_city][away_idx])
+            # Track the minimum distance and corresponding teams
+            if distance < min_distance:
+                min_distance = distance
+                closest_teams = [team]
+            elif distance == min_distance:
+                closest_teams.append(team)
+
+    # Randomly select one of the closest teams if there are ties
+    if closest_teams:
+        return random.choice(closest_teams)
+    else:
+        return None  # If no closest teams could be found or city mismatch
 
 def team_selector(selected, excluded):
-    opponent_team = random.choice(teams)
-    while opponent_team in excluded:
-        opponent_team = random.choice(teams)
+    # Call the new function to determine the opponent team
+    opponent_team = select_opponent(selected, excluded)
     excluded.append(opponent_team)
-    #print(opponent_team)
+
     home_team = selected
     away_team = opponent_team
-    match_number = len(read_existing_fixtures('../../Fixtures, Tables and Results/League Stage/existing_league_stage_fixtures.csv'))+ 1
+    match_number = len(read_existing_fixtures(
+        '../../Fixtures, Tables and Results/League Stage/existing_league_stage_fixtures.csv')) + 1
+
     # Write fixture to existing fixtures
     with open('../../Fixtures, Tables and Results/League Stage/existing_league_stage_fixtures.csv', 'a', newline='',
               encoding='UTF-8') as f:
@@ -145,9 +182,10 @@ def team_selector(selected, excluded):
         writer.writerow([
             match_number,
             home_team, team_additional_info[home_team]['coefficient'], team_additional_info[home_team]['city'],
-             team_additional_info[home_team]['association'],
-             away_team, team_additional_info[away_team]['coefficient'], team_additional_info[away_team]['city'],
-             team_additional_info[away_team]['association']])
+            team_additional_info[home_team]['association'],
+            away_team, team_additional_info[away_team]['coefficient'], team_additional_info[away_team]['city'],
+            team_additional_info[away_team]['association']
+        ])
 
     return excluded
 
@@ -163,7 +201,6 @@ team_count = 0
 while overall_fixtures < 143:
     current_team = teams[team_count]  # First team in the list
     fixture_count = 1
-
     while fixture_count <= 4:
         excluded = [current_team]
         fixture_validated = False
@@ -192,10 +229,9 @@ while overall_fixtures < 143:
                     f.writelines(lines[:-1])  # Remove last line
                     #print("Unvalidated")
         overall_fixtures = len(read_existing_fixtures('../../Fixtures, Tables and Results/League Stage/existing_league_stage_fixtures.csv'))
-        print(overall_fixtures)
     team_count += 1
 
-print("Fixtures generated successfully.")
+
 with open('../../Fixtures, Tables and Results/League Stage/league_stage_fixtures.csv', 'r+', newline='',
           encoding='UTF-8') as f:
     lines = f.readlines()
